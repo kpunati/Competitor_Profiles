@@ -1,0 +1,59 @@
+{
+  "competitor": "XYPN",
+  "website": "https://www.xyplanningnetwork.com",
+  "last_updated": "2026-05-12",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": "https://linkedin.com/company/xypn",
+      "twitter": "https://twitter.com/xypnofficial",
+      "facebook": "https://facebook.com/xyplanningnetwork",
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [],
+    "footer_phones": [
+      "18888445341",
+      "17785290513",
+      "848.1778529",
+      "987.1778529",
+      "17785290279",
+      "9647142795"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "FIDUCIARY FINANCIAL PLANNING NETWORK",
+      "crd_number": "313361",
+      "sec_number": "801-135118",
+      "headquarters": "1131 MAIN STREET, ONALASKA, WI, 54650, United States",
+      "branch_count": 2,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "EAGLE FINANCIAL PLANNING",
+        "XY FINANCIAL PLANNING",
+        "RETIREMENTORSHIP",
+        "LA CROSSE FINANCIAL PLANNING INC.",
+        "LA CROSSE FINANCIAL PLANNING"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/313361/PDF/313361.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/313361"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=XYPN"
+  }
+}

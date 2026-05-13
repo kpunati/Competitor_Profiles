@@ -1,0 +1,89 @@
+{
+  "competitor": "Advize Wealth Management",
+  "slug": "Advize_Wealth",
+  "summary_line": "Solo CFP Colin Overweg's fee-only, advice-only Rochester MI practice — the closest single-person version of our own 'independent + modern tech' positioning thesis.",
+  "website": "https://www.advizewealth.com/",
+  "competitor_type": "wealth_mgmt_solo",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-12",
+  "next_review_by": "2026-11-07",
+  "review_cadence_days": 180,
+  "team_size": "small",
+  "advisor_count": 2,
+  "employee_count": 2,
+  "branch_count": 1,
+  "geographic_scope": "local",
+  "headquarters_city": "Rochester",
+  "headquarters_state": "MI",
+  "aum_usd": 68717460,
+  "aum_as_of": "2026-02-19",
+  "pricing_model": "gated_via_funnel",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+  "wealth_tiers_served": [
+    "mass_affluent"
+  ],
+  "segment_early_adults": "weak",
+  "segment_mid_career_401k": "ok",
+  "regulatory_jurisdiction": "US",
+  "regulator": "state (Michigan)",
+  "regulatory_note": "State-registered RIA in Michigan; SEC# is null because Advize is below the $100M federal SEC threshold (AUM $68.7M). ADV Part 1A is still filed and was pulled.",
+  "sec_registered": true,
+  "crd_number": "297380",
+  "sec_number": null,
+  "ownership_structure": "solo_owner",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+  "media_presence": "moderate",
+  "design_tone": "modern",
+  "positioning_claims": [
+    "fee_only",
+    "advice_only_no_products",
+    "independent",
+    "modern_tech_asserted",
+    "niche_specialist"
+  ],
+  "vulnerabilities": [
+    "single_practitioner_capacity",
+    "modern_tech_asserted_not_shown",
+    "wix_template_site",
+    "no_early_adult_surface",
+    "no_401k_specific_funnel",
+    "no_testimonials",
+    "voice_fragility_typos"
+  ],
+  "tags": [
+    "founder_led",
+    "solo_advisor",
+    "consumer_facing",
+    "wix_or_template_site",
+    "clean_regulatory_record",
+    "cfp_credentialed",
+    "local",
+    "bootstrapped",
+    "napfa_member"
+  ],
+  "related_competitors": [
+    "Xy_Planning_Network"
+  ],
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-02-19",
+        "event": "ADV snapshot — 2 employees; 2 advisors performing advisory functions; $68,717,460 regulatory AUM; 299 client accounts",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      }
+    ]
+  }
+}

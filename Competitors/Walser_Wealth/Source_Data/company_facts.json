@@ -1,0 +1,51 @@
+{
+  "competitor": "Walser Wealth Management",
+  "website": "https://walserwealth.com/",
+  "last_updated": "2026-05-12",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "info@walserwealth.com"
+    ],
+    "footer_phones": [
+      "866-929-3258",
+      "8669293258"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "WALSER WEALTH MANAGEMENT COMPANY, A LIMITED LIABILITY COMPANY",
+      "crd_number": "206518",
+      "sec_number": "801-127246",
+      "headquarters": "111 W. OAK AVENUE, STE 450, TAMPA, FL, 33602, United States",
+      "branch_count": 1,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/206518/PDF/206518.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/206518"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Walser%20Wealth%20Management"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "competitor": "Kitces.com (Nerd's Eye View)",
+  "slug": "Kitces",
+  "summary_line": "The industry's most influential B2B research, education, and CE-credit publication for financial advisors — built around Michael Kitces. Not a retail wealth-management firm; addresses advisors only.",
+  "website": "https://www.kitces.com",
+  "competitor_type": "education_platform",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-11",
+  "next_review_by": "2026-11-07",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": null,
+  "employee_count": null,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": null,
+  "headquarters_state": null,
+
+  "aum_usd": null,
+  "aum_as_of": null,
+
+  "pricing_model": "subscription",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": [],
+
+  "segment_early_adults": null,
+  "segment_mid_career_401k": null,
+
+  "regulatory_jurisdiction": "none",
+  "regulator": "none",
+  "regulatory_note": "Content/education/CE-credit platform, not a registered investment adviser. Michael Kitces personally is affiliated with separately-registered firms (industry context: Buckingham/Focus partner) but kitces.com itself does not provide regulated advisory services to retail clients.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "private_content_business",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "personality_led",
+  "design_tone": "editorial",
+
+  "positioning_claims": [
+    "editorial_independence",
+    "personality_led",
+    "b2b_advisor_focused",
+    "named_byline_content",
+    "category_shaping"
+  ],
+  "vulnerabilities": [
+    "no_consumer_facing_depth",
+    "dated_visual_identity",
+    "industry_jargon_alienates_retail",
+    "opaque_subscription_pricing"
+  ],
+  "tags": [
+    "private_content_business",
+    "b2b_facing",
+    "content_engine",
+    "media_personality_led",
+    "subscription_fee",
+    "not_sec_registered",
+    "national_aggregator"
+  ],
+  "related_competitors": ["Xy_Planning_Network"],
+
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-05",
+        "event": "Newsletter audience at 78,507 advisor subscribers; FA Success podcast at 488 episodes; ~578 pages of blog archive",
+        "source": "site stats captured 2026-05-11"
+      }
+    ]
+  }
+}

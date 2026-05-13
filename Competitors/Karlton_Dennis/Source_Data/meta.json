@@ -1,0 +1,19 @@
+{
+  "slug": "Karlton_Dennis",
+  "source_url": "https://karltondennis.com/",
+  "competitor_name": "Checking your browser...",
+  "extracted_at": "2026-05-12T22:13:17.499Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://karltondennis.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Karlton_Dennis/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://karltondennis.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Karlton_Dennis/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

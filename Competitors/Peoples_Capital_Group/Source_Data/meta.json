@@ -1,0 +1,29 @@
+{
+  "slug": "Peoples_Capital_Group",
+  "source_url": "https://www.peoplescapitalgroup.com/",
+  "competitor_name": "Peoples Capital Group",
+  "extracted_at": "2026-05-13T19:49:25.152Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.peoplescapitalgroup.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Peoples_Capital_Group/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.peoplescapitalgroup.com/about/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Peoples_Capital_Group/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.peoplescapitalgroup.com/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Peoples_Capital_Group/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.peoplescapitalgroup.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Peoples_Capital_Group/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

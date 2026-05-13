@@ -1,0 +1,40 @@
+{
+  "competitor": "Competitor Name",
+  "extracted_at": "YYYY-MM-DD",
+  "source_url": "https://example.com",
+  "colors": {
+    "primary": null,
+    "secondary": null,
+    "accent": null,
+    "background": null,
+    "surface": null,
+    "text_primary": null,
+    "text_secondary": null,
+    "palette_raw": []
+  },
+  "typography": {
+    "heading_family": null,
+    "heading_weight": null,
+    "body_family": null,
+    "body_weight": null,
+    "body_size_px": null
+  },
+  "spacing": {
+    "base_unit_px": null,
+    "section_padding_y_px": null
+  },
+  "layout": {
+    "max_width_px": null,
+    "density": null
+  },
+  "primary_button": {
+    "background": null,
+    "text_color": null,
+    "border_radius_px": null
+  },
+  "imagery": {
+    "style": null,
+    "people_present": null,
+    "tone": null
+  }
+}

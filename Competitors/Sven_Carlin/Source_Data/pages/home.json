@@ -1,0 +1,24 @@
+{
+  "kind": "home",
+  "url": "https://svencarlin.com/",
+  "title": "Checking your browser...",
+  "meta": {
+    "description": null,
+    "og_title": null,
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Checking your browser"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "wp.com",
+      "tag": "A",
+      "href": "https://wordpress.com"
+    }
+  ],
+  "body_text": "Checking your browser\nThis will only take a few seconds...\nSecured by  wp.com"
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "Ritholtz_Wealth",
+  "source_url": "https://www.ritholtzwealth.com",
+  "competitor_name": "Ritholtz",
+  "extracted_at": "2026-05-11T18:25:59.071Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.ritholtzwealth.com",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Ritholtz_Wealth/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://www.ritholtzwealth.com/services/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Ritholtz_Wealth/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.ritholtzwealth.com/about/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Ritholtz_Wealth/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.ritholtzwealth.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Ritholtz_Wealth/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "Walser_Wealth",
+  "source_url": "https://walserwealth.com/",
+  "competitor_name": "Walser Wealth Management",
+  "extracted_at": "2026-05-12T01:19:57.464Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://walserwealth.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Walser_Wealth/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://walserwealth.com/process/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Walser_Wealth/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://walserwealth.com/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Walser_Wealth/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://walserwealth.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Walser_Wealth/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

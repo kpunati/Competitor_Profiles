@@ -1,0 +1,40 @@
+{
+  "competitor": "Online CPA Tax Services | My CPA Coach",
+  "website": "https://mycpacoach.com/",
+  "last_updated": "2026-05-13",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "contact@mycpacoach.com"
+    ],
+    "footer_phones": [],
+    "sec_iapd": {
+      "matched": false,
+      "queried_as": "My CPA Coach",
+      "note": "No confident IAPD match. Either this competitor isn't a US-registered RIA, or the firm name needs disambiguation — retry with --crd <number>."
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Online%20CPA%20Tax%20Services"
+  }
+}

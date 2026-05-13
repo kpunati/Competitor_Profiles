@@ -1,0 +1,293 @@
+{
+  "kind": "blog",
+  "url": "https://mycpacoach.com/blog/",
+  "title": "Blog - Online CPA Tax Services | My CPA Coach",
+  "meta": {
+    "description": "Tax Planning Center Small business tax tips General tax guidance published by licensed tax professionals. Most Popular: Save Thousands in Taxes Get the latest tips and strategies delivered to your inbox. \"(Required)\" indicates required fields Email Address(Required) NEW TAX STRATEGIES THE LATEST",
+    "og_title": "Blog - Online CPA Tax Services | My CPA Coach",
+    "og_description": "Tax Planning Center Small business tax tips General tax guidance published by licensed tax professionals. Most Popular: Save Thousands in Taxes Get the latest tips and strategies delivered to your inbox. \"(Required)\" indicates required fields Email Address(Required) NEW TAX STRATEGIES THE LATEST"
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Small business tax tips"
+    },
+    {
+      "level": "H3",
+      "text": "34 Big Tax Deductions (Write-Offs) for Businesses in 2026"
+    },
+    {
+      "level": "H3",
+      "text": "Most Popular:"
+    },
+    {
+      "level": "H3",
+      "text": "How To Pay No Taxes on Rental Income"
+    },
+    {
+      "level": "H3",
+      "text": "Top 5 Small Business Tax Loopholes to Avoid Paying High Taxes"
+    },
+    {
+      "level": "H3",
+      "text": "What Is Tax Planning? A Beginner’s Guide To Reduce Taxes"
+    },
+    {
+      "level": "H3",
+      "text": "Top 3 Ways To Reduce Self-Employment Tax"
+    },
+    {
+      "level": "H3",
+      "text": "S Corp vs LLC: How To Choose The Best Structure To Minimize Taxes"
+    },
+    {
+      "level": "H1",
+      "text": "NEW TAX STRATEGIES"
+    },
+    {
+      "level": "H3",
+      "text": "How to Hire a CPA That Actually Saves You Money"
+    },
+    {
+      "level": "H3",
+      "text": "13 Tax-Free Investment Strategies for Tax-Free Wealth"
+    },
+    {
+      "level": "H3",
+      "text": "C Corporation vs. S Corporation: Key Differences and Benefits"
+    },
+    {
+      "level": "H3",
+      "text": "How to Pay Less Taxes In 2026 – A Complete Guide"
+    },
+    {
+      "level": "H3",
+      "text": "How To Avoid Paying Taxes as an Independent Contractor"
+    },
+    {
+      "level": "H3",
+      "text": "LLC vs. C Corp vs. S Corp – Which is The Best Business Structure"
+    },
+    {
+      "level": "H3",
+      "text": "Big Tax Saving Strategies for High Income Earners"
+    },
+    {
+      "level": "H3",
+      "text": "The Complete Guide to Small Business Vehicle Write-Offs"
+    },
+    {
+      "level": "H3",
+      "text": "22 Top Tax Deductions for New Business Owners"
+    },
+    {
+      "level": "H3",
+      "text": "20 Smart Tax Reduction Strategies to Protect Your Income"
+    },
+    {
+      "level": "H3",
+      "text": "How to Avoid Capital Gains Taxes Like the Wealthy"
+    },
+    {
+      "level": "H3",
+      "text": "How To Avoid Paying Taxes (Legally)"
+    },
+    {
+      "level": "H3",
+      "text": "How to Pay Yourself as an S Corp"
+    },
+    {
+      "level": "H3",
+      "text": "SEP IRA Vs Solo 401(k): Which One is Right for You?"
+    },
+    {
+      "level": "H3",
+      "text": "21 Tax Breaks for Small Businesses to Know"
+    },
+    {
+      "level": "H3",
+      "text": "9 Tax Tips for Small Businesses to Pay Less Taxes"
+    },
+    {
+      "level": "H3",
+      "text": "Home-Based Business Tax Deductions Guide"
+    },
+    {
+      "level": "H3",
+      "text": "30 Creative Tax Deductions for Small Business Owners"
+    },
+    {
+      "level": "H3",
+      "text": "How the Rich Use Charities to Avoid Taxes"
+    },
+    {
+      "level": "H3",
+      "text": "34 Big Tax Deductions (Write-Offs) for Businesses in 2026"
+    },
+    {
+      "level": "H2",
+      "text": "Services"
+    },
+    {
+      "level": "H2",
+      "text": "Pricing"
+    },
+    {
+      "level": "H2",
+      "text": "Contact Us"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "href": "#content"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://mycpacoach.com/"
+    },
+    {
+      "text": "Services",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Planning Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-planning-services/"
+    },
+    {
+      "text": "Tax Preparation Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cpa-tax-preparation/"
+    },
+    {
+      "text": "Bookkeeping Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/bookkeeping-services/"
+    },
+    {
+      "text": "Pricing",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Planning Fees",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-planning-fees/"
+    },
+    {
+      "text": "Tax Preparation Fees",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cost-tax-preparation-cpa/"
+    },
+    {
+      "text": "Reviews",
+      "tag": "A",
+      "href": "https://mycpacoach.com/my-cpa-coach-reviews/"
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cpa-team/"
+    },
+    {
+      "text": "Course",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Savers Course",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-saver/"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://learn.mycpacoach.com/login"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://mycpacoach.com/blog/"
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "href": "https://mycpacoach.com/contact/"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://mycpacoach.com/"
+    },
+    {
+      "text": "Services",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Planning Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-planning-services/"
+    },
+    {
+      "text": "Tax Preparation Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cpa-tax-preparation/"
+    },
+    {
+      "text": "Bookkeeping Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/bookkeeping-services/"
+    },
+    {
+      "text": "Pricing",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Planning Fees",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-planning-fees/"
+    },
+    {
+      "text": "Tax Preparation Fees",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cost-tax-preparation-cpa/"
+    },
+    {
+      "text": "Reviews",
+      "tag": "A",
+      "href": "https://mycpacoach.com/my-cpa-coach-reviews/"
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cpa-team/"
+    },
+    {
+      "text": "Course",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Savers Course",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-saver/"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://learn.mycpacoach.com/login"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://mycpacoach.com/blog/"
+    }
+  ],
+  "body_text": "Skip to content\ncontact@mycpacoach.com\nHome\nServices\nPricing\nReviews\nAbout\nCourse\nBlog\nContact\nTax Planning Center\nSmall business tax tips\nGeneral tax guidance published by licensed tax professionals.\n34 Big Tax Deductions (Write-Offs) for Businesses in 2026\nAs a business owner, the easiest way to reduce your taxes is through small business tax deductions. Yet, 90% of\nREAD MORE »\nJanuary 9, 2025\nMost Popular:\nHow To Pay No Taxes on Rental Income\nSherman Standberry, CPA\nTop 5 Small Business Tax Loopholes to Avoid Paying High Taxes\nSherman Standberry, CPA\nWhat Is Tax Planning? A Beginner’s Guide To Reduce Taxes\nSherman Standberry, CPA\nTop 3 Ways To Reduce Self-Employment Tax\nSherman Standberry, CPA\nS Corp vs LLC: How To Choose The Best Structure To Minimize Taxes\nSherman Standberry, CPA\nSave Thousands in Taxes\nGet the latest tips and strategies delivered to your inbox.\nNEW TAX STRATEGIES\nTHE LATEST\nHow to Hire a CPA That Actually Saves You Money\nJune 23, 2025\nRead More »\n13 Tax-Free Investment Strategies for Tax-Free Wealth\nJune 23, 2025\nRead More »\nC Corporation vs. S Corporation: Key Differences and Benefits\nJune 5, 2025\nRead More »\nHow to Pay Less Taxes In 2026 – A Complete Guide\nJune 5, 2025\nRead More »\nHow To Avoid Paying Taxes as an Independent Contractor\nJune 2, 2025\nRead More »\nLLC vs. C Corp vs. S Corp – Which is The Best Business Structure\nMay 21, 2025\nRead More »\nBig Tax Saving Strategies for High Income Earners\nMay 21, 2025\nRead More »\nThe Complete Guide to Small Business Vehicle Write-Offs\nMay 12, 2025\nRead More »\n22 Top Tax Deductions for New Business Owners\nMay 11, 2025\nRead More »\n20 Smart Tax Reduction Strategies to Protect Your Income\nMay 10, 2025\nRead More »\nHow to Avoid Capital Gains Taxes Like the Wealthy\nMay 9, 2025\nRead More »\nHow To Avoid Paying Taxes (Legally)\nMay 7, 2025\nRead More »\nHow to Pay Yourself as an S Corp\nApril 30, 2025\nRead More »\nSEP IRA Vs Solo 401(k): Which One is Right for You?\nApril 30, 2025\nRead More »\n21 Tax Breaks for Small Businesses to Know\nApril 28, 2025\nRead More »\n9 Tax Tips for Small Businesses to Pay Less Taxes\nApril 28, 2025\nRead More »\nHome-Based Business Tax Deductions Guide\nApril 28, 2025\nRead More »\n30 Creative Tax Deductions for Small Business Owners\nApril 28, 2025\nRead More »\nHow the Rich Use Charities to Avoid Taxes\nApril 24, 2025\nRead More »\n34 Big Tax Deductions (Write-Offs) for Businesses in 2026\nJanuary 9, 2025\nRead More »\nMy CPA Coach connects taxpayers to high-performing CPAs that guarantee results. Our CPAs specialize in high-value tax planning and tax preparation services for small businesses and high-income individuals.\nServices\nCPA Tax Planning Services\nCPA Tax Preparation Services\nTax Savers Course\nPricing\nCPA Tax Planning Services\nCPA Tax Preparation Services\nContact Us\nName(Required)\nFirst\nLast\nEmail(Required)\nPhone(Required)\nAnnual Income(Required)\nSelect from dropdown\nUnder $50,000\n$50,000 - $100,000\n$100,000 - $250,000\n$250,000 - $500,000\n$500,000 - $1,000,000\n$1,000,000 - $5,000,000\nOver $5,000,000\nDo You Earn Any Business, 1099, or Rental Income?(Required)\nSelect from dropdown\nYes\nNo\nPrimary Interest(Required)\nSelect from dropdown\nTax Planning\nTax Preparation\nBookkeeping\nYour Message\nImportant Disclosures:\nTax Planning Guarantee: We will refund up to 100% of our tax planning fee upon all of the following conditions being present: 1) Your plan does not identify at least double the price of the plan in estimated tax savings 2) Your business earns over $100,000 per year in revenue 3) You provided all required information to create your tax plan.\nTax Preparation Guarantee: We will refund up to 100% of our tax preparation service for any interest or penalties related to the accuracy of our filing of your tax return. To be eligible for any refund, the inaccuracy on your tax return must be directly caused by our firm. Direct causes include, but are not limited to, data inserted on the tax return that does not correlate with the information provided by the Client. Inaccuracies from indirect causes are not covered by this guarantee. Indirect causes include, but are not limited to, tax return inaccuracies due to incorrect information provided by the client. This guarantee does not include interest and penalties resulting from late filings.\n© Copyright 2025 My CPA Coach LLC. All rights reserved.\nYour use of this website is subject to the Terms of Use and Privacy Policy. Terms and conditions, features, support, pricing, and service options subject to change without notice."
+}

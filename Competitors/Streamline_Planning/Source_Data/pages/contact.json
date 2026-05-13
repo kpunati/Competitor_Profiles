@@ -1,0 +1,63 @@
+{
+  "kind": "contact",
+  "url": "https://streamlineplanning.com/contact",
+  "title": "Contact - Streamline Financial Planning",
+  "meta": {
+    "description": "Helping people take control of their retirement and financial life.",
+    "og_title": "Contact - Streamline Financial Planning",
+    "og_description": "Helping people take control of their retirement and financial life."
+  },
+  "headings": [
+    {
+      "level": "H2",
+      "text": "Contact Us"
+    },
+    {
+      "level": "H3",
+      "text": "(630) 355-5955"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://streamlineplanning.com"
+    },
+    {
+      "text": "Services",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Resources",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Give Back",
+      "tag": "A",
+      "href": "https://streamlineplanning.com/generosity"
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "href": "https://streamlineplanning.com/contact"
+    },
+    {
+      "text": "Client Login",
+      "tag": "A",
+      "href": "https://wealth.emaplan.com/ema/SignIn?ema%2flasallest%2fstreamlinefs"
+    },
+    {
+      "text": "Check the background of our advisors on FINRA’s BrokerCheck.",
+      "tag": "A",
+      "href": "https://brokercheck.finra.org/"
+    },
+    {
+      "text": "27575 Ferry Rd, Suite D\nWarrenville, IL 60555",
+      "tag": "A",
+      "href": "https://www.google.com/maps/place/Streamline+Financial+Services/@41.8106494,-88.1627936,17z/data=!3m1!4b1!4m5!3m4!1s0x880e5795be817c31:0x455a63e832734bc0!8m2!3d41.8106494!4d-88.1606049"
+    }
+  ],
+  "body_text": "Home\nServices\nResources\nGive Back\nContact\nClient Login\nContact Us\n(630) 355-5955\n27575 Ferry Rd, Suite D\nWarrenville, IL 60555\nCheck the background of our advisors on FINRA’s BrokerCheck.\nDISCLOSURES\nSecurities offered through LaSalle St. Securities LLC (LSS), member FINRA/SIPC. Advisory services offered through LaSalle St. Investment Advisors LLC (LSIA), a Registered Investment Advisor. Streamline Financial Services is not affiliated with LSS or LSIA. LSS is affiliated with LSIA.\nLicensed for securities in AL, AR, AZ, CA, CO, DE, FL, GA, IA, IL, IN, KS, MD, ME, MI, MN, MT, NC, NV, NY, OH, OR, SC, TN, TX, VA, WI, WY\nLicensed for insurance in AR, AZ, CA, CO, FL, IL, IN, MD, MN, NC, OH, SC, TN, TX, WI, WY.\n(630) 355-5955\n27575 Ferry Rd, Suite D\nWarrenville, IL 60555"
+}

@@ -1,0 +1,65 @@
+{
+  "competitor": "Ritholtz",
+  "extracted_at": "2026-05-11",
+  "source_url": "https://www.ritholtzwealth.com",
+  "colors": {
+    "body_background": "rgb(255, 255, 254)",
+    "body_text": "rgb(0, 0, 1)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 52
+      },
+      {
+        "color": "rgb(2, 44, 88)",
+        "count": 35
+      },
+      {
+        "color": "rgb(32, 86, 156)",
+        "count": 15
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 13
+      },
+      {
+        "color": "rgb(255, 185, 33)",
+        "count": 11
+      },
+      {
+        "color": "rgba(255, 255, 255, 0)",
+        "count": 9
+      },
+      {
+        "color": "rgb(244, 244, 244)",
+        "count": 6
+      },
+      {
+        "color": "rgb(24, 99, 220)",
+        "count": 5
+      }
+    ],
+    "primary": "rgb(2, 44, 88)",
+    "accent": "rgb(32, 86, 156)"
+  },
+  "typography": {
+    "heading_family": "\"Rambla Bold\", sans-serif",
+    "heading_weight": "700",
+    "body_family": "Rambla, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 21,
+    "paragraph_size_px": 18
+  },
+  "primary_button": {
+    "text": "CLIENT LOGIN",
+    "background": "rgb(255, 185, 33)",
+    "text_color": "rgb(21, 21, 21)",
+    "border_radius_px": 6,
+    "padding": "10px 17px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

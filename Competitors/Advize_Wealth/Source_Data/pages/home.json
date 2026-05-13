@@ -1,0 +1,43 @@
+{
+  "kind": "home",
+  "url": "https://www.advizewealth.com/",
+  "title": "Advize Wealth | Modern Financial Planning | United States",
+  "meta": {
+    "description": "Advize Wealth Management is an independent, fee-only financial planning firm powered by the industries leading technology.",
+    "og_title": "Advize Wealth | Modern Financial Planning | United States",
+    "og_description": "Advize Wealth Management is an independent, fee-only financial planning firm powered by the industries leading technology."
+  },
+  "headings": [
+    {
+      "level": "H2",
+      "text": "MODERN\nFINANCIAL \nPLANNING"
+    },
+    {
+      "level": "H1",
+      "text": ""
+    }
+  ],
+  "ctas": [
+    {
+      "text": "ABOUT",
+      "tag": "A",
+      "href": "https://www.advizewealth.com/about"
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "href": "https://www.advizewealth.com/blog"
+    },
+    {
+      "text": "CONTACT US",
+      "tag": "A",
+      "href": "https://www.advizewealth.com/contact-us"
+    },
+    {
+      "text": "START HERE",
+      "tag": "A",
+      "href": "https://www.advizewealth.com/starthere"
+    }
+  ],
+  "body_text": "ABOUT\nBLOG\nCONTACT US\nMore\nSTART HERE\nMODERN\nFINANCIAL\nPLANNING"
+}

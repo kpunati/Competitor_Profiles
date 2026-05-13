@@ -1,0 +1,269 @@
+{
+  "kind": "home",
+  "url": "https://pwlcapital.com/",
+  "title": "Simplifying Wealth for Canadians | PWL Capital",
+  "meta": {
+    "description": "Holistic, full-service Wealth Management expertise for Canadians to cut through all the busy noise and find your financial goals that really matter.",
+    "og_title": "Simplifying Wealth for Canadians | PWL Capital",
+    "og_description": "Holistic, full-service Wealth Management expertise for Canadians to cut through all the busy noise and find your financial goals that really matter."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Simplifying Wealth for Canadians"
+    },
+    {
+      "level": "H2",
+      "text": "Build the life you want with the goals that matter."
+    },
+    {
+      "level": "H2",
+      "text": "Years Serving Canadians"
+    },
+    {
+      "level": "H2",
+      "text": "Client Families"
+    },
+    {
+      "level": "H2",
+      "text": "Assets Under Management"
+    },
+    {
+      "level": "H2",
+      "text": "How We Help"
+    },
+    {
+      "level": "H2",
+      "text": "Business Owners"
+    },
+    {
+      "level": "H2",
+      "text": "Family Wealth Management"
+    },
+    {
+      "level": "H2",
+      "text": "Doctors and Dentists"
+    },
+    {
+      "level": "H2",
+      "text": "Entering Retirement"
+    },
+    {
+      "level": "H2",
+      "text": "Surviving Spouses"
+    },
+    {
+      "level": "H2",
+      "text": "Women & Wealth"
+    },
+    {
+      "level": "H2",
+      "text": "Institutional Asset Management"
+    },
+    {
+      "level": "H2",
+      "text": "Finding and Funding a Good Life"
+    },
+    {
+      "level": "H2",
+      "text": "Featured Insights & Resources"
+    },
+    {
+      "level": "H2",
+      "text": "How to Get More From Your Professional Corporation"
+    },
+    {
+      "level": "H2",
+      "text": "Meet Our Team"
+    },
+    {
+      "level": "H2",
+      "text": "Our Services"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Planning"
+    },
+    {
+      "level": "H3",
+      "text": "Portfolio Management"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Wellness Coaching"
+    },
+    {
+      "level": "H3",
+      "text": "Schedule a call with a PWL Capital advisor for a free financial review."
+    },
+    {
+      "level": "H3",
+      "text": "Schedule a call with a PWL Capital advisor for a free financial review."
+    },
+    {
+      "level": "H2",
+      "text": "Stay Safe from Scams"
+    },
+    {
+      "level": "H3",
+      "text": "You've Got Questions? We have the answers."
+    },
+    {
+      "level": "H3",
+      "text": "Meet With Us"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Learn",
+      "tag": "A",
+      "href": "https://pwlcapital.com/learn/"
+    },
+    {
+      "text": "MEET WITH US",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "CLIENT LOGIN",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "EN",
+      "tag": "A",
+      "href": "https://pwlcapital.com/"
+    },
+    {
+      "text": "FR",
+      "tag": "A",
+      "href": "https://pwlcapital.com/fr/"
+    },
+    {
+      "text": "SCHEDULE A CALL",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "Business Owners",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "Family Wealth Management",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "Doctors and Dentists",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "Entering Retirement",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "Surviving Spouses",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "Women & Wealth",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "Institutional Asset Management",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "BOOK A MEETING WITH US",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "BOOK A MEETING WITH US",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "LEARN MORE",
+      "tag": "A",
+      "href": "https://pwlcapital.com/?page_id=3320"
+    },
+    {
+      "text": "BOOK A MEETING WITH US",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "BOOK A MEETING WITH US",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "BOOK A MEETING WITH US",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "LEARN MORE",
+      "tag": "A",
+      "href": "https://pwlcapital.com/institutional-asset-management/"
+    },
+    {
+      "text": "DOWNLOAD WHITE PAPER",
+      "tag": "A",
+      "href": "https://pages.pwlcapital.com/white-paper-finding-and-funding-a-good-life"
+    },
+    {
+      "text": "WEBINAR",
+      "tag": "A",
+      "href": "https://pwlcapital.com/webinar/"
+    },
+    {
+      "text": "How to Get More From Your Professional Corporation",
+      "tag": "A",
+      "href": "https://pwlcapital.com/how-to-get-more-from-your-professional-corporation/"
+    },
+    {
+      "text": "READ MORE",
+      "tag": "A",
+      "href": "https://pwlcapital.com/how-to-get-more-from-your-professional-corporation/"
+    },
+    {
+      "text": "VIDEO",
+      "tag": "A",
+      "href": "https://pwlcapital.com/video-resources/"
+    },
+    {
+      "text": "Ben Felix joins Steven Bartlett on The Diary of a CEO",
+      "tag": "A",
+      "href": "https://pwlcapital.com/ben-felix-joins-steven-bartlett-on-the-diary-of-a-ceo/"
+    },
+    {
+      "text": "READ MORE",
+      "tag": "A",
+      "href": "https://pwlcapital.com/ben-felix-joins-steven-bartlett-on-the-diary-of-a-ceo/"
+    },
+    {
+      "text": "RATIONAL REMINDER PODCAST",
+      "tag": "A",
+      "href": "https://pwlcapital.com/rational-reminder-podcast/"
+    },
+    {
+      "text": "Episode 408: Elroy Dimson – Investing & Optimism",
+      "tag": "A",
+      "href": "https://pwlcapital.com/episode-408-elroy-dimson-investing-optimism/"
+    },
+    {
+      "text": "READ MORE",
+      "tag": "A",
+      "href": "https://pwlcapital.com/episode-408-elroy-dimson-investing-optimism/"
+    }
+  ],
+  "body_text": "Choisissez votre langue / Choose your language\n Français\n English\nServices\nAbout\nLearn\nMEET WITH US\nCLIENT LOGIN\nEN\nFR\nWEALTH MANAGEMENT SERVICES\nSimplifying Wealth for Canadians\nSCHEDULE A CALL\nBuild the life you want with the goals that matter.\nWe offer holistic, full-service Wealth Management services to Canadians and their families. Our team will help you cut through all the busy noise and help find the financial goals that really matter to you. Reach out to us to today to find out how we help make wealth simple.\n30+\nYears Serving Canadians\n2700+\nClient Families\n$7B+\nAssets Under Management\nTHE ADVICE YOU NEED\nHow We Help\nBusiness Owners\nFamily Wealth Management\nDoctors and Dentists\nEntering Retirement\nSurviving Spouses\nWomen & Wealth\nInstitutional Asset Management\nBusiness Owners\nElevate your personal and business finances with integrated wealth management services designed to streamline your success across all your ventures.\nBOOK A MEETING WITH US\nFamily Wealth Management\nSecure your family’s financial future with customized planning that grows with you through every stage of life.\nBOOK A MEETING WITH US\nDoctors and Dentists\nWe offer tailored Wealth management services for Canadian healthcare professionals. We can help understand and maximize your unique financial opportunities with strategies that align with your demanding career and personal life.\nLEARN MORE\nEntering Retirement\nTransition smoothly into retirement with strategies that protect your wealth and ensure you enjoy your hard-earned years to the fullest.\nBOOK A MEETING WITH US\nSurviving Spouses\nWe provide compassionate, empathic planning and investment services for surviving spouses. Receive supportive, thoughtful financial guidance that helps you manage and protect your wealth during challenging times.\nBOOK A MEETING WITH US\nWomen & Wealth\nLeverage your professional success into lasting financial security with bespoke wealth management that matches the scale of your ambitions.\nBOOK A MEETING WITH US\nInstitutional Asset Management\nWe offer dedicated support tailored to the needs of foundations, endowments, and not-for-profit organizations.\nLEARN MORE\nFinding and Funding a Good Life\nGrounded in the science of happiness, this guide helps you prioritize long-term life satisfaction over a simple bank balance and provides a comprehensive analysis of evidence-based investment strategies, distilled into actionable insights for the modern investor.\nDOWNLOAD WHITE PAPER\nFeatured Insights & Resources\nWEBINAR\nHow to Get More From Your Professional Corporation\nREAD MORE\nVIDEO\nBen Felix joins Steven Bartlett on The Diary of a CEO\nREAD MORE\nRATIONAL REMINDER PODCAST\nEpisode 408: Elroy Dimson – Investing & Optimism\nREAD MORE\nARTICLES\nPWL Capital Expands Vancouver Presence with Acquisition of Chalten Fee-Only Advisors\nREAD MORE\nMeet Our Team\nMeet the team that is making an impact for Canadian investors. We’re here to help guide you with expert advice and dedicated service. Our mission is simple: to turn your financial goals into reality, with personalized strategies that fit your life.\nMEET OUR TEAM\nBECOME A CLIENT\nOur Services\nFinancial Planning\nPlan for your future with our holistic 360° planning services. Our advisors work with you to create a detailed, personalized strategy that encompasses all of your goals so when you retire it’s on your terms and timetable.\nREAD MORE\nPortfolio Management\nUnlock the full potential of your investments with our expert portfolio management services. We’ll craft a personalized investment strategy that aligns perfectly with your financial goals, adjusting to market changes to keep your future secure and bright.\nREAD MORE\nFinancial Wellness Coaching\nFinancial advice isn’t just numbers, it’s also about your unique circumstances and personal goals. Any destination might encounter some bumps along the way, but we’ll make sure you have the right guidance to get you there.\nREAD MORE\nLET’S GET STARTED\nSchedule a call with a PWL Capital advisor for a free financial review.\nBOOK A CALL\nStay Safe from Scams\nIndividuals claiming to be advisors at PWL use messaging services, social media, and other platforms to create fraudulent accounts to gather personal information.\nTo better protect you, we have outlined best practices to help you avoid falling victim to these scams.\nREAD MORE\nYou've Got Questions? We have the answers.\nCheck our FAQs for common questions. If you can’t find what you’re looking for, reach out to us and we will be happy to respond.\nWhat are PWL Capital's fiduciary duties?\nWho does PWL Capital work with?\nWhat is PWL Capital Wealth Management Philosophy?\nWhat are “Investable Assets”?\nWhat is the minimum amount of investable assets needed to work with PWL?\nDo you offer one-time fee-only planning?\n`\nPortfolio Management and brokerage services are offered by PWL Capital Inc. which is regulated by the Canadian Investment Regulatory Organization (CIRO), and is a member of the Canadian Investor Protection Fund (CIPF).\nFinancial planning and insurance products are offered by PWL Advisors Inc. and are regulated in Ontario by Financial Services Regulatory Authority of Ontario (FSRA) and in Quebec by the Autorité des marchés financiers (AMF). PWL Advisors Inc. is not a member of CIPF.\nMEET WITH US\nSERVICES\nFinancial Planning\nPortfolio Management\nFinancial Wellness Coaching\nWealth Management in Quebec\nABOUT\nOur Story\nOur Team\nSafe-Keeping your Assets\nCareers\nFAQ\nContact Us\nNEXT STEPS\nLearn\nMeet With Us\nPrivacy & Terms of Use\nProtection of Personal Information\nComplaints\nCopyright © 2026 PWL Capital Inc. All Rights Reserved.\nFollow us!\nMeet With Us"
+}

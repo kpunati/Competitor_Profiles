@@ -1,0 +1,139 @@
+{
+  "competitor": "Starke (marketing agency)",
+  "slug": "Starke",
+  "summary_line": "Pasadena, CA full-service marketing agency (~10 years of operating history) serving 'growth-focused brands' with social media content / paid social / PPC / web design / media buying / podcasts / influencers / TV — name-drops Sean Hannity, Dallas Mavericks, Gwyneth Paltrow, and Newt Gingrich as past partnerships. NOT a wealth-management firm — this is a vendor adjacency in the same shape as Asset Map or Monster Link Marketing (the agency that builds the Dennis-family sites). Cataloged here to capture an LA-area marketing-services data point and flag the third pickBestMatch false-positive in the pipeline.",
+  "website": "https://wearestarke.com/",
+  "competitor_type": "b2b_network",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-13",
+  "next_review_by": "2026-11-09",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": null,
+  "employee_count": null,
+  "branch_count": 1,
+  "geographic_scope": "national",
+  "headquarters_city": "Pasadena",
+  "headquarters_state": "CA",
+
+  "aum_usd": null,
+  "aum_as_of": null,
+
+  "pricing_model": "opaque",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": [],
+
+  "segment_early_adults": null,
+  "segment_mid_career_401k": null,
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "none",
+  "regulatory_note": "Starke is a marketing agency, not a regulated financial firm — no SEC/state/FCA/CIRO registration applies. The pipeline's enrich-adv pickBestMatch returned a FALSE POSITIVE matching 'Starke' against 'STARKEY & ASSOCIATES, INC.' (CRD 116023, an Evergreen CO RIA) via the same token-prefix-fuzz weakness that previously hit Asset Map ('Asset Map' → 'Sugar Maple Asset Management') and Streamline Planning. This is the THIRD false positive of this type in the pipeline. The bogus IAPD block in Source_Data/company_facts.json has been manually cleared; the cached ADV PDF was deleted. Fix: pickBestMatch should require exact whole-word token equality (case-insensitive) before claiming a confident match.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "niche_specialist",
+    "comprehensive",
+    "contrarian_vs_conventional"
+  ],
+  "vulnerabilities": [
+    "no_segment_specific_messaging",
+    "no_fee_transparency",
+    "opaque_team"
+  ],
+  "tags": [
+    "founder_led",
+    "b2b_facing",
+    "regional",
+    "content_engine",
+    "not_sec_registered"
+  ],
+  "related_competitors": [
+    "Asset_Map",
+    "Couplr_AI"
+  ],
+
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-05-13",
+        "event": "Site captured: Starke is a full-service marketing agency based in Pasadena, CA. Stated history: 'For nearly a decade, Starke has operated with one rule: do whatever it takes to win.' Service set: Social Media Content · Social Ads · PPC · Web Design · Media Buying · Podcasts · Influencers · Television. Named-past-partner deck: Sean Hannity · Dallas Mavericks · Big Boy in The Neighborhood · Gwyneth Paltrow · Newt Gingrich. Hosts a 'Marketing Simplified Podcast' (7+ episodes captured in homepage carousel). Phone: 626.209.1194 (Pasadena area code). Email: info@wearestarke.com. Active blog with marketing-strategy posts ('Marketing in 2025,' 'How To Craft A Marketing Strategy,' 'Building A Business From Zero To $1 Million,' etc.).",
+        "source": "tools/extract.ts (5 pages — home / about / services / blog / contact)"
+      },
+      {
+        "date": "2026-05-13",
+        "event": "PIPELINE BUG (third occurrence): tools/enrich-adv.ts pickBestMatch falsely matched 'Starke' against 'STARKEY & ASSOCIATES, INC.' (CRD 116023) via token-prefix fuzz — 'starke' was scored as 1/1 token match against 'starkey'. Previously: Asset Map → Sugar Maple Asset Management (Asset/Asset + Map/Maple), Streamline Planning → unrelated NY DBA umbrella. The bug recurs every 3-5 firms and is now demonstrably a category-of-error, not a one-off. Fix priority: HIGH. Suggested fix: require exact whole-word token equality (case-insensitive) before claiming confidence; or require the query string to appear as a substring of the candidate name. Applied workaround: manually cleared the bogus IAPD block in company_facts.json and deleted the cached false-positive ADV PDF.",
+        "source": "tools/enrich-adv.ts behavior on 2026-05-13"
+      },
+      {
+        "date": "2026-05-13",
+        "event": "Cataloging note: Starke is a vendor adjacency (marketing services) like Asset Map (planning software) or Couplr AI (advisor-matching SaaS), not a competitor for our retail RIA prospects. Kept in the catalog because (a) it was sent by the user, (b) it captures an LA-area marketing-services data point that may be relevant when we shop for our own marketing agency, and (c) it's the canonical example of the pickBestMatch bug for future engineering reference.",
+        "source": "internal note"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "regulatory_jurisdiction": "US | CA | UK | AU | EU | multiple | none (controlled vocab — see _context/taxonomy.md)",
+    "regulator": "Free-form string. Common values: SEC, state (NAME), CIRO + FSRA + AMF, FCA, ASIC, none, multiple. The actual regulator(s) the firm answers to. Use 'none' for content platforms and other non-registered entities.",
+    "regulatory_note": "Optional sentence explaining what's missing vs. an ADV-style dataset because of jurisdiction (vs. missing because we haven't pulled it). Null for US SEC-registered firms where we got the standard ADV pull.",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

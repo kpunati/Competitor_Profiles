@@ -1,0 +1,43 @@
+{
+  "competitor": "Starke Marketing",
+  "website": "https://wearestarke.com/",
+  "last_updated": "2026-05-13",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand. NOTE: Starke is a Pasadena, CA marketing agency, NOT a financial firm. The pipeline's enrich-adv returned a FALSE POSITIVE matching 'Starke' against 'STARKEY & ASSOCIATES, INC.' (CRD 116023, Evergreen CO) via the same pickBestMatch token-prefix-fuzz weakness that hit Asset Map ('Asset Map' → 'Sugar Maple Asset Management') and Streamline Planning ('Streamline' → unrelated NY DBA umbrella). This is the THIRD false-positive of this type. The bogus IAPD block is cleared below; the cached ADV PDF was deleted. Bug to fix: pickBestMatch should require exact whole-word token equality (case-insensitive) before declaring a confident match, OR require that all query tokens appear as whole words inside a single name string.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "info@wearestarke.com"
+    ],
+    "footer_phones": [
+      "16262091194",
+      "626.209.1194",
+      "1\n(626) 209-1194"
+    ],
+    "sec_iapd": {
+      "matched": false,
+      "note": "Starke is a marketing agency, not an RIA. The pipeline's auto-match returned a false-positive against 'STARKEY & ASSOCIATES, INC.' — manually cleared 2026-05-13."
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Starke%20Marketing"
+  }
+}

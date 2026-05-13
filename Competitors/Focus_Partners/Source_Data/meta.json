@@ -1,0 +1,29 @@
+{
+  "slug": "Focus_Partners",
+  "source_url": "https://www.focuspartners.com/wealth-management",
+  "competitor_name": "Focus Partners Wealth",
+  "extracted_at": "2026-05-12T02:10:07.719Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.focuspartners.com/wealth-management",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Focus_Partners/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.focuspartners.com/about/mission-vision-values",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Focus_Partners/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.focuspartners.com/resources",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Focus_Partners/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.focuspartners.com/lets-chat",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Focus_Partners/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

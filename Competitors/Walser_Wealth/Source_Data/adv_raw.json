@@ -1,0 +1,31 @@
+{
+  "query": "Walser Wealth",
+  "top": {
+    "firm_source_id": "206518",
+    "firm_ia_sec_number": "127246",
+    "firm_ia_full_sec_number": "801-127246",
+    "firm_name": "WALSER WEALTH MANAGEMENT COMPANY, A LIMITED LIABILITY COMPANY",
+    "firm_other_names": [
+      "WALSER WEALTH MANAGEMENT COMPANY, A LIMITED LIABILITY COMPANY"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 1,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"111 W. OAK AVENUE\", \"street2\": \"STE 450\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"33602\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "206518",
+      "firm_ia_sec_number": "127246",
+      "firm_ia_full_sec_number": "801-127246",
+      "firm_name": "WALSER WEALTH MANAGEMENT COMPANY, A LIMITED LIABILITY COMPANY",
+      "firm_other_names": [
+        "WALSER WEALTH MANAGEMENT COMPANY, A LIMITED LIABILITY COMPANY"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 1,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"111 W. OAK AVENUE\", \"street2\": \"STE 450\", \"city\": \"TAMPA\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"33602\"}}"
+    }
+  ]
+}

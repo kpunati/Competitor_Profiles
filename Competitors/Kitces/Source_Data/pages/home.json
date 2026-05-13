@@ -1,0 +1,217 @@
+{
+  "kind": "home",
+  "url": "https://www.kitces.com/",
+  "title": "Kitces.com - Advancing Knowledge in Financial Planning",
+  "meta": {
+    "description": "Home of the Nerd's Eye View financial planning industry blog and The Kitces Report newsletter for IMCA and CFP CE credits, published by Michael Kitces.",
+    "og_title": "Kitces.com - Advancing Knowledge in Financial Planning",
+    "og_description": "Home of the Nerd's Eye View financial planning industry blog and The Kitces Report newsletter for IMCA and CFP CE credits, published by Michael Kitces."
+  },
+  "headings": [
+    {
+      "level": "H3",
+      "text": "Please contact your Firm's Group Admin"
+    },
+    {
+      "level": "H1",
+      "text": "Financial planning knowledge to help you better serve your clients."
+    },
+    {
+      "level": "H2",
+      "text": "Practice management ideas you can implement yourself."
+    },
+    {
+      "level": "H2",
+      "text": "Kitces Marketing Summit 2026"
+    },
+    {
+      "level": "H2",
+      "text": "Marketing Funnel Breakdown: How A Retirement Podcast Generated 53 Prospects And $130,000 In Recurring Revenue In 12 Months"
+    },
+    {
+      "level": "H2",
+      "text": "Weekend Reading For Financial Planners (May 9-10)"
+    },
+    {
+      "level": "H3",
+      "text": "WANT CE CREDIT FOR READING ARTICLES LIKE THIS?"
+    },
+    {
+      "level": "H2",
+      "text": "Navigating Sensitive Topics With Clients: 3 Tools To Get Them To Open Up About Planning Hurdles"
+    },
+    {
+      "level": "H2",
+      "text": "Bringing Hiring In-House To Support Rapid Growth After Doubling AUM To $600M In One Year: #FASuccess Ep 488 With Joe Schmitz Jr."
+    },
+    {
+      "level": "H2",
+      "text": "Morningstar Sells ByAllAccounts – What’s Next For Data Aggregation? (And More Of The Latest In Financial #AdvisorTech – May 2026)"
+    },
+    {
+      "level": "H2",
+      "text": "Weekend Reading For Financial Planners (May 2-3)"
+    },
+    {
+      "level": "H3",
+      "text": "NOW’S YOUR CHANCE TO PARTICIPATE IN OUR LATEST STUDY, 2026 KITCES RESEARCH ON FINANCIAL ADVISOR MARKETING"
+    },
+    {
+      "level": "H3",
+      "text": "NEW KITCES TRAINING COURSE"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Kitces.com",
+      "tag": "A",
+      "href": "https://www.kitces.com/"
+    },
+    {
+      "text": "START HERE",
+      "tag": "A",
+      "href": "https://www.kitces.com/start-here/"
+    },
+    {
+      "text": "BECOME MEMBER",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Individual",
+      "tag": "A",
+      "href": "https://www.kitces.com/become-member-for-imca-ce-and-cfp-ce-credits/"
+    },
+    {
+      "text": "Group",
+      "tag": "A",
+      "href": "https://www.kitces.com/group-subscriptions/"
+    },
+    {
+      "text": "CE Catalog",
+      "tag": "A",
+      "href": "https://www.kitces.com/cfp-ce-imca-cpe-course-catalog-2/"
+    },
+    {
+      "text": "IAR CE FAQs",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-iar-ce-faqs/"
+    },
+    {
+      "text": "FOR ADVICERS",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Live Events",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-events/"
+    },
+    {
+      "text": "Training Courses",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-online-ce-courses-for-financial-advisors/"
+    },
+    {
+      "text": "Marketing Summit",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-marketing-summit/"
+    },
+    {
+      "text": "Financial Planning Value Summit",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-financial-planning-value-summit-2022/"
+    },
+    {
+      "text": "IAR Ethics CE Day",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-iar-ethics-ce-day-thank-you/"
+    },
+    {
+      "text": "Tax Intensive CE Day",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-iar-tax-ce-day/"
+    },
+    {
+      "text": "Directors of Financial Planning",
+      "tag": "A",
+      "href": "https://www.kitces.com/directors-of-financial-planning-community/"
+    },
+    {
+      "text": "Business Solutions",
+      "tag": "A",
+      "href": "https://www.kitces.com/practice-management-solutions-for-financial-advisors/"
+    },
+    {
+      "text": "Advicer Manifesto",
+      "tag": "A",
+      "href": "https://www.kitces.com/financial-advicer-manifesto-values-difference-advisor-broker/"
+    },
+    {
+      "text": "FOR CONSUMERS",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Gen X/Y",
+      "tag": "A",
+      "href": "https://www.kitces.com/financial-planning-solutions-for-consumers/"
+    },
+    {
+      "text": "Retirees",
+      "tag": "A",
+      "href": "https://www.kitces.com/financial-planning-solutions-for-consumers/"
+    },
+    {
+      "text": "ENGAGE",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Speaking",
+      "tag": "A",
+      "href": "https://www.kitces.com/speaking/"
+    },
+    {
+      "text": "Consulting",
+      "tag": "A",
+      "href": "https://www.kitces.com/consulting/"
+    },
+    {
+      "text": "RESEARCH",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "AdvisorTech",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-report-independent-financial-advisor-technology-fintech-software-tools-research/"
+    },
+    {
+      "text": "FP Productivity",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-report-how-financial-planners-actually-do-financial-planning/"
+    },
+    {
+      "text": "Marketing",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-report-financial-planner-advisor-marketing-tactics-strategies-referrals-centers-influence-networking/"
+    },
+    {
+      "text": "Wellbeing",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-report-financial-advisor-wellbeing-perma-framework-designations-compensation-stress-community-social-support/"
+    },
+    {
+      "text": "Research Spotlight",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-research-spotlight/"
+    },
+    {
+      "text": "Data Exports",
+      "tag": "A",
+      "href": "https://www.kitces.com/kitces-fintechmap-purchase-updates-export/"
+    }
+  ],
+  "body_text": "Kitces.com\nSTART HERE\nBECOME MEMBER\nFOR ADVICERS\nFOR CONSUMERS\nENGAGE\nRESEARCH\nRESOURCES\nCONTACT\nLOGIN\nSEARCH\nMAIN MENU\nPODCASTS\nBLOG CATEGORIES\nCONNECT WITH ME\nPODCASTS\nFINANCIAL ADVISOR SUCCESS\nKITCES & CARL\nAPPLY/RECOMMEND GUEST\nBLOG CATEGORIES\nCE ELIGIBLE\nANNUITIES\nCLIENT TRUST & COMMUNICATION\nCONFERENCES\nDEBT & LIABILITIES\nESTATE PLANNING\nETHICS\nGENERAL PLANNING\nHUMAN CAPITAL\nINDUSTRY NEWS\nINSURANCE\nINVESTMENTS\nMAILBAG\nMARKETING\nNERD’S EYE VIEW\nPERSONAL/CAREER DEVELOPMENT\nPLANNING PROFESSION\nPRACTICE MANAGEMENT\nREGULATION & COMPLIANCE\nRESEARCH\nRETIREMENT PLANNING\nTAXES\nTECHNOLOGY & ADVISOR FINTECH\nWEEKEND READING\nSEARCH\nLOGIN\nFinancial planning knowledge to help you better serve your clients.\nPractice management ideas you can implement yourself.\n78,507 financial advicers stay up to date with the latest from the Nerd's Eye View.\nJOIN YOUR FELLOW ADVICERS AND SEE WHAT WE’RE TALKING ABOUT\n CLOSE\n“Top 10 Influential Blog for Financial Advisors”\n“5 Must-Read Blogs for Financial Advisors”\n“7 Financial Advisory Blogs that rock”\n“#1 of Top 10 Industry Blogs”\n“10 Blogs and Bloggers for Financial Advisors to Read”\n“Best of the Best for Advisors”\nKitces Marketing Summit 2026\nCommon Advisor Marketing Tactics… Done Uncommonly Well.\nThursday, June 4, 12:00 – 4:00 PM ET\nHosted by\nMichael Kitces and Taylor Schulte\nREGISTER NOW\nx\nMarketing Funnel Breakdown: How A Retirement Podcast Generated 53 Prospects And $130,000 In Recurring Revenue In 12 Months\nMAY 11, 2026 07:05 AM 0 Comments CATEGORY: Marketing\nMarketing for new clients through education has long been a popular approach for financial advisors. Whether it's conducting seminars or speaking at networking events, podcasting or creating educational videos, advisors get an opportunity to demonstrate their expertise, show that they're approachable, and help a broad swath of consumers. As a result, Kitces Research on Advisor Marketing finds that education-based marketing is amongst the most popular marketing tactics that advisors pursue, behind only referrals from clients and centers of influence, and networking (in-person or online). Yet the reality is that nearly half of advisors fail to get a single new client in a full year of trying their education-based marketing approach.\nIn this guest post, advisor marketing expert Kendra Wright of Rebel Media Agency conducts a detailed \"marketing funnel breakdown\" of the changes that one financial advisor made to turn his multi-year podcast that had generated virtually no new client results into one that generated more than $100,000 of new revenue in just the past 12 months, and the specific changes that he – and any advisor – can make to whatever their marketing funnel happens to be, in order to drive better business outcomes.\nThe starting point is to recognize that education-based marketing is really a three-stage \"funnel\" process, where the actual educational content itself – the seminar or the podcast – is just the middle of the funnel. It's a crucial stage – where advisors demonstrate their competency and build trust – but a great educational podcast unto itself does not create new clients.\nImproved results also require paying attention to the top of the funnel, where you earn the attention to attract attendees, viewers, or in the case of a podcast, listeners who will become regular consumers of your content in order to build trust with them. This means getting clarity on who your ideal prospects are (and what kind of content they would be interested in), aligning the title of the podcast and the titles of each episode to that ideal target audience, and then further expanding awareness to others who might be interested (which in the case of a podcast, means appearing as a guest on other podcasts that might have listeners who would cross over).\nIn addition, advisors also have to pay attention to the bottom of the funnel, where prospects are invited to actually reach out and learn more about how to become a client. Because especially in the age of \"finfluencers\", it's not automatic for video viewers or podcast listeners to even realize that you are a financial advisor who actually works with and accepts clients! That has to be said – more than once, with a clear statement of what you do (as a financial advisor), who you work with (e.g., retirees nationwide), that you're accepting clients (as they may not realize you have capacity!), and how to take the next action step to reach out and schedule an introductory call.\nUltimately, the key point is that marketing by educating is an incredibly effective way to build trust with prospects, but putting out great educational content alone doesn't drive results. Turning educational content into qualified prospects means paying attention to the top of the funnel to expand your audience, and the bottom of the funnel to help them understand that you're a financial advisor who is accepting new clients, and how they can begin to work with you. The good news, though, is that when it works well, you can quickly reach the point where there are more prospects than you can handle – such that ironically, for the most successful advisor podcasters, their scheduling form is built to introduce more friction to slow down how often prospects reach out (and ensure only the most qualified do so). A nice problem to have!\nREAD MORE...\nWeekend Reading For Financial Planners (May 9-10)\nMAY 8, 2026 02:00 PM 0 Comments CATEGORY: Weekend Reading\nEnjoy the current installment of \"Weekend Reading For Financial Planners\" – this week's edition kicks off with the news that a study from the American College of Financial Services finds that advisors with advanced expertise in areas such as tax and retirement income planning tend to serve more wealthy clients than those with less advanced skills. Notably, the study also found no relationship between years of experience and expertise level. Which suggests that relatively newer advisors and those looking to stand out for their ideal client type could benefit from sharpening their skills in key areas to offer a deeper level of planning expertise to (potentially wealthier) clients!\nAlso in industry news this week:\nThe North American Securities Administrators Association (NASAA) this week adopted amendments to bring four of its model rules in line with the SEC's marketing rule, a key step towards leveling the playing field for state-registered RIAs with their SEC-registered counterparts when it comes to using testimonials, endorsements, and specific performance reporting in their marketing\nA state report indicates that dozens of RIAs, amongst more than a hundred financial services firms in total, have experienced data breaches during the first four months of the year, as advancing artificial intelligence capabilities put a further spotlight on the importance of cyber hygiene for advisory firms, including their staff and clients\nFrom there, we have several articles on tax planning:\nA four-step framework for financial advisors to effectively manage client equity compensation\nHow advisors can offer significant hard-dollar tax savings for clients by creating an effective Restricted Stock Unit (RSU) sale strategy\nWhy leveraging Net Unrealized Appreciation (NUA) rules isn't always a sure bet and how advisors can offer value for clients by conducting a more personalized analysis\nWe also have a number of articles on advisor marketing:\nFive ways advisors can help clients make more effective introductions (and drive more good-fit referrals in the process)\nHow advisors can reduce any awkwardness around referral conversations and avoid turning clients into (unintentional) salespeople\nWhy leaning into value and personalization can help advisors drive referrals from clients in the first few months of the relationship\nWe wrap up with three final articles, all about greed:\nWhy greed can be \"good, bad, or ugly\" depending on how it's applied and why generosity could be an antidote to some of greed's negative side effects\nThe benefits of resisting \"lifestyle creep\" driven by status-driven purchases\nWhy those who have already 'won' the financial game can sometimes be lured into making bets that come with attractive upside but significant downside potential that could threaten their financial security\nEnjoy the 'light' reading!\nREAD MORE...\nWANT CE CREDIT FOR READING ARTICLES LIKE THIS?\nLEARN MORE!\nNavigating Sensitive Topics With Clients: 3 Tools To Get Them To Open Up About Planning Hurdles\nMAY 6, 2026 07:04 AM 0 Comments CATEGORY: Client Trust & Communication\nWhen it comes to learning about a client, some topics can be easier for financial advisors to raise than others. For instance, while a client might be willing to open up about how they plan to spend their time in retirement, they might be more reluctant to answer questions about their health or legacy. Which can create a challenge for advisors, who may need to understand these issues to build a plan that truly reflects the client's values and circumstances.\nIn this guest post, Meghaan Lurtz, a leading expert on the psychology of financial planning and Professor of Practice at Kansas State University, explains why sensitive conversations matter in financial planning, how trauma-informed interviewing techniques can help advisors approach these discussions, and how advisors can use three practical tools to navigate these 'hard questions'.\nWhen a client tenses up or talks around a sensitive question – such as, \"Do you have any health concerns I should know about?\" – an advisor might assume the topic is out of bounds and avoid it in the future. However, research suggests that when someone is reluctant to discuss a particular topic, it's often because they expect the conversation to be more uncomfortable than it is likely to be in reality.\nWith this in mind, advisors can draw on trauma-informed interviewing techniques –even when a client hasn't experienced trauma themselves – to facilitate these discussions more effectively. Key practices include being mindful of the order and pacing of questions asked (e.g., not going directly to the hardest questions), preparing for the conversation beforehand, and asking open-ended questions where possible.\nOne related tool for navigating hard questions is to use a \"side door\" approach. By starting more gently with a potentially thorny topic, advisors can ease clients into the conversation. For example, instead of asking, \"How much do you want to save for your children's college education?\" an advisor might ask, \"When you imagine your child getting their acceptance letter, what do you picture happening next?\" This can help get the client talking while surfacing unspoken assumptions about the topic. Advisors can also ask clients for permission before broaching a potentially sensitive subject, which can give clients a greater sense of control over how the conversation unfolds. (And, paradoxically, clients who are given permission to say no are far more likely to say yes!) A third approach is to sequence questions, starting with low-pressure context to understand the client's story, moving to the emotions or deeper meaning behind the topic, and only then arriving at practical decisions.\nUltimately, the key point is that advisors don't need to avoid sensitive questions in financial planning. Rather, by preparing clients, pacing conversations, asking permission, and sequencing questions from story to meaning to action, advisors can reduce defensiveness and uncover insights that lead to better plans!\nREAD MORE...\nBringing Hiring In-House To Support Rapid Growth After Doubling AUM To $600M In One Year: #FASuccess Ep 488 With Joe Schmitz Jr.\nMAY 5, 2026 07:06 AM 0 Comments CATEGORY: Financial Advisor Success Podcast\nWelcome everyone! Welcome to the 488th episode of the Financial Advisor Success Podcast!\nMy guest on today's podcast is Joe Schmitz Jr. Joe is the founder of Peak Retirement Planning, a hybrid advisory firm based in Columbus, Ohio, that oversees $630 million in assets under management for approximately 1,000 client households.\nWhat's unique about Joe, though, is how he has grown his firm to 40 staff members in just 4 years in part by bringing hiring in-house and creating a hiring process that screens candidates to ensure they are a good fit for the firm's values and will stay for the long haul.\nIn this episode, we talk in-depth about how Joe generated more than 5,000 applicants for 19 positions last year in part by taking a whole-firm approach towards attracting candidates on LinkedIn and by speaking to students at local colleges, how Joe created a tech-forward hiring process that allows his team to efficiently screen candidates while ensuring they fit the firm's growth- and service-oriented values, and how Joe established a summer internship program (with 25 to 30 interns taking part this summer) that allows the firm to attract and evaluate potential full-time hires.\nWe also talk about the marketing tactics Joe has used to rapidly grow his firm (including a YouTube channel, in-person events, television and radio appearances, and authoring four books, among others), how Joe focuses his content on key retirement- and tax-planning topics that are important to his ideal target clients (which include \"Midwestern Millionaires\" and individuals with pensions and at least $1 million in retirement savings), and why Joe hired video and graphics professionals to produce content in house (ensuring consistency in the final product and taking these responsibilities off of his plate).\nAnd be certain to listen to the end, where Joe shares how leaning into his firm's Christian, conservative values when marketing to both prospective clients and job candidates has led to better success in finding both (as they understand up front the values the firm is coming from), how Joe has found that having a relatively young staff compared to the rest of the industry (with new hires typically coming right from college) can be supportive in attracting pre-retiree and retired clients (who can have greater confidence that their advisor will be with them throughout the rest of their lives), and why Joe thinks that finding a firm that lets new hires get their \"feet wet\" in terms of client-facing activity is a key for aspiring advisors who want to see their careers grow.\nSo, whether you're interested in learning about creating a hiring 'niche' to find good-fit job candidates, leaning into the firm's values to attract both clients and new hires, or making the decision to bring both hiring and marketing functions in-house as a firm grows, then we hope you enjoy this episode of the Financial Advisor Success podcast, with Joe Schmitz Jr.\nREAD MORE...\nMorningstar Sells ByAllAccounts – What’s Next For Data Aggregation? (And More Of The Latest In Financial #AdvisorTech – May 2026)\nMAY 4, 2026 07:03 AM 0 Comments CATEGORY: Technology & Advisor FinTech\nWelcome to the May 2026 issue of the Latest News in Financial #AdvisorTech – where we look at the big news, announcements, and underlying trends and developments that are emerging in the world of technology solutions for financial advisors!\nThis month's edition kicks off with the news that Morningstar is selling the client account aggregation data provider ByAllAccounts, becoming the latest AdvisorTech platform to offload a data aggregator that it acquired in the mid-2010s (following Envestnet's sale of Yodlee last year) – which yet again highlights the frustrating inability of data aggregation technology to live up to its promise of seamless real-time visibility into clients' financial lives (or to provide \"big-data\" business insights that justified the massive price that AdvisorTech platforms paid for them)\nFrom there, the latest highlights also feature a number of other interesting advisor technology announcements, including:\nThe AI prospecting technology provider FINNY has launched a new AI tool, dubbed \"Hunter\", that aims to automate outreach and campaigns for both inbound prospecting and outbound marketing – marking an expansion from FINNY's original focus on just the outbound prospecting side of business growth (which was arguably necessary to expand its market beyond the relative handful of advisors who use outbound prospecting as a primary growth channel)\nAll-in-one platform Advisor360 has announced that it is partnering with the financial planning software provider Conquest Planning to embed Conquest's software directly within its platform for one bundled subscription fee, which on the one hand gives Advisor360 users one more tool to use within Advisor360's all-in-one ecosystem, and on the other hand gives Advisor360 another rich data source to feed into its \"Unified Data Fabric\" for AI Agents to run on\nWealth.com has announced a new $65 million Series B fundraising round in the wake of its recent expansion beyond \"only\" estate planning into tax, raising questions about whether it plans to expand further into other specialized planning categories like equity compensation or retirement income planning – or even into a full-blown financial planning (plus CRM?) platform\nRead the analysis about these announcements in this month's column, and a discussion of more trends in advisor technology, including:\nThe startup advisor phone and texting system provider CurrentClient has announced a $1.25 million seed funding round, showing that there is an appetite among advisors (and investors) for a unified business phone and (compliant) texting solution, whereas most previous solutions focused on either one or the other\nSeveral RIAs have recently announced large investments into data infrastructure and AI agents to streamline their operations and reduce overhead costs, which raises questions about how much additional efficiency can actually be achieved through AI and whether it's enough to justify the investment – especially when off-the-shelf solutions from third-party providers may be able to do the job nearly as well at a fraction of the cost?\nAnd be certain to read to the end, where we have provided an update to our popular \"Financial AdvisorTech Solutions Map\" (and also added the changes to our AdvisorTech Directory) as well!\n*To submit a request for inclusion or updates on the Financial Advisor FinTech Solutions Map and AdvisorTech Directory, please share information on the solution at the AdvisorTech Map submission form.\nREAD MORE...\nWeekend Reading For Financial Planners (May 2-3)\nMAY 1, 2026 02:00 PM 0 Comments CATEGORY: Weekend Reading\nEnjoy the current installment of \"Weekend Reading For Financial Planners\" – this week's edition kicks off with the news that as an increasing number of (investment-centric) financial advisors are adding planning services to their offerings, the value of comprehensive financial planning as a differentiator for advisory firms could continue to decline in the years ahead (particularly as artificial intelligence tools aimed at consumers could potentially offer financial recommendations to consumers as well). Which suggests that firms looking to stay ahead of the current could seek alternative ways to show how they are \"different\", perhaps including leaning into the personal, human element of the planning process (something AI tools might find harder to match).\nAlso in industry news this week:\nA survey finds that there could be a mismatch between retirees' (often high) interest in planning for the non-financial aspects of their lives and the (comparatively lower) frequency at which advisors broach these discussions\nAlmost 80% of Millennials want to retire early, according to a recent survey, though they might not have the investment risk tolerance to make it happen (suggesting a valuable role for financial advisors in connecting investment returns with financial goals as well as in highlighting alternate forms of 'retirement' that might be more financially feasible)\nFrom there, we have several articles on investment planning:\nWhy taking a strategic approach to bond investments based on an investor's time horizon and cash needs could be superior to a tactical approach focused on anticipating future interest rate moves\nReturns data indicate that Treasury Inflation-Protected Securities (TIPS) funds and high-yield bond funds offered purchasing power protection during the past decade (including the recent inflationary period), while many investors in short- and long-term government bonds saw their purchasing power erode\nAn analysis compares investing in \"buffer\" ETFs versus Treasury bills when planning for a large purchase at a defined date\nWe also have a number of articles on practice management:\nWhy being a \"legacy leader\" rather than a \"lone ranger\" might be the key for advisory firm founders to create a firm that retains clients for the long haul and thrives beyond their personal influence\nWhy firm owners might need to seek new study group peers and mentors as their businesses grow and mature\nSeven research-backed practices to help leaders build \"superteams\" that thrive amidst an ever-changing business environment\nWe wrap up with three final articles, all about happiness in the modern age:\nAn exploration into why Americans have experienced a sharp drop in happiness this decade at a time when many personal economic measures have been strong\nHow \"third places\" represent an opportunity for communities to build greater social connection and trust\nWhy cutting certain office perks could save money the short run but ultimately backfire for businesses if employees see it as a signal that they're less valued\nEnjoy the 'light' reading!\nREAD MORE...\n1 2 3 … 578 Next »\nJoin over 78,507 fellow advisors now…\n...& receive a free copy of our report:\nQuantifying the Value of Financial Planning Advice\nSIGN UP NOW\nDISMISS\nNOW’S YOUR CHANCE TO PARTICIPATE IN OUR LATEST STUDY, 2026 KITCES RESEARCH ON FINANCIAL ADVISOR MARKETING\nContribute to this important research that aims to help us better understand the marketing tactics financial advisors use, the costs and benefits of different approaches, and strategies for employing these tactics successfully as firms grow and scale.\nStart the survey and contribute your knowledge to our latest study!\nTAKE THE SURVEY\nx\nNEW KITCES TRAINING COURSE\nYou’ve built the plan — but how do you deliver it in a way that inspires action? Too often, plan presentations overwhelm clients with data instead of motivating action. Let’s change that.\nLearn to transform plan presentations into compelling, collaborative conversations. The new Plan Presentation Meetings course gives you a proven framework to build client confidence, communicate recommendations clearly, and drive meaningful implementation.\nEnroll today to master the art of effective plan delivery.\nLEARN MORE\nx\nNerd’s Eye View Praise\n“Top 10 Influential Blog for Financial Advisors”\n“5 Must-Read Blogs for Financial Advisors”\n“Financial Advisory Blogs that rock”\n“#1 of Top 10 Industry Blogs”\n“10 Blogs and Bloggers for Financial Advisors to Read”\nWhat Michael's Reading\nThe Science of Scaling: Grow Your Business Bigger and Faster Than You Think Possible\n- Dr. Benjamin Hardy, Blake Erickson\nGET IT NOW\nMICHAEL'S FULL BOOK LIST\nPopular Posts\nWhy Health Savings Accounts (HSAs) Aren’t Always Worth The ‘Triple Tax Savings’ Advantage\nby Ben Dobler\nFebruary 5, 2025 0\nWhy 50% Probability Of Success Is Actually A Viable Monte Carlo Retirement Projection\nby Derek Tharp\nJanuary 6, 2021 19\nThe Most Tax-Friendly States For Retirees: How To Compare State Income Tax Options For Retiring Clients\nby Ben Henry-Moreland\nSeptember 28, 2022 22\nUnderstanding Marginal Tax Rate Vs Effective Tax Rate And When To Use Each\nby Michael Kitces\nJanuary 30, 2013 14\nHiring Children In The Family Business For Tax (And Other) Benefits\nby Jeff Levine\nDecember 26, 2018 20\n6 Key Value Propositions A Good Financial Planner Can Provide For Clients Seeking A Better “Return On Life”\nby Michael Kitces\nMarch 16, 2015 45\nOut And About\nMAY\n12\nWealthbox\nSpeaker: Adam Van Deusen\nLocation: Webinar\nMAY\n21\nLaSalle St. Securities\nSpeaker: Michael Kitces\nLocation: Webinar\nMAY\n26\nFPA NorCal\nSpeaker: Michael Kitces\nLocation: San Francisco, CA\nVIEW FULL SCHEDULE\nNerd’s Eye View Praise\n“Top 10 Influential Blog for Financial Advisors”\n“5 Must-Read Blogs for Financial Advisors”\n“Financial Advisory Blogs that rock”\n“#1 of Top 10 Industry Blogs”\n“10 Blogs and Bloggers for Financial Advisors to Read”\nx\nJoin over 78,507 fellow advisors now…\n...& receive a free copy of our report:\nQuantifying the Value of Financial Planning Advice\nSIGN UP NOW\nOur Team\nAbout Michael\nCareer Opportunities\nAdvicer Manifesto\nPermissions / Reprints\nDisclosures / Disclaimers\nPrivacy Policy\nTerms of Use\nShowcase YOUR Expertise\nHow To Contribute\nSubmit Podcast Guest\nSubmit Guest Webinar\nSubmit Guest Post\nSubmit Summit Guest Presentation\nStay In Touch\nQuestions?\nGeneral Inquiries: Questions@Kitces.com\nMembers Assistance: Members@Kitces.com\nFAQ\nIAR CE FAQs\nAll Other Questions,\nOr Reach Michael Directly:\nCONTACT MICHAEL\n© 2026 Kitces.com. All Rights Reserved\nJoin 78,507 fellow Financial Advicers, get our latest research as it's released, and receive a free copy of The Kitces Report on \"Quantifying the Value of Financial Planning Advice\"!\nEmail\nGET BLOG UPDATES!\nPrivacy Policy\nEmail for Kitces only. NO third-party ads!\nGet a free issue of The Kitces Report on \"Quantifying the Value of Financial Planning Advice\"\nJoin 78,507 fellow Financial Advicers receiving our latest research as it's released!\nEmail\nGet Blog Updates!\nTerms of Service\nWe do NOT sell/share any data with advertisers & permit NO third-party marketing. Your email address will be used solely for Kitces communication."
+}

@@ -1,0 +1,31 @@
+{
+  "competitor": "403",
+  "extracted_at": "2026-05-12",
+  "source_url": "https://www.couplr.ai/",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(176, 224, 233)",
+        "count": 1
+      }
+    ],
+    "primary": null,
+    "accent": null
+  },
+  "typography": {
+    "heading_family": "Roboto, Arial, sans-serif",
+    "heading_weight": "700",
+    "body_family": "Times",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 20
+  },
+  "primary_button": null,
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

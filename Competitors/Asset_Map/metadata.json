@@ -1,0 +1,147 @@
+{
+  "competitor": "Asset Map (Asset-Map, Inc.)",
+  "slug": "Asset_Map",
+  "summary_line": "Major B2B SaaS / visual financial-planning platform for advisors — Philadelphia-based Asset-Map, Inc., 2.14M people mapped, $1.6T in financial instruments mapped, named to the 2026 WealthTech100 by FinTech Global, SOC 2 Type II certified, with published transparent tier pricing ($1,699 / $2,269 / custom annually). This is a VENDOR adjacency, not a competitor: Asset Map is named on the homepage of [Intrepid Wealth Partners](../Intrepid_Wealth_Partners/1_Summary.md) as part of their RIA tech stack. International presence (US + UK/Europe + Africa + India/Asia-Pacific).",
+  "website": "https://www.asset-map.com/",
+  "competitor_type": "b2b_network",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-05-13",
+  "next_review_by": "2026-11-09",
+  "review_cadence_days": 180,
+
+  "team_size": "mid",
+  "advisor_count": null,
+  "employee_count": null,
+  "branch_count": 1,
+  "geographic_scope": "international",
+  "headquarters_city": "Philadelphia",
+  "headquarters_state": "PA",
+
+  "aum_usd": null,
+  "aum_as_of": null,
+
+  "pricing_model": "transparent_tiers",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": 1699,
+  "fee_flat_high_usd": 2269,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": [],
+
+  "segment_early_adults": null,
+  "segment_mid_career_401k": null,
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "none",
+  "regulatory_note": "Asset-Map, Inc. is a B2B SaaS — financial-planning visualization software sold to advisors and firms. Not a registered investment adviser. The pipeline's enrich-adv returned a FALSE POSITIVE on this refresh, matching 'Asset Map' against 'SUGAR MAPLE ASSET MANAGEMENT, LLC' (CRD 282632) via a token-fuzz weakness (Asset/Asset + Map/Maple scored as 2/2 in pickBestMatch). The false-positive Form ADV pull was deleted and the IAPD block in Source_Data/company_facts.json was manually cleared. Bug captured for pickBestMatch tightening — should require exact token equality or full-string-contains before claiming a confident match. Stated compliance posture: SOC 2 Type II certified, FINRA + SEC compliant for handling advisor client data.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "content_heavy",
+  "design_tone": "b2b_professional",
+
+  "positioning_claims": [
+    "modern_tech",
+    "niche_specialist",
+    "comprehensive",
+    "transparent_pricing",
+    "b2b_advisor_focused",
+    "evidence_based",
+    "category_shaping"
+  ],
+  "vulnerabilities": [
+    "no_segment_specific_messaging"
+  ],
+  "tags": [
+    "b2b_facing",
+    "content_engine",
+    "subscription_fee",
+    "not_sec_registered",
+    "national_aggregator"
+  ],
+  "related_competitors": [
+    "Couplr_AI",
+    "Intrepid_Wealth_Partners",
+    "Kitces"
+  ],
+
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-04-08",
+        "event": "Asset-Map named to 2026 WealthTech100 list by FinTech Global (announced on the company blog).",
+        "source": "https://www.asset-map.com/resources/blog/"
+      },
+      {
+        "date": "2026-05-13",
+        "event": "Site captured: hero 'The Financial Conversation Clients Actually Understand.' Sub-hero: 'Visual planning. Real results.' Three big stat callouts: 2.14M people mapped · 30% revenue increase for new advisors · $1.6T in financial instruments mapped. Stated positioning: 'the only visual-first planning platform built for how humans actually think, whether you're using it standalone, alongside eMoney or MoneyGuidePro, for discovery meetings, or client presentations.' Six-question planning framework: Who · Why · What/Where · If · When · How. 8 named-with-credential testimonials with firm names (Martin Higgins CFP CHFC CLU AEP LUTCF RHU @ Family Wealth Management; Molly Ward CFP CDFA @ Well Lived Wealth; Jack Choi @ JATO Dynamics; Megan Takagi CFP @ Takagi & Takagi; Kristopher Grossman CFP @ Kingsbridge Financial; Mark Dorman AIF CLU @ Dorman Legacy; Henry Swan ChFC CLU @ Optimal Planning Partners; Michael Gainer AIF @ Integrated Financial Strategies). SOC 2 Type II certified; FINRA + SEC compliant. International regions: UK/Europe, Africa, India/Asia-Pacific. App at app.asset-map.com/ampux/auth. Phone: 888-664-8850. HQ: 533 East Girard Avenue, Suite 99114, Philadelphia, PA 19125. Sales: sales@asset-map.com; Support: support@asset-map.com (response <1 business day) + Live Chat in-app (<10 min) + phone support. Lead-magnet ladder: blog · webinars · 1:1 case reviews · referral program · merch store (asset-map.store). Customer-role taxonomy in demo flow: Broker-Dealer Advisor · RIA · Hybrid RIA · Bank/Credit Union Advisor · Back Office/Operational.",
+        "source": "tools/extract.ts + observation"
+      },
+      {
+        "date": "2026-05-13",
+        "event": "Pricing page captured: three tiers published — Professional $1,699/yr · Elite (MOST POPULAR) $2,269/yr · Firm (BEST VALUE, 3+ advisors, 'Let's Talk' custom pricing). 5% off with annual billing. 30-day risk-free trial with money-back guarantee. Feature deltas across tiers: Professional includes Know Your Client / Analysis + Advice / Present + Collaborate / Growth + Success. Elite adds White-Labeled Platform + Customized Data Gathering + Enhanced Relationship Management + White-Glove Support + Training. Firm tier adds Practice Management + Practice Insights & Analytics + Firm-Specific Branding + Data Migration + Volume Discounts.",
+        "source": "tools/extract.ts (pricing page)"
+      },
+      {
+        "date": "2026-05-13",
+        "event": "PIPELINE BUG (logged here): The enrich-adv.ts pickBestMatch incorrectly returned a 2/2-token match against 'SUGAR MAPLE ASSET MANAGEMENT, LLC' (CRD 282632) — the actual matching was 'Asset'/'Asset' + 'Map'/'Maple'/'Management', which is a token-prefix or substring fuzz rather than exact equality. The false-positive ADV pull (which extracted 3 employees / 3 advisors / $291M AUM from CRD 282632) was overwritten in this metadata. adv_cache/ deleted. company_facts.json sec_iapd block manually cleared. To fix: tighten pickBestMatch to require exact token equality (case-insensitive whole-word) before declaring N/N confidence — or alternately, require that all query tokens appear as whole words inside a single name or DBA string.",
+        "source": "tools/enrich-adv.ts behavior on 2026-05-13"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "regulatory_jurisdiction": "US | CA | UK | AU | EU | multiple | none (controlled vocab — see _context/taxonomy.md)",
+    "regulator": "Free-form string. Common values: SEC, state (NAME), CIRO + FSRA + AMF, FCA, ASIC, none, multiple. The actual regulator(s) the firm answers to. Use 'none' for content platforms and other non-registered entities.",
+    "regulatory_note": "Optional sentence explaining what's missing vs. an ADV-style dataset because of jurisdiction (vs. missing because we haven't pulled it). Null for US SEC-registered firms where we got the standard ADV pull.",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

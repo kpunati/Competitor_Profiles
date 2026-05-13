@@ -1,0 +1,25 @@
+{
+  "name": "competitor-profiles",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Capture and analyze competitor websites in wealth management / financial planning, one at a time.",
+  "scripts": {
+    "add": "tsx tools/add.ts",
+    "extract": "tsx tools/extract.ts",
+    "analyze": "tsx tools/analyze.ts",
+    "synthesize": "tsx tools/synthesize.ts",
+    "setup": "playwright install chromium"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.0",
+    "@types/pdf-parse": "^1.1.5",
+    "pdf-parse": "^2.4.5",
+    "playwright": "^1.49.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "Sven_Carlin",
+  "source_url": "https://svencarlin.com/",
+  "competitor_name": "Checking your browser...",
+  "extracted_at": "2026-05-13T18:02:36.264Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://svencarlin.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Sven_Carlin/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://svencarlin.com/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Sven_Carlin/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://svencarlin.com/book/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Sven_Carlin/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

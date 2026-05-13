@@ -1,0 +1,201 @@
+{
+  "kind": "services",
+  "url": "https://www.samofinancial.com/services/",
+  "title": "Our Services – SAMO Financial",
+  "meta": {
+    "description": "",
+    "og_title": "Our Services",
+    "og_description": ""
+  },
+  "headings": [
+    {
+      "level": "H2",
+      "text": "Our Services"
+    },
+    {
+      "level": "H1",
+      "text": "OUR SERVICES"
+    },
+    {
+      "level": "H2",
+      "text": "SERVICES"
+    },
+    {
+      "level": "H3",
+      "text": "EDUCATE PASSIVE INVESTORS"
+    },
+    {
+      "level": "H3",
+      "text": "INVEST IN REAL ESTATE"
+    },
+    {
+      "level": "H3",
+      "text": "COACH INVESTORS"
+    },
+    {
+      "level": "H2",
+      "text": "Let's talk Investing"
+    },
+    {
+      "level": "H3",
+      "text": "CALL US NOW"
+    },
+    {
+      "level": "H3",
+      "text": "SEND AN EMAIL"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Search",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "HOME",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/"
+    },
+    {
+      "text": "OUR SERVICES",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/services/"
+    },
+    {
+      "text": "Public Speaking",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/speaker-and-money-coach-alina-trigub/"
+    },
+    {
+      "text": "Our Products",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/our-products/"
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/testimonials/"
+    },
+    {
+      "text": "ABOUT US",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/about-us/"
+    },
+    {
+      "text": "Media",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/media/"
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/?page_id=95"
+    },
+    {
+      "text": "Video Lessons",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/video-lessons/"
+    },
+    {
+      "text": "JOIN THE SAMO CLUB",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/join-the-samo-club/"
+    },
+    {
+      "text": "LIBRARY",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/library/"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/contact/"
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/faq/"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/"
+    },
+    {
+      "text": "Our Services",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/services/"
+    },
+    {
+      "text": "Public Speaking",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/speaker-and-money-coach-alina-trigub/"
+    },
+    {
+      "text": "Our Products",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/our-products/"
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/testimonials/"
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/about-us/"
+    },
+    {
+      "text": "Media",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/media/"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/?page_id=95"
+    },
+    {
+      "text": "Video Lessons",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/video-lessons/"
+    },
+    {
+      "text": "Join The SAMO Club",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/join-the-samo-club/"
+    },
+    {
+      "text": "Library",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/library/"
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/contact/"
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/faq/"
+    },
+    {
+      "text": "Alina Trigub",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/author/alina/"
+    },
+    {
+      "text": "CALL US NOW\n\n(201) 281-7430",
+      "tag": "A",
+      "href": "tel:+1800%20123%204567"
+    },
+    {
+      "text": "SEND AN EMAIL\n\nalina@samofinancial.com",
+      "tag": "A",
+      "href": "mailto:yo@domain.com"
+    }
+  ],
+  "body_text": "HOME\nOUR SERVICES\nPublic Speaking\nOur Products\nTestimonials\nABOUT US\nMedia\nBLOG\nVideo Lessons\nJOIN THE SAMO CLUB\nLIBRARY\nCONTACT\nFAQ\nOUR SERVICES\nSERVICES\nSAMO Offers\nEDUCATE PASSIVE INVESTORS\nWe empower our investors to educate themselves on the process of building wealth through passive real estate investing by participating in our mastermind\nINVEST IN REAL ESTATE\nWe offer our investors a variety of real estate syndications and/or funds\nCOACH INVESTORS\nWe offer one-on-one and group coaching for people interested to challenge their mindset and expedite their real estate investing learning curve to become more sophisticated passive investors\nLet's talk Investing\nCALL US NOW\n(201) 281-7430\nSEND AN EMAIL\nalina@samofinancial.com\n © Copyright 2026. All Rights Reserved."
+}

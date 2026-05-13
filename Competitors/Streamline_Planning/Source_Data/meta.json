@@ -1,0 +1,24 @@
+{
+  "slug": "Streamline_Planning",
+  "source_url": "https://streamlineplanning.com/",
+  "competitor_name": "Home",
+  "extracted_at": "2026-05-12T00:38:56.347Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://streamlineplanning.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Streamline_Planning/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://streamlineplanning.com/blog",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Streamline_Planning/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://streamlineplanning.com/contact",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Streamline_Planning/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

@@ -1,0 +1,174 @@
+{
+  "competitor": "Foundry Financial",
+  "slug": "Foundry_Financial",
+  "summary_line": "Single-office Pasadena RIA (~$233M AUM, 7 advisors, 10 employees, 626 client accounts) explicitly serving retirees and pre-retirees with tax-burdened portfolios; founder-led storytelling, fee-based wealth management via a trademarked 'Foundry Framework', and a free 'Retirement Assessment' as the single conversion path.",
+  "website": "https://www.foundryfinancial.org/",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-11",
+  "next_review_by": "2026-11-07",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": 7,
+  "employee_count": 10,
+  "branch_count": 7,
+  "geographic_scope": "regional",
+  "headquarters_city": "Pasadena",
+  "headquarters_state": "CA",
+
+  "aum_usd": 232611535,
+  "aum_as_of": "2026-05-06",
+
+  "pricing_model": "opaque",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "300122",
+  "sec_number": "801-133770",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fiduciary",
+    "fee_only",
+    "independent",
+    "evidence_based",
+    "niche_specialist",
+    "comprehensive",
+    "transparent_pricing",
+    "personality_led",
+    "contrarian_vs_conventional"
+  ],
+  "vulnerabilities": [
+    "no_early_adult_surface",
+    "no_401k_specific_funnel",
+    "no_segment_specific_messaging",
+    "opaque_pricing",
+    "modern_tech_asserted_not_shown",
+    "geographic_concentration",
+    "key_person_risk",
+    "opaque_team"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "regional",
+    "consumer_facing",
+    "aum_fee",
+    "clean_regulatory_record",
+    "content_engine"
+  ],
+  "related_competitors": [
+    "Walser_Wealth",
+    "Streamline_Planning",
+    "Advize_Wealth"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      {
+        "as_of": "2026-05-06",
+        "value_usd": 232611535,
+        "source": "ADV"
+      }
+    ],
+    "advisor_count_history": [
+      {
+        "as_of": "2026-05-06",
+        "value": 7,
+        "source": "ADV"
+      }
+    ],
+    "employee_count_history": [
+      {
+        "as_of": "2026-05-06",
+        "value": 10,
+        "source": "ADV"
+      }
+    ],
+    "branch_count_history": [
+      {
+        "as_of": "2026-05-06",
+        "value": 7,
+        "source": "ADV"
+      }
+    ],
+    "notable_events": [
+      {
+        "date": "2026-05-06",
+        "event": "ADV snapshot — 10 employees; 7 advisors performing advisory functions; 7 branches; 626 client accounts; $232,611,535 regulatory AUM; zero disciplinary disclosures.",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts; CRD 300122)"
+      },
+      {
+        "date": "2025-07-07",
+        "event": "Most recent blog post published ('Major Tax Legislation Changes for 2025: A Comprehensive Guide for Savers and Retirees'). Prior post January 2025; before that May 2023 — content cadence is sparse and bursty, not weekly.",
+        "source": "https://www.foundryfinancial.org/blog"
+      },
+      {
+        "date": "2026-05-12",
+        "event": "Site captured: retiree-focused hero ('Retire with confidence.'), Foundry Framework™ trademarked process, free 'Are We a Good Fit?' retirement assessment as the single conversion path, founder origin story (mother's bad advisor experience after father's death) on About page, no team page visible from sitemap (link present at /financial-planners-los-angeles but not captured).",
+        "source": "tools/extract.ts"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

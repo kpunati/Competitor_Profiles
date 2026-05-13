@@ -1,0 +1,229 @@
+{
+  "kind": "blog",
+  "url": "https://www.samofinancial.com/blog/",
+  "title": "Blog – SAMO Financial",
+  "meta": {
+    "description": null,
+    "og_title": null,
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "SAMO BLOG"
+    },
+    {
+      "level": "H2",
+      "text": "THE 7 MISTAKES HIGH EARNERS MAKE BEFORE INVESTING IN REAL ESTATE"
+    },
+    {
+      "level": "H2",
+      "text": "5 REASONS WHY YOU SHOULD NEVER INVEST WITH ME"
+    },
+    {
+      "level": "H2",
+      "text": "THE SELF RENTAL RULES: WHAT REAL ESTATE INVESTORS NEED TO KNOW (AND HOW MY FRIEND NAVIGATED THEM OWNING A DENTAL OFFICE)"
+    },
+    {
+      "level": "H2",
+      "text": "THE REAL COST OF OVERLOOKING MAIN STREET IN YOUR PORTFOLIO"
+    },
+    {
+      "level": "H2",
+      "text": "WHY WALL STREET FALLS SHORT ON PERSONALIZED INVESTING"
+    },
+    {
+      "level": "H2",
+      "text": "THE DIVERSIFICATION MYTH THAT COULD BE UNDERMINING YOUR PORTFOLIO"
+    },
+    {
+      "level": "H2",
+      "text": "WHY SO MANY SMART INVESTORS STILL FEEL FINANCIALLY EXPOSED"
+    },
+    {
+      "level": "H2",
+      "text": "HOW WALL STREET DELAYS COULD BE COSTING YOU BIG — WITHOUT YOU EVEN KNOWING"
+    },
+    {
+      "level": "H2",
+      "text": "5 CRITICAL FACTS EVERY STNL INVESTOR NEEDS TO KNOW BEFORE BUYING A PROPERTY"
+    },
+    {
+      "level": "H2",
+      "text": "HOW I BUILT A $10,000 PASSIVE INCOME STREAM THROUGH REAL ESTATE SYNDICATIONS"
+    },
+    {
+      "level": "H3",
+      "text": "Category"
+    },
+    {
+      "level": "H3",
+      "text": "Tags"
+    },
+    {
+      "level": "H2",
+      "text": "Let's talk Investing"
+    },
+    {
+      "level": "H3",
+      "text": "CALL US NOW"
+    },
+    {
+      "level": "H3",
+      "text": "SEND AN EMAIL"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Search",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "HOME",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/"
+    },
+    {
+      "text": "OUR SERVICES",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/services/"
+    },
+    {
+      "text": "Public Speaking",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/speaker-and-money-coach-alina-trigub/"
+    },
+    {
+      "text": "Our Products",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/our-products/"
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/testimonials/"
+    },
+    {
+      "text": "ABOUT US",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/about-us/"
+    },
+    {
+      "text": "Media",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/media/"
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/?page_id=95"
+    },
+    {
+      "text": "Video Lessons",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/video-lessons/"
+    },
+    {
+      "text": "JOIN THE SAMO CLUB",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/join-the-samo-club/"
+    },
+    {
+      "text": "LIBRARY",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/library/"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/contact/"
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/faq/"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/"
+    },
+    {
+      "text": "Our Services",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/services/"
+    },
+    {
+      "text": "Public Speaking",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/speaker-and-money-coach-alina-trigub/"
+    },
+    {
+      "text": "Our Products",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/our-products/"
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/testimonials/"
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/about-us/"
+    },
+    {
+      "text": "Media",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/media/"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/?page_id=95"
+    },
+    {
+      "text": "Video Lessons",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/video-lessons/"
+    },
+    {
+      "text": "Join The SAMO Club",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/join-the-samo-club/"
+    },
+    {
+      "text": "Library",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/library/"
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/contact/"
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/faq/"
+    },
+    {
+      "text": "Alina Trigub",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/author/alina/"
+    },
+    {
+      "text": "5 REASONS WHY YOU SHOULD NEVER INVEST WITH ME",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/5-reasons-why-you-should-never-invest-with-me/"
+    },
+    {
+      "text": "Alina Trigub",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/author/alina/"
+    }
+  ],
+  "body_text": "HOME\nOUR SERVICES\nPublic Speaking\nOur Products\nTestimonials\nABOUT US\nMedia\nBLOG\nVideo Lessons\nJOIN THE SAMO CLUB\nLIBRARY\nCONTACT\nFAQ\nSAMO BLOG\n15\nJan\nTHE 7 MISTAKES HIGH EARNERS MAKE BEFORE INVESTING IN REAL ESTATE\nThe 7 Mistakes High Earners Make Before Investing in Real Estate A high income can create a false sense of financial security. I see this all the time. Smart professionals making $200K, $300K, sometimes much more, assume that because they are successful in their career, they...\n15\nDec\n5 REASONS WHY YOU SHOULD NEVER INVEST WITH ME\n5 Reasons Why You Should Never Invest With Me Let’s skip the fluff and get real. Over the years, I’ve had countless conversations about passive investing. Some turned into powerful partnerships that changed lives, not just mine but theirs too. Others? Total dead ends. Why? Because not everyone is...\n15\nNov\nTHE SELF RENTAL RULES: WHAT REAL ESTATE INVESTORS NEED TO KNOW (AND HOW MY FRIEND NAVIGATED THEM OWNING A DENTAL OFFICE)\nThe Self Rental Rules: What Real Estate Investors Need to Know (and How My Friend Navigated Them Owning a Dental Office) Introduction If you're investing in real estate and also run a business, the way you structure your ownership can have a big impact on your taxes....\n12\nOct\nTHE REAL COST OF OVERLOOKING MAIN STREET IN YOUR PORTFOLIO\nThe Real Cost of Overlooking Main Street in Your Portfolio Not long ago, I was fully committed to the traditional path. I maxed out my retirement accounts.I followed market trends, trusted in index funds, and stuck to the Wall Street playbook. On paper, everything looked right.But deep down,...\n15\nSep\nWHY WALL STREET FALLS SHORT ON PERSONALIZED INVESTING\nWhy Wall Street Falls Short on Personalized Investing You’ve worked hard to build your wealth. You’ve made sacrifices, stayed disciplined, and played the long game.Now, you deserve more than just a “safe” investment plan—you deserve one that’s truly aligned with your goals. But here’s what many high-income...\n10\nAug\nTHE DIVERSIFICATION MYTH THAT COULD BE UNDERMINING YOUR PORTFOLIO\nThe Diversification Myth That Could Be Undermining Your Portfolio You’ve done what the experts said. Diversify to manage risk.So you spread your money across dozens of stocks, mutual funds, ETFs, and sectors. But here’s a truth many investors learn too late: Diversification within Wall Street is still Wall Street. ...\n28\nJul\nWHY SO MANY SMART INVESTORS STILL FEEL FINANCIALLY EXPOSED\nWhy So Many Smart Investors Still Feel Financially Exposed You’ve done everything by the book.  Maxed out your 401(k) Stayed committed through every market cycle Trusted Wall Street to grow your portfolio And yet… something still feels off. You’re not alone. Many senior professionals, especially those in tech,...\n10\nJul\nHOW WALL STREET DELAYS COULD BE COSTING YOU BIG — WITHOUT YOU EVEN KNOWING\nHow Wall Street Delays Could Be Costing You Big — Without You Even Knowing If you’ve been investing through traditional Wall Street channels, you’ve probably heard this advice over and over: “Time in the market builds wealth.” And while that’s true in theory, there’s a hidden...\n05\nApr\n5 CRITICAL FACTS EVERY STNL INVESTOR NEEDS TO KNOW BEFORE BUYING A PROPERTY\n5 Critical Facts Every STNL Investor Needs to Know Before Buying a Property If you’ve been exploring ways to diversify beyond the stock market and create passive income, Single-Tenant Net Lease (STNL) properties may have caught your eye. And with good reason. STNL investments can offer stable, long-term...\n27\nNov\nHOW I BUILT A $10,000 PASSIVE INCOME STREAM THROUGH REAL ESTATE SYNDICATIONS\nHow I Built a $10,000 Passive Income Stream Through Real Estate Syndications What if you could earn $10,000 in passive income every month without ever dealing with tenants or property maintenance? For me, real estate syndications have made this a reality. In 2023, my portfolio of syndication...\n1\n2\n…\n9\nNext\nCategory\ncommercial real estate\nFunds investing\nHospitality\nHotel conversion\nHotel conversion into multifamily\nHotel investing\nInvesting in Apartment Buildings\ninvestment property\nMHP\nMobile Home Parks\nMutlifamily\napartment buildings\nPartnerships\nPrivate Equity\npassive income real estate investment vehicle\nREIT\nPassive Investing\nactive versus passive real estate investing\nbest passive real estate investments\ndefinition of passive real estate investment\npassive commercial real estate investing\nreal estate investing passive income\npassive investing in real estate\npassive real estate investment advantages\npassive real estate investment disadvantages\nPassive VS Active real estate investing\nReal Estate\nproperty management\nSDIRA\nself-storage\nSyndications\nreal estate syndication\nsyndication model\ntax strategies for real estate investors\nTriple Net Lease\nTags\nALTERNATIVES APARTMENT BUILDING INVESTING APARTMENT COMPLEX ASSISTED LIVING BLIND POOL BUILDING WEALTH CHECKBOOK CONTROL CHOOSING THE RIGHT TEAM CORONAVIRUS COVID-19 DIVIDENDS FUND OF FUNDS INVESTING INVESTING VIA SYNDICATIONS IRA LLC LIMITED PARTNERSHIP MAIN STREET INVESTING MHP INVESTING MULTIFAMILY MULTIFAMILY INVESTING MULTIFAMILY INVESTMENT NET LEASE NNN LEASE PANDEMIC PASSIVE INCOME PASSIVE INVESTMENT PASSIVE REAL ESTATE INVESTING PRIVATE LENDING REAL ESTATE INVESTING REIT VS PE RESIDENTIAL ASSISTED LIVING SDIRA SELF-RENTAL RULES SELF-STORAGE INVESTING SENIOR LIVING STNL SYNDICATIONS SYNDICATIONS TERMINOLOGY TAX ADVANTAGES TAX SAVINGS VALUE-ADD VIRUS WALL STREET WEALTH BUILDING WEALTH PRESERVATION\nLet's talk Investing\nCALL US NOW\n(201) 281-7430\nSEND AN EMAIL\nalina@samofinancial.com\n © Copyright 2026. All Rights Reserved."
+}

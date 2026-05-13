@@ -1,0 +1,94 @@
+{
+  "competitor": "Focus Partners Wealth",
+  "slug": "Focus_Partners",
+  "summary_line": "PE-backed national RIA consolidator — 1,005 branches and 20 acquired boutique brands consolidated under one SEC registration.",
+  "website": "https://www.focuspartners.com/wealth-management",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "medium",
+  "confidence": "medium",
+  "last_updated": "2026-05-12",
+  "next_review_by": "2026-08-09",
+  "review_cadence_days": 90,
+  "team_size": "large",
+  "advisor_count": 1025,
+  "employee_count": 1915,
+  "branch_count": 1005,
+  "geographic_scope": "national",
+  "headquarters_city": "St. Louis",
+  "headquarters_state": "MO",
+  "aum_usd": 181862000000,
+  "aum_as_of": "2026-04-30",
+  "pricing_model": "opaque",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+  "wealth_tiers_served": [
+    "mass_affluent",
+    "hnw",
+    "uhnw"
+  ],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "ok",
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "159289",
+  "sec_number": "801-72862",
+  "ownership_structure": "pe_backed",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": true,
+  "disciplinary_disclosure_count": null,
+  "media_presence": "moderate",
+  "design_tone": "establishment",
+  "positioning_claims": [
+    "comprehensive",
+    "national_scale"
+  ],
+  "vulnerabilities": [
+    "no_segment_specific_messaging",
+    "no_modern_tech_visible",
+    "pe_ownership_vulnerable",
+    "disciplinary_history",
+    "no_fee_transparency"
+  ],
+  "tags": [
+    "pe_backed",
+    "national_aggregator",
+    "roll_up",
+    "multi_advisor",
+    "consumer_facing",
+    "aum_fee",
+    "has_disciplinary_disclosures"
+  ],
+  "related_competitors": [
+    "Ritholtz_Wealth"
+  ],
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2023",
+        "event": "Focus Financial Partners taken private by Clayton, Dubilier & Rice (industry context — verify from ADV before citing externally)",
+        "source": "industry context"
+      },
+      {
+        "date": "2024-2025",
+        "event": "Consolidation of 20+ acquired boutique brands (Buckingham, Colony Group, GW & Wade, HoyleCohen, et al.) under the unified Focus Partners Wealth, LLC entity",
+        "source": "site footer + IAPD firm_other_names"
+      },
+      {
+        "date": "2026-04-30",
+        "event": "ADV snapshot — 1,915 employees; 1,025 advisors performing advisory functions; $181,862,000,000 regulatory AUM; 220,585 client accounts; \"Other\" fee specify: REV. SHARING W/ FRS AND ON ELIGIBLE CREDIT & CASH MGMT SOLUTIONS",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      }
+    ]
+  }
+}

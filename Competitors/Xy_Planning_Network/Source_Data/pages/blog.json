@@ -1,0 +1,277 @@
+{
+  "kind": "blog",
+  "url": "https://www.xyplanningnetwork.com/free-downloads",
+  "title": "XYPN | Resources for Financial Advisors",
+  "meta": {
+    "description": "Find expert insights on everything from compliance to marketing. Start, run, and grow your RIA with confidence—we'll show you how.",
+    "og_title": "XYPN | Resources for Financial Advisors",
+    "og_description": "Find expert insights on everything from compliance to marketing. Start, run, and grow your RIA with confidence—we'll show you how."
+  },
+  "headings": [
+    {
+      "level": "H3",
+      "text": "Ways to Join"
+    },
+    {
+      "level": "H1",
+      "text": "Resources"
+    },
+    {
+      "level": "H2",
+      "text": "Tools for Financial Advisors"
+    },
+    {
+      "level": "H2",
+      "text": "Compliance"
+    },
+    {
+      "level": "H3",
+      "text": "The Essential RIA Compliance Guide"
+    },
+    {
+      "level": "H3",
+      "text": "The Essential Guide to RIA Registration"
+    },
+    {
+      "level": "H3",
+      "text": "Compliance Manual for Starting an Independent RIA"
+    },
+    {
+      "level": "H2",
+      "text": "Marketing"
+    },
+    {
+      "level": "H3",
+      "text": "RIA Growth Quiz"
+    },
+    {
+      "level": "H3",
+      "text": "Your Brand Report Card"
+    },
+    {
+      "level": "H3",
+      "text": "Ready, Set, Grow: An RIA Marketing Guide"
+    },
+    {
+      "level": "H3",
+      "text": "Your Niche and Ideal Client"
+    },
+    {
+      "level": "H3",
+      "text": "Ideal Client & Persona Workbook"
+    },
+    {
+      "level": "H3",
+      "text": "RIA Marketing Funnel Template"
+    },
+    {
+      "level": "H3",
+      "text": "How to Attract a New Generation of Clients to Your RIA"
+    },
+    {
+      "level": "H2",
+      "text": "First Year"
+    },
+    {
+      "level": "H3",
+      "text": "Transition Action Plan"
+    },
+    {
+      "level": "H3",
+      "text": "Sapphire Benefits Guide"
+    },
+    {
+      "level": "H3",
+      "text": "Emerald Benefits Guide"
+    },
+    {
+      "level": "H3",
+      "text": "RIA Roadmap: Emerald Membership"
+    },
+    {
+      "level": "H3",
+      "text": "RIA Roadmap: Sapphire Membership"
+    },
+    {
+      "level": "H3",
+      "text": "Chart of Accounts Guide"
+    },
+    {
+      "level": "H3",
+      "text": "Fee-for-Service Financial Planning"
+    },
+    {
+      "level": "H3",
+      "text": "Your Firm, Your Terms: How to Start an RIA"
+    },
+    {
+      "level": "H3",
+      "text": "How to Start a Financial Planning Firm"
+    },
+    {
+      "level": "H3",
+      "text": "First-Year RIA Budget Projection"
+    },
+    {
+      "level": "H3",
+      "text": "The First-Year Financial Advisor Business Plan"
+    },
+    {
+      "level": "H3",
+      "text": "XYPN Makes it Possible"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Membership",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Ways to Join",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Resources & Events",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Blog →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/advisor-blog"
+    },
+    {
+      "text": "Podcast →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/podcast-blog"
+    },
+    {
+      "text": "On-Demand Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events#on-demand"
+    },
+    {
+      "text": "Guides & Courses →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads"
+    },
+    {
+      "text": "The Answer Hub →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/answer-hub"
+    },
+    {
+      "text": "Upcoming",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Live & Virtual Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events"
+    },
+    {
+      "text": "Blog →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/advisor-blog"
+    },
+    {
+      "text": "Podcast →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/podcast-blog"
+    },
+    {
+      "text": "On-Demand Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events#on-demand"
+    },
+    {
+      "text": "Guides & Courses →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads"
+    },
+    {
+      "text": "The Answer Hub →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/answer-hub"
+    },
+    {
+      "text": "Upcoming",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Live & Virtual Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events"
+    },
+    {
+      "text": "Get in touch →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/contact-us"
+    },
+    {
+      "text": "Find an Advisor →",
+      "tag": "A",
+      "href": "https://connect.xyplanningnetwork.com/find-an-advisor"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://app.xyplanningnetwork.com/login"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://app.xyplanningnetwork.com/login"
+    },
+    {
+      "text": "Get in touch →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/contact-us"
+    },
+    {
+      "text": "All Topics",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "All Topics",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads"
+    },
+    {
+      "text": "Start an RIA",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads/tag/start-an-ria"
+    },
+    {
+      "text": "Marketing",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads/tag/marketing"
+    },
+    {
+      "text": "Business Development",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads/tag/business-development"
+    },
+    {
+      "text": "Compliance",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads/tag/compliance"
+    },
+    {
+      "text": "The Essential RIA Compliance Guide",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads/your-essential-guide-to-compliance"
+    },
+    {
+      "text": "The Essential Guide to RIA Registration",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads/guide-to-ria-registration"
+    }
+  ],
+  "body_text": "Membership\nWays to Join\nResources & Events\nLogin\nGet in touch →\nResources\nTools for Financial Advisors\nFind expert and insider insights on everything from compliance to marketing. Start, run, and grow your financial advisory firm with confidence—we'll show you how.\nAll Topics\nCompliance\nThe Essential RIA Compliance Guide\nGuide\nThe Essential RIA Compliance Guide\nWe've never met a financial advisor without a compliance question. Take a look at this checklist to make sure you're staying compliant as you grow your firm\nThe Essential Guide to RIA Registration\nGuide\nThe Essential Guide to RIA Registration\nLearn what to expect when registering your Registered Investment Advisor (RIA) firm from XYPN Compliance—a leader in RIA registrations and compliance consulting.\nCompliance Manual for Starting an Independent RIA\nGuide\nCompliance Manual for Starting an Independent RIA\nLearn how to break away and start your own independent, fee-only RIA with our step-by-step compliance guide. Prepare, transition, register, and establish your compliance program with ease.\nMarketing\nRIA Growth Quiz\nQuiz\nRIA Growth Quiz\nDiscover the key areas where your RIA excels and uncover opportunities for improvement with this quiz.\nYour Brand Report Card\nQuiz\nYour Brand Report Card\nIn under 10 minutes, your Brand Report Card will highlight what’s working, reveal what’s holding you back, and give you a clear action plan to make your brand shine brighter, build trust faster, and drive lasting growth.\nRIA Marketing for Financial Advisors\nGuide\nReady, Set, Grow: An RIA Marketing Guide\nGain traction faster and convert ideal customers more easily with this step-by-step guide to growing your financial planning firm.\nYour Niche and Ideal Client\nCourse\nYour Niche and Ideal Client\nMaster your niche and ideal client with the FREE XYPN Academy course. Develop tailored solutions and build a successful practice. Access 100+ courses with XYPN membership. Let's connect!\nIdeal Client & Persona Workbook\nGuide\nIdeal Client & Persona Workbook\nA marketing guide for RIA owners: Identify your ideal clients and craft their persona to attract, qualify and engage clients\nRIA Marketing Funnel Template\nGuide\nRIA Marketing Funnel Template\nBuild an RIA marketing plan with this marketing funnel template, including a checklist of ideas and digital marketing advice for financial advisors.\nHow to Attract a New Generation of Clients to Your RIA\nGuide\nHow to Attract a New Generation of Clients to Your RIA\nLearn real strategies for attracting and profitably serving younger clients in your financial planning firm.\nFirst Year\nTransition Action Plan\nQuiz\nTransition Action Plan\nIn just a few minutes, your Transition Action Plan will give you a clear roadmap for moving from a broker-dealer to a fee-only RIA with confidence.\nCorporate RIA Benefits\nGuide\nSapphire Benefits Guide\nDiscover how Sapphire empowers fee-only financial planners with freedom, support, and control through its plug-and-play RIA affiliation model.\nEmerald Benefits Guide\nGuide\nEmerald Benefits Guide\nOur info-packed directory details official partners, free-for-members services, exclusive opportunities, and additional discounts.\nStarting Your Own RIA\nGuide\nRIA Roadmap: Emerald Membership\nStarting your own Registered Investment Advisor (RIA) firm is exciting, but it’s also complex. Download XYPN’s free 12-step roadmap for starting your own RIA. Get guidance on how to start an RIA, even with no AUM.\nJoining an RIA\nGuide\nRIA Roadmap: Sapphire Membership\nLearn how to transition to independence with confidence by joining an established RIA firm and maintaining full ownership and autonomy. Download the Sapphire Roadmap today.\nChart of Accounts Guide\nGuide\nChart of Accounts Guide\nAre your financials set up correctly? Not sure where to start? Get the guidance you need from our team of bookkeeping experts who know your world inside and out, including the regulations in your state.\nFee-for-Service Financial Planning\nBook\nFee-for-Service Financial Planning\nWritten by XYPN Co-Founders Alan Moore and Michael Kitces, this is THE guide you need to profitably launch, run, and scale your independent RIA based on an fee-for-service model.\nYour Firm, Your Terms\nGuide\nYour Firm, Your Terms: How to Start an RIA\nWondering what to expect when starting your own Registered Investment Advisor (RIA) Firm? This step-by-step guide covers all the bases so you can confidently navigate from where you are to where you want to be.\nHow to Start a Financial Planning Firm\nGuide\nHow to Start a Financial Planning Firm\nThinking about starting your own RIA? Use XYPN's All-in-One Checklist to be sure you have everything covered, from taxes to marketing and everything in between.\nFirst-Year RIA Budget Projection\nGuide\nFirst-Year RIA Budget Projection\nCurious about the average financial advisor budget? It can be different in your first year. We've lined out all the items you'll need to plan for here.\nThe First-Year Financial Advisor Business Plan\nGuide\nThe First-Year Financial Advisor Business Plan\nOur First-Year Business Plan template will help financial advisors create a vision, plan for the practical stuff, and prepare to start an independent RIA.\nXYPN Makes it Possible\nXYPN is the only advisor support platform that makes it possible for independent, fee-only financial planners to build the firm of their dreams with complete autonomy. We do this through ongoing advocacy and access to education and training, curated technology, compliance support, like-minded community, and back-office and client support services.\nGet in touch →\nRead our Twitter feed\nRead our Facebook feed\nRead our LinkedIn feed\nMembership\nCompliance\nBookkeeping\nInvestment Management\nSapphire\nMembership Standards\nResources\nBlog\nPodcasts\nWebinars & Virtual Events\nCFP® Scholarship\nEvents\nIndustry Events\nXYPN LIVE\nIndustry Experts\nAbout\nLeadership\nCareers\nPartners\nPrivacy\nPricing\nCopyright © 2026 XYPN"
+}

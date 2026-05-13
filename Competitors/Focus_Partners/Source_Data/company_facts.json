@@ -1,0 +1,72 @@
+{
+  "competitor": "Focus Partners Wealth",
+  "website": "https://www.focuspartners.com/wealth-management",
+  "last_updated": "2026-05-12",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": "https://linkedin.com/company/focuspartnerswealth",
+      "twitter": "https://x.com/FocusPartnersW",
+      "facebook": "https://facebook.com/FocusPartnersWealth/",
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [],
+    "footer_phones": [],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "FOCUS PARTNERS WEALTH, LLC",
+      "crd_number": "159289",
+      "sec_number": "801-72862",
+      "headquarters": "190 CARONDELET PLAZA, SUITE 600, ST. LOUIS, MO, 63105, United States",
+      "branch_count": 1005,
+      "disciplinary_disclosures": true,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "ATLAS PRIVATE WEALTH MANAGEMENT",
+        "THE COLONY GROUP, LLC",
+        "THE COLONY GROUP OF MISSOURI, LLC",
+        "THE COLONY GROUP OF FLORIDA, LLC",
+        "NEIRG WEALTH MANAGEMENT",
+        "MID-CONTINENT CAPITAL",
+        "INTEROCEAN CAPITAL GROUP",
+        "HUNT VALLEY WEALTH",
+        "HOYLECOHEN",
+        "GYL FINANCIAL SYNERGIES",
+        "GW & WADE AT THE COLONY GROUP",
+        "GW & WADE",
+        "GRATUS CAPITAL",
+        "D. K. BREDE INVESTMENT MANAGEMENT COMPANY, A FOCUS PARTNERS WEALTH COMPANY",
+        "D. K. BREDE INVESTMENT MANAGEMENT COMPANY",
+        "CONNECTUS PRIVATE",
+        "COLONY WEALTH MANAGEMENT, A DIVISION OF THE COLONY GROUP, LLC",
+        "COLONY INVESTMENT MANAGEMENT, A DIVISION OF THE COLONY GROUP, LLC",
+        "CHURCHILL MANAGEMENT GROUP",
+        "BUCKINGHAM STRATEGIC WEALTH"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/159289/PDF/159289.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/159289"
+    }
+  },
+  "manual": {
+    "_comment": "Fill these from Form ADV (US SEC- or state-registered RIAs file ADV publicly). 5 minutes per competitor. The adv_search_url below is pre-filled to the right firm name.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Focus%20Partners%20Wealth",
+    "adv_part_2a_url": null,
+    "headquarters": null,
+    "ownership": null,
+    "ownership_notes": null,
+    "disciplinary_history": null
+  }
+}

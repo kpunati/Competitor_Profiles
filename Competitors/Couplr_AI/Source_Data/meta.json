@@ -1,0 +1,24 @@
+{
+  "slug": "Couplr_AI",
+  "source_url": "https://www.couplr.ai/",
+  "competitor_name": "403",
+  "extracted_at": "2026-05-12T21:01:52.145Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.couplr.ai/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Couplr_AI/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.couplr.ai/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Couplr_AI/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.couplr.ai/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Couplr_AI/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

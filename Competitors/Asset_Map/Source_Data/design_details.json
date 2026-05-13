@@ -1,0 +1,65 @@
+{
+  "competitor": "Asset",
+  "extracted_at": "2026-05-13",
+  "source_url": "https://www.asset-map.com/",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(63, 68, 68)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(216, 239, 244)",
+        "count": 89
+      },
+      {
+        "color": "rgb(242, 245, 247)",
+        "count": 63
+      },
+      {
+        "color": "rgb(51, 112, 172)",
+        "count": 56
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 38
+      },
+      {
+        "color": "rgb(101, 193, 211)",
+        "count": 15
+      },
+      {
+        "color": "rgb(0, 76, 151)",
+        "count": 8
+      },
+      {
+        "color": "rgb(217, 218, 218)",
+        "count": 5
+      },
+      {
+        "color": "rgb(221, 221, 221)",
+        "count": 3
+      }
+    ],
+    "primary": "rgb(242, 245, 247)",
+    "accent": "rgb(51, 112, 172)"
+  },
+  "typography": {
+    "heading_family": "Asap, Arial, sans-serif",
+    "heading_weight": "700",
+    "body_family": "Lato, Georgia, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 14
+  },
+  "primary_button": {
+    "text": "Schedule a Demo",
+    "background": "rgb(0, 76, 151)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 12,
+    "padding": "12px 24px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

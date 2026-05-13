@@ -1,0 +1,52 @@
+{
+  "competitor": "Foundry Financial",
+  "website": "https://www.foundryfinancial.org/",
+  "last_updated": "2026-05-12",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "hello@foundryfinancial.org"
+    ],
+    "footer_phones": [
+      "(213) 802-8662"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "FOUNDRY FINANCIAL LLC",
+      "crd_number": "300122",
+      "sec_number": "801-133770",
+      "headquarters": "479 S MARENGO AVE, PASADENA, CA, 91101, United States",
+      "branch_count": 7,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "FOUNDRY FINANCIAL, LLC"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/300122/PDF/300122.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/300122"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Foundry%20Financial"
+  }
+}

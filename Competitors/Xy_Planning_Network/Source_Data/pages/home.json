@@ -1,0 +1,289 @@
+{
+  "kind": "home",
+  "url": "https://www.xyplanningnetwork.com/",
+  "title": "Fee-Only Financial Planning Made Possible with XYPN",
+  "meta": {
+    "description": "XYPN makes it possible for fee-only financial advisors to start, run, and scale the RIA of their dreams with complete autonomy. ",
+    "og_title": "Fee-Only Financial Planning Made Possible with XYPN",
+    "og_description": "XYPN makes it possible for fee-only financial advisors to start, run, and scale the RIA of their dreams with complete autonomy. "
+  },
+  "headings": [
+    {
+      "level": "H3",
+      "text": "Ways to Join"
+    },
+    {
+      "level": "H1",
+      "text": "Your Firm, Your Terms"
+    },
+    {
+      "level": "H2",
+      "text": "Launch, run and grow the fee-only firm of your dreams with complete autonomy"
+    },
+    {
+      "level": "H2",
+      "text": "100%"
+    },
+    {
+      "level": "H2",
+      "text": "2100+"
+    },
+    {
+      "level": "H2",
+      "text": "90%"
+    },
+    {
+      "level": "H2",
+      "text": "Your best life starts here"
+    },
+    {
+      "level": "H3",
+      "text": "Real Autonomy"
+    },
+    {
+      "level": "H3",
+      "text": "True Support"
+    },
+    {
+      "level": "H3",
+      "text": "Connection"
+    },
+    {
+      "level": "H3",
+      "text": "Confidence"
+    },
+    {
+      "level": "H3",
+      "text": "Affordable Transparency"
+    },
+    {
+      "level": "H3",
+      "text": "Trusted Expertise"
+    },
+    {
+      "level": "H2",
+      "text": "Two Paths to Independence"
+    },
+    {
+      "level": "H3",
+      "text": "Choose the fit that's right for you"
+    },
+    {
+      "level": "H2",
+      "text": "Tech Tools"
+    },
+    {
+      "level": "H3",
+      "text": "Included in Membership"
+    },
+    {
+      "level": "H2",
+      "text": "Compliance with Confidence"
+    },
+    {
+      "level": "H2",
+      "text": "Find your people"
+    },
+    {
+      "level": "H2",
+      "text": "Education & Resources"
+    },
+    {
+      "level": "H3",
+      "text": "End-to-end education"
+    },
+    {
+      "level": "H3",
+      "text": "In-person events"
+    },
+    {
+      "level": "H3",
+      "text": "Resource library"
+    },
+    {
+      "level": "H3",
+      "text": "Practice management support and resources for every firm phase"
+    },
+    {
+      "level": "H3",
+      "text": "Drop-in office hours and peer-led coaching"
+    },
+    {
+      "level": "H3",
+      "text": "Templates for every need"
+    },
+    {
+      "level": "H2",
+      "text": "Emerald Support Services\n& Tool Kits"
+    },
+    {
+      "level": "H2",
+      "text": "Set it and Forget it Lead Generation"
+    },
+    {
+      "level": "H2",
+      "text": "Expert, Peer & Group Coaching"
+    },
+    {
+      "level": "H2",
+      "text": "Advocacy"
+    },
+    {
+      "level": "H3",
+      "text": "XYPN Makes it Possible"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "privacy policy",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/data-privacy-policy"
+    },
+    {
+      "text": "Cookies settings",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Accept",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Decline",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Membership",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Ways to Join",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Resources & Events",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Blog →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/advisor-blog"
+    },
+    {
+      "text": "Podcast →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/podcast-blog"
+    },
+    {
+      "text": "On-Demand Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events#on-demand"
+    },
+    {
+      "text": "Guides & Courses →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads"
+    },
+    {
+      "text": "The Answer Hub →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/answer-hub"
+    },
+    {
+      "text": "Upcoming",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Live & Virtual Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events"
+    },
+    {
+      "text": "Blog →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/advisor-blog"
+    },
+    {
+      "text": "Podcast →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/podcast-blog"
+    },
+    {
+      "text": "On-Demand Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events#on-demand"
+    },
+    {
+      "text": "Guides & Courses →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads"
+    },
+    {
+      "text": "The Answer Hub →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/answer-hub"
+    },
+    {
+      "text": "Upcoming",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Live & Virtual Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events"
+    },
+    {
+      "text": "Get in touch →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/contact-us"
+    },
+    {
+      "text": "Find an Advisor →",
+      "tag": "A",
+      "href": "https://connect.xyplanningnetwork.com/find-an-advisor"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://app.xyplanningnetwork.com/login"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://app.xyplanningnetwork.com/login"
+    },
+    {
+      "text": "Get in touch →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/contact-us"
+    },
+    {
+      "text": "Start an RIA ↗",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/start-an-ria"
+    },
+    {
+      "text": "Grow your RIA ↗",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/grow-your-ria"
+    },
+    {
+      "text": "Join our RIA ↗",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/sapphire"
+    },
+    {
+      "text": "Find an advisor ↗",
+      "tag": "A",
+      "href": "https://connect.xyplanningnetwork.com/find-an-advisor"
+    }
+  ],
+  "body_text": "Membership\nWays to Join\nResources & Events\nLogin\nGet in touch →\nSUPPORT WITHOUT STRINGS\nYour Firm, Your Terms\nLaunch, run and grow the fee-only firm of your dreams with complete autonomy\nMake it possible with the only advisor support system that connects you with everything you need to succeed profitably—including a support network of collaborative peers—and guarantees 100% ownership of your business, client relationships, data, and brand.\nStart an RIA ↗\nStart an RIA ↗\nGrow your RIA ↗\nGrow your RIA ↗\nJoin our RIA ↗\nJoin our RIA ↗\nFind an advisor ↗\nFind an advisor ↗\nScroll\n100%\nOWNERSHIP OF YOUR BUSINESS, DATA & CLIENT RELATIONSHIPS\n2100+\nLIKE-MINDED & COLLABORATIVE ADVISORS\n90%\nMEMBERS WHO RATE THEIR EXPERIENCE \"HIGH SATISFACTION\"\nTHE XYPN EXPERIENCE\nYour best life starts here\nFounded by fee-only financial planners, for fee-only financial planners. Our advisor support platform is designed to do one thing—help make your dream firm possible. Partner with XYPN and expect:\nReal Autonomy\nAdvisor Support Platform means we give you the keys to everything we’ve built so you can run your firm on your terms. Use as much or as little of our resources as you choose. Your practice and its value always belong to you. If you’re not satisfied, you can exit at any time with your clients and 100% of your revenue.\nTrue Support\nWhether you are starting, growing, or scaling your RIA, we are committed to your success. Experience unparalleled support with every tool, resource, and solution—plus ongoing advocacy at both the state and SEC levels to champion the interests of independent, fee-only financial planners.\nConnection\nFind your fit when you plug into XYPN's network of like-minded advisors and team of friendly specialists. You may be independent, but you're never alone when you connect with your support system working eagerly for your growth and success.\nConfidence\nGood financial planning often requires solving complex client situations. Advise your clients with confidence knowing you are equipped with a complete toolkit of resources to level up your solutions, services, and business for optimal client experience.\nAffordable Transparency\nAffordable pricing means the most ROI for you and your clients. Know what to expect with simple, transparent pricing designed to increase your bottom line—not ours.\nTrusted Expertise\nEntrepreneurship and all of its responsibilities can feel overwhelming. Enjoy the peace of mind that comes with having a team of experts with you every step of the way. Count on their due diligence to provide you with best-fit technology and support services that ease those burdens.\nJenn Steliga, CFP®, CFT™ | Find Your FI |\nXYPN MEMBER SINCE 2022\nPICK YOUR PATH\nTwo Paths to Independence\nChoose the fit that's right for you\nEMERALD\nFor advisors who want their RIA their way, with hands-on control of daily operations, plus the flexibility to add or remove Support Services and Tool Kits as your needs evolve—so you always have the right support at the right time.\nDISCOVER EMERALD ↗\nSAPPHIRE\nFor advisors who prefer the structure of tucking under a corporate RIA—paired with built-in support that lifts back-office burdens, so you can spend less time on what drains you and more time on what drives you.\nDISCOVER SAPPHIRE ↗\nWhich path is right for you?\nFind your fit →\nXYPN has been instrumental to my success as an independent, solo RIA. I would not have been able to enter the industry as a career changer without educational resources like XYPN Academy and compliance support. The community aspects of XYPN help firm owners feel like we’re not on an island. And the tech stack is a tremendous value for the money, enabling us to serve more clients at a lower cost!”\nAllen Mueller, CFA, MBA\n7 SATURDAYS FINANCIAL\nAllen Mueller, CFA, MBA | 7 Saturdays Financial |\nXYPN MEMBER SINCE 2022\nCynthia Meyer, CFA®, CFP®, ChFC® | Real Life Planning |\nXYPN MEMBER SINCE 2022\nBEST-IN-CLASS TECHNOLOGY\nTech Tools\nStarting and running an RIA requires the latest technology. But who has time for the due diligence it takes to source and stay on top of the best-in-class RIA software solutions that save fee-only financial planners time, money, and headaches? Our industry experts do! They've put their expertise and first-hand knowledge to work for you by vetting and negotiating enterprise-priced partnerships with the top technology for RIA owners.\nGET PLUGGED IN →\nIncluded in Membership\nEXCLUSIVE MEMBER DISCOUNTS\nEXPERT COMPLIANCE SUPPORT\nCompliance with Confidence\nWhether you wear your own CCO hat as an Emerald Member or choose to outsource compliance management to the Sapphire team, all members have access to a dedicated team of RIA compliance experts who provide you with end-to-end, real-time support so you can navigate any compliance complexity with ease and confidence.\nFrom RIA and IAR registration to regulatory exam prep to ADV updates and all the regulator-proof best practices in between, we’re with you every step of the way. Together we can automate key processes and establish systems that reduce time spent managing records and filings so you can spend your time doing what you want to do—not what you have to do.\nCompliance has been so helpful. It's an outstanding resource. I dial into Office Hours. I ask a question and I'm confident in the answer that I get.\nTerri Spath, CFP®, CFA\nZUMA WEALTH\nINCLUDED IN MEMBERSHIP:\nAnnual ADV Update\nSmartria Compliance and Task Management Software\nWeekly Office Hours with our knowledgeable in-house team\nAccess to Members-Only Compliance Forum\nCompliance education via webinars and XYPN Academy\nHow-To Guides and Templates\nNatalie Slagle, CFP® | Fyooz Financial |\nXYPN MEMBER SINCE 2019\nREAL PEOPLE, REAL SUPPORT\nFind your people\nBeing part of a collaborative community is one of the most powerful drivers of success. That’s why it’s been a core focus since day one.\nWe connect you with a community that feels like home—where learning, sharing, and support come naturally. With over 2,100 like-minded advisors growing together, you may be independent, but you’re never alone when you plug into the Network:\nMatch with a Mastermind Group that has been called the “gift that keeps giving toward personal and professional growth” and “impact acceleration at its best!”\nTap into member forums to find solutions and support from your peers\nAttend virtual events offering peer and expert-led insights & solutions\nFeel seen, heard, and supported at huddles, meet-ups, or conference connects\nExperience the full power of the Network at XYPN LIVE—hailed as “far and away the best conference out there for fee-only advisors.”\nCONNECT WITH YOUR COMMUNITY →\nWhen I felt called to launch my own financial planning firm, I had no idea where to start. I started looking at the basic components I knew I would need, compliance and tech. I stumbled on XYPN’s First-Year Budget worksheet comparison and it became a no-brainer. I’ve also found an incredible community of other advisors. Our mastermind group is also a great benefit. XYPN and the members offer what it really looks like to start a firm and some of the challenges and success that we may face.”\nKaysian Gordon, MBA, CFP®, CPA, CKA\nKAYSI GORDON FINANCIAL PLANNING\nKaysian Gordon, MBA, CFP®, CPA, CKA® | Kaysian Gordon Financial Planning |\nXYPN MEMBER SINCE 2021\nYOUR PATH TO SUCCESS\nEducation & Resources\nNo matter where you are in your firm journey, we can provide a clear path to your success. Designed to act as the ultimate GPS for your RIA, our resources, educational tools, and coaching services act as part map, part turn-by-turn guidance, and part course-correct. Together we’ll navigate from wherever you are to wherever you want to be in the most efficient, tested way.\nImagine having access to all the navigational tools you need to steer your business to sustainable success:\nEnd-to-end education\nCheck out nearly endless on-demand training, workshops, and resources including CFP® Continuing Education Credit Courses.\nIn-person events\nConnect with peers and level up your firm in all the ways that matter at XYPN LIVE, XYPN Retreats and meetups.\nResource library\nWith blogs, podcasts, webinars, templates, plans, and books on Sales, Marketing, Business, and Financial Planning—we've got everything you need to run your financial planning business.\nPractice management support and resources for every firm phase\nDrop-in office hours and peer-led coaching\nTemplates for every need\nFrom your financial advisor business plan to marketing and all things compliance—we've done the leg work to give you the leg up!\nADD-ON SUPPORT FOR EVERY FIRM PHASE\nEmerald Support Services\n& Tool Kits\nDo what you do best and trust us with the rest. Your clients will thank you for it.\nWith great freedom comes great responsibilities. No one understands better than we do what it takes to launch, run, and grow your dream RIA while serving your clients in the best possible way. So we built our Emerald Support Services to handle the behind-the-scenes heavy lifting—so you can stay focused on what moves you forward, not what holds you back.\nI need a Solution →\nBookkeeping\nCompliance\nInvestment Management\nLaunch Kits\nSet it and Forget it Lead Generation\nProspects can find and connect with you easily through our CFP®-designated Find An Advisor search portal.\nSEE YOURSELF HERE →\nPRACTICAL INSIGHTS, REAL RESULTS\nExpert, Peer & Group Coaching\nWhatever challenge you’re facing or goal you're chasing, tap into the expertise you need to move forward. Unlock practice, compliance and investment management guidance that makes a real impact—from our experts and your peers.\nAccess support your way: join Support Services Office Hours, drop-in and group coaching, or peer-led programming where you gain more than advice—you plug into the collective wisdom of a community learning and growing together. With the full strength of the Network behind you, you’ll go from blocked to bankable in no time.\nBradley Hilton, CFP®, MBA | Sonas Financial Planning |\nXYPN MEMBER SINCE 2021\nMichael Kitces |\nXYPN CO-FOUNDER\nPOWERFUL PARTNERS ON YOUR TEAM\nAdvocacy\nMaking it possible for everyone to live their great life\nEveryone deserves trusted financial advice. And you deserve to be able to provide it. That's why XYPN fights for the fiduciary standard of excellence and the establishment of regulation in the consumer’s best interest.\nLed by XYPN co-founder Michael Kitces, we are actively working to advance public policy that recognizes financial planning as a distinct and respected profession—separate from the essential but different roles of financial product manufacturers and distributors. Continuing to support and advocate for the fiduciary standard is part of our mission.\nCathy Curtis, CFP® | Curtis Financial |\nXYPN MEMBER SINCE 2020\n“If you're an independent-minded person, it’s totally the way to go.”\nCathy Curtis, CFP®\nCURTIS FINANCIAL\nWhat can XYPN do for you?\nLet's find out →\nXYPN Makes it Possible\nXYPN is the only advisor support platform that makes it possible for independent, fee-only financial planners to build the firm of their dreams with complete autonomy. We do this through ongoing advocacy and access to education and training, curated technology, compliance support, like-minded community, and back-office and client support services.\nGet in touch →\nRead our Twitter feed\nRead our Facebook feed\nRead our LinkedIn feed\nMembership\nCompliance\nBookkeeping\nInvestment Management\nSapphire\nMembership Standards\nResources\nBlog\nPodcasts\nWebinars & Virtual Events\nCFP® Scholarship\nEvents\nIndustry Events\nXYPN LIVE\nIndustry Experts\nAbout\nLeadership\nCareers\nPartners\nPrivacy\nPricing\nCopyright © 2026 XYPN"
+}

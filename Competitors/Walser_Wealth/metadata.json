@@ -1,0 +1,91 @@
+{
+  "competitor": "Walser Wealth Management",
+  "slug": "Walser_Wealth",
+  "summary_line": "Single-office Tampa RIA built around tax-attorney founder Rebecca Walser — contrarian, media-led, retirement-stage focus with anti-401(k) positioning and opaque pricing.",
+  "website": "https://walserwealth.com/",
+  "competitor_type": "wealth_mgmt_tax_specialty",
+  "threat_level": "medium",
+  "confidence": "medium",
+  "last_updated": "2026-05-12",
+  "next_review_by": "2026-08-09",
+  "review_cadence_days": 90,
+  "team_size": "small",
+  "advisor_count": 13,
+  "employee_count": 26,
+  "branch_count": 1,
+  "geographic_scope": "regional",
+  "headquarters_city": "Tampa",
+  "headquarters_state": "FL",
+  "aum_usd": 344142233,
+  "aum_as_of": "2026-03-31",
+  "pricing_model": "opaque",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+  "wealth_tiers_served": [
+    "mass_affluent",
+    "hnw"
+  ],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "206518",
+  "sec_number": "801-127246",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+  "media_presence": "personality_led",
+  "design_tone": "establishment",
+  "positioning_claims": [
+    "tax_specialty",
+    "personality_led",
+    "contrarian_vs_conventional",
+    "boutique",
+    "anti_tiering"
+  ],
+  "vulnerabilities": [
+    "single_founder_dependency",
+    "opaque_team",
+    "opaque_pricing",
+    "mixed_revenue_with_commissions",
+    "no_fee_transparency",
+    "no_segment_specific_messaging",
+    "anti_401k_alienates_our_target_segments"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "consumer_facing",
+    "media_personality_led",
+    "content_engine",
+    "jd_llm_credentialed",
+    "clean_regulatory_record",
+    "regional",
+    "aum_fee"
+  ],
+  "related_competitors": [
+    "Focus_Partners",
+    "Ritholtz_Wealth"
+  ],
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-03-31",
+        "event": "ADV snapshot — 26 employees; 13 advisors performing advisory functions; $344,142,233 regulatory AUM; 685 client accounts",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      }
+    ]
+  }
+}

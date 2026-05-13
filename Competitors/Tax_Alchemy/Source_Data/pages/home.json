@@ -1,0 +1,18 @@
+{
+  "kind": "home",
+  "url": "https://taxalchemy.com/",
+  "title": "Checking your browser...",
+  "meta": {
+    "description": null,
+    "og_title": null,
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Checking your browser"
+    }
+  ],
+  "ctas": [],
+  "body_text": "Checking your browser\nThis will only take a few seconds..."
+}

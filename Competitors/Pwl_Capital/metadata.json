@@ -1,0 +1,154 @@
+{
+  "competitor": "PWL Capital",
+  "slug": "Pwl_Capital",
+  "summary_line": "Canadian fee-based RIA with a category-shaping content engine — Ben Felix's Common Sense Investing YouTube channel and the Rational Reminder podcast (co-hosted with Cameron Passmore, now Chairman) — that reaches a global evidence-based investing audience including many US retail listeners who cannot actually transact with the firm.",
+  "website": "https://pwlcapital.com/",
+  "competitor_type": "wealth_mgmt_content_led",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-12",
+  "next_review_by": "2026-11-08",
+  "review_cadence_days": 180,
+
+  "team_size": "mid",
+  "advisor_count": null,
+  "employee_count": 100,
+  "branch_count": 3,
+  "geographic_scope": "national",
+  "headquarters_city": "Ottawa",
+  "headquarters_state": "ON",
+
+  "aum_usd": null,
+  "aum_as_of": "2026-05-12",
+
+  "pricing_model": "gated_via_funnel",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": [
+    "mass_affluent",
+    "hnw",
+    "uhnw"
+  ],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "not_aimed",
+
+  "regulatory_jurisdiction": "CA",
+  "regulator": "CIRO + FSRA + AMF",
+  "regulatory_note": "Canadian firm. PWL Capital Inc. regulated by CIRO; PWL Advisors Inc. regulated by FSRA (Ontario) and AMF (Quebec). No US SEC registration — pipeline's enrich-adv.ts correctly returned no IAPD match. AUM/headcount/branch counts are site-stated (~$7B+ CAD, 100+ employees, 3 offices) rather than from a US-ADV-equivalent filing. National Bank Independent Network is the carrying broker.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "private_partnership",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fiduciary",
+    "evidence_based",
+    "content_led",
+    "category_shaping",
+    "named_byline_content",
+    "comprehensive",
+    "advice_only_no_products"
+  ],
+  "vulnerabilities": [
+    "key_person_risk",
+    "geographic_concentration",
+    "no_fee_transparency",
+    "no_early_adult_surface",
+    "no_segment_specific_messaging"
+  ],
+  "tags": [
+    "multi_advisor",
+    "consumer_facing",
+    "content_engine",
+    "media_personality_led",
+    "not_sec_registered",
+    "canadian_ria",
+    "regional",
+    "founder_led"
+  ],
+  "related_competitors": [
+    "Ritholtz_Wealth",
+    "Kitces",
+    "Xy_Planning_Network"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      {"as_of": "2014-12-31", "value_usd": null, "value_cad": 1000000000, "source": "site about page timeline"},
+      {"as_of": "2017-12-31", "value_usd": null, "value_cad": 2000000000, "source": "site about page timeline"},
+      {"as_of": "2019-12-31", "value_usd": null, "value_cad": 3000000000, "source": "site about page timeline"},
+      {"as_of": "2020-12-31", "value_usd": null, "value_cad": 5600000000, "source": "site about page timeline"},
+      {"as_of": "2026-05-12", "value_usd": null, "value_cad": 7000000000, "source": "site homepage stated $7B+ AUM"}
+    ],
+    "advisor_count_history": [],
+    "employee_count_history": [
+      {"as_of": "2026-05-12", "value": 100, "source": "site about page — '100+ Employees Ready to Serve You'"}
+    ],
+    "branch_count_history": [
+      {"as_of": "2026-05-12", "value": 3, "source": "contact page lists Ottawa, Montreal, Regina — Vancouver pending via Chalten acquisition"}
+    ],
+    "notable_events": [
+      {"date": "1996", "event": "Founded by James Parkyn, Laurent Wermenlinger, Anthony Layton — fee-based, no in-house products, no commissions, integrated planning + investment management", "source": "site about page timeline"},
+      {"date": "1997", "event": "Ottawa office opens; Cameron Passmore joins PWL in Ottawa", "source": "site about page timeline"},
+      {"date": "2000", "event": "PWL adopts ETFs", "source": "site about page timeline"},
+      {"date": "2003", "event": "DFA mutual funds launched in Canada; PWL makes lead order of $100M", "source": "site about page timeline"},
+      {"date": "2018", "event": "Cameron Passmore and Ben Felix launch the Rational Reminder Podcast", "source": "site about page timeline"},
+      {"date": "2021", "event": "Tony Layton retires; Cameron Passmore becomes majority owner and Chairman of the Board", "source": "site about page timeline"},
+      {"date": "2025", "event": "PWL partners with OneDigital; acquires TCM Financial and EB Wealth", "source": "site about page timeline"},
+      {"date": "2026-05", "event": "30th anniversary; ~$7B CAD AUM, 2,700+ client families, 100+ employees; Vancouver expansion via Chalten Fee-Only Advisors acquisition; recent Western Canada expansion via Macdonald, Shymko & Company; France Kingsbury appointed Chief Legal and Compliance Officer; PWL joins SIMA; Rational Reminder podcast at Episode 408", "source": "site homepage + articles index"}
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability.",
+    "_canadian_note": "PWL Capital is a Canadian firm regulated by CIRO (Canadian Investment Regulatory Organization), not the SEC. US-ADV-derived fields (sec_registered, crd_number, sec_number, disciplinary_disclosures, aum_usd) are intentionally null. AUM is stated in CAD on the site (~$7B CAD as of 2026-05); see trajectory.aum_history.value_cad."
+  }
+}

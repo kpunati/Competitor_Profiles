@@ -1,0 +1,34 @@
+{
+  "slug": "Pwl_Capital",
+  "source_url": "https://pwlcapital.com/",
+  "competitor_name": "PWL Capital",
+  "extracted_at": "2026-05-12T17:56:08.954Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://pwlcapital.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Pwl_Capital/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://pwlcapital.com/services/financial-planning/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Pwl_Capital/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://pwlcapital.com/about/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Pwl_Capital/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://pwlcapital.com/articles/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Pwl_Capital/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://pwlcapital.com/contact-us/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Pwl_Capital/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

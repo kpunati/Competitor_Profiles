@@ -1,0 +1,97 @@
+{
+  "competitor": "XY Planning Network",
+  "slug": "Xy_Planning_Network",
+  "summary_line": "B2B subscription network — not an RIA itself — that sells operational infrastructure ($544/month Emerald tier) to 2,100+ fee-only advisor firms, many of which target our Gen X/Y demographics.",
+  "website": "https://www.xyplanningnetwork.com",
+  "competitor_type": "b2b_network",
+  "threat_level": "medium-high",
+  "confidence": "medium",
+  "last_updated": "2026-05-12",
+  "next_review_by": "2026-07-10",
+  "review_cadence_days": 60,
+  "team_size": "small",
+  "advisor_count": 5,
+  "employee_count": 5,
+  "branch_count": 2,
+  "geographic_scope": "national",
+  "headquarters_city": "Onalaska",
+  "headquarters_state": "WI",
+  "aum_usd": 175656748,
+  "aum_as_of": "2026-03-31",
+  "pricing_model": "membership_fee",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": 544,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+  "wealth_tiers_served": [
+    "mass_market",
+    "mass_affluent"
+  ],
+  "segment_early_adults": "ok",
+  "segment_mid_career_401k": "ok",
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "The IAPD-matched RIA (CRD 313361 — Fiduciary Financial Planning Network LLC) is the network's tuck-in operational entity used by Sapphire-path members, NOT the network itself. XYPN-the-network is a B2B subscription business and is not separately registered. The 2,100+ member firms each hold their own registrations.",
+  "sec_registered": true,
+  "crd_number": "313361",
+  "sec_number": null,
+  "ownership_structure": "network_collective",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
+  "positioning_claims": [
+    "fee_only",
+    "fiduciary",
+    "gen_xy_focus",
+    "transparent_pricing",
+    "two_customer_architecture",
+    "category_shaping",
+    "b2b_advisor_focused"
+  ],
+  "vulnerabilities": [
+    "no_published_collective_aum",
+    "sapphire_tuck_in_contradicts_independence",
+    "no_consumer_facing_depth"
+  ],
+  "tags": [
+    "dual_facing",
+    "b2b_facing",
+    "membership_fee",
+    "content_engine",
+    "national_aggregator",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Kitces",
+    "Advize_Wealth",
+    "Ritholtz_Wealth"
+  ],
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2014",
+        "event": "XY Planning Network founded by Michael Kitces and Alan Moore",
+        "source": "industry context"
+      },
+      {
+        "date": "2026-05",
+        "event": "Network at 2,100+ member firms; Emerald tier published at $544/month",
+        "source": "site captured 2026-05-11"
+      },
+      {
+        "date": "2026-03-31",
+        "event": "ADV snapshot — 5 employees; 5 advisors performing advisory functions; $175,656,748 regulatory AUM; 1,147 client accounts",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      }
+    ]
+  }
+}

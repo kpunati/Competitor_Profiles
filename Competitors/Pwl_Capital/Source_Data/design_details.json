@@ -1,0 +1,65 @@
+{
+  "competitor": "PWL Capital",
+  "extracted_at": "2026-05-12",
+  "source_url": "https://pwlcapital.com/",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(18, 19, 33)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 15
+      },
+      {
+        "color": "rgb(0, 17, 51)",
+        "count": 10
+      },
+      {
+        "color": "rgb(8, 148, 211)",
+        "count": 4
+      },
+      {
+        "color": "rgba(16, 181, 150, 0.12)",
+        "count": 4
+      },
+      {
+        "color": "rgba(217, 238, 247, 0.65)",
+        "count": 2
+      },
+      {
+        "color": "rgb(16, 181, 150)",
+        "count": 2
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.6)",
+        "count": 1
+      },
+      {
+        "color": "rgba(255, 255, 255, 0.1)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(0, 17, 51)",
+    "accent": "rgb(8, 148, 211)"
+  },
+  "typography": {
+    "heading_family": "\"Century Gothic\", sans-serif",
+    "heading_weight": "700",
+    "body_family": "brother-1816, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 17,
+    "paragraph_size_px": 15
+  },
+  "primary_button": {
+    "text": "MEET WITH US",
+    "background": "rgb(8, 148, 211)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 0,
+    "padding": "14px 20px 15px 19px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

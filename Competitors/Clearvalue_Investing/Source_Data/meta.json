@@ -1,0 +1,29 @@
+{
+  "slug": "Clearvalue_Investing",
+  "source_url": "https://clearvalueinvesting.com/",
+  "competitor_name": "CLEARVALUE INVESTING",
+  "extracted_at": "2026-05-13T18:03:30.217Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://clearvalueinvesting.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Clearvalue_Investing/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "pricing",
+      "url": "https://clearvalueinvesting.com/pricing/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Clearvalue_Investing/Source_Data/pages/pricing.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://clearvalueinvesting.com/news/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Clearvalue_Investing/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://clearvalueinvesting.com/contact-us/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Clearvalue_Investing/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

@@ -1,0 +1,175 @@
+{
+  "competitor": "Intrepid Wealth Partners",
+  "slug": "Intrepid_Wealth_Partners",
+  "summary_line": "Solo-CFP RIA (~$54M AUM, 1 advisor, ~356 client accounts) in Melbourne Beach, FL, led by founder Derek Notman — surf-themed 'beach vibes' brand targeting 'high-earning millennials,' doctors, founders, and executives with a fully published three-tier asset-based fee schedule (1.00% / 0.70% / 0.55%), no account minimums, and a named modern tech stack (Altruist, Asset Map, Nitrogen).",
+  "website": "https://www.intrepidwealthpartners.com/",
+  "competitor_type": "wealth_mgmt_solo",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-12",
+  "next_review_by": "2026-11-08",
+  "review_cadence_days": 180,
+
+  "team_size": "solo",
+  "advisor_count": 1,
+  "employee_count": 1,
+  "branch_count": 2,
+  "geographic_scope": "regional",
+  "headquarters_city": "Melbourne Beach",
+  "headquarters_state": "FL",
+
+  "aum_usd": 53794996,
+  "aum_as_of": "2026-03-20",
+
+  "pricing_model": "transparent_tiers",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": 0.0055,
+  "fee_aum_pct_high": 0.01,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_market", "mass_affluent", "hnw"],
+
+  "segment_early_adults": "ok",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "IAPD reports a federal SEC file number (801-122744) and CRD 317153 with $53.8M regulatory AUM. The firm's own site copy says 'State Registered Investment Advisor' (likely outdated boilerplate or a transitional state — at ~$54M AUM Intrepid is below the $100M federal floor and would normally be state-registered in FL). Treating as SEC-registered per IAPD's authoritative record; flag for verification on next refresh.",
+  "sec_registered": true,
+  "crd_number": "317153",
+  "sec_number": "801-122744",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fiduciary",
+    "evidence_based",
+    "transparent_pricing",
+    "niche_specialist",
+    "segment_specific",
+    "personality_led",
+    "modern_tech",
+    "contrarian_vs_conventional",
+    "gen_xy_focus",
+    "comprehensive"
+  ],
+  "vulnerabilities": [
+    "single_practitioner_capacity",
+    "key_person_risk",
+    "no_401k_specific_funnel",
+    "no_early_adult_surface",
+    "geographic_concentration"
+  ],
+  "tags": [
+    "founder_led",
+    "solo_advisor",
+    "regional",
+    "consumer_facing",
+    "cfp_credentialed",
+    "aum_fee",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Advize_Wealth",
+    "Streamline_Planning",
+    "Foundry_Financial"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      {
+        "as_of": "2026-03-20",
+        "value_usd": 53794996,
+        "source": "ADV"
+      }
+    ],
+    "advisor_count_history": [
+      {
+        "as_of": "2026-03-20",
+        "value": 1,
+        "source": "ADV"
+      }
+    ],
+    "employee_count_history": [
+      {
+        "as_of": "2026-03-20",
+        "value": 1,
+        "source": "ADV"
+      }
+    ],
+    "branch_count_history": [
+      {
+        "as_of": "2026-03-20",
+        "value": 2,
+        "source": "IAPD"
+      }
+    ],
+    "notable_events": [
+      {
+        "date": "2026-03-20",
+        "event": "ADV snapshot — 1 employee, 1 advisor performing advisory functions, $53,794,996 regulatory AUM, 356 client accounts, zero disciplinary disclosures.",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts; CRD 317153)"
+      },
+      {
+        "date": "2026-05-12",
+        "event": "Site captured: surf-themed 'beach vibes' brand; published three-tier fee schedule (The Break <$100K / The Set $100K-$500K / The Barrel $500K+, all sharing the same 1.00% / 0.70% / 0.55% asset-based fee bands); no account minimums but explicit 'personality minimums'; only 12 new client relationships per quarter cap; named tech stack (Altruist custody, Asset Map planning, Nitrogen risk); 3-person on-site team (Derek Notman founder/CEO/CFP, Karen Nickler executive assistant since 2015, Kristen Mueller compliance/operations — Series 65). Latest visible blog posts April 18 of an unspecified year; only 2 posts surfaced on the index — content cadence is light.",
+        "source": "tools/extract.ts"
+      },
+      {
+        "date": "2026-05-12",
+        "event": "Site copy in footer says 'State Registered Investment Advisor' while IAPD shows SEC file 801-122744 — possible outdated boilerplate; verify on next refresh.",
+        "source": "intrepidwealthpartners.com footer vs. IAPD CRD 317153"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "regulatory_jurisdiction": "US | CA | UK | AU | EU | multiple | none (controlled vocab — see _context/taxonomy.md)",
+    "regulator": "Free-form string. Common values: SEC, state (NAME), CIRO + FSRA + AMF, FCA, ASIC, none, multiple. The actual regulator(s) the firm answers to. Use 'none' for content platforms and other non-registered entities.",
+    "regulatory_note": "Optional sentence explaining what's missing vs. an ADV-style dataset because of jurisdiction (vs. missing because we haven't pulled it). Null for US SEC-registered firms where we got the standard ADV pull.",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "query": "Starke",
+  "top": {
+    "firm_source_id": "116023",
+    "firm_name": "STARKEY & ASSOCIATES, INC.",
+    "firm_other_names": [
+      "STARKEY & ASSOCIATES, INC."
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 2,
+    "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"EVERGREEN\", \"state\": \"CO\", \"country\": \"United States\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "116023",
+      "firm_name": "STARKEY & ASSOCIATES, INC.",
+      "firm_other_names": [
+        "STARKEY & ASSOCIATES, INC."
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 2,
+      "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"EVERGREEN\", \"state\": \"CO\", \"country\": \"United States\"}}"
+    },
+    {
+      "firm_source_id": "326311",
+      "firm_name": "STARKEL WEALTH ADVISORS, LLC",
+      "firm_other_names": [
+        "STARKEL WEALTH ADVISORS, LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 1,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1990 MAIN STREET\", \"street2\": \"SUITE 750\", \"city\": \"SARASOTA\", \"state\": \"FL\", \"country\": \"United States\", \"postalCode\": \"34236\"}}"
+    },
+    {
+      "firm_source_id": "323738",
+      "firm_name": "STARKEL CAPITAL MANAGEMENT, INC",
+      "firm_other_names": [
+        "STARKEL CAPITAL MANAGEMENT, INC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 1,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"19015 BLONDO STREET\", \"city\": \"OMAHA\", \"state\": \"NE\", \"country\": \"United States\", \"postalCode\": \"68022\"}}"
+    },
+    {
+      "firm_source_id": "22489",
+      "firm_bd_sec_number": "34975",
+      "firm_bd_full_sec_number": "8-34975",
+      "firm_name": "NOVA SECURITIES, INCORPORATED",
+      "firm_other_names": [
+        "INVESTOR'S RESEARCH SECURITIES CORPORATION",
+        "STARKEY, WHITTAKER & SCOTT, INCORPORATED",
+        "SCOTT SECURITIES, INCORPORATED",
+        "SCOTT & COMPANY",
+        "S. G. MARX AND ASSOCIATES INC",
+        "NOVA SECURITIES, INCORPORATED"
+      ],
+      "firm_scope": "INACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 0
+    },
+    {
+      "firm_source_id": "151568",
+      "firm_ia_sec_number": "78989",
+      "firm_ia_full_sec_number": "801-78989",
+      "firm_name": "VERUS CAPITAL PARTNERS, LLC",
+      "firm_other_names": [
+        "3 RIVERS FINANCIAL GROUP",
+        "WILLIAM F. SULLIVAN FINANCIAL SERVICES",
+        "WANN WEALTH PARTNERS, LLC",
+        "WANN FINANCIAL SERVICES",
+        "WALTERS WEALTH MANAGMENT",
+        "WALTERS WEALTH MANAGEMENT",
+        "VINEPOINT ADVISORY GROUP, LLC",
+        "VERUS CAPITAL PARTNERS, LLC",
+        "UNIVERSAL FINANCIAL CONSULTANTS",
+        "SUNBURST FINANCIAL MANAGEMENT",
+        "STARKEY BROTHERS, INC.",
+        "SOUTHERN HERITAGE FINANCIAL GROUP",
+        "SOUTH PLATTE INVESTMENTS & PLANNING",
+        "SAMSON FINANCIAL, LLC",
+        "RUDOLPH FINANCIAL GROUP",
+        "RSO WEALTH, LLC",
+        "RSD FINANCIAL, LLC",
+        "PROVIDENT FINANCIAL GROUP",
+        "PHP CAPITAL, INC.",
+        "PHILLIPS FINANCIAL MANAGEMENT",
+        "PARKER CAPITAL STRATEGIES, LLC",
+        "OXENHAM FINANCIAL",
+        "OPTIMAL WEALTH INC.",
+        "NEW BREAK FINANCIAL",
+        "MOLINAR AND CO.",
+        "LIFECOURSE CAPITAL",
+        "KENNETH M. PERKINS WEALTH",
+        "ITTNER BULL CAPITAL PARTNERS LLC",
+        "INTERMARKET ANALYTICS",
+        "HUNT FINANCIAL SERVICES",
+        "HOLCOMB WEALTH MANAGEMENT",
+        "HAVEN FINANCIAL SERVICES, LLC",
+        "GUARDIAN WEALTH BUILDERS",
+        "GOLDEN RULE WEALTH MANAGEMENT",
+        "GEISER WEALTH MANAGEMENT",
+        "FRONT RANGE FINANCIAL",
+        "FREEDOM POINT FINANCIAL",
+        "FRED A. GOODMAN, CPA",
+        "FIRST THEN IFS",
+        "FIRST THAN IFS",
+        "EAGLE EYE INVESTMENTS, LLC",
+        "DAHL FINANCIAL RESOURCE",
+        "CROWE AND ASSOCIATES, INC",
+        "CPA WEALTH ADVISORS, LLC",
+        "BURNS TAX AND WEALTH MANAGEMENT",
+        "BIGGS FINANCIAL",
+        "BELLA FINANCIAL ADVISORS, LLC",
+        "ARCHE FG",
+        "ANDREWS INSURANCE SOLUTIONS, LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "Y",
+      "firm_branches_count": 48,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"8300 N HAYDEN RD\", \"street2\": \"SUITE A207\", \"city\": \"SCOTTSDALE\", \"state\": \"AZ\", \"country\": \"United States\", \"postalCode\": \"85258\"}}"
+    }
+  ]
+}

@@ -1,0 +1,1826 @@
+{
+  "query": "Asset Map",
+  "top": {
+    "firm_source_id": "282632",
+    "firm_ia_sec_number": "126457",
+    "firm_ia_full_sec_number": "801-126457",
+    "firm_name": "SUGAR MAPLE ASSET MANAGEMENT, LLC",
+    "firm_other_names": [
+      "SUGAR MAPLE ASSET MANAGEMENT, LLC"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 2,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2580 S BAY SHORE DRIVE\", \"street2\": \"SUITE C\", \"city\": \"SISTER BAY\", \"state\": \"WI\", \"country\": \"United States\", \"postalCode\": \"54234\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "282632",
+      "firm_ia_sec_number": "126457",
+      "firm_ia_full_sec_number": "801-126457",
+      "firm_name": "SUGAR MAPLE ASSET MANAGEMENT, LLC",
+      "firm_other_names": [
+        "SUGAR MAPLE ASSET MANAGEMENT, LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 2,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2580 S BAY SHORE DRIVE\", \"street2\": \"SUITE C\", \"city\": \"SISTER BAY\", \"state\": \"WI\", \"country\": \"United States\", \"postalCode\": \"54234\"}}"
+    },
+    {
+      "firm_source_id": "171750",
+      "firm_ia_sec_number": "114697",
+      "firm_ia_full_sec_number": "801-114697",
+      "firm_name": "ONE WEALTH MAP, LLC",
+      "firm_other_names": [
+        "ANDERSON WEALTH MANAGEMENT, LLC",
+        "ZEUSS LLC",
+        "WISER RETIRE, LLC",
+        "SCOTLOCH",
+        "ONE WEALTH MAP, LLC",
+        "ONE WEALTH MAP LLC",
+        "NEXUS PARTNERS LLC",
+        "INTEGRATED WEALTH MANAGEMENT, LLC",
+        "INTEGRATED WEALTH MANAGEMENT LLC",
+        "INTEGRATED ASSET MANAGEMENT, LLC",
+        "H&H TAX AND BUSINESS ADVISORS",
+        "H&H RETIREMENT DESIGN AND MANAGEMENT INC",
+        "ENLITE NOW LLC",
+        "CERTIFIED ADVISORS NETWORK",
+        "BLUE APPLE ENT.",
+        "BENGAL PICTURES, LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 7,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1980 FESTIVAL PLAZA DRIVE\", \"street2\": \"SUITE 300\", \"city\": \"LAS VEGAS\", \"state\": \"NV\", \"country\": \"United States\", \"postalCode\": \"89135\"}}"
+    },
+    {
+      "firm_source_id": "146051",
+      "firm_ia_sec_number": "71112",
+      "firm_ia_full_sec_number": "801-71112",
+      "firm_name": "ADVISORY SERVICES NETWORK",
+      "firm_other_names": [
+        "4P WEALTH TRUST",
+        "QUEEN CITY CAPITAL",
+        "PRS INVESTMENT ADVISORS",
+        "PROVIDENCE WEALTH MANAGEMENT",
+        "PRIVATE RIDGE WEALTH MANAGEMENT",
+        "PRIVATE CLIENT GROUP",
+        "POPLE INVESTMENT MANAGEMENT",
+        "PLATINUM WEALTH ADVISORS",
+        "PIPER WEALTH MANAGEMENT",
+        "PINNACLE FINANCIAL SOLUTIONS",
+        "PFLEGER FINANCIAL SERVICES",
+        "PARO WEALTH MANAGEMENT",
+        "PALATINE HILL WEALTH MANAGEMENT",
+        "OPT ADVISORY",
+        "OLDE RALEIGH FINANCIAL GROUP",
+        "OHIO VALLEY WEALTH MANAGEMENT",
+        "OHANA FINANCIAL PLANNING",
+        "OAKMONT FINANCIAL PARTNERS",
+        "NORTHSHORE WEALTH ADVISORS",
+        "NEW PARADIGM WEALTH",
+        "NEW PARADIGM INVESTMENTS",
+        "MULLENAX ADVISORY GROUP",
+        "MOORE'S WEALTH ADVISORY",
+        "MONTEITH WEALTH STRATEGIES",
+        "MMX WEALTH PARTNERS",
+        "MILLER FINANCIAL",
+        "MHM CAPITAL MANAGEMENT",
+        "MH STRATEGIC ADVISORS",
+        "MCLAUGHLIN WEALTH MANAGEMENT",
+        "MCCLELLAN WEALTH MANAGEMENT",
+        "MARKET TRENDS ADVISORY",
+        "MARCHE WEALTH ADVISORY",
+        "MAP STRATEGIC WEALTH ADVISORS",
+        "MALLOCH WEALTH MANAGEMENT",
+        "MAKKAI CAPITAL GROUP",
+        "MAESTRO WEALTH ADVISORS",
+        "M6 WEALTH",
+        "LONE PINE ADVISORY SERVICES",
+        "LIGHTHOUSE INVESTMENTS",
+        "LIFE BY DESIGN INVESTMENT ADVISORY SERVICES",
+        "LIFE BY DESIGN ADVISORY SERVICES",
+        "LICHTMAN INVESTMENT ADVISORS",
+        "LFM WEALTH MANAGEMENT",
+        "LEGACY CAPITAL",
+        "LANDERS ADVISORY SERVICES",
+        "LANCE HOCUTT FINANCIAL GROUP",
+        "KUHN WEALTH ADVISORS",
+        "KORADE WEALTH MANAGEMENT",
+        "KNOX & DOWNING ADVISORS",
+        "KLINE PRIVATE WEALTH",
+        "KINGDOM WEALTH MANAGEMENT",
+        "KENETEX WEALTH MANAGEMENT",
+        "KARP ASSET MANAGEMENT",
+        "JUNIPER INVESTMENT & FINANCIAL PLANNING",
+        "JUDGE ASSET MANAGEMENT",
+        "JOYCE WEALTH ADVISORY",
+        "JOHNSON LANE ADVISORY PARTNERS",
+        "JCN FINANCIAL & TAX PLANNING GROUP",
+        "IRONWOOD WEALTH MANAGEMENT",
+        "INVESTMENT PLANNING SOLUTIONS",
+        "INTUITIVE WEALTH ADVISORS",
+        "INTENTIONAL WEALTH PLANNING",
+        "INTELLIPLAN ADVISORS",
+        "INFLECTION POINT WEALTH ADVICE",
+        "INFINITY ADVISORY GROUP",
+        "IHS CAPITAL MANAGEMENT",
+        "HOWARD FINANCIAL SERVICES",
+        "HLK ASSET MANAGEMENT",
+        "HILLTOP WEALTH MANAGEMENT",
+        "HIGH POINT PRIVATE",
+        "HARRIS WEALTH MANAGEMENT",
+        "HARRELL CAPITAL MANAGEMENT",
+        "HARBOR WEALTH ADVISORS",
+        "GUY P JONES CFP",
+        "GREER CAPITAL",
+        "GREENVILLE CAPITAL",
+        "GREENBERG WEALTH MANAGEMENT",
+        "GRAYSTONE PLANNING",
+        "GOTTHOLD WEALTH MANAGEMENT",
+        "GOLDEN LEGACY WEALTH ADVISORS",
+        "GLOBAL WEALTH MANAGEMENT GROUP",
+        "GARRARD WEALTH MANAGEMENT",
+        "FPF GLOBAL ADVISORS",
+        "FOUNDATIONAL WEALTH ADVISORY",
+        "FORTY4 FINANCIAL",
+        "FOOTHILLS CAPITAL MANAGEMENT",
+        "FONTE FINANCIAL ADVISORS",
+        "FND WEALTH MANAGEMENT",
+        "FLOW WEALTH MANAGEMENT",
+        "FLEMING INVESTMENT MANAGEMENT",
+        "FIVE POINTS ADVISORY",
+        "FINANCIAL ANALYSTS",
+        "FIDUCIARY PRIVATE WEALTH",
+        "FANNO CAPITAL MANAGEMENT",
+        "EVERSTRONG ADVISORS",
+        "EVERGREEN WEALTH MANAGEMENT",
+        "EQUILIBRIUM WEALTH",
+        "EQUABLE PORTFOLIO MANAGEMENT",
+        "ENHANCE WEALTH",
+        "EASTERN CAROLINA WEALTH MANAGEMENT",
+        "DUET WEALTH MANAGEMENT",
+        "DSP WEALTH STRATEGIES",
+        "DREW CAPITAL MANAGEMENT",
+        "DKP WEALTH",
+        "DEER CREEK CAPITAL",
+        "DARWIN",
+        "DALTON WEALTH MANAGEMENT",
+        "DAKOTA WEALTH",
+        "CZ ADVISORY & CONSULTING",
+        "CROWN WEALTH MANAGEMENT",
+        "CROSSWIND INVESTMENTS",
+        "COURTNEY WEALTH ADVISORS",
+        "CLEAR PATH FINANCIAL SERVICES",
+        "CLARITE WEALTH ADVISORS",
+        "CHATHAM STREET ADVISORS",
+        "CANTERBURY",
+        "CANNON ADVISORS",
+        "CAMPBELL HARNESS CAPITAL WEALTH MANAGEMENT",
+        "BSSF WEALTH",
+        "BRUCE WEALTH GROUP",
+        "BRANCHES+ROOTS INVESTMENT MANAGEMENT",
+        "BOULEVARD WEALTH PARTNERS",
+        "BOOKMARK ADVISORS",
+        "BOGAR LK ADVISORY SERVICES",
+        "BLUEWATER INVESTMENT STRATEGIES",
+        "BLACKWOOD WEALTH MANAGEMENT",
+        "BLACK BRIDGE ADVISORS",
+        "BELL CAPITAL GROUP",
+        "BECKLEY, WHITENER & WETMORE WEALTH ADVISORS",
+        "BAYTRUST WEALTH MANAGEMENT",
+        "BAYSWATER CAPITAL",
+        "BAY REEF CAPITAL",
+        "BATTERY PRIVATE",
+        "BARRINGTON FINANCIAL ADVISORS",
+        "BALANCED WEALTH ADVISORS",
+        "ATLAS INVESTMENT ADVISORS",
+        "ASSOCIATED CAPITAL ADVISORS",
+        "ASN",
+        "ASCENTIS FAMILY WEALTH",
+        "ARN WEALTH MANAGEMENT",
+        "ARGENTORA WEALTH MANAGEMENT",
+        "ARELLANO FINANCIAL PARTNERS",
+        "APPLEBY YUDENFREUN WEALTH MANAGEMENT & CONSULTING",
+        "APG CAPITAL ASSET MANAGEMENT",
+        "APEX CAPITAL WEALTH MANAGEMENT",
+        "ANGLIN INVESTMENT PARTNERS",
+        "ANCHOR PRIVATE PLANNING",
+        "ANALYTICAL CAPITAL",
+        "ALPINE PEAKS ADVISORS",
+        "ALPEN WEALTH ADVISORY GROUP",
+        "ALKEMI CAPITAL",
+        "ADVISORY SERVICES NETWORK, LLC",
+        "ADVISORY SERVICES NETWORK",
+        "ADVANCED INVESTMENT MANAGEMENT",
+        "ACUITY WEALTH ADVISORS",
+        "ACTUS CAPITAL MANAGEMENT..."
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "Y",
+      "firm_branches_count": 261,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"900 ASHWOOD PARKWAY\", \"street2\": \"SUITE 500\", \"city\": \"ATLANTA\", \"state\": \"GA\", \"country\": \"United States\", \"postalCode\": \"30338\"}}"
+    },
+    {
+      "firm_source_id": "300572",
+      "firm_ia_sec_number": "114798",
+      "firm_ia_full_sec_number": "801-114798",
+      "firm_name": "SIMPLICITY WEALTH",
+      "firm_other_names": [
+        "1ST CHOICE WEALTH",
+        "VOGEL FINANCIAL GROUP",
+        "VISION7 ADVISORY",
+        "VELTEN WATERHOUSE ADVISORS",
+        "VANTAGE FINANCIAL GROUP",
+        "UNIVERSAL FINANCIAL CONSULTANTS (UFC)",
+        "UFC WEALTH",
+        "TURNSTART WEALTH",
+        "TUCKER FINANCIAL SERVICES",
+        "TRIUMPH PLANNING SOLUTIONS LLC",
+        "TRIUMPH PLANNING SOLUTIONS",
+        "THE WHISLER AGENCY",
+        "THE RETIREMENT STRATEGIES",
+        "THE CORE FINANCIAL GROUP",
+        "THE BINNACLE GROUP",
+        "TAYLOR WEALTH AND INSURANCE",
+        "TAYLOR WEALTH & INSURANCE",
+        "TAX SMART INVESTING AND PLANNING",
+        "SUMMIT WEALTH DESIGNS",
+        "STRATEGIC WEALTH PLANNING GROUP",
+        "STEWARD FINANCIAL SERVICES",
+        "STAYRETIRED WEALTH",
+        "SSTX WEALTH",
+        "SMITHS FINANCIAL SOLUTIONS",
+        "SIMPLICITY WEALTH LLC",
+        "SIMPLICITY WEALTH",
+        "SIMPLICITY SOLUTIONS",
+        "SIMPLICITY GUARDIAN",
+        "SILVER SUMMIT FINANCIAL",
+        "SIAMO ADVISORS",
+        "SERENITY WEALTH",
+        "SENIOR TAX ADVISORY GROUP",
+        "SBC FINANCIAL",
+        "SAWTOOTH WEALTH ADVISORS",
+        "SAGE FINANCIAL NETWORK INC.",
+        "ROSELAND RETIREMENT PLANNING",
+        "ROSELAND",
+        "RIGHTWAY INVESTMENTS",
+        "RHOADS AGENCY",
+        "RETIREMENT STRATEGIES GROUP",
+        "RETIREMENT KEY",
+        "RETIREMENT INCOME SPECIALISTS",
+        "RETIRE PRO",
+        "RETIRE ESTATE PLAN",
+        "RELIANT WEALTH MANAGEMENT",
+        "REABURN CAPITAL",
+        "PROTECTIVE WEALTH STRATEGIES",
+        "PROTECTED TOMORROWS",
+        "PROSPERITY AND LEGACY WEALTH MANAGEMENT",
+        "PROFESSIONAL PLANNING SERVICES",
+        "PRINCIPLED INSURANCE AGENCY",
+        "PRESTIGE FINANCIAL ADVISORS",
+        "PRESTIGE FINANCIAL",
+        "PRESERVATION WEALTH CONSULTANTS",
+        "PRECISE CAPITAL",
+        "PERSONAL ECONOMICS FINANCIAL GROUP",
+        "PEACE OF MIND FINANCE",
+        "NORTHLAND FINANCIAL",
+        "NORTH AMERICAN FINANCIAL SERVICES",
+        "NMS PORTFOLIO",
+        "NEXT PHASE MONEY MANAGEMENT",
+        "NCI WEALTH MANAGEMENT",
+        "MONETA WEALTH MANAGEMENT",
+        "MODERN EDGE CAPITAL",
+        "MKH FINANCIAL SERVICES",
+        "MERIDIAN WEALTH",
+        "MEMORIAL ASSET PROTECTION PLAN",
+        "MCGLINN FINANCIAL SERVICES",
+        "MAP ADVISORY",
+        "MALARIK FINANCIAL SERVICES",
+        "MAH FINANCIAL SERVICES",
+        "MACMUNN FINANCIAL MANGEMENT",
+        "M S WEALTH MANAGEMENT",
+        "LRM RETIREMENT",
+        "LIQUIDITY PARTNERS",
+        "LEGACY PRIVATE WEALTH",
+        "LARKINS WEALTH",
+        "LANGFORD WEALTH MANAGEMENT",
+        "LAKEVIEW FINANCIAL SOLUTIONS",
+        "LAKES FINANCIAL",
+        "KRUEGER WEALTH",
+        "KING FINANCIAL SERVICES",
+        "JUNIPER WEALTH MANAGEMENT",
+        "JULIET CARDONA FINANCIAL",
+        "JCHRISTOPHER ADVISORS",
+        "J MARTIN FINANCIAL SERVICES",
+        "INTEGRATIVE WEALTH",
+        "INSIGHT COLLEGE AND FINANCIAL SOLUTIONS",
+        "INDEPENDENT TRUST WEALTH MANAGEMENT",
+        "HUX CAPITAL MANAGEMENT",
+        "HURT AND ASSOCIATES",
+        "HOFFMAN GRIFFITH WEALTH PLANNING",
+        "HINES-WEALTH MANAGEMENT",
+        "HINES WEALTH MANAGEMENT",
+        "HERMANN FINANCIAL GROUP",
+        "HELP PROTECT AND GROW",
+        "HEART FINANCIAL GROUP",
+        "HEADSAIL FINANCIAL",
+        "HATHAWAY INVESTMENTS",
+        "HARBOUR VIEW ADVISORS",
+        "H AND W FINANCIAL SERVICES",
+        "GUARDIAN WEALTH MANAGEMENT",
+        "GREENEFI WEALTH STRATEGIES",
+        "GREEN WEALTH MANAGEMENT",
+        "GRANITE ROCK WEALTH MANAGEMENT",
+        "GENERATIONAL WEALTH TEAM",
+        "FWA WEALTH ADVISORS",
+        "FRONT PAGE FINANCIAL ADVISORS",
+        "FREEDOM WEALTH SERVICES",
+        "FREEDOM WEALTH",
+        "FRANKLIN HENLEY FINANCIAL",
+        "FIRSTFRUITS ASSET MANAGEMENT",
+        "FIRST INCOME ADVISORS",
+        "FIRST FRUITS ASSET MANAGEMENT",
+        "FINANCIAL SECURITY MANAGEMENT AGENCY",
+        "FDL FINANCIAL",
+        "FAMILY WEALTH AND VESTUS",
+        "FAIRWAY FINANCIAL PARTNERS",
+        "EXPERITY WEALTH",
+        "EVERGREEN RETIREMENT SOLUTIONS",
+        "ESTATE AND RETIREMENT RESOURCES",
+        "ERISMAN WEALTH MANAGEMENT",
+        "EPERSONAL FINANCIAL",
+        "EMPOWERED WEALTH MANAGEMENT",
+        "DREAMCAP INVESTMENTS",
+        "DREAM CAP INVESTMENTS",
+        "DIVERSIFIED RETIREMENT AND WEALTH",
+        "DIAMOND LIFE PLANNING",
+        "DEVELOP YOUR COLLEGE GAME PLAN",
+        "DAK FINANCIAL GROUP",
+        "CREATIVE RETIREMENT PLANNING",
+        "CONCEIRGE FINANCIAL",
+        "COMMONWEALTH GUARDIANS",
+        "CLEAR VISION PLANNING",
+        "CLARK WEALTH, LLC",
+        "CHEVALIER WEALTH AND ASSOCIATES",
+        "CHART WELLS FINANCIAL",
+        "CARUTHER'S WEALTH SOLUTIONS",
+        "CAPSTONE FINANCIAL ASSOCIATES",
+        "CAPITAL PLANNING LLC",
+        "BTL TAX AND FINANCIAL",
+        "BROWNSTONE FINANCIAL GROUP",
+        "BRIGHTPATH FINANCIAL",
+        "BRETT REID WEALTH",
+        "BLUEROCK FINANCIAL MANAGEMENT",
+        "BLUEPOINT WEALTH MANAGEMENT",
+        "BEST INTEREST WEALTH PLANNING",
+        "BERGEN FINANCIAL GROUP",
+        "BENEFIT RFP",
+        "BENEFICIAL WEALTH",
+        "BEACON ASSOCIATES",
+        "BAYOU CITY FINANCIAL ADVISORS",
+        "BANKSTON WEALTH MANAGEMENT",
+        "AUGUST H VELTEN & ASSOCIATES",
+        "ATARAXIS FINANCIAL PLANNING",
+        "APTUS WEALTH MANAGEMENT",
+        "ALWAYS HELPING WM",
+        "ABUNDANT LIVING FINANCIAL SERVICES",
+        "ABRAMS INSURANCE SOLUTIONS",
+        "ABRAMS INC",
+        "ABOOD WEALTH MANAGEMENT..."
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "Y",
+      "firm_branches_count": 178,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"475 SPRINGFIELD AVE.\", \"street2\": \"SUITE #1\", \"city\": \"SUMMIT\", \"state\": \"NJ\", \"country\": \"United States\", \"postalCode\": \"07901\"}}"
+    },
+    {
+      "firm_source_id": "112697",
+      "firm_ia_sec_number": "61065",
+      "firm_ia_full_sec_number": "801-61065",
+      "firm_name": "AMERICAN PORTFOLIOS ADVISORS, INC",
+      "firm_other_names": [
+        "21ST CENTURY FINANCIAL SERVICES",
+        "ROSSITER FINANCIAL GROUP",
+        "ROONEY TAX & FINANCIAL SERVICES",
+        "ROHN HEIN ASSOCIATES",
+        "RJG TAX & CAPITAL SOLUTIONS, INC.",
+        "RIGHT FINANCIAL ADVISOR",
+        "RETIREMENT RESOURCE NETWORK",
+        "REISNER HUDEPOHL FINANCIAL SERVICES, INC.",
+        "PROFESSIONAL PLANNING SERVICES",
+        "PREFERRED FINANCIAL GROUP",
+        "PPS ADVISORS INC.",
+        "PINNACLE WEALTH MANAGEMENT",
+        "PINNACLE TAX ADVISORS",
+        "PERRY FINANCIAL GROUP",
+        "PENN PLAZA ASSOCIATES",
+        "PEARSON FINANCIAL ADVISORS",
+        "PEAK WEALTH SOLUTIONS",
+        "PATHWAY FINANCIAL GROUP OF CENTRAL FLORIDA",
+        "PASSPORT WEALTH",
+        "PARTNERS ALLIANCE",
+        "PALMER INSURANCE & FINANCIAL SERVICES, INC.",
+        "OSTAPOW FINANCIAL SERVICES",
+        "NORTHRIVER FINANCIAL GROUP, LLC",
+        "NORTHERN ADVISORY GROUP",
+        "NORTHEAST RISK MANAGEMENT GROUP, INC.",
+        "NORTH SHORE WEALTH MANAGEMENT ADVISORS",
+        "NORTH POINT ADVISORS INC.",
+        "NASSAU WEALTH MANAGEMENT",
+        "MURPHY FINANCIAL GROUP",
+        "MS BALLIN FINANCIAL STRATEGIES",
+        "MORROW FINANCIAL SERVICES",
+        "MKB ASSOCIATES, INC.",
+        "MILLER, CHRISTIAN & ZWIEBEL ASSET MGMT CORP",
+        "MFI RETIREMENT PLANNING ASSOCIATES",
+        "MCM INVESTOR SERVICES",
+        "MAP ESTATE PLANNING",
+        "MANZI, PINO ADVISORY SERVICES, LLC",
+        "MALCOLM WEBB WEALTH MANAGEMENT",
+        "MAGII, INC.",
+        "MADISON WEALTH MANAGERS",
+        "LYTLE & COMPANY",
+        "LOFTUS FINANCIAL, LLC",
+        "LIVE OAK WEALTH MANAGEMENT",
+        "LIBRA FINANCIAL GROUP",
+        "LEA FINANCIAL GROUP",
+        "LAPORTE WEALTH MANAGEMENT GROUP",
+        "KT WEALTH GROUP",
+        "KLYMAN FINANCIAL",
+        "K&R TAX AND FINANCIAL SERVICES, INC.",
+        "JOSEPH MCPHERSON, CFP",
+        "JMR FINANCIAL SERVICES",
+        "JMAC ADVISORS, INC.",
+        "JEM WEALTH MANAGEMENT",
+        "JCD ASSOCIATES INC.",
+        "J FERGUSON FINANCIAL, INC.",
+        "IVALUE FINANCIAL PLANNING, LLC",
+        "ITP PARTNERS, LLC",
+        "INVESTORS CHOICE FINANCIAL SERVICES INC.",
+        "INVERNESS FINANCIAL GROUP, INC.",
+        "INSIGHT CAPITAL MANAGEMENT",
+        "INFINITY TAX & FINANCIAL PLANNING",
+        "INDIANO & CO CPAS INC.",
+        "HUNTLEY FINANCIAL SERVICES, INC",
+        "HOPPER MCMILLIN",
+        "HIGHLAND WEALTH MANAGEMENT, LLC",
+        "HARRY KATZ & ASSOCIATES",
+        "HADDON PLANNING GROUP",
+        "GUIDANCE LIFE & FINANCIAL",
+        "GROSS FINANCIAL SERVICE",
+        "GOLDNER FINANCIAL GROUP",
+        "GOLDEN GATE FINANCIAL PARTNERS",
+        "GO FINANCIAL SERVICES",
+        "GENEVA WEALTH MANAGEMENT",
+        "GATTUSO FINANCIAL SERVICES",
+        "GARRY PRIVATE WEALTH RESOURCES, LLC",
+        "GALLANT INSURANCE INVESTMENTS",
+        "G.S. WEALTH MANAGEMENT, CORP.",
+        "FRANKLIN HAROLD FINANCIAL, LLC",
+        "FORTRESS FINANCIAL SERVICES, INC.",
+        "FORGE FINANCIAL ADVISORS",
+        "FOCUS FINANCIAL GROUP",
+        "FISCH FINANCIAL",
+        "FINGER LAKES INVESTMENTS CORP.",
+        "FINEST FINANCIAL GROUP",
+        "FINESCO ASSOCIATES",
+        "FINANCIAL SOLUTIONS",
+        "FINANCIAL PLANNING ADVISORY SERVICES, INC.",
+        "FINANCIAL DESIGN GROUP INC.",
+        "ESPARZA GROUP",
+        "ELITE WEALTH STRATEGIES",
+        "EAST END PLANNING, INC.",
+        "DIDDEL & DIDDEL",
+        "DEMPSEY WEISS & ASSOCIATES",
+        "DELORENZO FINANCIAL GROUP, LLC",
+        "DANIELS FINANCIAL SERVICES",
+        "DANIEL N SAXE INCOME TAX INC",
+        "CYSNER FINANCIAL SERVICES, INC.",
+        "CREATIVE CAPITAL GROUP",
+        "COX WEALTH MANAGEMENT, LLC",
+        "COLLINS WEALTH MANAGEMENT",
+        "COBRITY FINANCIAL",
+        "COACTIVE WEALTH STRATEGISTS, LLC",
+        "CLEARVIEW FINANCIAL SERVICES",
+        "CLAYTON FINANCIAL INC.",
+        "CLARK & COMPANY",
+        "CLARITY WEALTH MANAGEMENT LLC",
+        "CHARLETON FINANCIAL",
+        "CHAMPLAIN WEALTH MANAGEMENT",
+        "CF PROFESSIONAL, INC",
+        "CERTIFIED CONSULTING SERVICES",
+        "CAVE WEALTH MANAGEMENT",
+        "CARROLL FINANCIAL SERVICES, INC.",
+        "CARLOZZI FINANCIAL SERVICES",
+        "CARING FINANCIAL SERVICES LLC",
+        "CAPITAL WEALTH & TAX MANAGEMENT, LLC",
+        "CAPITAL BUSINESS STRATEGIES",
+        "CAPE COD WEALTH STRATEGIES & INSURANCE SERVICES, LLC.",
+        "BRAVERA PLANNING & INVESTING",
+        "BOCKLET WEALTH MANAGEMENT",
+        "BLANK FINANCIAL GROUP",
+        "BHT WEALTH MANAGEMENT, LLC.",
+        "BEVERLY CURMANSKIE FINANCIAL LLC",
+        "BELMONT TAX AND FINANCIAL SERVICES",
+        "BEDNAR FINANCIAL GROUP, LLC",
+        "BARONS FINANCIAL STRATEGIES, INC.",
+        "BARBARA TREADWELL, LLC",
+        "BAKER FINANCIAL GROUP",
+        "BAILEY FINANCIAL PLANNING, LLC",
+        "ATT FINANCIAL GROUP",
+        "ASSET & WEALTH MANAGEMENT GROUP LLC",
+        "ASPIRE FINANCIAL GROUP, LLC",
+        "ANGELO PLANNING GROUP, LLC",
+        "AMERICAN PREMIER FINANCIAL GROUP",
+        "AMERICAN PORTFOLIOS ADVISORS. INC",
+        "AMERICAN PORTFOLIOS ADVISORS, INC",
+        "ADVANTAGE WEALTH MANAGEMENT",
+        "ADVANTAGE RETIREMENT SOLUTIONS",
+        "ABS WEALTH MANAGEMENT",
+        "ABEL WEALTH MANAGEMENT, LLC",
+        "A. GEOFFREY WADE FINANCIAL SERVICES LLC",
+        "A. DEGREGORIO JR. LLC",
+        "76 WEALTH ADVISORY..."
+      ],
+      "firm_ia_scope": "INACTIVE",
+      "firm_ia_disclosure_fl": "Y",
+      "firm_branches_count": 0,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"4250 VETERAN'S MEMORIAL HIGHWAY\", \"street2\": \"4TH. FLOOR, SUITE 420E\", \"city\": \"HOLBROOK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"11741\"}}"
+    },
+    {
+      "firm_source_id": "129612",
+      "firm_ia_sec_number": "62982",
+      "firm_ia_full_sec_number": "801-62982",
+      "firm_name": "FORTRESS INVESTMENT GROUP",
+      "firm_other_names": [
+        "ATP MANAGEMENT LLC (RELYING ADVISER)",
+        "FORTRESS NET LEASE ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS MSR OPPORTUNITIES MA I MANAGEMENT LLC (RELYING ADVISER)",
+        "FORTRESS MSR OPPORTUNITIES FUND MANAGEMENT LLC (RELYING ADVISER)",
+        "FORTRESS MSR OPPORTUNITIES FUND II MANAGEMENT LLC (RELYING ADVISER)",
+        "FORTRESS MORTGAGE OPPORTUNITIES ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS MK ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS MACRO ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS LIFE SETTLEMENTS ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS JAPAN OPPORTUNITY MANAGEMENT LLC (RELYING ADVISER)",
+        "FORTRESS JAPAN INCOME MANAGEMENT LLC (RELYING ADVISER)",
+        "FORTRESS ITALIAN REAL ESTATE OPPORTUNITIES FUND ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS ITALIAN NPL OPPORTUNITIES FUND ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS IP ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS INVESTMENT GROUP LLC",
+        "FORTRESS INVESTMENT GROUP (UK) LTD (RELYING ADVISER)",
+        "FORTRESS INVESTMENT GROUP (SINGAPORE) PTE. LTD (RELYING ADVISER)",
+        "FORTRESS INVESTMENT GROUP (JAPAN) GK (RELYING ADVISER)",
+        "FORTRESS INVESTMENT GROUP (AUSTRALIA) PTY LTD (RELYING ADVISER)",
+        "FORTRESS INVESTMENT GROUP",
+        "FORTRESS GLOBAL OPPORTUNITIES (YEN) ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS GLOBAL EQUITY ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS FUND IV ADVISOR LLC (RELYING ADVISER)",
+        "FORTRESS EQUITY PARTNERS GP LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES MA MAPLE LEAF ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES MA II ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES MA II ADVISORS LLC  (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES MA ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES IVA ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES IV ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES III ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES I GP LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT OPPORTUNITIES ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT INVESTMENTS IV CM LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT FUNDING VI GP LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT FUNDING V GP LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT FUNDING IV GP LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT FUNDING III GP LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CREDIT ABI ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CONVEX ASIA ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS COMMODITIES ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CENTAURUS GLOBAL UCITS ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS CENTAURUS GLOBAL ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS BERMUDA INFRASTRUCTURE PARTNERS ADVISORS LLC (RELYING ADVISER)",
+        "FORTRESS ASIA MACRO ADVISOR LLC (RELYING ADVISER)",
+        "FORTRESS (DUBAI) TRANSPORTATION & INFRASTRUCTURE ADVISORS LTD. (RELYING ADVISER)",
+        "FM FALSTAFF ADVISORS LLC (RELYING ADVISER)",
+        "FIG TRANSPORTATION FUND MANAGEMENT LLC (RELYING ADVISER)",
+        "FIG LLC",
+        "FIG HK (HONG KONG) LIMITED (RELYING ADVISER)",
+        "FDF II CM LLC (RELYING ADVISER)",
+        "FDF I CM LLC (RELYING ADVISER)",
+        "FCO VII CLO CM LLC (RELYING ADVISER)",
+        "FCO VI CLO CM LLC (RELYING ADVISER)",
+        "FCO V CLO CM LLC (RELYING ADVISER)",
+        "FCO MA SUP ADVISORS LLC (RELYING ADVISER)",
+        "FCO MA SC ADVISORS LLC (RELYING ADVISER)",
+        "FCO MA MI ADVISORS LLC (RELYING ADVISER)",
+        "FCO MA LSS ADVISORS LLC (RELYING ADVISER)",
+        "FCO MA IV ADVISORS LLC (RELYING ADVISER)",
+        "FCO MA III ADVISORS LLC (RELYING ADVISER)",
+        "FCO MA CENTRE ADVISORS LLC (RELYING ADVISER)",
+        "FCO III CLO GP LLC (RELYING ADVISER)",
+        "FCF JPEL MANAGEMENT LLC (RELYING ADVISER)",
+        "FC EUROPE FUNDING CM LLC (RELYING ADVISER)",
+        "FC BSL III CM LLC (RELYING ADVISER)",
+        "FC BSL II CM LLC (RELYING ADVISER)",
+        "FC BSL CM LLC (RELYING ADVISER)",
+        "DRAWBRIDGE SPECIAL OPPORTUNITIES ADVISORS LLC (RELYING ADVISER)",
+        "DRAWBRIDGE REAL ASSETS ADVISORS LLC (RELYING ADVISER)",
+        "DRAWBRIDGE LONG DATED VALUE ADVISORS LLC (RELYING ADVISER)",
+        "DRAWBRIDGE LDVF PATENT ADVISORS LLC (RELYING ADVISER)",
+        "DRAWBRIDGE GLOBAL MACRO ADVISORS LLC (RELYING ADVISER)",
+        "DRAWBRIDGE (UK) LLP (RELYING ADVISER)",
+        "CF H-BSL MANAGEMENT LLC (RELYING ADVISER)..."
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "Y",
+      "firm_branches_count": 1,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1345 AVENUE OF THE AMERICAS\", \"street2\": \"46TH FLOOR\", \"city\": \"NEW YORK\", \"state\": \"NY\", \"country\": \"United States\", \"postalCode\": \"10105\"}}",
+      "firm_relying_advisors": [
+        {
+          "firmId": "290780",
+          "name": "CF H-BSL MANAGEMENT LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290786",
+          "name": "DRAWBRIDGE SPECIAL OPPORTUNITIES ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290790",
+          "name": "FCF JPEL MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290795",
+          "name": "FCO III CLO GP LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290802",
+          "name": "FCO MA SUP ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290810",
+          "name": "FORTRESS CREDIT ABI ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290814",
+          "name": "FORTRESS CREDIT INVESTMENTS IV CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290817",
+          "name": "FORTRESS CREDIT OPPORTUNITIES III ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290819",
+          "name": "FORTRESS CREDIT OPPORTUNITIES IVA ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290824",
+          "name": "FORTRESS INVESTMENT GROUP (AUSTRALIA) PTY LTD",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290838",
+          "name": "FORTRESS REAL ESTATE (HK) LIMITED",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290845",
+          "name": "FUND I LIQUIDATING MM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "300976",
+          "name": "FCO MA V ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "305192",
+          "name": "FCO V LSS SUBCO ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "304158",
+          "name": "FCO MA MI II ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "307938",
+          "name": "FORTRESS LEGAL ASSETS ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "311433",
+          "name": "FORTRESS FCO FUND V MA-C ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "318182",
+          "name": "DCVR INVESTMENT ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "325628",
+          "name": "FORTRESS LENDING ADVISORS IV (U) LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "326184",
+          "name": "FIG NETHERLANDS B.V.",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "326185",
+          "name": "FORTRESS INVESTMENT GROUP LUXEMBOURG SARL",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "313883",
+          "name": "FC BSL XII MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "313884",
+          "name": "FC BSL XI MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "316692",
+          "name": "FC BSL CLO MANAGER LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "323787",
+          "name": "FC BSL XIX MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "321677",
+          "name": "FCO XXI CLO CM LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "331492",
+          "name": "FORTRESS REDCO CO-INVESTMENT GP LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "341541",
+          "name": "FCO XXXVII CLO CM LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "335526",
+          "name": "FCO XXIX CLO CM LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290796",
+          "name": "FCO MA CENTRE ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290811",
+          "name": "FORTRESS CREDIT ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290818",
+          "name": "FORTRESS CREDIT OPPORTUNITIES IV ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290820",
+          "name": "FORTRESS CREDIT OPPORTUNITIES MA ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290821",
+          "name": "FORTRESS CREDIT OPPORTUNITIES MA II ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290830",
+          "name": "FORTRESS JAPAN INCOME MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290831",
+          "name": "FORTRESS JAPAN OPPORTUNITY MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290837",
+          "name": "FORTRESS PARTNERS ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290840",
+          "name": "FORTRESS REAL ESTATE OPPORTUNITIES ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290961",
+          "name": "FORTRESS IP ADVISORS C LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "291020",
+          "name": "FC BSL MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "291021",
+          "name": "FC BSL MANAGEMENT LLC SERIES IV",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "291023",
+          "name": "FDF MANAGEMENT LLC SERIES III",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "291162",
+          "name": "FORTRESS CLO ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "297352",
+          "name": "FDF MANAGEMENT LLC SERIES IV",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "298118",
+          "name": "FORTRESS LENDING ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "297994",
+          "name": "FORTRESS TSX BROADWAY ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "298313",
+          "name": "FORTRESS CREDIT OPPORTUNITIES V-C ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "301080",
+          "name": "FC BSL VIII MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "305191",
+          "name": "DBSO TRG SUBCO ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "309215",
+          "name": "FORTRESS VINTAGE SECURITIES FUND ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "309686",
+          "name": "FORTRESS REAL ESTATE SECURITIES ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "311433",
+          "name": "FCO FUND V MA-C ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "313703",
+          "name": "FSI ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "319215",
+          "name": "FCO XVII CLO CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "323911",
+          "name": "FEO C ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "316692",
+          "name": "FC BSL XV MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "317367",
+          "name": "FC BSL CLO MANAGER II LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "317445",
+          "name": "FC BSL XIV MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "333236",
+          "name": "FCFE CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "327070",
+          "name": "FC BSL CLO MANAGER III LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "327366",
+          "name": "FORTRESS LENDING ADVISORS IV LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "323386",
+          "name": "FEO ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "332080",
+          "name": "FORTRESS IP ADVISORS III C LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "319303",
+          "name": "FORT CRE 2022-FL3 CM LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "341537",
+          "name": "FCO XXXI CLO CM LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "335472",
+          "name": "FORTRESS MIC MA ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "338222",
+          "name": "FORTRESS MULTI-ASSET CREDIT ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "339691",
+          "name": "FORTRESS LHB ADVISORS GP LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "334600",
+          "name": "FORTRESS CLO MANAGER B LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "341738",
+          "name": "FORTRESS INVESTMENT GROUP (ME) LIMITED",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290800",
+          "name": "FCO MA MI ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290801",
+          "name": "FCO MA SC ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290816",
+          "name": "FORTRESS CREDIT OPPORTUNITIES I GP LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290825",
+          "name": "FORTRESS INVESTMENT GROUP (JAPAN) GK",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290841",
+          "name": "FORTRESS SECURED LENDING ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290842",
+          "name": "FORTRESS SPECIAL OPPORTUNITIES ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290847",
+          "name": "SARGAS ASSET MANAGEMENT, LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "301064",
+          "name": "FCO MA J5 ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "307406",
+          "name": "RAIT PARTNERSHIP, L.P.",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "311883",
+          "name": "FORTRESS MBI ADVISOR LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "313474",
+          "name": "FORTRESS FCO FUND V MA-CRPTF ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "322906",
+          "name": "FORTRESS REAL ESTATE OPPORTUNITIES ADVISORS IV LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290804",
+          "name": "FCOO CLO MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "318179",
+          "name": "DC VALUE RECOVERY III MANAGER LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "318181",
+          "name": "DC VALUE RECOVERY V MANAGER LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "325153",
+          "name": "FNLR MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "325774",
+          "name": "FORTRESS CREDIT OPPORTUNITIES VI-C ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "331961",
+          "name": "FCR ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "332079",
+          "name": "FORTRESS IP ADVISORS III LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290781",
+          "name": "DRAWBRIDGE (UK) LLP",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290782",
+          "name": "DRAWBRIDGE GLOBAL MACRO ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290788",
+          "name": "FC BSL II CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290808",
+          "name": "FORTRESS (DUBAI) TRANSPORTATION & INFRASTRUCTURE ADVISORS LTD.",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290827",
+          "name": "FORTRESS IP ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290839",
+          "name": "FORTRESS REAL ESTATE OPPORTUNITIES ADVISORS IIIA LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290846",
+          "name": "PANGAEA CLO MANAGEMENT, LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "296557",
+          "name": "FORTRESS REAL ESTATE OPPORTUNITIES ADVISORS IIIA LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "306012",
+          "name": "FDF V MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "322566",
+          "name": "FCFE CM LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "322907",
+          "name": "FORTRESS REAL ESTATE OPPORTUNITIES ADVISORS IVA LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "313886",
+          "name": "FUND III LIQUIDATING MM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "328558",
+          "name": "FORTRESS IMA MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "326182",
+          "name": "FCF CONSULTING S.R.L.",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "326187",
+          "name": "FORTRESS INVESTMENT GROUP IBERIA S.L.",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "315715",
+          "name": "FC BSL XIII MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "335423",
+          "name": "FORTRESS ABC II ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "342554",
+          "name": "LOCKART PARK ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "289511",
+          "name": "ATP MANAGEMENT LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "139322",
+          "name": "DRAWBRIDGE LONG DATED VALUE ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290799",
+          "name": "FCO MA LSS ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290806",
+          "name": "FDF I CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290834",
+          "name": "FORTRESS MSR OPPORTUNITIES FUND II MANAGEMENT LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290843",
+          "name": "FORTRESS VRF ADVISORS I LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "139983",
+          "name": "TP MANAGEMENT LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "312954",
+          "name": "FORTRESS IP ADVISORS II C LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "318180",
+          "name": "DC VALUE RECOVERY IV MANAGER LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "319488",
+          "name": "FC BSL XVIII MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "323386",
+          "name": "FORTRESS EQUITY OPPORTUNITIES ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "323027",
+          "name": "FORTRESS REAL ESTATE OPPORTUNITIES ADVISORS IV LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "320887",
+          "name": "FC BSL X MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "339317",
+          "name": "FORTRESS LHB ADVISORS LP",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "292143",
+          "name": "FC BSL MANAGEMENT LLC SERIES V",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290812",
+          "name": "FORTRESS CREDIT FUNDING V GP LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290815",
+          "name": "FORTRESS CREDIT OPPORTUNITIES ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290832",
+          "name": "FORTRESS LIFE SETTLEMENTS ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290835",
+          "name": "FORTRESS MSR OPPORTUNITIES FUND MANAGEMENT LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "152652",
+          "name": "TABERNA EUROPEAN CAPITAL MANAGEMENT, LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "296548",
+          "name": "FC BSL MANAGEMENT LLC SERIES III",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "296556",
+          "name": "FORTRESS CREDIT CO-INVEST ADVISOR LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "296558",
+          "name": "FORTRESS NSR ADVISOR LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "296972",
+          "name": "FORTRESS REAL ESTATE OPPORTUNITIES ADVISORS III LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "298261",
+          "name": "FC BSL VI MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "306908",
+          "name": "FCO MA CENTRE II ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "308925",
+          "name": "FORTRESS LENDING ADVISORS II LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "310001",
+          "name": "FCO XIII CLO CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "312953",
+          "name": "FORTRESS IP ADVISORS II LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "326183",
+          "name": "FORTRESS INVESTMENT GROUP FRANCE SAS",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "326435",
+          "name": "FORTRESS CREDIT INVESTMENTS (IRELAND) LIMITED",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "322114",
+          "name": "FC BSL XVII MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "323223",
+          "name": "FLR ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "317367",
+          "name": "FC BSL XVI MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "325773",
+          "name": "FORTRESS CREDIT OPPORTUNITIES VI ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "332178",
+          "name": "FPE MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "340451",
+          "name": "FORTRESS LENDING ADVISORS V LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "334633",
+          "name": "FC BSL CLO MANAGER VI LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "338222",
+          "name": "FMAC MANAGEMENT LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290783",
+          "name": "DRAWBRIDGE LDVF PATENT ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290785",
+          "name": "DRAWBRIDGE REAL ASSETS ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290797",
+          "name": "FCO MA III ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290822",
+          "name": "FORTRESS CREDIT OPPORTUNITIES MA MAPLE LEAF ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290823",
+          "name": "FORTRESS GLOBAL OPPORTUNITIES (YEN) ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290833",
+          "name": "FORTRESS MK ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "291022",
+          "name": "FDF MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "298414",
+          "name": "FRO MA I ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "299175",
+          "name": "FORT 2018-1 CRE CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "300441",
+          "name": "FC BSL VII MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "308175",
+          "name": "FC BSL IX MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "311848",
+          "name": "FCO FUND V MA-CRPTF ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "311826",
+          "name": "FLF II MA-CRPTF ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "312654",
+          "name": "FORTRESS NLI ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "322895",
+          "name": "FLF III-IV MA-CRPTF ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "318178",
+          "name": "DC VALUE RECOVERY II MANAGER LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "328389",
+          "name": "FC BSL CLO MANAGER V LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "328393",
+          "name": "FORTRESS LEGAL ASSETS ADVISORS II LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "329488",
+          "name": "FORTRESS MULTI-MANAGER ADVISORS LP",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "341540",
+          "name": "FCO XXXV CLO CM LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "340982",
+          "name": "FORTRESS FRIPP EVERGREEN LOAN ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "334684",
+          "name": "FORTRESS LHB ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "342051",
+          "name": "FORTRESS LENDING ADVISORS V (U) LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "340097",
+          "name": "FORTRESS CRE ENHANCED INCOME ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290787",
+          "name": "FC BSL CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290789",
+          "name": "FC BSL III CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290798",
+          "name": "FCO MA IV ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290803",
+          "name": "FCO V CLO CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290804",
+          "name": "FCO VI CLO CM LLC",
+          "status": "ACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290805",
+          "name": "FCO VII CLO CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290807",
+          "name": "FDF II CM LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290809",
+          "name": "FORTRESS BERMUDA INFRASTRUCTURE PARTNERS ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290813",
+          "name": "FORTRESS CREDIT FUNDING VI GP LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290826",
+          "name": "FORTRESS INVESTMENT GROUP (UK) LTD",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290828",
+          "name": "FORTRESS ITALIAN NPL OPPORTUNITIES FUND ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290829",
+          "name": "FORTRESS ITALIAN REAL ESTATE OPPORTUNITIES FUND ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "290836",
+          "name": "FORTRESS MSR OPPORTUNITIES MA I MANAGEMENT LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "290844",
+          "name": "FRO REOC ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "291682",
+          "name": "FCOD CLO MANAGEMENT LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "299784",
+          "name": "FORTRESS EUROPEAN NPL OPPORTUNITIES II ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "298314",
+          "name": "FORTRESS CREDIT OPPORTUNITIES V ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "304635",
+          "name": "FORTRESS EUROPEAN NPL MA I ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "305190",
+          "name": "DBSO TRG FUND (A) ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "323787",
+          "name": "FC BSL CLO MANAGER IV LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "323025",
+          "name": "FORTRESS REAL ESTATE OPPORTUNITIES ADVISORS IVA LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "323223",
+          "name": "FORTRESS LRC ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "316835",
+          "name": "FORTRESS LENDING ADVISORS III LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "330013",
+          "name": "FORTRESS MULTI-MANAGER ASIA ADVISORS LLC",
+          "status": "INACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "335620",
+          "name": "FORTRESS EUROPEAN NPL & ASSET RECOVERY III ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        },
+        {
+          "firmId": "335423",
+          "name": "FORTRESS ABC (EVERGREEN) II ADVISORS LLC",
+          "status": "ACTIVE",
+          "nameStatus": "INACTIVE"
+        },
+        {
+          "firmId": "341966",
+          "name": "FIG ITALIA SRL",
+          "status": "ACTIVE",
+          "nameStatus": "ACTIVE"
+        }
+      ]
+    }
+  ]
+}

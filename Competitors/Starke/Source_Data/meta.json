@@ -1,0 +1,34 @@
+{
+  "slug": "Starke",
+  "source_url": "https://wearestarke.com/",
+  "competitor_name": "Starke Marketing",
+  "extracted_at": "2026-05-13T19:48:01.273Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://wearestarke.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Starke/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://wearestarke.com/marketing-services/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Starke/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://wearestarke.com/about-starke-marketing/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Starke/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://wearestarke.com/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Starke/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://wearestarke.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Starke/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

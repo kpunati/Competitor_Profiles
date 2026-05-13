@@ -1,0 +1,34 @@
+{
+  "slug": "Samo_Financial",
+  "source_url": "https://www.samofinancial.com/",
+  "competitor_name": "SAMO Financial",
+  "extracted_at": "2026-05-13T19:47:50.540Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.samofinancial.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Samo_Financial/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://www.samofinancial.com/services/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Samo_Financial/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.samofinancial.com/about-us/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Samo_Financial/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.samofinancial.com/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Samo_Financial/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.samofinancial.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Samo_Financial/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

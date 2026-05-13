@@ -1,0 +1,34 @@
+{
+  "slug": "My_Cpa_Coach",
+  "source_url": "https://mycpacoach.com/",
+  "competitor_name": "Online CPA Tax Services | My CPA Coach",
+  "extracted_at": "2026-05-13T17:11:19.785Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://mycpacoach.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/My_Cpa_Coach/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://mycpacoach.com/cpa-team/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/My_Cpa_Coach/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "pricing",
+      "url": "https://mycpacoach.com/pricing/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/My_Cpa_Coach/Source_Data/pages/pricing.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://mycpacoach.com/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/My_Cpa_Coach/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://mycpacoach.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/My_Cpa_Coach/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

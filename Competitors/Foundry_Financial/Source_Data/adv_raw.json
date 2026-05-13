@@ -1,0 +1,98 @@
+{
+  "query": "Foundry Financial",
+  "top": {
+    "firm_source_id": "300122",
+    "firm_ia_sec_number": "133770",
+    "firm_ia_full_sec_number": "801-133770",
+    "firm_name": "FOUNDRY FINANCIAL LLC",
+    "firm_other_names": [
+      "FOUNDRY FINANCIAL LLC",
+      "FOUNDRY FINANCIAL, LLC"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 7,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"479 S MARENGO AVE\", \"city\": \"PASADENA\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"91101\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "300122",
+      "firm_ia_sec_number": "133770",
+      "firm_ia_full_sec_number": "801-133770",
+      "firm_name": "FOUNDRY FINANCIAL LLC",
+      "firm_other_names": [
+        "FOUNDRY FINANCIAL LLC",
+        "FOUNDRY FINANCIAL, LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 7,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"479 S MARENGO AVE\", \"city\": \"PASADENA\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"91101\"}}"
+    },
+    {
+      "firm_source_id": "116823",
+      "firm_ia_sec_number": "129329",
+      "firm_ia_full_sec_number": "801-129329",
+      "firm_name": "THE FOUNDRY FINANCIAL GROUP, INC.",
+      "firm_other_names": [
+        "THE FOUNDRY FINANCIAL GROUP, INC."
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 4,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"67 WATER STREET\", \"street2\": \"SUITE 101\", \"city\": \"LACONIA\", \"state\": \"NH\", \"country\": \"United States\", \"postalCode\": \"03246-3300\"}}"
+    },
+    {
+      "firm_source_id": "284198",
+      "firm_ia_sec_number": "126937",
+      "firm_ia_full_sec_number": "801-126937",
+      "firm_name": "JEMMA FINANCIAL SERVICES",
+      "firm_other_names": [
+        "FOUNDRY WEALTH ADVISORS, LLC",
+        "JEMMA INVESTMENT ADVISORS LLC",
+        "JEMMA FINANCIAL SERVICES"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "Y",
+      "firm_branches_count": 2,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"810 GLENEAGLES COURT\", \"street2\": \"SUITE 109\", \"city\": \"BALTIMORE\", \"state\": \"MD\", \"country\": \"United States\", \"postalCode\": \"21286\"}}"
+    },
+    {
+      "firm_source_id": "134952",
+      "firm_ia_sec_number": "68000",
+      "firm_ia_full_sec_number": "801-68000",
+      "firm_name": "REALTA INVESTMENT ADVISORS, INC",
+      "firm_other_names": [
+        "BARRACK YARD ADVISORS",
+        "YOUNGS FINANCIAL PLANNING & WEALTH MANAGEMENT",
+        "WINTHER ASSET MANAGEMENT",
+        "WEALTH SOLUTIONS",
+        "STAUFFERWILLIAMS ASSET MANAGEMENT",
+        "SOMERVILLE INVESTMENTS",
+        "REALTA WEALTH",
+        "REALTA INVESTMENT ADVISORS, INC",
+        "MCLAUGHLIN FINANCIAL GROUP",
+        "LEGEND CAPITAL GROUP",
+        "IRON VALLEY WEALTH MANAGEMENT",
+        "INDEPENDENT WEALTH MANAGEMENT",
+        "HR&S FINANCIAL SERVICES",
+        "FOUNDRY WEALTH ADVISORS",
+        "DONNELLY, MICHAEL",
+        "DONNELLY STEEN & COMPANY",
+        "DONNELLY ADVISORS GROUP, INC.",
+        "DONNELLY ADVISORS GROUP, INC",
+        "DIVERSIFIED ASSET MANAGEMENT",
+        "COASTAL VALUE PARTNERS",
+        "COASTAL INVESTMENT ADVISORS, INC.",
+        "COASTAL INVESTMENT ADVISORS",
+        "COASTAL ADVISORY GROUP",
+        "COASTAL",
+        "BLACKBURN CAPITAL MANAGEMENT"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "Y",
+      "firm_branches_count": 58,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1201 N. ORANGE STREET\", \"street2\": \"SUITE 729\", \"city\": \"WILMINGTON\", \"state\": \"DE\", \"country\": \"United States\", \"postalCode\": \"19801\"}}"
+    }
+  ]
+}

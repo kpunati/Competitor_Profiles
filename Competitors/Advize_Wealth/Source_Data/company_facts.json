@@ -1,0 +1,53 @@
+{
+  "competitor": "Advize Wealth",
+  "website": "https://www.advizewealth.com/",
+  "last_updated": "2026-05-12",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "colin@advizewealth.com"
+    ],
+    "footer_phones": [
+      "(310) 765-7568",
+      "310-765-7568"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "ADVIZE WEALTH MANAGEMENT",
+      "crd_number": "297380",
+      "sec_number": null,
+      "headquarters": "429 S. MAIN STREET, ROCHESTER, MI, 48307, United States",
+      "branch_count": 1,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "ADVIZE WEALTH MANAGEMENT PLLC"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/297380/PDF/297380.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/297380"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Advize%20Wealth"
+  }
+}

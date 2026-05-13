@@ -1,0 +1,57 @@
+{
+  "competitor": "Starke Marketing",
+  "extracted_at": "2026-05-13",
+  "source_url": "https://wearestarke.com/",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgba(255, 255, 255, 0)",
+        "count": 322
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 42
+      },
+      {
+        "color": "rgb(213, 216, 220)",
+        "count": 7
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.05)",
+        "count": 6
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 1
+      },
+      {
+        "color": "rgb(20, 111, 248)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(0, 0, 0)",
+    "accent": "rgb(213, 216, 220)"
+  },
+  "typography": {
+    "heading_family": "Outfit, serif",
+    "heading_weight": "700",
+    "body_family": "Outfit, serif",
+    "body_weight": "400",
+    "body_size_px": 20,
+    "paragraph_size_px": 60
+  },
+  "primary_button": {
+    "text": "Services",
+    "background": "rgba(255, 255, 255, 0)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 0,
+    "padding": "13px 20px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

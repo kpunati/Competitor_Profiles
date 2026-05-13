@@ -1,0 +1,65 @@
+{
+  "competitor": "Intrepid Wealth Partners",
+  "extracted_at": "2026-05-12",
+  "source_url": "https://www.intrepidwealthpartners.com/",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(246, 246, 246)",
+        "count": 20
+      },
+      {
+        "color": "rgb(189, 233, 251)",
+        "count": 8
+      },
+      {
+        "color": "rgb(40, 26, 57)",
+        "count": 8
+      },
+      {
+        "color": "rgb(61, 155, 233)",
+        "count": 4
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 2
+      },
+      {
+        "color": "rgba(189, 233, 251, 0.8)",
+        "count": 1
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 1
+      },
+      {
+        "color": "rgba(246, 246, 246, 0)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(189, 233, 251)",
+    "accent": "rgb(40, 26, 57)"
+  },
+  "typography": {
+    "heading_family": "avenir-lt-w01_85-heavy1475544, sans-serif",
+    "heading_weight": "400",
+    "body_family": "Arial, Helvetica, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 10,
+    "paragraph_size_px": 30
+  },
+  "primary_button": {
+    "text": "Schedule Your Introductary Call",
+    "background": "rgb(61, 155, 233)",
+    "text_color": "rgb(0, 0, 238)",
+    "border_radius_px": 100,
+    "padding": "0px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

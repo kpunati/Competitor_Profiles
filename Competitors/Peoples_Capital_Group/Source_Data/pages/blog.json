@@ -1,0 +1,385 @@
+{
+  "kind": "blog",
+  "url": "https://www.peoplescapitalgroup.com/blog/",
+  "title": "Real Estate Investing News And Tips | Peoples Capital Group",
+  "meta": {
+    "description": "Get the latest in real estate investing news and tips of the trade. Learn how to utilize the latest news to position yourself to successfully invest in real estate and maximize your Return on Investment.",
+    "og_title": "Real Estate Investing News And Tips | Peoples Capital Group",
+    "og_description": "Get the latest in real estate investing news and tips of the trade. Learn how to utilize the latest news to position yourself to successfully invest in real estate and maximize your Return on Investment."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Blog"
+    },
+    {
+      "level": "H3",
+      "text": "Don’t Sell Your House Without a Realtor… Until You Hear This"
+    },
+    {
+      "level": "H3",
+      "text": "From $4M to $8M: How to Scale a “Boring” Business"
+    },
+    {
+      "level": "H3",
+      "text": "Good Deals Are Back… But Capital Isn’t"
+    },
+    {
+      "level": "H3",
+      "text": "WHITEPAPER. When Institutions Step Back, Main Street Steps Forward"
+    },
+    {
+      "level": "H3",
+      "text": "He Bought a $30K Tax Lien… It Turned Into a $600K Property"
+    },
+    {
+      "level": "H3",
+      "text": "Why I’m Totally Unemployable (And Financially Free)"
+    },
+    {
+      "level": "H3",
+      "text": "AI Just Changed Real Estate Forever"
+    },
+    {
+      "level": "H3",
+      "text": "Stop IRS Audits: What They Don’t Want You to Know About Crypto"
+    },
+    {
+      "level": "H3",
+      "text": "Institutional Money vs. The 80% Rule They Won’t Teach You"
+    },
+    {
+      "level": "H3",
+      "text": "What PitchBook’s 2026 Data Really Says About Multifamily Opportunity"
+    },
+    {
+      "level": "H3",
+      "text": "How To Avoid The Stupid Tax"
+    },
+    {
+      "level": "H3",
+      "text": "Revealing Andrew McNair’s $300 Million Property Strategy"
+    },
+    {
+      "level": "H3",
+      "text": "Could Washington’s Spending Ignite a Financial Meltdown?"
+    },
+    {
+      "level": "H3",
+      "text": "Self Directed IRA Rules You NEED to Know"
+    },
+    {
+      "level": "H3",
+      "text": "Can’t Afford a Home? Try Multifamily Investments!"
+    },
+    {
+      "level": "H3",
+      "text": "Beyond the Flip: The ‘Three Payday’ Creative Financing Model"
+    },
+    {
+      "level": "H3",
+      "text": "The New Jersey Housing Market is in Chaos!"
+    },
+    {
+      "level": "H3",
+      "text": "Rich Person’s Banking Strategy with Roth IRAs"
+    },
+    {
+      "level": "H3",
+      "text": "Unlocking Wealth in Northern NJ: A Quick Guide!"
+    },
+    {
+      "level": "H3",
+      "text": "From Zero to Wealth: Jeremy Dyer’s Real Estate Secrets"
+    },
+    {
+      "level": "H3",
+      "text": "BUY a Business with ONLY 10% Down?"
+    },
+    {
+      "level": "H3",
+      "text": "PAY ZERO Federal Income Tax Legally?"
+    },
+    {
+      "level": "H3",
+      "text": "What’s REALLY Happening with Rental Cash Flow in 2025?"
+    },
+    {
+      "level": "H3",
+      "text": "Commercial Real Estate: Secret to Passive Profit"
+    },
+    {
+      "level": "H3",
+      "text": "Master the “Know, Like, Trust” Factor for FAST Capital"
+    },
+    {
+      "level": "H3",
+      "text": "SHOCKING Wealthy Money Mistakes You Won’t Believe! with Homer Smith"
+    },
+    {
+      "level": "H3",
+      "text": "SHOCKING Wealthy Money Mistakes You Won’t Believe! with Homer Smith (Transcript)"
+    },
+    {
+      "level": "H3",
+      "text": "“Flipping Boston” Star Dave Seymour Gets Real (Transcript)"
+    },
+    {
+      "level": "H3",
+      "text": "“Flipping Boston” Star Dave Seymour Gets Real"
+    },
+    {
+      "level": "H3",
+      "text": "The Ultimate Guide to Alternative Investments (Transcript Included)"
+    },
+    {
+      "level": "H3",
+      "text": "Alternative Investments Explained by RIA Andres Sandate"
+    },
+    {
+      "level": "H3",
+      "text": "How to Pay Less Taxes with Dave McGuire"
+    },
+    {
+      "level": "H3",
+      "text": "How to Select the Best LP Investments with Aleksey Chernobelskiy"
+    },
+    {
+      "level": "H3",
+      "text": "Will There be Another Pandemic?"
+    },
+    {
+      "level": "H3",
+      "text": "Income Investing Explained by RIA Steve Selengut"
+    },
+    {
+      "level": "H3",
+      "text": "Former NFL Player Tom Clayton Explains Repurposing Real Estate"
+    },
+    {
+      "level": "H3",
+      "text": "The Family Office Real Estate Institute"
+    },
+    {
+      "level": "H3",
+      "text": "New Investment Opportunity from Peoples Capital Group"
+    },
+    {
+      "level": "H3",
+      "text": "Emma Powell Explains Life Style Investing"
+    },
+    {
+      "level": "H3",
+      "text": "Creating Cash Cows Through Co-Living – Grant Shipman"
+    },
+    {
+      "level": "H3",
+      "text": "PCG Will Soon Be Accepting 1031 Exchange Capital"
+    },
+    {
+      "level": "H3",
+      "text": "An Eye for Real Estate"
+    },
+    {
+      "level": "H3",
+      "text": "Building Wealth with Apartment Buildings"
+    },
+    {
+      "level": "H3",
+      "text": "Helping Family Offices"
+    },
+    {
+      "level": "H3",
+      "text": "What is the PCG Debt Fund"
+    },
+    {
+      "level": "H3",
+      "text": "How to Buy Distressed Debt"
+    },
+    {
+      "level": "H3",
+      "text": "Reporting in from Israel & the Corporate Transparency Act"
+    },
+    {
+      "level": "H3",
+      "text": "PCG’s 2024 Real Estate Fund"
+    },
+    {
+      "level": "H3",
+      "text": "Make a Difference with the The Lazarex Cancer Foundation"
+    },
+    {
+      "level": "H3",
+      "text": "Vaughn Davis Details Managing Hotels, Modeling and Playing in the NFL"
+    },
+    {
+      "level": "H3",
+      "text": "Let Your Money Do The Work For You - Learn 7 Red Flags For Passive Investors"
+    },
+    {
+      "level": "H2",
+      "text": "Quick Menu"
+    },
+    {
+      "level": "H2",
+      "text": "Contact Us"
+    },
+    {
+      "level": "H2",
+      "text": "Join Investor Wait List"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Peoples Capital Group",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/"
+    },
+    {
+      "text": "Investor Login",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "ABOUT",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/about/"
+    },
+    {
+      "text": "PORTFOLIO",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/pcg-private-offerings/"
+    },
+    {
+      "text": "LEARN",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/value/"
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/faq/"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/contact/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/peoplescapit/"
+    },
+    {
+      "text": "Don’t Sell Your House Without a Realtor… Until You Hear This",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/dont-sell-your-house-without-a-realtor-until-you-hear-this/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/dont-sell-your-house-without-a-realtor-until-you-hear-this/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/peoplescapit/"
+    },
+    {
+      "text": "From $4M to $8M: How to Scale a “Boring” Business",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/from-4m-to-8m-how-to-scale-a-boring-business/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/from-4m-to-8m-how-to-scale-a-boring-business/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/peoplescapit/"
+    },
+    {
+      "text": "Good Deals Are Back… But Capital Isn’t",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/good-deals-are-back-but-capital-isnt/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/good-deals-are-back-but-capital-isnt/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/aaron/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/19816-2/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/peoplescapit/"
+    },
+    {
+      "text": "He Bought a $30K Tax Lien… It Turned Into a $600K Property",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/he-bought-a-30k-tax-lien-it-turned-into-a-600k-property/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/he-bought-a-30k-tax-lien-it-turned-into-a-600k-property/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/peoplescapit/"
+    },
+    {
+      "text": "Why I’m Totally Unemployable (And Financially Free)",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/why-im-totally-unemployable-and-financially-free/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/why-im-totally-unemployable-and-financially-free/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/peoplescapit/"
+    },
+    {
+      "text": "AI Just Changed Real Estate Forever",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/ai-just-changed-real-estate-forever/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/ai-just-changed-real-estate-forever/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/peoplescapit/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/stop-irs-audits-what-they-dont-want-you-to-know-about-crypto/"
+    },
+    {
+      "text": "Aaron Fragnito",
+      "tag": "A",
+      "href": "https://www.peoplescapitalgroup.com/author/peoplescapit/"
+    }
+  ],
+  "body_text": "Click Here to View PCG's Exclusive Private Investment Opportunities\nInvestor Login\nABOUT\nPORTFOLIO\nLEARN\nFAQ\nCONTACT\nBlog\nAaron Fragnito\nDon’t Sell Your House Without a Realtor… Until You Hear This\nhttps://youtu.be/Pd1F2eSm9As  Passive Cash Flow Podcast EP.196 | Don’t Sell Your House Without a Realtor… Until You Hear This In […]\n Read More\nAaron Fragnito\nFrom $4M to $8M: How to Scale a “Boring” Business\n Passive Cash Flow Podcast EP.195 | From $4M to $8M: How to Scale a “Boring” Business In this episode […]\n Read More\nAaron Fragnito\nGood Deals Are Back… But Capital Isn’t\nhttps://www.youtube.com/watch?v=yUR0P_S4HT4  Passive Cash Flow Podcast EP.194 | Good Deals Are Back… But Capital Isn’t In this episode of the […]\n Read More\nAaron Fragnito\nWHITEPAPER. When Institutions Step Back, Main Street Steps Forward\nhttps://youtu.be/2WCZtmkKzCA?si=knUOiaocSc9nbkUf Author: Nik Brodskiy Nik Brodskiy is a leading industry expert in alternative investments and financial innovation, serving as both […]\n Read More\nAaron Fragnito\nHe Bought a $30K Tax Lien… It Turned Into a $600K Property\n Passive Cash Flow Podcast EP.193 | He Bought a $30K Tax Lien… It Turned Into a $600K Property Interested […]\n Read More\nAaron Fragnito\nWhy I’m Totally Unemployable (And Financially Free)\n Passive Cash Flow Podcast EP.192 | Why I’m Totally Unemployable (And Financially Free) In this episode of the Passive […]\n Read More\nAaron Fragnito\nAI Just Changed Real Estate Forever\n Passive Cash Flow Podcast EP.191 | AI Just Changed Real Estate Forever In this episode of the Passive Cash […]\n Read More\nAaron Fragnito\nStop IRS Audits: What They Don’t Want You to Know About Crypto\n Passive Cash Flow Podcast EP.190 | Stop IRS Audits: The Truth About Crypto Tax Software In this episode of […]\n Read More\nAaron Fragnito\nInstitutional Money vs. The 80% Rule They Won’t Teach You\n Passive Cash Flow Podcast EP.189 | Institutional Money vs. The 80% Rule They Won’t Teach You In this episode […]\n Read More\nAaron Fragnito\nWhat PitchBook’s 2026 Data Really Says About Multifamily Opportunity\nKey Summary The private real estate market experienced a violent repricing between 2022 and 2024, driven by the most aggressive […]\n Read More\nAaron Fragnito\nHow To Avoid The Stupid Tax\n Passive Cash Flow Podcast EP.188 | How To Avoid The Stupid Tax If you’ve ever wanted to learn real […]\n Read More\nAaron Fragnito\nRevealing Andrew McNair’s $300 Million Property Strategy\n Passive Cash Flow Podcast EP.187 | Revealing Andrew McNair’s $300 Million Property Strategy Andrew McNair is the President & […]\n Read More\nAaron Fragnito\nCould Washington’s Spending Ignite a Financial Meltdown?\n Passive Cash Flow Podcast EP.186 | Could Washington’s Spending Ignite a Financial Meltdown? Can the US government keep spending […]\n Read More\nAaron Fragnito\nSelf Directed IRA Rules You NEED to Know\n Passive Cash Flow Podcast EP.185 | Self Directed IRA Rules You NEED to Know Most people don’t realize their […]\n Read More\nAaron Fragnito\nCan’t Afford a Home? Try Multifamily Investments!\n Passive Cash Flow Podcast EP.184 | Can’t Afford a Home Try Multifamily Investments Meet the “Mad Scientist of Multifamily,” […]\n Read More\nAaron Fragnito\nBeyond the Flip: The ‘Three Payday’ Creative Financing Model\n Passive Cash Flow Podcast EP.183 | Beyond the Flip: The ‘Three Payday’ Creative Financing Model Chris Prefontaine, Chairman and […]\n Read More\nAaron Fragnito\nThe New Jersey Housing Market is in Chaos!\n Passive Cash Flow Podcast EP.182 | The New Jersey Housing Market is in Chaos! Soco Construction discussed New Jersey’s […]\n Read More\nAaron Fragnito\nRich Person’s Banking Strategy with Roth IRAs\n Passive Cash Flow Podcast EP.181 | Rich Person’s Banking Strategy with Roth IRAs M.C. Laubscher, founder of Producer’s Wealth […]\n Read More\nAaron Fragnito\nUnlocking Wealth in Northern NJ: A Quick Guide!\n Passive Cash Flow Podcast EP.180 | Unlocking Wealth in Northern NJ: A Quick Guide! Looking to unlock wealth through […]\n Read More\nAaron Fragnito\nFrom Zero to Wealth: Jeremy Dyer’s Real Estate Secrets\n Passive Cash Flow Podcast | From Zero to Wealth Jeremy Dyer’s Real Estate Secrets Jeremy Dyer is a successful […]\n Read More\nAaron Fragnito\nBUY a Business with ONLY 10% Down?\n Passive Cash Flow Podcast | BUY a Business with ONLY 10% Down? In this episode of the Passive Cash […]\n Read More\nAaron Fragnito\nPAY ZERO Federal Income Tax Legally?\n  If you’re looking to pay ZERO federal Income tax then this episode is for you. Isaac Weinberger joins the […]\n Read More\nAaron Fragnito\nWhat’s REALLY Happening with Rental Cash Flow in 2025?\nDiscover the real story behind rental cash flow in 2025 with note investing pioneer Eddie Speed. With over 40 years […]\n Read More\nAaron Fragnito\nCommercial Real Estate: Secret to Passive Profit\nAsh Patel, a full-time Commercial Real Estate investor and managing partner of Invest Beyond Multifamily, transformed his career after 15 […]\n Read More\nAaron Fragnito\nMaster the “Know, Like, Trust” Factor for FAST Capital\nWant to raise FAST Capital? This video reveals the power of the ‘Know, Like, Trust’ factor, showing you how to […]\n Read More\nAaron Fragnito\nSHOCKING Wealthy Money Mistakes You Won’t Believe! with Homer Smith\nDiscover the surprising money mistakes even the ultra-wealthy make and learn how to avoid them with Homer Smith on the […]\n Read More\nAaron Fragnito\nSHOCKING Wealthy Money Mistakes You Won’t Believe! with Homer Smith (Transcript)\n00:00:00:00 – 00:00:16:04 Aaron Fragnito What I found the most interesting is, you know, the ultra high net worth individuals […]\n Read More\nAaron Fragnito\n“Flipping Boston” Star Dave Seymour Gets Real (Transcript)\nA&E Reality TV Star Dave Seymore joins the Passive Cash Flow Podcast to explain how he was able to land […]\n Read More\nAaron Fragnito\n“Flipping Boston” Star Dave Seymour Gets Real\nA&E Reality TV Star Dave Seymore joins the Passive Cash Flow Podcast to explain how he was able to land […]\n Read More\nAaron Fragnito\nThe Ultimate Guide to Alternative Investments (Transcript Included)\nEnhance your real estate investing knowledge ! Learn more at https://www.peoplescapitalgroup.com/ ━━━━━━━━━━━━ Website – https://www.peoplescapitalgroup.com/ Facebook- https://www.facebook.com/profile.php?id=100093318587146 Instagram – https://www.instagram.com/real_estate_investments_nj/?hl=en […]\n Read More\nAaron Fragnito\nAlternative Investments Explained by RIA Andres Sandate\nRegistered Investment Advisor Andres Sandate with GP Wealth Advisors explains why many savvy investors are diversifying more and more capital […]\n Read More\nAaron Fragnito\nHow to Pay Less Taxes with Dave McGuire\nDave McGuire, Co Owner of tax firm McGuire & Sponsel, joins the show to explain how to pay less taxes […]\n Read More\nAaron Fragnito\nHow to Select the Best LP Investments with Aleksey Chernobelskiy\nLP Investment Expert and Linkedin Celebrity Aleksey Chernobelskiy joins the Passive Cash Flow Podcast to discuss how new and experienced […]\n Read More\nAaron Fragnito\nWill There be Another Pandemic?\n  Find out today on the Passive Cash Flow Podcast with this prestigious interview with Dr. Gordon Chiu! Part II […]\n Read More\nAaron Fragnito\nIncome Investing Explained by RIA Steve Selengut\nRegistered Investment Advisor Steve Selengut joins the show to explain how he helps people invest with the main focus of […]\n Read More\nAaron Fragnito\nFormer NFL Player Tom Clayton Explains Repurposing Real Estate\nTom Clayton joins the Passive Cash Flow Podcast to explain how he went from being a running back on the […]\n Read More\nAaron Fragnito\nThe Family Office Real Estate Institute\nDJ Van Keuren joins the Passive Cash Flow Podcast to explain the world of Family Offices and how he has […]\n Read More\nAaron Fragnito\nNew Investment Opportunity from Peoples Capital Group\nPeoples Capital Group is proud to announce a new investment opportunity located in a high demand Northern NJ market targeting […]\n Read More\nAaron Fragnito\nEmma Powell Explains Life Style Investing\nReal Estate investor, and Lifestyle enthusiast, Emma Powell joins the Passive Cash Flow Podcast to explain how she has created […]\n Read More\nAaron Fragnito\nCreating Cash Cows Through Co-Living – Grant Shipman\n  Grant Shipman joins the Passive Cash Flow Podcast to explain how to turn large single family homes into cash […]\n Read More\nAaron Fragnito\nPCG Will Soon Be Accepting 1031 Exchange Capital\nPCG is proud to announce that they will soon be accepting capital from 1031 exchanges! This means you can sell […]\n Read More\nAaron Fragnito\nAn Eye for Real Estate\nDr. Hoa Nguyen joins the show to explain her incredible story from growing up as a refuge in the Philippines […]\n Read More\nAaron Fragnito\nBuilding Wealth with Apartment Buildings\nIn this episode, Aaron Fragnito explains how Peoples Capital Group helps people build their wealth through multifamily properties and why […]\n Read More\nAaron Fragnito\nHelping Family Offices\nDavid Homan joins the Passive Cash Flow Podcast to explain how he helps Family Offices connect with the people or […]\n Read More\nAaron Fragnito\nWhat is the PCG Debt Fund\nLearn more by scheduling a call here https://calendly.com/peoplescapitalgroup/30-minute-zoom-meeting In this episode, Aaron Fragnito Co Founder of Peoples Capital Group, explains […]\n Read More\nAaron Fragnito\nHow to Buy Distressed Debt\nNatalia Sosnina joins the show to explain how Terra Strategies purchases distressed debt and how they improve the loan performance […]\n Read More\nAaron Fragnito\nReporting in from Israel & the Corporate Transparency Act\nTzvi Weiser joins the Podcast from Israel to explain the experience living in Jerusalem while war is raging. Living in […]\n Read More\nAaron Fragnito\nPCG’s 2024 Real Estate Fund\nPeoples Capital Group is launching a new real estate fund open accredited investors. This fund will focus on acquiring distressed […]\n Read More\nAaron Fragnito\nMake a Difference with the The Lazarex Cancer Foundation\nThe Lazarex Cancer Foundation joins the show to explain how to help people with cancer who are struggling with the […]\n Read More\nAaron Fragnito\nVaughn Davis Details Managing Hotels, Modeling and Playing in the NFL\nFormer NFL Player, model and current Managing Director of Dream Hollywood, Vaughn Davis, joins the show to explain how he […]\n Read More\n1\n2\n…\n4\n5\nDearFlip: Loading PDF 100% ...\n2/2\nLet Your Money Do The Work For You - Learn 7 Red Flags For Passive Investors\nDownload our guide on 7 Red Flags to watch out before putting your hard earned money to work passively in a real estate syndication.\nFull Name\nEmail*\nI agree to receive communications by text message regarding my service inquiry from Peoples Capital Group. You may opt out by replying STOP or ask for more information by replying HELP. Message frequency varies. Message and data rates may apply. You may review our Privacy Policy to learn how your data is used. *\nPlease verify your request*\nGET THE GUIDE\n We Help People Invest In Real Estate.\nQuick Menu\nHome\nAbout\nBlogs\nContact\nDisclaimer\nPrivacy Policy\nContact Us\n92 E Main Street, Suite 306, Somerville NJ 08876\n908-257-0642\nFacebook-square\nTi-instagram\nTwitter\nYoutube\nSocial_linkedin\nMeetup\nCopyright © 2026 Peoples Capital Group | All Rights Reserved."
+}

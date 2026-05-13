@@ -1,0 +1,65 @@
+{
+  "competitor": "Walser Wealth Management",
+  "extracted_at": "2026-05-12",
+  "source_url": "https://walserwealth.com/",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(96, 95, 95)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 28
+      },
+      {
+        "color": "rgb(122, 15, 48)",
+        "count": 12
+      },
+      {
+        "color": "rgb(39, 77, 112)",
+        "count": 5
+      },
+      {
+        "color": "rgb(247, 246, 236)",
+        "count": 4
+      },
+      {
+        "color": "rgba(255, 255, 255, 0.4)",
+        "count": 4
+      },
+      {
+        "color": "rgba(255, 255, 255, 0.5)",
+        "count": 4
+      },
+      {
+        "color": "rgb(193, 30, 31)",
+        "count": 3
+      },
+      {
+        "color": "rgb(51, 51, 51)",
+        "count": 2
+      }
+    ],
+    "primary": "rgb(122, 15, 48)",
+    "accent": "rgb(39, 77, 112)"
+  },
+  "typography": {
+    "heading_family": "quinn-display, serif",
+    "heading_weight": "400",
+    "body_family": "usual, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 20
+  },
+  "primary_button": {
+    "text": "Schedule A Consultation",
+    "background": "rgb(122, 15, 48)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 0,
+    "padding": "0px 15px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

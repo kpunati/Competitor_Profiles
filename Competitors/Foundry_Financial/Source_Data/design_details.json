@@ -1,0 +1,65 @@
+{
+  "competitor": "Foundry Financial",
+  "extracted_at": "2026-05-12",
+  "source_url": "https://www.foundryfinancial.org/",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 21
+      },
+      {
+        "color": "rgb(0, 161, 225)",
+        "count": 11
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 9
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.5)",
+        "count": 5
+      },
+      {
+        "color": "rgb(0, 4, 5)",
+        "count": 4
+      },
+      {
+        "color": "rgb(142, 182, 220)",
+        "count": 1
+      },
+      {
+        "color": "rgb(234, 234, 238)",
+        "count": 1
+      },
+      {
+        "color": "rgba(255, 255, 255, 0)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(0, 161, 225)",
+    "accent": "rgb(0, 0, 0)"
+  },
+  "typography": {
+    "heading_family": "Lato",
+    "heading_weight": "700",
+    "body_family": "sans-serif",
+    "body_weight": "400",
+    "body_size_px": 17,
+    "paragraph_size_px": 25.64
+  },
+  "primary_button": {
+    "text": "SKIP TO CONTENT",
+    "background": "rgb(0, 161, 225)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 6.8,
+    "padding": "21.3808px 35.7059px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

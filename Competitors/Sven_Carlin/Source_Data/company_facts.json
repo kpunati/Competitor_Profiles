@@ -1,0 +1,38 @@
+{
+  "competitor": "Checking your browser...",
+  "website": "https://svencarlin.com/",
+  "last_updated": "2026-05-13",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": "https://twitter.com/share",
+      "facebook": "https://facebook.com/sharer/sharer.php",
+      "youtube": "https://youtu.be/2wro11eb3d8",
+      "instagram": null
+    },
+    "footer_emails": [],
+    "footer_phones": [],
+    "sec_iapd": {
+      "matched": false,
+      "queried_as": "Sven Carlin",
+      "note": "No confident IAPD match. Either this competitor isn't a US-registered RIA, or the firm name needs disambiguation — retry with --crd <number>."
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Checking%20your%20browser..."
+  }
+}

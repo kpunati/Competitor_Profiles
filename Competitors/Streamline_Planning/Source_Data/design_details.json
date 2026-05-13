@@ -1,0 +1,65 @@
+{
+  "competitor": "Home",
+  "extracted_at": "2026-05-12",
+  "source_url": "https://streamlineplanning.com/",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(102, 102, 102)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 11
+      },
+      {
+        "color": "rgb(229, 229, 229)",
+        "count": 6
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 5
+      },
+      {
+        "color": "rgb(234, 141, 18)",
+        "count": 2
+      },
+      {
+        "color": "rgb(242, 242, 242)",
+        "count": 1
+      },
+      {
+        "color": "rgb(12, 113, 195)",
+        "count": 1
+      },
+      {
+        "color": "rgb(116, 115, 120)",
+        "count": 1
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.7)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(229, 229, 229)",
+    "accent": "rgb(255, 255, 255)"
+  },
+  "typography": {
+    "heading_family": "\"Open Sans\", sans-serif",
+    "heading_weight": "300",
+    "body_family": "\"Open Sans\", sans-serif",
+    "body_weight": "500",
+    "body_size_px": 14,
+    "paragraph_size_px": 22
+  },
+  "primary_button": {
+    "text": "Client Login",
+    "background": "rgb(234, 141, 18)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 12,
+    "padding": "12px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

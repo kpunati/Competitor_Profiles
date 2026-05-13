@@ -1,0 +1,209 @@
+{
+  "kind": "about",
+  "url": "https://www.xyplanningnetwork.com/about",
+  "title": "About XYPN",
+  "meta": {
+    "description": "XYPN is the only turnkey advice and planning platform that makes it possible for fee-only financial advisors to build the independent firm of their dreams.",
+    "og_title": "About XYPN",
+    "og_description": "XYPN is the only turnkey advice and planning platform that makes it possible for fee-only financial advisors to build the independent firm of their dreams."
+  },
+  "headings": [
+    {
+      "level": "H3",
+      "text": "Ways to Join"
+    },
+    {
+      "level": "H1",
+      "text": "About XYPN"
+    },
+    {
+      "level": "H3",
+      "text": "Real Financial Planning"
+    },
+    {
+      "level": "H3",
+      "text": "Real Independence"
+    },
+    {
+      "level": "H3",
+      "text": "Real Support"
+    },
+    {
+      "level": "H2",
+      "text": "Nice to Meet You!"
+    },
+    {
+      "level": "H2",
+      "text": "Everything independent RIA owners need in one convenient place"
+    },
+    {
+      "level": "H2",
+      "text": "Hear from those we support every day"
+    },
+    {
+      "level": "H3",
+      "text": "Get the lastest news & trends"
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": "XYPN Makes it Possible"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Membership",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Ways to Join",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Resources & Events",
+      "tag": "A",
+      "href": "javascript:;"
+    },
+    {
+      "text": "Blog →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/advisor-blog"
+    },
+    {
+      "text": "Podcast →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/podcast-blog"
+    },
+    {
+      "text": "On-Demand Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events#on-demand"
+    },
+    {
+      "text": "Guides & Courses →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads"
+    },
+    {
+      "text": "The Answer Hub →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/answer-hub"
+    },
+    {
+      "text": "Upcoming",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Live & Virtual Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events"
+    },
+    {
+      "text": "Blog →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/advisor-blog"
+    },
+    {
+      "text": "Podcast →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/podcast-blog"
+    },
+    {
+      "text": "On-Demand Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events#on-demand"
+    },
+    {
+      "text": "Guides & Courses →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/free-downloads"
+    },
+    {
+      "text": "The Answer Hub →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/answer-hub"
+    },
+    {
+      "text": "Upcoming",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Live & Virtual Events →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/events"
+    },
+    {
+      "text": "Get in touch →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/contact-us"
+    },
+    {
+      "text": "Find an Advisor →",
+      "tag": "A",
+      "href": "https://connect.xyplanningnetwork.com/find-an-advisor"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://app.xyplanningnetwork.com/login"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://app.xyplanningnetwork.com/login"
+    },
+    {
+      "text": "Get in touch →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/contact-us"
+    },
+    {
+      "text": "Get in touch →",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/contact-us"
+    },
+    {
+      "text": "Read our Twitter feed",
+      "tag": "A",
+      "href": "https://twitter.com/xypnofficial"
+    },
+    {
+      "text": "Read our Facebook feed",
+      "tag": "A",
+      "href": "https://facebook.com/xyplanningnetwork"
+    },
+    {
+      "text": "Read our LinkedIn feed",
+      "tag": "A",
+      "href": "https://www.linkedin.com/company/xypn"
+    },
+    {
+      "text": "Membership",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/"
+    },
+    {
+      "text": "Compliance",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/compliance"
+    },
+    {
+      "text": "Bookkeeping",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/books"
+    },
+    {
+      "text": "Investment Management",
+      "tag": "A",
+      "href": "https://www.xyplanningnetwork.com/invest"
+    }
+  ],
+  "body_text": "Membership\nWays to Join\nResources & Events\nLogin\nGet in touch →\nWHERE YOU'RE THE BOSS\nAbout XYPN\nOur integrated support system offers everything independent, fee-only financial planners need to launch, run, and scale the financial planning firm of their dreams with complete autonomy\nReal Financial Planning\nCreated by financial planners for financial planners, XYPN helps make it possible to profitably provide fee-only fiduciary advice in the client's best interest\nReal Independence\nThe only turnkey support platform where its members control 100% of their clients, business, revenue and data AND they choose the level of support they need to succeed throughout their firm journey\nReal Support\nOur end-to-end ecosystem of technology and support services, resources, and connection with like-minded peers enables successful entrepreneurship for independent financial planners\nNice to Meet You!\nThere's a lot to to learn about all the ways XYPN makes it possible for our members to launch, run and scale the firm of their dreams, but we managed to get the highlights down to 4 minutes if you'd like to discover more about us. We look forward to getting to know you soon, too!\nDESIGNED WITH YOU IN MIND\nEverything independent RIA owners need in one convenient place\nTechnology\nWe do the due diligence to provide best-in-class RIA software solutions that save time, money, and headaches—so you don't have to\nTechnology\nCompliance\nA team of RIA compliance experts with you every step of the way—from RIA registration to ADV updates and all the practice management in between\nCompliance\nSupport Solutions\nChoose from customized Support Services designed to help you reach all of your goals\nSupport Solutions\nSupport Network\nLike-minded advisors working together for each other’s gain and growth!\nSupport Network\nEducation & Coaching\nAll the tools & resources you need to steer your business to sustainable success\nEducation & Coaching\nAdvocacy\nFighting for the right to provide trusted financial advice in the client's best interest\nAdvocacy\nWHAT CAN XYPN MAKE POSSIBLE FOR YOU?\nHear from those we support every day\n“XYPN made getting my time back possible. I'm able to be more present as a parent. I can pick my son up from school. I can go to his school functions and still be in total control of my firm.”\nJessica McDonald, CFP®\nSOUTHERN WEALTH BUILDERS\n“I haven't found anything I don't absolutely love about my membership with XYPN. Thank you so much for all you do for us in the field and for bringing together amazing resources that we all need at a reduced cost and in a single location. The people that work at XYPN are also all amazing from my experience.”\nSteven Morneau, CDFA®\nGREENHILL FINANCIAL PARTNERS\n“Registration process is going more smoothly than I ever imagined. Great sense of community.”\nTim Gardner\nCHATHAM WEALTH MANAGEMENT\nKeep me updated with the latest insights and advice for fee-only advisors →\nGet the lastest news & trends\nEmail*\nXYPN Makes it Possible\nXYPN is the only advisor support platform that makes it possible for independent, fee-only financial planners to build the firm of their dreams with complete autonomy. We do this through ongoing advocacy and access to education and training, curated technology, compliance support, like-minded community, and back-office and client support services.\nGet in touch →\nRead our Twitter feed\nRead our Facebook feed\nRead our LinkedIn feed\nMembership\nCompliance\nBookkeeping\nInvestment Management\nSapphire\nMembership Standards\nResources\nBlog\nPodcasts\nWebinars & Virtual Events\nCFP® Scholarship\nEvents\nIndustry Events\nXYPN LIVE\nIndustry Experts\nAbout\nLeadership\nCareers\nPartners\nPrivacy\nPricing\nCopyright © 2026 XYPN"
+}

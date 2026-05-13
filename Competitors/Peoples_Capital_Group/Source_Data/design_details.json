@@ -1,0 +1,65 @@
+{
+  "competitor": "Peoples Capital Group",
+  "extracted_at": "2026-05-13",
+  "source_url": "https://www.peoplescapitalgroup.com/",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(51, 51, 51)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 81
+      },
+      {
+        "color": "rgb(41, 128, 99)",
+        "count": 29
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 12
+      },
+      {
+        "color": "rgb(229, 242, 229)",
+        "count": 12
+      },
+      {
+        "color": "rgb(2, 127, 1)",
+        "count": 6
+      },
+      {
+        "color": "rgb(64, 84, 178)",
+        "count": 6
+      },
+      {
+        "color": "rgba(15, 14, 14, 0.5)",
+        "count": 6
+      },
+      {
+        "color": "rgb(170, 165, 165)",
+        "count": 5
+      }
+    ],
+    "primary": "rgb(41, 128, 99)",
+    "accent": "rgb(0, 0, 0)"
+  },
+  "typography": {
+    "heading_family": "Montserrat, sans-serif",
+    "heading_weight": "700",
+    "body_family": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 16
+  },
+  "primary_button": {
+    "text": "Investor Login",
+    "background": "rgb(41, 128, 99)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 0,
+    "padding": "0px 0px 0px 20px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

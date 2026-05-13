@@ -1,0 +1,2248 @@
+[
+  {
+    "competitor": "Ritholtz Wealth Management",
+    "slug": "Ritholtz_Wealth",
+    "summary_line": "Employee-owned, content-marketed RIA built around Barry Ritholtz and Josh Brown — published tier pricing from $0 (via Liftoff robo and Good Advice tier) through $25M+ multi-family office.",
+    "website": "https://www.ritholtzwealth.com",
+    "competitor_type": "wealth_mgmt_content_led",
+    "threat_level": "high",
+    "confidence": "high",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-06-10",
+    "review_cadence_days": 30,
+    "team_size": "mid",
+    "advisor_count": 48,
+    "employee_count": 83,
+    "branch_count": 40,
+    "geographic_scope": "national",
+    "headquarters_city": "New York",
+    "headquarters_state": "NY",
+    "aum_usd": 7698264641,
+    "aum_as_of": "2026-03-02",
+    "pricing_model": "transparent_tiers",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": 0,
+    "wealth_tiers_served": [
+      "mass_market",
+      "mass_affluent",
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "strong",
+    "segment_mid_career_401k": "strong",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "168652",
+    "sec_number": "801-78479",
+    "ownership_structure": "employee_owned",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "personality_led",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "independent_employee_owned",
+      "no_outside_investors",
+      "content_led",
+      "transparent_pricing",
+      "personality_led",
+      "evidence_based",
+      "named_byline_content"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "voice_aimed_at_one_demographic",
+      "no_modern_tech_visible",
+      "content_aimed_at_sophisticated_only",
+      "no_segment_specific_messaging"
+    ],
+    "tags": [
+      "employee_owned",
+      "multi_advisor",
+      "consumer_facing",
+      "content_engine",
+      "media_personality_led",
+      "aum_fee",
+      "clean_regulatory_record",
+      "cfp_credentialed"
+    ],
+    "related_competitors": [
+      "Focus_Partners",
+      "Xy_Planning_Network"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-03-02",
+          "event": "ADV snapshot — 83 employees; 48 advisors performing advisory functions; $7,698,264,641 regulatory AUM; 12,587 client accounts",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "XY Planning Network",
+    "slug": "Xy_Planning_Network",
+    "summary_line": "B2B subscription network — not an RIA itself — that sells operational infrastructure ($544/month Emerald tier) to 2,100+ fee-only advisor firms, many of which target our Gen X/Y demographics.",
+    "website": "https://www.xyplanningnetwork.com",
+    "competitor_type": "b2b_network",
+    "threat_level": "medium-high",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-07-10",
+    "review_cadence_days": 60,
+    "team_size": "small",
+    "advisor_count": 5,
+    "employee_count": 5,
+    "branch_count": 2,
+    "geographic_scope": "national",
+    "headquarters_city": "Onalaska",
+    "headquarters_state": "WI",
+    "aum_usd": 175656748,
+    "aum_as_of": "2026-03-31",
+    "pricing_model": "membership_fee",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 544,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_market",
+      "mass_affluent"
+    ],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "The IAPD-matched RIA (CRD 313361 — Fiduciary Financial Planning Network LLC) is the network's tuck-in operational entity used by Sapphire-path members, NOT the network itself. XYPN-the-network is a B2B subscription business and is not separately registered. The 2,100+ member firms each hold their own registrations.",
+    "sec_registered": true,
+    "crd_number": "313361",
+    "sec_number": null,
+    "ownership_structure": "network_collective",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "gen_xy_focus",
+      "transparent_pricing",
+      "two_customer_architecture",
+      "category_shaping",
+      "b2b_advisor_focused"
+    ],
+    "vulnerabilities": [
+      "no_published_collective_aum",
+      "sapphire_tuck_in_contradicts_independence",
+      "no_consumer_facing_depth"
+    ],
+    "tags": [
+      "dual_facing",
+      "b2b_facing",
+      "membership_fee",
+      "content_engine",
+      "national_aggregator",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Kitces",
+      "Advize_Wealth",
+      "Ritholtz_Wealth"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2014",
+          "event": "XY Planning Network founded by Michael Kitces and Alan Moore",
+          "source": "industry context"
+        },
+        {
+          "date": "2026-05",
+          "event": "Network at 2,100+ member firms; Emerald tier published at $544/month",
+          "source": "site captured 2026-05-11"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "ADV snapshot — 5 employees; 5 advisors performing advisory functions; $175,656,748 regulatory AUM; 1,147 client accounts",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Focus Partners Wealth",
+    "slug": "Focus_Partners",
+    "summary_line": "PE-backed national RIA consolidator — 1,005 branches and 20 acquired boutique brands consolidated under one SEC registration.",
+    "website": "https://www.focuspartners.com/wealth-management",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "medium",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-08-09",
+    "review_cadence_days": 90,
+    "team_size": "large",
+    "advisor_count": 1025,
+    "employee_count": 1915,
+    "branch_count": 1005,
+    "geographic_scope": "national",
+    "headquarters_city": "St. Louis",
+    "headquarters_state": "MO",
+    "aum_usd": 181862000000,
+    "aum_as_of": "2026-04-30",
+    "pricing_model": "opaque",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "159289",
+    "sec_number": "801-72862",
+    "ownership_structure": "pe_backed",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": true,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "moderate",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "comprehensive",
+      "national_scale"
+    ],
+    "vulnerabilities": [
+      "no_segment_specific_messaging",
+      "no_modern_tech_visible",
+      "pe_ownership_vulnerable",
+      "disciplinary_history",
+      "no_fee_transparency"
+    ],
+    "tags": [
+      "pe_backed",
+      "national_aggregator",
+      "roll_up",
+      "multi_advisor",
+      "consumer_facing",
+      "aum_fee",
+      "has_disciplinary_disclosures"
+    ],
+    "related_competitors": [
+      "Ritholtz_Wealth"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2023",
+          "event": "Focus Financial Partners taken private by Clayton, Dubilier & Rice (industry context — verify from ADV before citing externally)",
+          "source": "industry context"
+        },
+        {
+          "date": "2024-2025",
+          "event": "Consolidation of 20+ acquired boutique brands (Buckingham, Colony Group, GW & Wade, HoyleCohen, et al.) under the unified Focus Partners Wealth, LLC entity",
+          "source": "site footer + IAPD firm_other_names"
+        },
+        {
+          "date": "2026-04-30",
+          "event": "ADV snapshot — 1,915 employees; 1,025 advisors performing advisory functions; $181,862,000,000 regulatory AUM; 220,585 client accounts; \"Other\" fee specify: REV. SHARING W/ FRS AND ON ELIGIBLE CREDIT & CASH MGMT SOLUTIONS",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Streamline Financial Services",
+    "slug": "Streamline_Planning",
+    "summary_line": "An eleven-person retirement-focused advisor team in Warrenville, IL, marketing under the Streamline Financial Services brand, with advisory services delivered through outside RIA LaSalle St. Investment Advisors (LSIA) and a YouTube-led content engine fronted by Managing Partner Dave Zoller.",
+    "website": "https://streamlineplanning.com/",
+    "competitor_type": "wealth_mgmt_content_led",
+    "threat_level": "medium",
+    "confidence": "medium",
+    "last_updated": "2026-05-11",
+    "next_review_by": "2026-08-09",
+    "review_cadence_days": 90,
+    "team_size": "small",
+    "advisor_count": 7,
+    "employee_count": 11,
+    "branch_count": 1,
+    "geographic_scope": "regional",
+    "headquarters_city": "Warrenville",
+    "headquarters_state": "IL",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Streamline Planning does not hold its own SEC/state RIA registration. The site footer discloses that advisory services are provided through LaSalle St. Investment Advisors LLC (a third-party RIA). Streamline is the marketing-facing brand and content team riding LSIA's registration.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "private_partnership",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fiduciary",
+      "comprehensive",
+      "personality_led",
+      "content_led",
+      "boutique",
+      "named_byline_content"
+    ],
+    "vulnerabilities": [
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "no_fee_transparency",
+      "mixed_revenue_with_commissions",
+      "modern_tech_asserted_not_shown",
+      "no_segment_specific_messaging",
+      "geographic_concentration",
+      "key_person_risk"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "regional",
+      "consumer_facing",
+      "cfp_credentialed",
+      "hybrid_fee",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Walser_Wealth",
+      "Advize_Wealth",
+      "Ritholtz_Wealth"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2023-11-20",
+          "event": "Most recent blog post published (\"How the 4% Rule ACTUALLY Works\") — blog cadence has been quiet since",
+          "source": "https://streamlineplanning.com/blog"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "IAPD search for 'Streamline Planning' matched the wrong entity — 'Consolidated Portfolio Review Corp' (CRD 112694), a 40-DBA umbrella RIA in Woodbury, NY, that contains a 'STREAMLINE ASSET MANAGEMENT, LLC' DBA. Site disclosure explicitly states Streamline Financial Services is unaffiliated with their advisory RIA. Advisory services are delivered through LaSalle St. Investment Advisors LLC (LSIA); auto-pulled ADV numbers (56 employees / $1.59B AUM) were discarded as misattributed.",
+          "source": "tools/enrich-adv.ts; streamlineplanning.com footer disclosure"
+        },
+        {
+          "date": "2026-05-11",
+          "event": "Site captured: 11 named team members (4 leadership partners, 3 wealth advisors, 4 client service), Warrenville IL single office, retirement-planning hero, no published fee schedule, eMoney client portal via wealth.emaplan.com.",
+          "source": "tools/extract.ts"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Walser Wealth Management",
+    "slug": "Walser_Wealth",
+    "summary_line": "Single-office Tampa RIA built around tax-attorney founder Rebecca Walser — contrarian, media-led, retirement-stage focus with anti-401(k) positioning and opaque pricing.",
+    "website": "https://walserwealth.com/",
+    "competitor_type": "wealth_mgmt_tax_specialty",
+    "threat_level": "medium",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-08-09",
+    "review_cadence_days": 90,
+    "team_size": "small",
+    "advisor_count": 13,
+    "employee_count": 26,
+    "branch_count": 1,
+    "geographic_scope": "regional",
+    "headquarters_city": "Tampa",
+    "headquarters_state": "FL",
+    "aum_usd": 344142233,
+    "aum_as_of": "2026-03-31",
+    "pricing_model": "opaque",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "206518",
+    "sec_number": "801-127246",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "personality_led",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "tax_specialty",
+      "personality_led",
+      "contrarian_vs_conventional",
+      "boutique",
+      "anti_tiering"
+    ],
+    "vulnerabilities": [
+      "single_founder_dependency",
+      "opaque_team",
+      "opaque_pricing",
+      "mixed_revenue_with_commissions",
+      "no_fee_transparency",
+      "no_segment_specific_messaging",
+      "anti_401k_alienates_our_target_segments"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "consumer_facing",
+      "media_personality_led",
+      "content_engine",
+      "jd_llm_credentialed",
+      "clean_regulatory_record",
+      "regional",
+      "aum_fee"
+    ],
+    "related_competitors": [
+      "Focus_Partners",
+      "Ritholtz_Wealth"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-03-31",
+          "event": "ADV snapshot — 26 employees; 13 advisors performing advisory functions; $344,142,233 regulatory AUM; 685 client accounts",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Advize Wealth Management",
+    "slug": "Advize_Wealth",
+    "summary_line": "Solo CFP Colin Overweg's fee-only, advice-only Rochester MI practice — the closest single-person version of our own 'independent + modern tech' positioning thesis.",
+    "website": "https://www.advizewealth.com/",
+    "competitor_type": "wealth_mgmt_solo",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-11-07",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 2,
+    "employee_count": 2,
+    "branch_count": 1,
+    "geographic_scope": "local",
+    "headquarters_city": "Rochester",
+    "headquarters_state": "MI",
+    "aum_usd": 68717460,
+    "aum_as_of": "2026-02-19",
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent"
+    ],
+    "segment_early_adults": "weak",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "state (Michigan)",
+    "regulatory_note": "State-registered RIA in Michigan; SEC# is null because Advize is below the $100M federal SEC threshold (AUM $68.7M). ADV Part 1A is still filed and was pulled.",
+    "sec_registered": true,
+    "crd_number": "297380",
+    "sec_number": null,
+    "ownership_structure": "solo_owner",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fee_only",
+      "advice_only_no_products",
+      "independent",
+      "modern_tech_asserted",
+      "niche_specialist"
+    ],
+    "vulnerabilities": [
+      "single_practitioner_capacity",
+      "modern_tech_asserted_not_shown",
+      "wix_template_site",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "no_testimonials",
+      "voice_fragility_typos"
+    ],
+    "tags": [
+      "founder_led",
+      "solo_advisor",
+      "consumer_facing",
+      "wix_or_template_site",
+      "clean_regulatory_record",
+      "cfp_credentialed",
+      "local",
+      "bootstrapped",
+      "napfa_member"
+    ],
+    "related_competitors": [
+      "Xy_Planning_Network"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-02-19",
+          "event": "ADV snapshot — 2 employees; 2 advisors performing advisory functions; $68,717,460 regulatory AUM; 299 client accounts",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Asset Map (Asset-Map, Inc.)",
+    "slug": "Asset_Map",
+    "summary_line": "Major B2B SaaS / visual financial-planning platform for advisors — Philadelphia-based Asset-Map, Inc., 2.14M people mapped, $1.6T in financial instruments mapped, named to the 2026 WealthTech100 by FinTech Global, SOC 2 Type II certified, with published transparent tier pricing ($1,699 / $2,269 / custom annually). This is a VENDOR adjacency, not a competitor: Asset Map is named on the homepage of [Intrepid Wealth Partners](../Intrepid_Wealth_Partners/1_Summary.md) as part of their RIA tech stack. International presence (US + UK/Europe + Africa + India/Asia-Pacific).",
+    "website": "https://www.asset-map.com/",
+    "competitor_type": "b2b_network",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "mid",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": 1,
+    "geographic_scope": "international",
+    "headquarters_city": "Philadelphia",
+    "headquarters_state": "PA",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "transparent_tiers",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 1699,
+    "fee_flat_high_usd": 2269,
+    "min_account_usd": null,
+    "wealth_tiers_served": [],
+    "segment_early_adults": null,
+    "segment_mid_career_401k": null,
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Asset-Map, Inc. is a B2B SaaS — financial-planning visualization software sold to advisors and firms. Not a registered investment adviser. The pipeline's enrich-adv returned a FALSE POSITIVE on this refresh, matching 'Asset Map' against 'SUGAR MAPLE ASSET MANAGEMENT, LLC' (CRD 282632) via a token-fuzz weakness (Asset/Asset + Map/Maple scored as 2/2 in pickBestMatch). The false-positive Form ADV pull was deleted and the IAPD block in Source_Data/company_facts.json was manually cleared. Bug captured for pickBestMatch tightening — should require exact token equality or full-string-contains before claiming a confident match. Stated compliance posture: SOC 2 Type II certified, FINRA + SEC compliant for handling advisor client data.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "b2b_professional",
+    "positioning_claims": [
+      "modern_tech",
+      "niche_specialist",
+      "comprehensive",
+      "transparent_pricing",
+      "b2b_advisor_focused",
+      "evidence_based",
+      "category_shaping"
+    ],
+    "vulnerabilities": [
+      "no_segment_specific_messaging"
+    ],
+    "tags": [
+      "b2b_facing",
+      "content_engine",
+      "subscription_fee",
+      "not_sec_registered",
+      "national_aggregator"
+    ],
+    "related_competitors": [
+      "Couplr_AI",
+      "Intrepid_Wealth_Partners",
+      "Kitces"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-04-08",
+          "event": "Asset-Map named to 2026 WealthTech100 list by FinTech Global (announced on the company blog).",
+          "source": "https://www.asset-map.com/resources/blog/"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Site captured: hero 'The Financial Conversation Clients Actually Understand.' Sub-hero: 'Visual planning. Real results.' Three big stat callouts: 2.14M people mapped · 30% revenue increase for new advisors · $1.6T in financial instruments mapped. Stated positioning: 'the only visual-first planning platform built for how humans actually think, whether you're using it standalone, alongside eMoney or MoneyGuidePro, for discovery meetings, or client presentations.' Six-question planning framework: Who · Why · What/Where · If · When · How. 8 named-with-credential testimonials with firm names (Martin Higgins CFP CHFC CLU AEP LUTCF RHU @ Family Wealth Management; Molly Ward CFP CDFA @ Well Lived Wealth; Jack Choi @ JATO Dynamics; Megan Takagi CFP @ Takagi & Takagi; Kristopher Grossman CFP @ Kingsbridge Financial; Mark Dorman AIF CLU @ Dorman Legacy; Henry Swan ChFC CLU @ Optimal Planning Partners; Michael Gainer AIF @ Integrated Financial Strategies). SOC 2 Type II certified; FINRA + SEC compliant. International regions: UK/Europe, Africa, India/Asia-Pacific. App at app.asset-map.com/ampux/auth. Phone: 888-664-8850. HQ: 533 East Girard Avenue, Suite 99114, Philadelphia, PA 19125. Sales: sales@asset-map.com; Support: support@asset-map.com (response <1 business day) + Live Chat in-app (<10 min) + phone support. Lead-magnet ladder: blog · webinars · 1:1 case reviews · referral program · merch store (asset-map.store). Customer-role taxonomy in demo flow: Broker-Dealer Advisor · RIA · Hybrid RIA · Bank/Credit Union Advisor · Back Office/Operational.",
+          "source": "tools/extract.ts + observation"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Pricing page captured: three tiers published — Professional $1,699/yr · Elite (MOST POPULAR) $2,269/yr · Firm (BEST VALUE, 3+ advisors, 'Let's Talk' custom pricing). 5% off with annual billing. 30-day risk-free trial with money-back guarantee. Feature deltas across tiers: Professional includes Know Your Client / Analysis + Advice / Present + Collaborate / Growth + Success. Elite adds White-Labeled Platform + Customized Data Gathering + Enhanced Relationship Management + White-Glove Support + Training. Firm tier adds Practice Management + Practice Insights & Analytics + Firm-Specific Branding + Data Migration + Volume Discounts.",
+          "source": "tools/extract.ts (pricing page)"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "PIPELINE BUG (logged here): The enrich-adv.ts pickBestMatch incorrectly returned a 2/2-token match against 'SUGAR MAPLE ASSET MANAGEMENT, LLC' (CRD 282632) — the actual matching was 'Asset'/'Asset' + 'Map'/'Maple'/'Management', which is a token-prefix or substring fuzz rather than exact equality. The false-positive ADV pull (which extracted 3 employees / 3 advisors / $291M AUM from CRD 282632) was overwritten in this metadata. adv_cache/ deleted. company_facts.json sec_iapd block manually cleared. To fix: tighten pickBestMatch to require exact token equality (case-insensitive whole-word) before declaring N/N confidence — or alternately, require that all query tokens appear as whole words inside a single name or DBA string.",
+          "source": "tools/enrich-adv.ts behavior on 2026-05-13"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "ClearValue Investing",
+    "slug": "Clearvalue_Investing",
+    "summary_line": "Subscription investing-education membership site — Free tier + Premium ($14.99/mo) — operated by 'the ClearValue Team' (no individuals named on captured pages; brand is widely associated in the personal-finance YouTube space with the ClearValue Tax / Brian Kim creator economy, but that relationship is not confirmed on captured copy). Stock and crypto picks, technical analysis, options, index funds, community message board, and pre/post-market briefings. Carefully scoped as education, not advice — FAQ explicitly disclaims trade execution or personalized recommendations to stay outside SEC RIA registration requirements.",
+    "website": "https://clearvalueinvesting.com/",
+    "competitor_type": "education_platform",
+    "threat_level": "low",
+    "confidence": "low",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "subscription",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 180,
+    "fee_flat_high_usd": 180,
+    "min_account_usd": null,
+    "wealth_tiers_served": [],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Investing-education subscription site. Not an SEC-registered investment adviser — the published FAQ explicitly disclaims trade execution and personalized recommendations, which is the standard 'education-not-advice' posture that keeps an info-publisher outside Investment Advisers Act §202(a)(11) coverage. The 'ClearValue Team' provides 'Investment Picks' and 'Stock & Crypto Analysis' as content, not as advisory services. Educational publishers can issue stock picks without RIA registration as long as the advice is impersonal, general-circulation, and not tailored to individual clients — this site fits the pattern. No IAPD match (correctly).",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "private_content_business",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "content_led",
+      "comprehensive"
+    ],
+    "vulnerabilities": [
+      "opaque_team",
+      "no_segment_specific_messaging",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "no_testimonials"
+    ],
+    "tags": [
+      "consumer_facing",
+      "content_engine",
+      "subscription_fee",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Sven_Carlin",
+      "Kitces",
+      "Karlton_Dennis"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-13",
+          "event": "Site captured: tagline 'Our mission is to help you obtain financial freedom. Checkout Our Youtube Channel.' Two-tier subscription pricing — Basic Access (Free): Financial Education · Financial Resources & Tools · ClearValue Team Insights · Pre and Post Market Briefings · Latest News · Community Message Board. Premium Membership ($14.99/mo = $180/yr): All Basic + Exclusive Posts & Insights · ClearValue Team's Investment Picks · Stock & Crypto Analysis · Technical Analysis · Options · Index Funds. Live market ticker on homepage (S&P 500 / Dow Jones / NASDAQ / Gold / Silver / Oil / Bitcoin / Ethereum / Solana / CPI / Mortgage / Treasury yields / Gas prices). News-aggregation feed on homepage (Boeing, Australia tax reform, energy stocks, Treasury commentary, etc.). 'ClearValue Team' referenced generically — no individuals named on captured pages. FAQ explicitly addresses 'Do you assist with making trades and investment decisions?' and 'Are you able to offer personalized financial recommendations?' — the legal-compliance scaffolding that keeps the firm outside RIA registration. Single anonymized testimonial captured ('Michael Bryant'). Social: Twitter + YouTube linked in footer (counts not captured). Sitemap is large (260 candidate URLs) suggesting extensive blog/content archive.",
+          "source": "tools/extract.ts (4 pages — home / pricing / blog / contact)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Couplr AI",
+    "slug": "Couplr_AI",
+    "summary_line": "B2B SaaS / advisor-client matching marketplace founded and led by Derek Notman (also CEO of Intrepid Wealth Partners), positioning a behavioral-science-backed 'Demand Anticipation' engine + 'Couplr IQ' book-intelligence layer to enterprise wealth and insurance firms (PE-backed RIA roll-ups, insurance carriers, banks, IBDs); not a retail wealth manager — sits in the awareness/distribution channel above retail RIAs.",
+    "website": "https://www.couplr.ai/",
+    "competitor_type": "b2b_network",
+    "threat_level": "low",
+    "confidence": "low",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-08-10",
+    "review_cadence_days": 90,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "opaque",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [],
+    "segment_early_adults": null,
+    "segment_mid_career_401k": null,
+    "regulatory_jurisdiction": "none",
+    "regulator": "none",
+    "regulatory_note": "Couplr AI is a B2B SaaS / advisor-matching marketplace, not a registered investment adviser. No SEC/state RIA registration applies. Note: founder Derek Notman is separately registered through Intrepid Wealth Partners (CRD 317153). Advisor-matching marketplaces sit in a regulatory grey zone under SEC's solicitor/cash-referral rules and FINRA payments-for-leads guidance — worth monitoring as Couplr scales beyond pilot customers.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "b2b_professional",
+    "positioning_claims": [
+      "evidence_based",
+      "modern_tech",
+      "niche_specialist",
+      "segment_specific",
+      "personality_led",
+      "contrarian_vs_conventional",
+      "b2b_advisor_focused",
+      "named_byline_content"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "no_fee_transparency",
+      "opaque_pricing"
+    ],
+    "tags": [
+      "founder_led",
+      "b2b_facing",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered",
+      "national_aggregator"
+    ],
+    "related_competitors": [
+      "Intrepid_Wealth_Partners",
+      "Xy_Planning_Network",
+      "Kitces"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-04-22",
+          "event": "Blog cadence ramp begins — 9 Derek-bylined industry-commentary posts published over the April 22 – May 9 window (daily-to-weekly cadence). Topics: M&A in the RIA category, advisor team retention, 401(k) capture strategy, lead-gen vs demand-anticipation framing, AI avatars in advisor marketing.",
+          "source": "https://www.couplr.ai/blog/"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Site captured: pitch is two-engine architecture (Demand Anticipation for consumer-traffic-to-advisor matching, Couplr IQ for held-away-asset surfacing in existing books). Stated tech inputs: InterGen Data + Couplr Behavioral Engine. Stated implementation timeline 30–60 days. Customer/partner badges: The American College of Financial Services, Liberty SA. Pricing gated (Book a Demo only). Team page lists 3 people: Derek Notman (Founder/CEO/'Chief Cupid Officer'), Meg (Chief Behavioral Officer, PhD Personal Financial Planning), Brian (Software Engineer, Cooper Union). Site was captured via WebFetch — Playwright extract returned HTTP 403 (Cloudflare/bot protection); the local Source_Data/pages/*.html files contain only the 403 body. The page content used in this profile came from WebFetch (which uses a different fetch path that the site does not block).",
+          "source": "WebFetch (Playwright extract returned 403)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Dealmakers (Jonathan Jay)",
+    "slug": "Dealmakers",
+    "summary_line": "UK business-acquisition coaching and community led by Jonathan Jay — teaching entrepreneurs to 'buy a profitable business without using your own cash.' Multi-product ladder (FastTrack 3-day live event, Mastermind Programme, Inner Circle invitation-only, free Toolkit, two podcasts, YouTube channel with 1.7M views over 228 videos) selling to UK and international would-be small-business acquirers. Not a wealth manager — adjacent to our category in the 'financial independence via owning a business instead of investing in markets' content space.",
+    "website": "https://dealmakers.co.uk/",
+    "competitor_type": "finance_coach",
+    "threat_level": "low",
+    "confidence": "low",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": 1,
+    "geographic_scope": "international",
+    "headquarters_city": "Barnet",
+    "headquarters_state": "Hertfordshire",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "UK",
+    "regulator": "none",
+    "regulatory_note": "FIRST UK FIRM IN CATALOG. Dealmakers is a UK business-acquisition coaching / education / community business, not a regulated financial adviser. No FCA registration applies — they sell coaching and community access, not regulated investment advice. The FCA's perimeter guidance is clear that pure business-skills education does not require Part 4A authorisation under the Financial Services and Markets Act 2000. We do NOT have a Companies House / FCA enrichment pipeline yet (Phase 2 on our jurisdiction-handling roadmap, deferred until we have ≥2 UK firms — this is the first). Manual notes from site: registered office at 42 Lytton Road, Barnet, Hertfordshire EN5 5BY (a residential street in North London, suggesting limited-company-with-residential-registered-office structure typical of UK private companies). On next refresh: pull the Companies House filing for 'Dealmakers' / 'Jonathan Jay' to get the registered company number, latest year accounts, and shareholders.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "personality_led",
+      "content_led",
+      "named_byline_content",
+      "niche_specialist",
+      "category_shaping",
+      "contrarian_vs_conventional"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "no_fee_transparency",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel"
+    ],
+    "tags": [
+      "founder_led",
+      "consumer_facing",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Karlton_Dennis",
+      "Sven_Carlin",
+      "Kitces"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-13",
+          "event": "Site captured (homepage via WebFetch — Playwright extract was bot-blocked with HTTP 403). Hero: 'Buy a profitable business without using your own cash.' Personality-led: Jonathan Jay is the named principal, stated to have 'bought and sold more than 70 businesses over 25 years' and 'shown more than 13,000 dealmakers how to buy a business.' Audience metrics: 1.7M YouTube views over 228 published videos, 188,000 hours watched, 270 podcast episodes. Product ladder: Free Business-Buying Toolkit · Business Buying Strategies Podcast · 10 Minute Deals Podcast · FastTrack live 3-day event · Mastermind Programme 2026 · Inner Circle (invitation-only) · Deal Club Members. Registered office: 42 Lytton Road, Barnet, Hertfordshire EN5 5BY, UK. Site uses Cloudflare browser-check that returned HTTP 403 to the Playwright extract.",
+          "source": "WebFetch (Playwright extract returned 403)"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "JURISDICTION MILESTONE — first UK firm in the catalog. Phase 1 jurisdiction-aware schema fields (regulatory_jurisdiction / regulator / regulatory_note) exercise correctly. Phase 2 enrichment pipeline (tools/enrich-fca.ts + tools/enrich-companies-house.ts) is still deferred per the user's instruction ('hold off until we have ≥2 UK firms'); this profile contributes the first.",
+          "source": "internal note"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Foundry Financial",
+    "slug": "Foundry_Financial",
+    "summary_line": "Single-office Pasadena RIA (~$233M AUM, 7 advisors, 10 employees, 626 client accounts) explicitly serving retirees and pre-retirees with tax-burdened portfolios; founder-led storytelling, fee-based wealth management via a trademarked 'Foundry Framework', and a free 'Retirement Assessment' as the single conversion path.",
+    "website": "https://www.foundryfinancial.org/",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-11",
+    "next_review_by": "2026-11-07",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 7,
+    "employee_count": 10,
+    "branch_count": 7,
+    "geographic_scope": "regional",
+    "headquarters_city": "Pasadena",
+    "headquarters_state": "CA",
+    "aum_usd": 232611535,
+    "aum_as_of": "2026-05-06",
+    "pricing_model": "opaque",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "300122",
+    "sec_number": "801-133770",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fiduciary",
+      "fee_only",
+      "independent",
+      "evidence_based",
+      "niche_specialist",
+      "comprehensive",
+      "transparent_pricing",
+      "personality_led",
+      "contrarian_vs_conventional"
+    ],
+    "vulnerabilities": [
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "no_segment_specific_messaging",
+      "opaque_pricing",
+      "modern_tech_asserted_not_shown",
+      "geographic_concentration",
+      "key_person_risk",
+      "opaque_team"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "regional",
+      "consumer_facing",
+      "aum_fee",
+      "clean_regulatory_record",
+      "content_engine"
+    ],
+    "related_competitors": [
+      "Walser_Wealth",
+      "Streamline_Planning",
+      "Advize_Wealth"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-05-06",
+          "value_usd": 232611535,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-05-06",
+          "value": 7,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-05-06",
+          "value": 10,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [
+        {
+          "as_of": "2026-05-06",
+          "value": 7,
+          "source": "ADV"
+        }
+      ],
+      "notable_events": [
+        {
+          "date": "2026-05-06",
+          "event": "ADV snapshot — 10 employees; 7 advisors performing advisory functions; 7 branches; 626 client accounts; $232,611,535 regulatory AUM; zero disciplinary disclosures.",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts; CRD 300122)"
+        },
+        {
+          "date": "2025-07-07",
+          "event": "Most recent blog post published ('Major Tax Legislation Changes for 2025: A Comprehensive Guide for Savers and Retirees'). Prior post January 2025; before that May 2023 — content cadence is sparse and bursty, not weekly.",
+          "source": "https://www.foundryfinancial.org/blog"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Site captured: retiree-focused hero ('Retire with confidence.'), Foundry Framework™ trademarked process, free 'Are We a Good Fit?' retirement assessment as the single conversion path, founder origin story (mother's bad advisor experience after father's death) on About page, no team page visible from sitemap (link present at /financial-planners-los-angeles but not captured).",
+          "source": "tools/extract.ts"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Intrepid Wealth Partners",
+    "slug": "Intrepid_Wealth_Partners",
+    "summary_line": "Solo-CFP RIA (~$54M AUM, 1 advisor, ~356 client accounts) in Melbourne Beach, FL, led by founder Derek Notman — surf-themed 'beach vibes' brand targeting 'high-earning millennials,' doctors, founders, and executives with a fully published three-tier asset-based fee schedule (1.00% / 0.70% / 0.55%), no account minimums, and a named modern tech stack (Altruist, Asset Map, Nitrogen).",
+    "website": "https://www.intrepidwealthpartners.com/",
+    "competitor_type": "wealth_mgmt_solo",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-11-08",
+    "review_cadence_days": 180,
+    "team_size": "solo",
+    "advisor_count": 1,
+    "employee_count": 1,
+    "branch_count": 2,
+    "geographic_scope": "regional",
+    "headquarters_city": "Melbourne Beach",
+    "headquarters_state": "FL",
+    "aum_usd": 53794996,
+    "aum_as_of": "2026-03-20",
+    "pricing_model": "transparent_tiers",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": 0.0055,
+    "fee_aum_pct_high": 0.01,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_market",
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "IAPD reports a federal SEC file number (801-122744) and CRD 317153 with $53.8M regulatory AUM. The firm's own site copy says 'State Registered Investment Advisor' (likely outdated boilerplate or a transitional state — at ~$54M AUM Intrepid is below the $100M federal floor and would normally be state-registered in FL). Treating as SEC-registered per IAPD's authoritative record; flag for verification on next refresh.",
+    "sec_registered": true,
+    "crd_number": "317153",
+    "sec_number": "801-122744",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fiduciary",
+      "evidence_based",
+      "transparent_pricing",
+      "niche_specialist",
+      "segment_specific",
+      "personality_led",
+      "modern_tech",
+      "contrarian_vs_conventional",
+      "gen_xy_focus",
+      "comprehensive"
+    ],
+    "vulnerabilities": [
+      "single_practitioner_capacity",
+      "key_person_risk",
+      "no_401k_specific_funnel",
+      "no_early_adult_surface",
+      "geographic_concentration"
+    ],
+    "tags": [
+      "founder_led",
+      "solo_advisor",
+      "regional",
+      "consumer_facing",
+      "cfp_credentialed",
+      "aum_fee",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Advize_Wealth",
+      "Streamline_Planning",
+      "Foundry_Financial"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-03-20",
+          "value_usd": 53794996,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-03-20",
+          "value": 1,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-03-20",
+          "value": 1,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [
+        {
+          "as_of": "2026-03-20",
+          "value": 2,
+          "source": "IAPD"
+        }
+      ],
+      "notable_events": [
+        {
+          "date": "2026-03-20",
+          "event": "ADV snapshot — 1 employee, 1 advisor performing advisory functions, $53,794,996 regulatory AUM, 356 client accounts, zero disciplinary disclosures.",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts; CRD 317153)"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Site captured: surf-themed 'beach vibes' brand; published three-tier fee schedule (The Break <$100K / The Set $100K-$500K / The Barrel $500K+, all sharing the same 1.00% / 0.70% / 0.55% asset-based fee bands); no account minimums but explicit 'personality minimums'; only 12 new client relationships per quarter cap; named tech stack (Altruist custody, Asset Map planning, Nitrogen risk); 3-person on-site team (Derek Notman founder/CEO/CFP, Karen Nickler executive assistant since 2015, Kristen Mueller compliance/operations — Series 65). Latest visible blog posts April 18 of an unspecified year; only 2 posts surfaced on the index — content cadence is light.",
+          "source": "tools/extract.ts"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Site copy in footer says 'State Registered Investment Advisor' while IAPD shows SEC file 801-122744 — possible outdated boilerplate; verify on next refresh.",
+          "source": "intrepidwealthpartners.com footer vs. IAPD CRD 317153"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Karlton Dennis (karltondennis.com)",
+    "slug": "Karlton_Dennis",
+    "summary_line": "Personal-brand top-of-funnel for tax strategist Karlton Dennis — featured in Forbes / USA Today / Yahoo Finance / MSNBC / Inc. / Entrepreneur — that routes audience traffic to his Tax Alchemy premium consulting practice ($20K–$150K flat-fee engagements). One of three brand surfaces of the Dennis-family tax business: KDA Inc. (founded by Karlton's mother Karla Dennis, since 1993) → Tax Alchemy (premium strategy line led by Karlton) → karltondennis.com (Karlton's personal brand).",
+    "website": "https://karltondennis.com/",
+    "competitor_type": "finance_coach",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-11-08",
+    "review_cadence_days": 180,
+    "team_size": "solo",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Los Angeles",
+    "headquarters_state": "CA",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "not_aimed",
+    "regulatory_jurisdiction": "none",
+    "regulator": "none",
+    "regulatory_note": "Personal-brand content / lead-gen surface for a tax-strategy practice. Not a registered investment adviser. Karlton Dennis is described as a 'Tax Strategist' (not a CFP / RIA). The downstream consulting business (Tax Alchemy) is a tax-consulting / CPA-firm structure, not under SEC/state RIA registration.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "personality_led",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "niche_specialist",
+      "personality_led",
+      "content_led",
+      "category_shaping",
+      "named_byline_content",
+      "tax_specialty"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "no_fee_transparency",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "modern_tech_asserted_not_shown"
+    ],
+    "tags": [
+      "founder_led",
+      "solo_advisor",
+      "consumer_facing",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Tax_Alchemy",
+      "Kda_Inc",
+      "Kitces"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-12",
+          "event": "Site captured: Karlton Dennis identifies as 'Tax Strategist' who 'teaches business owners and real estate investors how to reduce their tax bill legally.' Featured/'As seen on' badges include Forbes, USA Today, Yahoo Finance, Inc., MSNBC, Entrepreneur, SmartMoney, and Ladies' Home Journal. Product lineup: free eBook ('The Short-Term Rental Rule: How to Reduce Taxes Like the 1 Percent'), Tax Alchemy free webclass, Tax Crash Course, Mastering Tax Essentials (6-week training), Business Setup Mastery, Decoding Tax Forms, 'Golf with Karlton' experience. Every 'Work With Me' CTA routes to taxalchemy.com/consultation-survey with utm_source=karlton_dennis_site, confirming this is the lead-magnet front-end for Tax Alchemy. Site uses a Cloudflare browser-check interstitial that bot-blocked the Playwright extract — content captured via WebFetch fallback. Email: info@taxalchemy.com (shared with Tax Alchemy). Phone: (714) 477-7380.",
+          "source": "WebFetch + extract.ts contact-page capture"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Subscriber/view counts / 'students enrolled' / awards counts all shown as placeholder zeros — page uses a template with metric components that were never populated. Underlying social metrics (YouTube subscriber count etc.) not captured this refresh; would need an external SocialBlade / YT-stats pull.",
+          "source": "WebFetch"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "KDA Inc. (Karla Dennis & Associates)",
+    "slug": "Kda_Inc",
+    "summary_line": "Karla Dennis & Associates, Inc. — a family-owned Orange County / Greater Los Angeles tax-strategy and CPA firm founded in 1993 by Karla Dennis, rebranded as 'KDA Inc.' in 2023. Three decades of operating history, 4.3/5 across 199 reviews, Inc. 5000-listed, multi-segment industry focus (business owners, real estate investors, medical, entertainers, investors, self-employed). Parent firm in the Dennis-family tax stack; the premium 'Tax Alchemy' strategy product (led by Karla's son Karlton) appears as a product line in KDA's portfolio.",
+    "website": "https://kdainc.com/",
+    "competitor_type": "tax_or_cpa_firm",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-11-08",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": 1,
+    "geographic_scope": "regional",
+    "headquarters_city": "La Palma",
+    "headquarters_state": "CA",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "not_aimed",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Tax preparation / strategy / CPA firm. Team described as 'licensed tax consultants, CPAs, and Enrolled Agents.' CPAs are regulated by the California Board of Accountancy; Enrolled Agents are licensed by the IRS. KDA itself is not an SEC/state-registered investment adviser. No advisory-account custody implied.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "niche_specialist",
+      "comprehensive",
+      "tax_specialty",
+      "personality_led",
+      "segment_specific",
+      "contrarian_vs_conventional"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "no_segment_specific_messaging",
+      "modern_tech_asserted_not_shown",
+      "geographic_concentration"
+    ],
+    "tags": [
+      "founder_led",
+      "consumer_facing",
+      "regional",
+      "cpa_credentialed",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Tax_Alchemy",
+      "Karlton_Dennis",
+      "Foundry_Financial"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "1993",
+          "event": "Karla Dennis & Associates, Inc. founded by Karla Dennis — 'a humble beginning of a future tax star.' Family-business framing from inception.",
+          "source": "kdainc.com homepage ('Since 1993') + about page"
+        },
+        {
+          "date": "2023",
+          "event": "Rebranded from 'Karla Dennis and Associates Inc.' to 'KDA Inc.' — framed as part of 'bold transitions in 2023 and beyond.'",
+          "source": "kdainc.com homepage news strip"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Site captured: hero 'Your Trusted Partner in Maximizing Tax Savings & Securing Financial Growth in Orange County and Greater Los Angeles.' Tagline: 'Expert Tax Consulting, Preparation & Advisory Services Since 1993.' Industry specializations: Business Owners, Real Estate Investors, Medical Professionals, Entertainers & Creatives, Investors & Capital Partners, Self-Employed/1099. Services menu: Tax Prep & Filing, Bookkeeping & Payroll, Entity Structure & Formation, Cost Segregation, Audit Representation, Corporate Taxes, Real Estate Tax Prep, Premium Advisory, Tax Planning. Single office: 4 Centerpointe Dr #310, La Palma, CA 90623. Phone: 1 (800) 878-4051. Email: info@kdainc.com. Social proof: 'Over 100+ 5-Star Reviews on Google,' Inc. 5000 listed (no specific year cited in captured copy). Tax Alchemy referenced as a product line ('Tax Alchemy Products' linked from About). 'Her sons' referenced on the About page without naming Karlton specifically.",
+          "source": "tools/extract.ts + WebFetch about-page"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "Inconsistent social-proof numbers on the homepage: header claims 'Rated 4.3 out of 5 / 199 reviews' but body claims 'Over 100+ 5-Star Reviews on Google.' Both might be accurate (4.3 average across 199 reviews; 100+ specifically 5-star within that 199), or it's a copy-edit lapse — worth a refresh check.",
+          "source": "kdainc.com homepage capture"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Kitces.com (Nerd's Eye View)",
+    "slug": "Kitces",
+    "summary_line": "The industry's most influential B2B research, education, and CE-credit publication for financial advisors — built around Michael Kitces. Not a retail wealth-management firm; addresses advisors only.",
+    "website": "https://www.kitces.com",
+    "competitor_type": "education_platform",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-11",
+    "next_review_by": "2026-11-07",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "subscription",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [],
+    "segment_early_adults": null,
+    "segment_mid_career_401k": null,
+    "regulatory_jurisdiction": "none",
+    "regulator": "none",
+    "regulatory_note": "Content/education/CE-credit platform, not a registered investment adviser. Michael Kitces personally is affiliated with separately-registered firms (industry context: Buckingham/Focus partner) but kitces.com itself does not provide regulated advisory services to retail clients.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "private_content_business",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "personality_led",
+    "design_tone": "editorial",
+    "positioning_claims": [
+      "editorial_independence",
+      "personality_led",
+      "b2b_advisor_focused",
+      "named_byline_content",
+      "category_shaping"
+    ],
+    "vulnerabilities": [
+      "no_consumer_facing_depth",
+      "dated_visual_identity",
+      "industry_jargon_alienates_retail",
+      "opaque_subscription_pricing"
+    ],
+    "tags": [
+      "private_content_business",
+      "b2b_facing",
+      "content_engine",
+      "media_personality_led",
+      "subscription_fee",
+      "not_sec_registered",
+      "national_aggregator"
+    ],
+    "related_competitors": [
+      "Xy_Planning_Network"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05",
+          "event": "Newsletter audience at 78,507 advisor subscribers; FA Success podcast at 488 episodes; ~578 pages of blog archive",
+          "source": "site stats captured 2026-05-11"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "My CPA Coach",
+    "slug": "My_Cpa_Coach",
+    "summary_line": "Online tax-strategy and CPA-services firm led by Sherman & Krystal Standberry (CPAs) — explicitly tier-priced ($5,000 / $7,500 / $10,000 first-year plans, with year-2+ maintenance pricing also published), with a defined money-back guarantee mechanic, eight named-with-credentials testimonials, an active long-tail SEO blog, and a self-paced 'Tax Savers Course' product running on a separate learn.mycpacoach.com LMS subdomain. Targets small-business owners and high-income earners ($100K+ business revenue for the planning guarantee).",
+    "website": "https://mycpacoach.com/",
+    "competitor_type": "tax_or_cpa_firm",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "transparent_tiers",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 5000,
+    "fee_flat_high_usd": 10000,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "not_aimed",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Online CPA / tax-strategy services firm. Team described as 'licensed Certified Public Accountants' led by Sherman Standberry, CPA (CEO & Managing Partner). CPAs are regulated by state Boards of Accountancy; My CPA Coach itself is not an SEC/state-registered investment adviser. The published guarantee mechanic is the same family of claim that Tax Alchemy uses — refund-if-savings-don't-exceed-fee — but with a specific qualifier (business must earn >$100K revenue; client must provide all required info). The structured disclosure section on the pricing page reads like it was reviewed by counsel.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "tax_specialty",
+      "niche_specialist",
+      "comprehensive",
+      "transparent_pricing",
+      "personality_led",
+      "named_byline_content",
+      "evidence_based"
+    ],
+    "vulnerabilities": [
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "key_person_risk",
+      "no_segment_specific_messaging"
+    ],
+    "tags": [
+      "founder_led",
+      "consumer_facing",
+      "cpa_credentialed",
+      "content_engine",
+      "flat_fee",
+      "clean_regulatory_record",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Tax_Alchemy",
+      "Kda_Inc",
+      "Karlton_Dennis"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-13",
+          "event": "Site captured: hero 'Hire a top-rated Tax CPA that guarantees results.' Statistic: '93% of business owners and investors overpay their taxes each year. Over half mismanage their finances.' Service set: Tax Planning (3 tiers — Comprehensive $5K / Premium $7.5K / Elite $10K, first year), Tax Preparation, Bookkeeping. Year-2 maintenance pricing also published as a separate table. Named team (from About page meta description): Sherman Standberry CPA (CEO & Managing Partner), Krystal Standberry (referenced as co-founder), Goldie Hall, Aaron Guinn. Money-back guarantee mechanic: refund up to 100% if (a) plan doesn't identify ≥2x fee in tax savings, (b) business earns ≥$100K revenue, (c) client provided all required info. Eight named-with-last-initial testimonials on homepage (Alex H., Ted K., Wakila S., Kenn R., Brandon M., plus 3 duplicates). Lead-capture form qualifies by Annual Income (7 brackets from <$50K to >$5M) and Business/1099/Rental income (Yes/No). Self-paced 'Tax Savers Course' product on a separate learn.mycpacoach.com LMS. Blog has weekly+ cadence with long-tail-SEO titles ('34 Big Tax Deductions (Write-offs) for Businesses in 2026'). 'Featured In' banner present but logos not captured. Footer credits 'My CPA Coach LLC' (2025).",
+          "source": "tools/extract.ts (5 pages — home / about / pricing / blog / contact)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Peoples Capital Group",
+    "slug": "Peoples_Capital_Group",
+    "summary_line": "New Jersey passive real-estate syndication firm founded 2013 by Seth Martinez + Aaron Fragnito — 109+ investors, $114M+ transaction volume, $25M+ AUM, 300+ real-estate transactions, 8-figure portfolio, focused on Northern NJ / NYC-Metro Class-B apartment complexes (Paterson, Rahway). Investors are funneled into discrete deal offerings via discovery-call → approval → investment funnel. NOT a registered investment adviser — a vertically integrated real-estate investment company operating Reg D-style syndications. Aaron Fragnito co-hosts the Passive Cash Flow Podcast + NJ Real Estate Network (NJREN).",
+    "website": "https://www.peoplescapitalgroup.com/",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": 1,
+    "geographic_scope": "regional",
+    "headquarters_city": "Chatham",
+    "headquarters_state": "NJ",
+    "aum_usd": 25000000,
+    "aum_as_of": "2026-05-13",
+    "pricing_model": "opaque",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": 50000,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Peoples Capital Group is a real-estate syndication / private placement firm, not a registered investment adviser. Offerings are presumably structured under Regulation D (likely Rule 506(c) given the public marketing) for accredited investors only — though the site disclaimer says 'This is not a solicitation for Funds. This feature and all content on our website for information purposes and not financial advice.' At $25M AUM the firm is well below the $100M federal SEC threshold; depending on activities they may operate as an Exempt Reporting Adviser (ERA) under §203(m) of the Investment Advisers Act, or they may be a state-registered RE syndicator. The pipeline's enrich-adv correctly returned no confident match — IAPD search hit 'V WEALTH ADVISORS LLC' and 'ALDRIDGE CHERRA & ALDRIDGE FINANCIAL GROUP' at 1/3 tokens which were appropriately rejected as low confidence. Worth a manual ERA / state-securities lookup on next refresh if this firm becomes more material.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "niche_specialist",
+      "comprehensive",
+      "personality_led",
+      "named_byline_content",
+      "content_led"
+    ],
+    "vulnerabilities": [
+      "no_segment_specific_messaging",
+      "no_fee_transparency",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "geographic_concentration",
+      "key_person_risk"
+    ],
+    "tags": [
+      "founder_led",
+      "consumer_facing",
+      "regional",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Samo_Financial",
+      "Karlton_Dennis",
+      "Dealmakers"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2013",
+          "event": "Peoples Capital Group founded by Seth Martinez and Aaron Fragnito to 'help more people invest in real estate and become less reliant on the stock market.'",
+          "source": "peoplescapitalgroup.com about page"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Site captured: claimed stats — 109+ investors, $114M+ transaction volume, 13+ years in business, 300+ real-estate transactions, $40M+ valued real estate transacted, $25M+ assets under management, 8-figure real-estate portfolio. Hero: 'Wealth Preservation & Growth Through Real Estate.' ICP: accredited investors seeking passive real-estate exposure without operational involvement. Stated prior deal-level returns (per site): 11-unit Paterson NJ complex (10 investors, $400K raised, 24% annualized cash-on-cash achieved); 27-apartment Rahway NJ (19 investors, $1.325M raised, targeted 11%+ return / 15%+ IRR — 'ahead of schedule'); 25-unit Paterson NJ (19 investors, $1.035M raised, targeted 10%+ return / 15%+ IRR — 'ahead of schedule'). Conversion funnel: Discovery Call → Approval to Invest → Investment → Wealth Growth & Preservation. Charity component: 10% of PCG's asset-management fee donated to World Vision, St. Jude Children's Research Hospital, and Wounded Warrior Project. Seth Martinez is the senior managing partner (medical-billing co-founder background, CPC Medical Billing co-founded 2003, 7-figure exit 2009); Aaron Fragnito is co-founder + host of the Passive Cash Flow Podcast + NJ Real Estate Network + former adjunct professor at Rowan University ('Real Estate Entrepreneurship'). Footer email: seth@peoplescapitalgroup.com / Phone: 908-257-0642.",
+          "source": "tools/extract.ts (4 pages — home / about / blog / contact)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "PWL Capital",
+    "slug": "Pwl_Capital",
+    "summary_line": "Canadian fee-based RIA with a category-shaping content engine — Ben Felix's Common Sense Investing YouTube channel and the Rational Reminder podcast (co-hosted with Cameron Passmore, now Chairman) — that reaches a global evidence-based investing audience including many US retail listeners who cannot actually transact with the firm.",
+    "website": "https://pwlcapital.com/",
+    "competitor_type": "wealth_mgmt_content_led",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-11-08",
+    "review_cadence_days": 180,
+    "team_size": "mid",
+    "advisor_count": null,
+    "employee_count": 100,
+    "branch_count": 3,
+    "geographic_scope": "national",
+    "headquarters_city": "Ottawa",
+    "headquarters_state": "ON",
+    "aum_usd": null,
+    "aum_as_of": "2026-05-12",
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "not_aimed",
+    "regulatory_jurisdiction": "CA",
+    "regulator": "CIRO + FSRA + AMF",
+    "regulatory_note": "Canadian firm. PWL Capital Inc. regulated by CIRO; PWL Advisors Inc. regulated by FSRA (Ontario) and AMF (Quebec). No US SEC registration — pipeline's enrich-adv.ts correctly returned no IAPD match. AUM/headcount/branch counts are site-stated (~$7B+ CAD, 100+ employees, 3 offices) rather than from a US-ADV-equivalent filing. National Bank Independent Network is the carrying broker.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "private_partnership",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fiduciary",
+      "evidence_based",
+      "content_led",
+      "category_shaping",
+      "named_byline_content",
+      "comprehensive",
+      "advice_only_no_products"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "geographic_concentration",
+      "no_fee_transparency",
+      "no_early_adult_surface",
+      "no_segment_specific_messaging"
+    ],
+    "tags": [
+      "multi_advisor",
+      "consumer_facing",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered",
+      "canadian_ria",
+      "regional",
+      "founder_led"
+    ],
+    "related_competitors": [
+      "Ritholtz_Wealth",
+      "Kitces",
+      "Xy_Planning_Network"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2014-12-31",
+          "value_usd": null,
+          "value_cad": 1000000000,
+          "source": "site about page timeline"
+        },
+        {
+          "as_of": "2017-12-31",
+          "value_usd": null,
+          "value_cad": 2000000000,
+          "source": "site about page timeline"
+        },
+        {
+          "as_of": "2019-12-31",
+          "value_usd": null,
+          "value_cad": 3000000000,
+          "source": "site about page timeline"
+        },
+        {
+          "as_of": "2020-12-31",
+          "value_usd": null,
+          "value_cad": 5600000000,
+          "source": "site about page timeline"
+        },
+        {
+          "as_of": "2026-05-12",
+          "value_usd": null,
+          "value_cad": 7000000000,
+          "source": "site homepage stated $7B+ AUM"
+        }
+      ],
+      "advisor_count_history": [],
+      "employee_count_history": [
+        {
+          "as_of": "2026-05-12",
+          "value": 100,
+          "source": "site about page — '100+ Employees Ready to Serve You'"
+        }
+      ],
+      "branch_count_history": [
+        {
+          "as_of": "2026-05-12",
+          "value": 3,
+          "source": "contact page lists Ottawa, Montreal, Regina — Vancouver pending via Chalten acquisition"
+        }
+      ],
+      "notable_events": [
+        {
+          "date": "1996",
+          "event": "Founded by James Parkyn, Laurent Wermenlinger, Anthony Layton — fee-based, no in-house products, no commissions, integrated planning + investment management",
+          "source": "site about page timeline"
+        },
+        {
+          "date": "1997",
+          "event": "Ottawa office opens; Cameron Passmore joins PWL in Ottawa",
+          "source": "site about page timeline"
+        },
+        {
+          "date": "2000",
+          "event": "PWL adopts ETFs",
+          "source": "site about page timeline"
+        },
+        {
+          "date": "2003",
+          "event": "DFA mutual funds launched in Canada; PWL makes lead order of $100M",
+          "source": "site about page timeline"
+        },
+        {
+          "date": "2018",
+          "event": "Cameron Passmore and Ben Felix launch the Rational Reminder Podcast",
+          "source": "site about page timeline"
+        },
+        {
+          "date": "2021",
+          "event": "Tony Layton retires; Cameron Passmore becomes majority owner and Chairman of the Board",
+          "source": "site about page timeline"
+        },
+        {
+          "date": "2025",
+          "event": "PWL partners with OneDigital; acquires TCM Financial and EB Wealth",
+          "source": "site about page timeline"
+        },
+        {
+          "date": "2026-05",
+          "event": "30th anniversary; ~$7B CAD AUM, 2,700+ client families, 100+ employees; Vancouver expansion via Chalten Fee-Only Advisors acquisition; recent Western Canada expansion via Macdonald, Shymko & Company; France Kingsbury appointed Chief Legal and Compliance Officer; PWL joins SIMA; Rational Reminder podcast at Episode 408",
+          "source": "site homepage + articles index"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "SAMO Financial",
+    "slug": "Samo_Financial",
+    "summary_line": "New Jersey passive-real-estate-syndication coaching and investment-club led by Managing Partner Alina Trigub — woman-owned, explicitly niched at 'IT Leaders' for the wealth-building pitch. Multi-surface brand: SAMO Investing Club membership · coaching · public speaking · free 'Portfolio Management 101' report · newsletter · blog · video lessons · library. Same structural category as Peoples Capital Group (NJ-based passive real-estate syndication) but at smaller scale and with a coaching/community surface added on top of the deal flow.",
+    "website": "https://www.samofinancial.com/",
+    "competitor_type": "wealth_mgmt_solo",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "solo",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": 1,
+    "geographic_scope": "regional",
+    "headquarters_city": null,
+    "headquarters_state": "NJ",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "SAMO Financial is a passive-real-estate-syndication coaching and investment-club business led by Managing Partner Alina Trigub — not an SEC/state-registered investment adviser. Site explicitly describes the offering as 'investing club' membership + coaching + access to syndication deals, which keeps the firm in the educational-publisher + Reg D-syndication carve-out rather than the RIA-registration perimeter. The pipeline's enrich-adv correctly returned no IAPD match. Structurally similar to Peoples Capital Group on the syndication side and to Karlton Dennis / Dealmakers on the personal-brand-coaching side. Worth a manual FINRA / NJ Bureau of Securities lookup on next refresh if the firm becomes more material; Alina Trigub may be individually registered or licensed.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "niche_specialist",
+      "personality_led",
+      "named_byline_content",
+      "segment_specific",
+      "content_led"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "no_fee_transparency",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "geographic_concentration"
+    ],
+    "tags": [
+      "founder_led",
+      "solo_advisor",
+      "consumer_facing",
+      "regional",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Peoples_Capital_Group",
+      "Karlton_Dennis",
+      "Dealmakers"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-13",
+          "event": "Site captured: hero 'Simplifying Passive Real Estate Investing for IT Leaders' — explicit niche-targeting at IT-industry professionals as the ICP. Managing Partner: Alina Trigub (named on About page; alina@samofinancial.com; (201) 281-7430). Stated as a 'woman-owned business' that 'empowers women to take charge of generating wealth.' Product set: SAMO Club (membership), Coaching, Public Speaking, Newsletter, free 'Portfolio Management 101' special report, Video Lessons, Library, Blog. Conversion funnel: Join the Club → Let's Talk → Take Action (invest in syndications) → Reap the Rewards. Three named testimonials with first-name + last-initial attribution (Derrick K, Eugene S, plus a reference to a WWWIRE — Women Who Want to Invest In Real Estate — meetup talk in New Jersey). Charity component noted but specific causes not surfaced in captured copy. Trigub previously appeared as keynote speaker at NJ Women's real-estate investing community events. Same NJ geographic concentration as Peoples Capital Group; both occupy the 'passive RE syndication for mid-career professionals' adjacency to our wealth-management category.",
+          "source": "tools/extract.ts (5 pages — home / about / services / blog / contact)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Starke (marketing agency)",
+    "slug": "Starke",
+    "summary_line": "Pasadena, CA full-service marketing agency (~10 years of operating history) serving 'growth-focused brands' with social media content / paid social / PPC / web design / media buying / podcasts / influencers / TV — name-drops Sean Hannity, Dallas Mavericks, Gwyneth Paltrow, and Newt Gingrich as past partnerships. NOT a wealth-management firm — this is a vendor adjacency in the same shape as Asset Map or Monster Link Marketing (the agency that builds the Dennis-family sites). Cataloged here to capture an LA-area marketing-services data point and flag the third pickBestMatch false-positive in the pipeline.",
+    "website": "https://wearestarke.com/",
+    "competitor_type": "b2b_network",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": 1,
+    "geographic_scope": "national",
+    "headquarters_city": "Pasadena",
+    "headquarters_state": "CA",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "opaque",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [],
+    "segment_early_adults": null,
+    "segment_mid_career_401k": null,
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Starke is a marketing agency, not a regulated financial firm — no SEC/state/FCA/CIRO registration applies. The pipeline's enrich-adv pickBestMatch returned a FALSE POSITIVE matching 'Starke' against 'STARKEY & ASSOCIATES, INC.' (CRD 116023, an Evergreen CO RIA) via the same token-prefix-fuzz weakness that previously hit Asset Map ('Asset Map' → 'Sugar Maple Asset Management') and Streamline Planning. This is the THIRD false positive of this type in the pipeline. The bogus IAPD block in Source_Data/company_facts.json has been manually cleared; the cached ADV PDF was deleted. Fix: pickBestMatch should require exact whole-word token equality (case-insensitive) before claiming a confident match.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "niche_specialist",
+      "comprehensive",
+      "contrarian_vs_conventional"
+    ],
+    "vulnerabilities": [
+      "no_segment_specific_messaging",
+      "no_fee_transparency",
+      "opaque_team"
+    ],
+    "tags": [
+      "founder_led",
+      "b2b_facing",
+      "regional",
+      "content_engine",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Asset_Map",
+      "Couplr_AI"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-13",
+          "event": "Site captured: Starke is a full-service marketing agency based in Pasadena, CA. Stated history: 'For nearly a decade, Starke has operated with one rule: do whatever it takes to win.' Service set: Social Media Content · Social Ads · PPC · Web Design · Media Buying · Podcasts · Influencers · Television. Named-past-partner deck: Sean Hannity · Dallas Mavericks · Big Boy in The Neighborhood · Gwyneth Paltrow · Newt Gingrich. Hosts a 'Marketing Simplified Podcast' (7+ episodes captured in homepage carousel). Phone: 626.209.1194 (Pasadena area code). Email: info@wearestarke.com. Active blog with marketing-strategy posts ('Marketing in 2025,' 'How To Craft A Marketing Strategy,' 'Building A Business From Zero To $1 Million,' etc.).",
+          "source": "tools/extract.ts (5 pages — home / about / services / blog / contact)"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "PIPELINE BUG (third occurrence): tools/enrich-adv.ts pickBestMatch falsely matched 'Starke' against 'STARKEY & ASSOCIATES, INC.' (CRD 116023) via token-prefix fuzz — 'starke' was scored as 1/1 token match against 'starkey'. Previously: Asset Map → Sugar Maple Asset Management (Asset/Asset + Map/Maple), Streamline Planning → unrelated NY DBA umbrella. The bug recurs every 3-5 firms and is now demonstrably a category-of-error, not a one-off. Fix priority: HIGH. Suggested fix: require exact whole-word token equality (case-insensitive) before claiming confidence; or require the query string to appear as a substring of the candidate name. Applied workaround: manually cleared the bogus IAPD block in company_facts.json and deleted the cached false-positive ADV PDF.",
+          "source": "tools/enrich-adv.ts behavior on 2026-05-13"
+        },
+        {
+          "date": "2026-05-13",
+          "event": "Cataloging note: Starke is a vendor adjacency (marketing services) like Asset Map (planning software) or Couplr AI (advisor-matching SaaS), not a competitor for our retail RIA prospects. Kept in the catalog because (a) it was sent by the user, (b) it captures an LA-area marketing-services data point that may be relevant when we shop for our own marketing agency, and (c) it's the canonical example of the pickBestMatch bug for future engineering reference.",
+          "source": "internal note"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Sven Carlin",
+    "slug": "Sven_Carlin",
+    "summary_line": "Croatian-born, Netherlands-based independent value-investing researcher with a PhD in finance and a former academic post at Amsterdam School of International Business — operates a multi-surface educational brand (Research Platform subscription, blog, podcast, book 'Modern Value Investing,' Stock Market Investing Courses, charity). Personality-led 'Modern Value Investing with Sven Carlin' brand teaching individual investors to evaluate individual stocks (Lululemon vs Nike, Berkshire Hathaway, Aker BP, etc.) rather than allocate to index funds.",
+    "website": "https://svencarlin.com/",
+    "competitor_type": "finance_coach",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "solo",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "international",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "subscription",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [],
+    "segment_early_adults": "weak",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "EU",
+    "regulator": "none",
+    "regulatory_note": "Sven Carlin is an 'independent researcher, investor and teacher' (per his About page) operating a personal-brand education business, not a regulated financial adviser. Croatian by origin; previous academic posts at Amsterdam School of International Business and Amsterdam Fashion Institute. No registered RIA / MiFID-equivalent / AFM (Dutch financial regulator) authorization disclosed on captured pages. Standard educational-content-only posture under EU rules — analysis and opinion is permitted without authorization, personalized investment advice is not. We do not have an AFM / EU enrichment pipeline; would need manual lookup for any regulated entity if one exists.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "personality_led",
+    "design_tone": "editorial",
+    "positioning_claims": [
+      "personality_led",
+      "content_led",
+      "named_byline_content",
+      "evidence_based",
+      "category_shaping",
+      "niche_specialist"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "no_fee_transparency",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel"
+    ],
+    "tags": [
+      "founder_led",
+      "solo_advisor",
+      "consumer_facing",
+      "content_engine",
+      "media_personality_led",
+      "subscription_fee",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Clearvalue_Investing",
+      "Kitces",
+      "Karlton_Dennis"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-13",
+          "event": "Site captured: 'Modern Value Investing with Sven Carlin' brand. Site is WordPress.com-hosted with a wp.com browser-check that bot-blocked Playwright on the homepage (other pages captured normally). Surfaces visible: Research Platform (paid subscription for 'detailed analyses on the best risk and reward investing ideas'; pricing not captured this refresh), Blog (active cadence — September 2025 + January 2025 + November 2024 articles visible), Podcast (linked but not captured), Book ('Modern Value Investing' — 'named as the #5 best value investing book of all time by Financial-Expert.co.uk' per site copy; sold via Amazon), Stock Market Investing Courses, Charity. About page (via WebFetch): Sven Carlin holds a PhD; previously a 'finance and accounting lecturer and later an assistant professor at the Amsterdam School of International Business and the Amsterdam Fashion Institute'; from Novigrad, Croatia; has lived in the Netherlands and London; describes himself as 'an independent researcher, investor and still a teacher.'",
+          "source": "tools/extract.ts (blog + contact/book pages) + WebFetch fallback"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Synergy Private",
+    "slug": "Synergy_Private",
+    "summary_line": "Boutique multi-family office for 'first-generation wealth creators,' founded by the leadership of the Tax Alchemy consulting firm — making this the fourth brand surface of the Dennis-family operation (KDA Inc. → Tax Alchemy → karltondennis.com → Synergy Private), and the firm's up-market move into UHNW family-office territory. Explicitly invitation-only. Disclaims affiliation with any bank, broker-dealer, RIA, or law firm — operates as a 'professional services organization' that coordinates outside advisors rather than provides advice directly.",
+    "website": "https://synergyprivate.com/",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "low",
+    "last_updated": "2026-05-13",
+    "next_review_by": "2026-11-09",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": 1,
+    "geographic_scope": "national",
+    "headquarters_city": "Irvine",
+    "headquarters_state": "CA",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "not_aimed",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Synergy Private explicitly disclaims affiliation with any bank, broker-dealer, investment adviser, or law firm — site copy: 'Synergy Private is a professional services organization. Although its staff may help facilitate these services, the firm does not provide legal or investment advice directly to individuals or entities. The firm is also not affiliated with any bank, broker/dealer, investment adviser, or law firm.' This is the classic multi-family-office (MFO) regulatory posture: coordinate outside professionals, route engagements through them, avoid directly being a registered entity. The firm is not in IAPD (the pipeline's enrich-adv correctly returned no match). The MFO posture means there is no Form ADV / Companies House / FCA filing to pull — we are limited to site-stated facts unless the firm rebrands as a registered RIA later.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "none",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "boutique",
+      "niche_specialist",
+      "comprehensive"
+    ],
+    "vulnerabilities": [
+      "no_segment_specific_messaging",
+      "no_fee_transparency",
+      "opaque_team",
+      "key_person_risk"
+    ],
+    "tags": [
+      "founder_led",
+      "consumer_facing",
+      "regional",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Tax_Alchemy",
+      "Karlton_Dennis",
+      "Kda_Inc"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-13",
+          "event": "Site captured: positioning as 'a boutique family office for creators of meaningful wealth.' About page explicit about lineage: 'Synergy Private was founded by the leadership of the nationally recognized consulting firm, Tax Alchemy. Recognizing that growing and managing meaningful wealth involves much more than proactive tax planning, Synergy was born out of a desire to navigate these complexities directly alongside ultra-affluent individuals and their families.' Stated business model: 'a private family office for first generation wealth creators. Available for engagement by invitation only.' Regulatory disclaimer is unusually explicit. Corporate mailing address: 17595 Harvard Ave Suite C-890, Irvine, CA 92614 (Class-A office suite in Orange County, geographically adjacent to KDA Inc. in La Palma). Email: info@synergyprivate.com. Client portal: sp.clientportal.com. LinkedIn: linkedin.com/company/synergy-private. Site built by Monster Link Marketing — same agency that built the karltondennis / Tax Alchemy / KDA Inc. sites, confirming common operating control. Site was bot-blocked at the homepage (Cloudflare 'Checking your browser' interstitial); about + contact pages captured normally. No team page in captured nav, no published pricing, no testimonials.",
+          "source": "tools/extract.ts (about-us + contact) + observation"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Tax Alchemy",
+    "slug": "Tax_Alchemy",
+    "summary_line": "Premium tax-strategy consulting practice (~$20K–$150K flat-fee, 1-year engagement) led by 'CEO' Karlton Dennis — the consulting endpoint that the karltondennis.com personal-brand funnel routes audience traffic into. Mentioned as a 'product' in the parent Dennis-family firm KDA Inc.'s product portfolio (kdainc.com/tax-alchemy-products/), suggesting structural relationship to KDA Inc. (Karla Dennis, since 1993).",
+    "website": "https://taxalchemy.com/",
+    "competitor_type": "tax_or_cpa_firm",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-05-12",
+    "next_review_by": "2026-11-08",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Los Angeles",
+    "headquarters_state": "CA",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "transparent_tiers",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 20000,
+    "fee_flat_high_usd": 150000,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "not_aimed",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Tax-consulting / CPA firm structure. Team described as 'certified public accountants, enrolled agents, and seasoned tax consultants' — CPAs are regulated by state Boards of Accountancy and Enrolled Agents by the IRS, but Tax Alchemy itself is not an SEC/state-registered investment adviser. No advisory-account custody implied. Sales-pitch language ('Tax savings guarantee — we guarantee you'll save more than the cost of our services or we'll refund the difference') is the kind of claim that draws AICPA / state board scrutiny — worth monitoring.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "niche_specialist",
+      "personality_led",
+      "tax_specialty",
+      "transparent_pricing",
+      "comprehensive",
+      "contrarian_vs_conventional"
+    ],
+    "vulnerabilities": [
+      "no_segment_specific_messaging",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "key_person_risk",
+      "no_testimonials",
+      "voice_fragility_typos",
+      "opaque_team"
+    ],
+    "tags": [
+      "founder_led",
+      "consumer_facing",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered",
+      "flat_fee"
+    ],
+    "related_competitors": [
+      "Karlton_Dennis",
+      "Kda_Inc",
+      "Foundry_Financial"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-12",
+          "event": "Site captured: hero headline 'We teach business owners and real estate investors how to reduce their tax bill.' Karlton Dennis identified as 'Our CEO' on the about page. Team described generically as 'experienced certified public accountants, enrolled agents, and seasoned tax consultants' — no individuals named beyond Karlton. Service tiers: Tax Strategy Analysis / Entity Structuring / Implementation & Hand-Holding. Pricing disclosed as 'from as little as $20k up to $150k' flat-fee with '1 year commitment.' Stated differentiators: flat-rate pricing (no hourly), 'tax savings guarantee' (refund if savings don't exceed fees), year-round support, personalized attention. Lead magnet: 'Cost Segregation Calculator' (real-estate-investor targeting). Client portal: taxalchemy.clientportal.com. Email: info@taxalchemy.com (shared with karltondennis.com). Site uses a Cloudflare browser-check interstitial — Playwright extract returned the challenge page; content captured via WebFetch fallback.",
+          "source": "WebFetch + extract.ts about-page capture"
+        },
+        {
+          "date": "2026-05-12",
+          "event": "EXECUTION ISSUE — Contact page (/contact/) was captured but the body still contains template placeholder copy: 'Head Office Jln Cempaka Wangi No 22 Jakarta - Indonesia,' 'support@yourdomain.tld,' 'hello@yourdomain.tld,' 'Phone : +6221.2002.2012,' and 'Lorem ipsum dolor sit amet…' Lorem ipsum and a Wordpress agency placeholder ('Digimax's Expertise') are visible on the About page. The site footer credits 'Monster Link Marketing.' For a firm pricing engagements at $20K–$150K, the failure to remove template placeholders on contact and about is a credibility wart.",
+          "source": "extract.ts capture of taxalchemy.com/contact/ and taxalchemy.com/about-us/"
+        }
+      ]
+    }
+  }
+]

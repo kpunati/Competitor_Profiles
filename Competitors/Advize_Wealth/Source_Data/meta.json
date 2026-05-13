@@ -1,0 +1,29 @@
+{
+  "slug": "Advize_Wealth",
+  "source_url": "https://www.advizewealth.com/",
+  "competitor_name": "Advize Wealth",
+  "extracted_at": "2026-05-11T18:32:45.369Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.advizewealth.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Advize_Wealth/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.advizewealth.com/about",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Advize_Wealth/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.advizewealth.com/blog",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Advize_Wealth/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.advizewealth.com/contact-us",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Advize_Wealth/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "Kda_Inc",
+  "source_url": "https://kdainc.com/",
+  "competitor_name": "KDA Inc.",
+  "extracted_at": "2026-05-12T22:15:28.050Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://kdainc.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Kda_Inc/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://kdainc.com/services/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Kda_Inc/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://kdainc.com/resource/business-structures-101-what-type-of-entity-should-you-have/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Kda_Inc/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://kdainc.com/book-a-consultation/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Kda_Inc/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

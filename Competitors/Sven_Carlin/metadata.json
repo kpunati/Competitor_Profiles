@@ -1,0 +1,136 @@
+{
+  "competitor": "Sven Carlin",
+  "slug": "Sven_Carlin",
+  "summary_line": "Croatian-born, Netherlands-based independent value-investing researcher with a PhD in finance and a former academic post at Amsterdam School of International Business — operates a multi-surface educational brand (Research Platform subscription, blog, podcast, book 'Modern Value Investing,' Stock Market Investing Courses, charity). Personality-led 'Modern Value Investing with Sven Carlin' brand teaching individual investors to evaluate individual stocks (Lululemon vs Nike, Berkshire Hathaway, Aker BP, etc.) rather than allocate to index funds.",
+  "website": "https://svencarlin.com/",
+  "competitor_type": "finance_coach",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-13",
+  "next_review_by": "2026-11-09",
+  "review_cadence_days": 180,
+
+  "team_size": "solo",
+  "advisor_count": null,
+  "employee_count": null,
+  "branch_count": null,
+  "geographic_scope": "international",
+  "headquarters_city": null,
+  "headquarters_state": null,
+
+  "aum_usd": null,
+  "aum_as_of": null,
+
+  "pricing_model": "subscription",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": [],
+
+  "segment_early_adults": "weak",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "EU",
+  "regulator": "none",
+  "regulatory_note": "Sven Carlin is an 'independent researcher, investor and teacher' (per his About page) operating a personal-brand education business, not a regulated financial adviser. Croatian by origin; previous academic posts at Amsterdam School of International Business and Amsterdam Fashion Institute. No registered RIA / MiFID-equivalent / AFM (Dutch financial regulator) authorization disclosed on captured pages. Standard educational-content-only posture under EU rules — analysis and opinion is permitted without authorization, personalized investment advice is not. We do not have an AFM / EU enrichment pipeline; would need manual lookup for any regulated entity if one exists.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "personality_led",
+  "design_tone": "editorial",
+
+  "positioning_claims": [
+    "personality_led",
+    "content_led",
+    "named_byline_content",
+    "evidence_based",
+    "category_shaping",
+    "niche_specialist"
+  ],
+  "vulnerabilities": [
+    "key_person_risk",
+    "no_fee_transparency",
+    "no_early_adult_surface",
+    "no_401k_specific_funnel"
+  ],
+  "tags": [
+    "founder_led",
+    "solo_advisor",
+    "consumer_facing",
+    "content_engine",
+    "media_personality_led",
+    "subscription_fee",
+    "not_sec_registered"
+  ],
+  "related_competitors": [
+    "Clearvalue_Investing",
+    "Kitces",
+    "Karlton_Dennis"
+  ],
+
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-05-13",
+        "event": "Site captured: 'Modern Value Investing with Sven Carlin' brand. Site is WordPress.com-hosted with a wp.com browser-check that bot-blocked Playwright on the homepage (other pages captured normally). Surfaces visible: Research Platform (paid subscription for 'detailed analyses on the best risk and reward investing ideas'; pricing not captured this refresh), Blog (active cadence — September 2025 + January 2025 + November 2024 articles visible), Podcast (linked but not captured), Book ('Modern Value Investing' — 'named as the #5 best value investing book of all time by Financial-Expert.co.uk' per site copy; sold via Amazon), Stock Market Investing Courses, Charity. About page (via WebFetch): Sven Carlin holds a PhD; previously a 'finance and accounting lecturer and later an assistant professor at the Amsterdam School of International Business and the Amsterdam Fashion Institute'; from Novigrad, Croatia; has lived in the Netherlands and London; describes himself as 'an independent researcher, investor and still a teacher.'",
+        "source": "tools/extract.ts (blog + contact/book pages) + WebFetch fallback"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "regulatory_jurisdiction": "US | CA | UK | AU | EU | multiple | none (controlled vocab — see _context/taxonomy.md)",
+    "regulator": "Free-form string. Common values: SEC, state (NAME), CIRO + FSRA + AMF, FCA, ASIC, none, multiple. The actual regulator(s) the firm answers to. Use 'none' for content platforms and other non-registered entities.",
+    "regulatory_note": "Optional sentence explaining what's missing vs. an ADV-style dataset because of jurisdiction (vs. missing because we haven't pulled it). Null for US SEC-registered firms where we got the standard ADV pull.",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

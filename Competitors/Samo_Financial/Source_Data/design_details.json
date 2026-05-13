@@ -1,0 +1,65 @@
+{
+  "competitor": "SAMO Financial",
+  "extracted_at": "2026-05-13",
+  "source_url": "https://www.samofinancial.com/",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(129, 136, 152)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 11
+      },
+      {
+        "color": "rgb(53, 53, 53)",
+        "count": 6
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.08)",
+        "count": 6
+      },
+      {
+        "color": "rgb(244, 244, 244)",
+        "count": 5
+      },
+      {
+        "color": "rgb(54, 133, 190)",
+        "count": 3
+      },
+      {
+        "color": "rgb(55, 124, 183)",
+        "count": 2
+      },
+      {
+        "color": "rgb(37, 39, 44)",
+        "count": 2
+      },
+      {
+        "color": "rgb(214, 214, 214)",
+        "count": 2
+      }
+    ],
+    "primary": "rgb(53, 53, 53)",
+    "accent": "rgba(0, 0, 0, 0.08)"
+  },
+  "typography": {
+    "heading_family": "Poppins, sans-serif",
+    "heading_weight": "700",
+    "body_family": "Poppins, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 14,
+    "paragraph_size_px": 14
+  },
+  "primary_button": {
+    "text": "Get Your Copy Now",
+    "background": "rgb(55, 124, 183)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 6,
+    "padding": "8px 14px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "kind": "about",
+  "url": "https://mycpacoach.com/cpa-team/",
+  "title": "About Us - Meet Your New CPA Team @ My CPA Coach",
+  "meta": {
+    "description": "Learn more about our elite team of CPAs, led by Krystal and Sherman Standberry, Goldie Hall, and Aaron Guinn.",
+    "og_title": "About Us - Meet Your New CPA Team @ My CPA Coach",
+    "og_description": "Learn more about our elite team of CPAs, led by Krystal and Sherman Standberry, Goldie Hall, and Aaron Guinn."
+  },
+  "headings": [
+    {
+      "level": "H2",
+      "text": "Our Elite Team"
+    },
+    {
+      "level": "H2",
+      "text": "Sherman Standberry, CPA"
+    },
+    {
+      "level": "H3",
+      "text": "– CEO & Managing Partner"
+    },
+    {
+      "level": "H3",
+      "text": "Areas of Expertise"
+    },
+    {
+      "level": "H3",
+      "text": "Credentials"
+    },
+    {
+      "level": "H3",
+      "text": "Education"
+    },
+    {
+      "level": "H3",
+      "text": "Experience"
+    },
+    {
+      "level": "H2",
+      "text": "Goldie Hall, EA, CPA"
+    },
+    {
+      "level": "H3",
+      "text": "– Senior Tax Manager"
+    },
+    {
+      "level": "H3",
+      "text": "Areas of Expertise"
+    },
+    {
+      "level": "H3",
+      "text": "Education"
+    },
+    {
+      "level": "H3",
+      "text": "Credentials"
+    },
+    {
+      "level": "H3",
+      "text": "Experience"
+    },
+    {
+      "level": "H2",
+      "text": "Aaron Guinn, MBA, CPA"
+    },
+    {
+      "level": "H3",
+      "text": "– Tax Manager"
+    },
+    {
+      "level": "H3",
+      "text": "Areas of Expertise"
+    },
+    {
+      "level": "H3",
+      "text": "Credentials"
+    },
+    {
+      "level": "H3",
+      "text": "Education"
+    },
+    {
+      "level": "H3",
+      "text": "Experience"
+    },
+    {
+      "level": "H2",
+      "text": "Rafael Valverde, CPA"
+    },
+    {
+      "level": "H3",
+      "text": "– Tax Manager"
+    },
+    {
+      "level": "H3",
+      "text": "Areas of Expertise"
+    },
+    {
+      "level": "H3",
+      "text": "Credentials"
+    },
+    {
+      "level": "H3",
+      "text": "Education"
+    },
+    {
+      "level": "H3",
+      "text": "Experience"
+    },
+    {
+      "level": "H2",
+      "text": "Manuel Deanda, CPA"
+    },
+    {
+      "level": "H3",
+      "text": "– Tax Manager"
+    },
+    {
+      "level": "H3",
+      "text": "Areas of Expertise"
+    },
+    {
+      "level": "H3",
+      "text": "Credentials"
+    },
+    {
+      "level": "H3",
+      "text": "Education"
+    },
+    {
+      "level": "H3",
+      "text": "Experience"
+    },
+    {
+      "level": "H2",
+      "text": "Krystal Standberry, CPA"
+    },
+    {
+      "level": "H3",
+      "text": "Partner & CFO"
+    },
+    {
+      "level": "H3",
+      "text": "Areas of Expertise"
+    },
+    {
+      "level": "H3",
+      "text": "Credentials"
+    },
+    {
+      "level": "H3",
+      "text": "Education"
+    },
+    {
+      "level": "H3",
+      "text": "Experience"
+    },
+    {
+      "level": "H2",
+      "text": "Why Choose My CPA Coach?"
+    },
+    {
+      "level": "H3",
+      "text": "Proven Tax Savings"
+    },
+    {
+      "level": "H3",
+      "text": "Elite-Level Expertise"
+    },
+    {
+      "level": "H3",
+      "text": "Results-Driven Approach"
+    },
+    {
+      "level": "H2",
+      "text": "Ready to take control of your taxes and financial future?"
+    },
+    {
+      "level": "H2",
+      "text": "Services"
+    },
+    {
+      "level": "H2",
+      "text": "Pricing"
+    },
+    {
+      "level": "H2",
+      "text": "Contact Us"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "href": "#content"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://mycpacoach.com/"
+    },
+    {
+      "text": "Services",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Planning Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-planning-services/"
+    },
+    {
+      "text": "Tax Preparation Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cpa-tax-preparation/"
+    },
+    {
+      "text": "Bookkeeping Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/bookkeeping-services/"
+    },
+    {
+      "text": "Pricing",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Planning Fees",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-planning-fees/"
+    },
+    {
+      "text": "Tax Preparation Fees",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cost-tax-preparation-cpa/"
+    },
+    {
+      "text": "Reviews",
+      "tag": "A",
+      "href": "https://mycpacoach.com/my-cpa-coach-reviews/"
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cpa-team/"
+    },
+    {
+      "text": "Course",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Savers Course",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-saver/"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://learn.mycpacoach.com/login"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://mycpacoach.com/blog/"
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "href": "https://mycpacoach.com/contact/"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://mycpacoach.com/"
+    },
+    {
+      "text": "Services",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Planning Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-planning-services/"
+    },
+    {
+      "text": "Tax Preparation Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cpa-tax-preparation/"
+    },
+    {
+      "text": "Bookkeeping Services",
+      "tag": "A",
+      "href": "https://mycpacoach.com/bookkeeping-services/"
+    },
+    {
+      "text": "Pricing",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Planning Fees",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-planning-fees/"
+    },
+    {
+      "text": "Tax Preparation Fees",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cost-tax-preparation-cpa/"
+    },
+    {
+      "text": "Reviews",
+      "tag": "A",
+      "href": "https://mycpacoach.com/my-cpa-coach-reviews/"
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "href": "https://mycpacoach.com/cpa-team/"
+    },
+    {
+      "text": "Course",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Tax Savers Course",
+      "tag": "A",
+      "href": "https://mycpacoach.com/tax-saver/"
+    },
+    {
+      "text": "Login",
+      "tag": "A",
+      "href": "https://learn.mycpacoach.com/login"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://mycpacoach.com/blog/"
+    }
+  ],
+  "body_text": "Skip to content\ncontact@mycpacoach.com\nHome\nServices\nPricing\nReviews\nAbout\nCourse\nBlog\nContact\nMeet Your CPA Team\nGreat CPAs always pay for themselves. That’s why we hire only the best talent in the industry\n—to deliver exceptional results for our clients.\nOur Elite Team\nSherman Standberry, CPA\n– CEO & Managing Partner\nOne of the most sought-after CPAs in the country, Sherman Standberry is the visionary CEO and Founder of My CPA Coach, a premier tax consulting firm specializing in strategic tax planning. Renowned for his ability to simplify complex tax strategies, Sherman has educated and empowered over 10 million taxpayers through online tax education. Now leading a team of top-tier CPAs, he helps business owners legally minimize their tax burdens while maximizing their financial potential.\nAreas of Expertise\nTax Planning, Business Growth, Accounting, Investing\nCredentials\nCertified Public Accountant (CPA), Master of Professional Accountancy (MPA)\nEducation\nMPA & BS in Accounting, Georgia State University\nExperience\n15+ years\nAccomplishments:\nLead Instructor of the Tax Savers Course\nInc. 5000 Entrepreneur (2019-2021)\nFeatured in Yahoo Small Business, CBS, Fox Business, and AccountingWEB\nGoldie Hall, EA, CPA\n– Senior Tax Manager\nWith Fortune 500 leadership experience, Goldie Hall has led and developed over 30 tax professionals, delivering world-class tax services. As a Senior Tax Manager at My CPA Coach, Goldie works directly with business owners to implement strategic tax planning, preparation, and compliance solutions—helping them reduce tax liabilities and eliminate financial stress.\nAreas of Expertise\nTax Planning, Tax Preparation, Business Compliance\nEducation\nBS in Accounting, Fisk University\nCredentials\nCertified Public Accountant (CPA), Enrolled Agent (EA)\nExperience\n15+ years\nAccomplishments:\nLed and managed a 30-person tax team for a Fortune 500 company\n5+ years of consulting high-net-worth individuals\n10+ years in private accounting & corporate taxation\nAaron Guinn, MBA, CPA\n– Tax Manager\nA versatile CPA with an extensive background in public accounting, CFO services, and taxation, Aaron Guinn has worked with mid-sized companies to optimize their tax strategies, audits, and financial reporting. Passionate about helping business owners, he now serves as Tax Manager at My CPA Coach, guiding clients toward lower taxes, accurate filings, and better financial outcomes.\nAreas of Expertise\nCFO Services, Tax Planning, Accounting\nCredentials\nCertified Public Accountant (CPA), Master of Business Administration (MBA)\nEducation\nBS in Accounting, East Tennessee State University\nExperience\n20+ years\nAccomplishments:\nCFO & management experience overseeing multiple companies & 50+ employees\n10+ years inpublic accounting (taxation, audit, and business advisory)\nRafael Valverde, CPA\n– Tax Manager\nAn experienced CPA and true Master of Accounting and Taxation, Rafael Valverde boasts Big 4 Tax Accounting experience where he routinely dealt with complex tax matters ranging from several million to billion-dollar transactions. As a Tax Manager at My CPA Coach, he coaches our clients on the best ways to reduce tax exposure, improve financial clarity, and build efficient, repeatable systems that support confident decision-making and long-term growth.\nAreas of Expertise\nTax Compliance & Strategic Planning, Financial Reporting & Multi-Entity Structures, REIT Testing, Data, Process, and Workflow Automation\nCredentials\nCertified Public Accountant (CPA)\nEducation\nMaster of Accountancy, DePaul University (Magna Cum Laude), Bachelor of Science in Accountancy\nExperience\n10+ years\nAccomplishments:\nLed and scaled a tax department that managed over 240 entities and 600+ K-1's\nImplemented REIT testing across 90+ properties, generating over $100,000 in annual tax savings\nDeveloped and executed ERC processes, resulting in approximately $1M in tax credits\nFormer Senior Tax Accountant at Ernst & Young, supporting large-scale REITs and complex multi-entity clients\nManuel Deanda, CPA\n– Tax Manager\nAs a seasoned financial leader with over a decade of combined CFO and Tax experience, Manuel DeAnda brings a unique ability to connect executive-level financial strategy with tax compliance. As a CPA and Tax Manager at My CPA Coach, Manuel works directly with clients to develop tax strategies that support long-term profitability and sustainable growth. With experience across individual, corporate, and partnership taxation, he helps business owners minimize tax liabilities and navigate complex compliance requirements.\nAreas of Expertise\nTax Compliance & Strategic Planning, GAAP Financial Reporting, Multi-Entity Accounting, Budgeting & Forecasting\nCredentials\nCertified Public Accountant (CPA)\nEducation\nBA in Accounting, Trinity International University\nExperience\n10+ years\nAccomplishments:\nCombined CFO, Controller, and Tax Manager leadership experience across multiple industries\nExtensive experience preparing and reviewing individual, corporate, and partnership tax returns\nLed end-to-end accounting operations with GAAP-compliant financial reporting and tax-ready financials\nProvided executive-level financial strategy including tax planning, budgeting, forecasting, and long-term planning\nExperienced in managing multi-entity accounting environments and aligning tax strategy with operational decision-making\nKrystal Standberry, CPA\nPartner & CFO\nAs the co-founder and CFO of My CPA Coach, Krystal Standberry is the architect of the firm’s tax preparation and planning frameworks, which have helped clients save millions in taxes annually. With Big 4 experience and a track record of consulting billion-dollar corporations, she is an expert in complex tax planning and business operations.\nAreas of Expertise\nTax Strategy, Business Operations, Accounting\nCredentials\nCertified Public Accountant (CPA), Master of Professional Accountancy (MPA)\nEducation\nMPA & BS in Accounting, Georgia State University\nExperience\n15+ years\nAccomplishments:\nBig 4 Public Accounting Experience in taxation\nFounder & Co-host of LYFE Accounting\nFeatured in Business Insider, AccountingWEB, and Clutch\nWhy Choose My CPA Coach?\nProven Tax Savings\nOur firm has helped business owners save millions through proactive tax strategies.\nElite-Level Expertise\nOur CPAs and consultants bring Big 4 experience, Fortune 500 leadership, and CFO expertise to every client.\nResults-Driven Approach\nWe go beyond tax compliance; we focus on minimizing your taxes and maximizing your profits\nReady to take control of your taxes and financial future?\nSchedule a Consultation Today\nMy CPA Coach connects taxpayers to high-performing CPAs that guarantee results. Our CPAs specialize in high-value tax planning and tax preparation services for small businesses and high-income individuals.\nServices\nCPA Tax Planning Services\nCPA Tax Preparation Services\nTax Savers Course\nPricing\nCPA Tax Planning Services\nCPA Tax Preparation Services\nContact Us\nName(Required)\nFirst\nLast\nEmail(Required)\nPhone(Required)\nAnnual Income(Required)\nSelect from dropdown\nUnder $50,000\n$50,000 - $100,000\n$100,000 - $250,000\n$250,000 - $500,000\n$500,000 - $1,000,000\n$1,000,000 - $5,000,000\nOver $5,000,000\nDo You Earn Any Business, 1099, or Rental Income?(Required)\nSelect from dropdown\nYes\nNo\nPrimary Interest(Required)\nSelect from dropdown\nTax Planning\nTax Preparation\nBookkeeping\nYour Message\nImportant Disclosures:\nTax Planning Guarantee: We will refund up to 100% of our tax planning fee upon all of the following conditions being present: 1) Your plan does not identify at least double the price of the plan in estimated tax savings 2) Your business earns over $100,000 per year in revenue 3) You provided all required information to create your tax plan.\nTax Preparation Guarantee: We will refund up to 100% of our tax preparation service for any interest or penalties related to the accuracy of our filing of your tax return. To be eligible for any refund, the inaccuracy on your tax return must be directly caused by our firm. Direct causes include, but are not limited to, data inserted on the tax return that does not correlate with the information provided by the Client. Inaccuracies from indirect causes are not covered by this guarantee. Indirect causes include, but are not limited to, tax return inaccuracies due to incorrect information provided by the client. This guarantee does not include interest and penalties resulting from late filings.\n© Copyright 2025 My CPA Coach LLC. All rights reserved.\nYour use of this website is subject to the Terms of Use and Privacy Policy. Terms and conditions, features, support, pricing, and service options subject to change without notice."
+}

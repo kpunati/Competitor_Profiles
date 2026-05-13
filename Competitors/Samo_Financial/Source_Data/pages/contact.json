@@ -1,0 +1,177 @@
+{
+  "kind": "contact",
+  "url": "https://www.samofinancial.com/contact/",
+  "title": "Contact – SAMO Financial",
+  "meta": {
+    "description": "",
+    "og_title": "Contact",
+    "og_description": ""
+  },
+  "headings": [
+    {
+      "level": "H2",
+      "text": "Contact"
+    },
+    {
+      "level": "H1",
+      "text": "CONTACT US"
+    },
+    {
+      "level": "H2",
+      "text": "GET IN TOUCH"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Search",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "HOME",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/"
+    },
+    {
+      "text": "OUR SERVICES",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/services/"
+    },
+    {
+      "text": "Public Speaking",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/speaker-and-money-coach-alina-trigub/"
+    },
+    {
+      "text": "Our Products",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/our-products/"
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/testimonials/"
+    },
+    {
+      "text": "ABOUT US",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/about-us/"
+    },
+    {
+      "text": "Media",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/media/"
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/?page_id=95"
+    },
+    {
+      "text": "Video Lessons",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/video-lessons/"
+    },
+    {
+      "text": "JOIN THE SAMO CLUB",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/join-the-samo-club/"
+    },
+    {
+      "text": "LIBRARY",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/library/"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/contact/"
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/faq/"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/"
+    },
+    {
+      "text": "Our Services",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/services/"
+    },
+    {
+      "text": "Public Speaking",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/speaker-and-money-coach-alina-trigub/"
+    },
+    {
+      "text": "Our Products",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/our-products/"
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/testimonials/"
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/about-us/"
+    },
+    {
+      "text": "Media",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/media/"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/?page_id=95"
+    },
+    {
+      "text": "Video Lessons",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/video-lessons/"
+    },
+    {
+      "text": "Join The SAMO Club",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/join-the-samo-club/"
+    },
+    {
+      "text": "Library",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/library/"
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/contact/"
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/faq/"
+    },
+    {
+      "text": "Alina Trigub",
+      "tag": "A",
+      "href": "https://www.samofinancial.com/author/alina/"
+    },
+    {
+      "text": "(201) 281-7430",
+      "tag": "A",
+      "href": "tel:(201) 281-7430"
+    },
+    {
+      "text": "info@samofinancial.com",
+      "tag": "A",
+      "href": "mailto:info@samofinancial.com"
+    }
+  ],
+  "body_text": "HOME\nOUR SERVICES\nPublic Speaking\nOur Products\nTestimonials\nABOUT US\nMedia\nBLOG\nVideo Lessons\nJOIN THE SAMO CLUB\nLIBRARY\nCONTACT\nFAQ\nCONTACT US\n(201) 281-7430\ninfo@samofinancial.com\nGET IN TOUCH\nFirst Name *\n* Name *\nLast Name *\nEmail *\nText *\nSubmit\n © Copyright 2026. All Rights Reserved."
+}

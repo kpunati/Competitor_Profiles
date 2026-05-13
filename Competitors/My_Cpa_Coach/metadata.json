@@ -1,0 +1,137 @@
+{
+  "competitor": "My CPA Coach",
+  "slug": "My_Cpa_Coach",
+  "summary_line": "Online tax-strategy and CPA-services firm led by Sherman & Krystal Standberry (CPAs) — explicitly tier-priced ($5,000 / $7,500 / $10,000 first-year plans, with year-2+ maintenance pricing also published), with a defined money-back guarantee mechanic, eight named-with-credentials testimonials, an active long-tail SEO blog, and a self-paced 'Tax Savers Course' product running on a separate learn.mycpacoach.com LMS subdomain. Targets small-business owners and high-income earners ($100K+ business revenue for the planning guarantee).",
+  "website": "https://mycpacoach.com/",
+  "competitor_type": "tax_or_cpa_firm",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-13",
+  "next_review_by": "2026-11-09",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": null,
+  "employee_count": null,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": null,
+  "headquarters_state": null,
+
+  "aum_usd": null,
+  "aum_as_of": null,
+
+  "pricing_model": "transparent_tiers",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": 5000,
+  "fee_flat_high_usd": 10000,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "not_aimed",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "none",
+  "regulatory_note": "Online CPA / tax-strategy services firm. Team described as 'licensed Certified Public Accountants' led by Sherman Standberry, CPA (CEO & Managing Partner). CPAs are regulated by state Boards of Accountancy; My CPA Coach itself is not an SEC/state-registered investment adviser. The published guarantee mechanic is the same family of claim that Tax Alchemy uses — refund-if-savings-don't-exceed-fee — but with a specific qualifier (business must earn >$100K revenue; client must provide all required info). The structured disclosure section on the pricing page reads like it was reviewed by counsel.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "tax_specialty",
+    "niche_specialist",
+    "comprehensive",
+    "transparent_pricing",
+    "personality_led",
+    "named_byline_content",
+    "evidence_based"
+  ],
+  "vulnerabilities": [
+    "no_early_adult_surface",
+    "no_401k_specific_funnel",
+    "key_person_risk",
+    "no_segment_specific_messaging"
+  ],
+  "tags": [
+    "founder_led",
+    "consumer_facing",
+    "cpa_credentialed",
+    "content_engine",
+    "flat_fee",
+    "clean_regulatory_record",
+    "not_sec_registered"
+  ],
+  "related_competitors": [
+    "Tax_Alchemy",
+    "Kda_Inc",
+    "Karlton_Dennis"
+  ],
+
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-05-13",
+        "event": "Site captured: hero 'Hire a top-rated Tax CPA that guarantees results.' Statistic: '93% of business owners and investors overpay their taxes each year. Over half mismanage their finances.' Service set: Tax Planning (3 tiers — Comprehensive $5K / Premium $7.5K / Elite $10K, first year), Tax Preparation, Bookkeeping. Year-2 maintenance pricing also published as a separate table. Named team (from About page meta description): Sherman Standberry CPA (CEO & Managing Partner), Krystal Standberry (referenced as co-founder), Goldie Hall, Aaron Guinn. Money-back guarantee mechanic: refund up to 100% if (a) plan doesn't identify ≥2x fee in tax savings, (b) business earns ≥$100K revenue, (c) client provided all required info. Eight named-with-last-initial testimonials on homepage (Alex H., Ted K., Wakila S., Kenn R., Brandon M., plus 3 duplicates). Lead-capture form qualifies by Annual Income (7 brackets from <$50K to >$5M) and Business/1099/Rental income (Yes/No). Self-paced 'Tax Savers Course' product on a separate learn.mycpacoach.com LMS. Blog has weekly+ cadence with long-tail-SEO titles ('34 Big Tax Deductions (Write-offs) for Businesses in 2026'). 'Featured In' banner present but logos not captured. Footer credits 'My CPA Coach LLC' (2025).",
+        "source": "tools/extract.ts (5 pages — home / about / pricing / blog / contact)"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "regulatory_jurisdiction": "US | CA | UK | AU | EU | multiple | none (controlled vocab — see _context/taxonomy.md)",
+    "regulator": "Free-form string. Common values: SEC, state (NAME), CIRO + FSRA + AMF, FCA, ASIC, none, multiple. The actual regulator(s) the firm answers to. Use 'none' for content platforms and other non-registered entities.",
+    "regulatory_note": "Optional sentence explaining what's missing vs. an ADV-style dataset because of jurisdiction (vs. missing because we haven't pulled it). Null for US SEC-registered firms where we got the standard ADV pull.",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

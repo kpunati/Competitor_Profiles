@@ -1,0 +1,45 @@
+{
+  "competitor": "Advize Wealth",
+  "extracted_at": "2026-05-11",
+  "source_url": "https://www.advizewealth.com/",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 4
+      },
+      {
+        "color": "rgba(255, 255, 255, 0)",
+        "count": 1
+      },
+      {
+        "color": "rgb(47, 46, 46)",
+        "count": 1
+      }
+    ],
+    "primary": "rgba(255, 255, 255, 0)",
+    "accent": "rgb(47, 46, 46)"
+  },
+  "typography": {
+    "heading_family": "avenir-lt-w01_35-light1475496, sans-serif",
+    "heading_weight": "400",
+    "body_family": "Arial, Helvetica, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 10,
+    "paragraph_size_px": 16
+  },
+  "primary_button": {
+    "text": "START HERE",
+    "background": "rgba(255, 255, 255, 0)",
+    "text_color": "rgb(0, 0, 238)",
+    "border_radius_px": 0,
+    "padding": "0px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

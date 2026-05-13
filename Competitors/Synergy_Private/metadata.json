@@ -1,0 +1,130 @@
+{
+  "competitor": "Synergy Private",
+  "slug": "Synergy_Private",
+  "summary_line": "Boutique multi-family office for 'first-generation wealth creators,' founded by the leadership of the Tax Alchemy consulting firm — making this the fourth brand surface of the Dennis-family operation (KDA Inc. → Tax Alchemy → karltondennis.com → Synergy Private), and the firm's up-market move into UHNW family-office territory. Explicitly invitation-only. Disclaims affiliation with any bank, broker-dealer, RIA, or law firm — operates as a 'professional services organization' that coordinates outside advisors rather than provides advice directly.",
+  "website": "https://synergyprivate.com/",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "low",
+  "last_updated": "2026-05-13",
+  "next_review_by": "2026-11-09",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": null,
+  "employee_count": null,
+  "branch_count": 1,
+  "geographic_scope": "national",
+  "headquarters_city": "Irvine",
+  "headquarters_state": "CA",
+
+  "aum_usd": null,
+  "aum_as_of": null,
+
+  "pricing_model": "gated_via_funnel",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["uhnw"],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "not_aimed",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "none",
+  "regulatory_note": "Synergy Private explicitly disclaims affiliation with any bank, broker-dealer, investment adviser, or law firm — site copy: 'Synergy Private is a professional services organization. Although its staff may help facilitate these services, the firm does not provide legal or investment advice directly to individuals or entities. The firm is also not affiliated with any bank, broker/dealer, investment adviser, or law firm.' This is the classic multi-family-office (MFO) regulatory posture: coordinate outside professionals, route engagements through them, avoid directly being a registered entity. The firm is not in IAPD (the pipeline's enrich-adv correctly returned no match). The MFO posture means there is no Form ADV / Companies House / FCA filing to pull — we are limited to site-stated facts unless the firm rebrands as a registered RIA later.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "none",
+  "design_tone": "establishment",
+
+  "positioning_claims": [
+    "boutique",
+    "niche_specialist",
+    "comprehensive"
+  ],
+  "vulnerabilities": [
+    "no_segment_specific_messaging",
+    "no_fee_transparency",
+    "opaque_team",
+    "key_person_risk"
+  ],
+  "tags": [
+    "founder_led",
+    "consumer_facing",
+    "regional",
+    "not_sec_registered"
+  ],
+  "related_competitors": [
+    "Tax_Alchemy",
+    "Karlton_Dennis",
+    "Kda_Inc"
+  ],
+
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-05-13",
+        "event": "Site captured: positioning as 'a boutique family office for creators of meaningful wealth.' About page explicit about lineage: 'Synergy Private was founded by the leadership of the nationally recognized consulting firm, Tax Alchemy. Recognizing that growing and managing meaningful wealth involves much more than proactive tax planning, Synergy was born out of a desire to navigate these complexities directly alongside ultra-affluent individuals and their families.' Stated business model: 'a private family office for first generation wealth creators. Available for engagement by invitation only.' Regulatory disclaimer is unusually explicit. Corporate mailing address: 17595 Harvard Ave Suite C-890, Irvine, CA 92614 (Class-A office suite in Orange County, geographically adjacent to KDA Inc. in La Palma). Email: info@synergyprivate.com. Client portal: sp.clientportal.com. LinkedIn: linkedin.com/company/synergy-private. Site built by Monster Link Marketing — same agency that built the karltondennis / Tax Alchemy / KDA Inc. sites, confirming common operating control. Site was bot-blocked at the homepage (Cloudflare 'Checking your browser' interstitial); about + contact pages captured normally. No team page in captured nav, no published pricing, no testimonials.",
+        "source": "tools/extract.ts (about-us + contact) + observation"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "regulatory_jurisdiction": "US | CA | UK | AU | EU | multiple | none (controlled vocab — see _context/taxonomy.md)",
+    "regulator": "Free-form string. Common values: SEC, state (NAME), CIRO + FSRA + AMF, FCA, ASIC, none, multiple. The actual regulator(s) the firm answers to. Use 'none' for content platforms and other non-registered entities.",
+    "regulatory_note": "Optional sentence explaining what's missing vs. an ADV-style dataset because of jurisdiction (vs. missing because we haven't pulled it). Null for US SEC-registered firms where we got the standard ADV pull.",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "Synergy_Private",
+  "source_url": "https://synergyprivate.com/",
+  "competitor_name": "Checking your browser...",
+  "extracted_at": "2026-05-13T17:11:03.766Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://synergyprivate.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Synergy_Private/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://synergyprivate.com/about-us/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Synergy_Private/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://synergyprivate.com/contact-us/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Synergy_Private/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

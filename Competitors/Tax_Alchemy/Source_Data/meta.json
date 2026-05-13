@@ -1,0 +1,29 @@
+{
+  "slug": "Tax_Alchemy",
+  "source_url": "https://taxalchemy.com/",
+  "competitor_name": "Checking your browser...",
+  "extracted_at": "2026-05-12T22:13:12.064Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://taxalchemy.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Tax_Alchemy/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://taxalchemy.com/about-us/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Tax_Alchemy/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://taxalchemy.com/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Tax_Alchemy/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://taxalchemy.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Tax_Alchemy/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

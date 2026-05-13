@@ -1,0 +1,229 @@
+{
+  "kind": "services",
+  "url": "https://pwlcapital.com/services/financial-planning/",
+  "title": "Financial Planning | PWL Capital",
+  "meta": {
+    "description": "Our financial planning services are designed to align your financial resources with your life goals, helping you build a framework for financial success.",
+    "og_title": "Financial Planning | PWL Capital",
+    "og_description": "Our financial planning services are designed to align your financial resources with your life goals, helping you build a framework for financial success."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Financial Planning"
+    },
+    {
+      "level": "H2",
+      "text": "Financial planning is about more than just the numbers."
+    },
+    {
+      "level": "H2",
+      "text": "Clear Goals and Direction"
+    },
+    {
+      "level": "H2",
+      "text": "Finding the Right Amount"
+    },
+    {
+      "level": "H2",
+      "text": "Planning for Large Purchases"
+    },
+    {
+      "level": "H2",
+      "text": "Personalized Financial Planning"
+    },
+    {
+      "level": "H2",
+      "text": "Are You Ready to Shape Your Financial Future?"
+    },
+    {
+      "level": "H2",
+      "text": "Financial Modeling"
+    },
+    {
+      "level": "H2",
+      "text": "Estate & Legacy Planning"
+    },
+    {
+      "level": "H2",
+      "text": "Risk Management"
+    },
+    {
+      "level": "H2",
+      "text": "How Much Will You Need in Retirement?"
+    },
+    {
+      "level": "H2",
+      "text": "Featured Insights & Resources"
+    },
+    {
+      "level": "H2",
+      "text": "How to Get More From Your Professional Corporation"
+    },
+    {
+      "level": "H2",
+      "text": "Meet Our Team"
+    },
+    {
+      "level": "H3",
+      "text": "Have Questions? We have the answers."
+    },
+    {
+      "level": "H3",
+      "text": "Meet With Us"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Financial Planning",
+      "tag": "A",
+      "href": "https://pwlcapital.com/services/financial-planning/"
+    },
+    {
+      "text": "Portfolio Management",
+      "tag": "A",
+      "href": "https://pwlcapital.com/services/portfolio-management/"
+    },
+    {
+      "text": "Financial Wellness Coaching",
+      "tag": "A",
+      "href": "https://pwlcapital.com/services/financial-wellness-coaching/"
+    },
+    {
+      "text": "Wealth Management in Quebec",
+      "tag": "A",
+      "href": "https://pwlcapital.com/services/wealth-management-in-quebec/"
+    },
+    {
+      "text": "Institutional Asset Management",
+      "tag": "A",
+      "href": "https://pwlcapital.com/institutional-asset-management/"
+    },
+    {
+      "text": "Rational Reminder Podcast",
+      "tag": "A",
+      "href": "https://pwlcapital.com/rational-reminder-podcast/"
+    },
+    {
+      "text": "Finding and Funding a Good Life",
+      "tag": "A",
+      "href": "https://pages.pwlcapital.com/white-paper-finding-and-funding-a-good-life"
+    },
+    {
+      "text": "Find Your Financial Goals Worksheet",
+      "tag": "A",
+      "href": "https://pages.pwlcapital.com/financial-goals-worksheet"
+    },
+    {
+      "text": "Passing on the Cottage: A Guide for Families",
+      "tag": "A",
+      "href": "https://pages.pwlcapital.com/passing-on-the-cottage-a-guide-for-families"
+    },
+    {
+      "text": "DOWNLOAD NOW",
+      "tag": "A",
+      "href": "https://pages.pwlcapital.com/guide-how-much-will-you-need-in-retirement"
+    },
+    {
+      "text": "Our Story",
+      "tag": "A",
+      "href": "https://pwlcapital.com/about/"
+    },
+    {
+      "text": "Our People",
+      "tag": "A",
+      "href": "https://pwlcapital.com/our-team/"
+    },
+    {
+      "text": "Safe-Keeping your Assets",
+      "tag": "A",
+      "href": "https://pwlcapital.com/about/safe-keeping-your-assets/"
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "href": "https://pwlcapital.com/about/careers/"
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "PWL Capital Team",
+      "tag": "A",
+      "href": "https://pwlcapital.com/about/our-team/"
+    },
+    {
+      "text": "Parkyn-Doyon La Rochelle Team",
+      "tag": "A",
+      "href": "https://parkyndoyonlarochelle.pwlcapital.com"
+    },
+    {
+      "text": "Bender, Bender, Bortolotti Team",
+      "tag": "A",
+      "href": "https://benderbenderbortolotti.com"
+    },
+    {
+      "text": "Your Next Chapter",
+      "tag": "A",
+      "href": "https://pages.pwlcapital.com/your-next-chapter"
+    },
+    {
+      "text": "VIEW PLANNING TOOLS",
+      "tag": "A",
+      "href": "https://research-tools.pwlcapital.com/"
+    },
+    {
+      "text": "Learn",
+      "tag": "A",
+      "href": "https://pwlcapital.com/learn/"
+    },
+    {
+      "text": "MEET WITH US",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "CLIENT LOGIN",
+      "tag": "A",
+      "href": "javascript:void(0);"
+    },
+    {
+      "text": "EN",
+      "tag": "A",
+      "href": "https://pwlcapital.com/services/financial-planning/"
+    },
+    {
+      "text": "FR",
+      "tag": "A",
+      "href": "https://pwlcapital.com/fr/services/planification-financiere/"
+    },
+    {
+      "text": "GET IN TOUCH",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "BOOK A CALL WITH US",
+      "tag": "A",
+      "href": "https://pwlcapital.com/contact-us/"
+    },
+    {
+      "text": "DOWNLOAD THE GUIDE",
+      "tag": "A",
+      "href": "https://pages.pwlcapital.com/guide-how-much-will-you-need-in-retirement"
+    },
+    {
+      "text": "WEBINAR",
+      "tag": "A",
+      "href": "https://pwlcapital.com/webinar/"
+    },
+    {
+      "text": "How to Get More From Your Professional Corporation",
+      "tag": "A",
+      "href": "https://pwlcapital.com/how-to-get-more-from-your-professional-corporation/"
+    }
+  ],
+  "body_text": "Services\nSERVICES\nFinancial PlanningPortfolio ManagementFinancial Wellness CoachingWealth Management in QuebecInstitutional Asset Management\nPOPULAR RESOURCES\nRational Reminder PodcastFinding and Funding a Good LifeFind Your Financial Goals WorksheetPassing on the Cottage: A Guide for FamiliesDOWNLOAD NOW\nAbout\nABOUT\nOur StoryOur PeopleSafe-Keeping your AssetsCareersContact Us\nSUPPORTED ADVISOR TEAMS\nPWL Capital TeamParkyn-Doyon La Rochelle TeamBender, Bender, Bortolotti TeamYour Next ChapterVIEW PLANNING TOOLS\nLearn\nMEET WITH US\nCLIENT LOGIN\nEN\nFR\nFinancial Planning\nHave confidence for the future with our holistic financial planning services, focused on your unique goals and supported by expert advice.\nGET IN TOUCH\nFinancial planning is about more than just the numbers.\nIt’s about finding what matters to you and using your assets to live the life you want. Every plan is different. We can help you create the right financial plan that encompasses a full 360° view of your financial life.\nClear Goals and Direction\nTurns out, a lot people aren’t great at finding the goals that matter to them. With the help of an advisor, you can find the deeper goals that you want to achieve. We’ll use these goals as a north star for your financial plan.\nFinding the Right Amount\nRetirement can be an exciting thing to work towards, but can also come with some anxieties. We’re here to make sure you have the right funding amount ready so you can enjoy retirement to the fullest.\nPlanning for Large Purchases\nYour future plans might include buying a cottage or planning the ultimate luxury vacation. No matter what they might be, we can help include them in your long-term planning making sure you can enjoy today while saving for tomorrow.\nPersonalized Financial Planning\nYour plan is unique and tailored to what matters to you. Through ups and downs, our advisors are here to help guide you through any moment and update your plan as life happens.\nAre You Ready to Shape Your Financial Future?\nLet’s get started today. Contact us to schedule your personal consultation and discover how we can help you achieve your financial goals.\nBOOK A CALL WITH US\nFinancial Modeling\nWith so many different paths, it’s hard to chose one. That’s why we offer comprehensive financial modeling outlining a mass amount of different real world financial scenarios that might affect your financial plan.\nCreating and Updating Financial Projections\nDynamic Retirement Spending Modelling\nCustom Financial Calculators for Unique Circumstances\nEstate & Legacy Planning\nEnsure that your wealth is preserved, protected, and passed on according to your wishes. Our advisors understand the importance of securing a legacy that supports your loved ones and reflects your values. We’ll work together to make sure that happens.\nReview and Update Estate Documents (Wills, Power of Attorney, Etc.)\nProbate Planning\nTax-Efficient Transfer of Assets\nPhilanthropy & Charitable Giving\nRisk Management\nEvery good plan has some protection. We’ll review your current situation and identify potential risks and come up with a plan on mitigating the impact they might post on your plan and loved ones.\nReview Current Insurance Coverage\nAssess Your Need for Different Insurances\nLife\nDisability\nCritical Illness\nLiability\nHealth & Travel\nHow Much Will You Need in Retirement?\nOur retirement guide explores how to think about your lifestyle, current and future spending habits, the structure of government pensions, the often-misunderstood nature of inflation, and the famously debated “4% rule.”\nDOWNLOAD THE GUIDE\nFeatured Insights & Resources\nWEBINAR\nHow to Get More From Your Professional Corporation\nREAD MORE\nVIDEO\nBen Felix joins Steven Bartlett on The Diary of a CEO\nREAD MORE\nRATIONAL REMINDER PODCAST\nEpisode 408: Elroy Dimson – Investing & Optimism\nREAD MORE\nARTICLES\nPWL Capital Expands Vancouver Presence with Acquisition of Chalten Fee-Only Advisors\nREAD MORE\nMeet Our Team\nMeet the team that is making an impact for Canadian investors. We’re here to help guide you with expert advice and dedicated service. Our mission is simple: to turn your financial goals into reality, with personalized strategies that fit your life.\nMEET OUR TEAM\nBECOME A CLIENT\nHave Questions? We have the answers.\nIf you can’t find the answers to your questions here, reach out to us and we will be happy to get back to you.\nWhat are PWL Capital's fiduciary duties?\nWho does PWL Capital work with?\nWhat is PWL Capital Wealth Management Philosophy?\nWhat are “Investable Assets”?\nWhat is the minimum amount of investable assets needed to work with PWL?\nDo you offer one-time fee-only planning?\n`\nPortfolio Management and brokerage services are offered by PWL Capital Inc. which is regulated by the Canadian Investment Regulatory Organization (CIRO), and is a member of the Canadian Investor Protection Fund (CIPF).\nFinancial planning and insurance products are offered by PWL Advisors Inc. and are regulated in Ontario by Financial Services Regulatory Authority of Ontario (FSRA) and in Quebec by the Autorité des marchés financiers (AMF). PWL Advisors Inc. is not a member of CIPF.\nMEET WITH US\nSERVICES\nFinancial Planning\nPortfolio Management\nFinancial Wellness Coaching\nWealth Management in Quebec\nABOUT\nOur Story\nOur Team\nSafe-Keeping your Assets\nCareers\nFAQ\nContact Us\nNEXT STEPS\nLearn\nMeet With Us\nPrivacy & Terms of Use\nProtection of Personal Information\nComplaints\nCopyright © 2026 PWL Capital Inc. All Rights Reserved.\nMeet With Us"
+}

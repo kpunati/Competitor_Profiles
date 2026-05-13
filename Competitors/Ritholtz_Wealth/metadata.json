@@ -1,0 +1,92 @@
+{
+  "competitor": "Ritholtz Wealth Management",
+  "slug": "Ritholtz_Wealth",
+  "summary_line": "Employee-owned, content-marketed RIA built around Barry Ritholtz and Josh Brown — published tier pricing from $0 (via Liftoff robo and Good Advice tier) through $25M+ multi-family office.",
+  "website": "https://www.ritholtzwealth.com",
+  "competitor_type": "wealth_mgmt_content_led",
+  "threat_level": "high",
+  "confidence": "high",
+  "last_updated": "2026-05-12",
+  "next_review_by": "2026-06-10",
+  "review_cadence_days": 30,
+  "team_size": "mid",
+  "advisor_count": 48,
+  "employee_count": 83,
+  "branch_count": 40,
+  "geographic_scope": "national",
+  "headquarters_city": "New York",
+  "headquarters_state": "NY",
+  "aum_usd": 7698264641,
+  "aum_as_of": "2026-03-02",
+  "pricing_model": "transparent_tiers",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": 0,
+  "wealth_tiers_served": [
+    "mass_market",
+    "mass_affluent",
+    "hnw",
+    "uhnw"
+  ],
+  "segment_early_adults": "strong",
+  "segment_mid_career_401k": "strong",
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "168652",
+  "sec_number": "801-78479",
+  "ownership_structure": "employee_owned",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+  "media_presence": "personality_led",
+  "design_tone": "modern",
+  "positioning_claims": [
+    "independent_employee_owned",
+    "no_outside_investors",
+    "content_led",
+    "transparent_pricing",
+    "personality_led",
+    "evidence_based",
+    "named_byline_content"
+  ],
+  "vulnerabilities": [
+    "key_person_risk",
+    "voice_aimed_at_one_demographic",
+    "no_modern_tech_visible",
+    "content_aimed_at_sophisticated_only",
+    "no_segment_specific_messaging"
+  ],
+  "tags": [
+    "employee_owned",
+    "multi_advisor",
+    "consumer_facing",
+    "content_engine",
+    "media_personality_led",
+    "aum_fee",
+    "clean_regulatory_record",
+    "cfp_credentialed"
+  ],
+  "related_competitors": [
+    "Focus_Partners",
+    "Xy_Planning_Network"
+  ],
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-03-02",
+        "event": "ADV snapshot — 83 employees; 48 advisors performing advisory functions; $7,698,264,641 regulatory AUM; 12,587 client accounts",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      }
+    ]
+  }
+}

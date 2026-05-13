@@ -1,0 +1,153 @@
+{
+  "competitor": "KDA Inc. (Karla Dennis & Associates)",
+  "slug": "Kda_Inc",
+  "summary_line": "Karla Dennis & Associates, Inc. — a family-owned Orange County / Greater Los Angeles tax-strategy and CPA firm founded in 1993 by Karla Dennis, rebranded as 'KDA Inc.' in 2023. Three decades of operating history, 4.3/5 across 199 reviews, Inc. 5000-listed, multi-segment industry focus (business owners, real estate investors, medical, entertainers, investors, self-employed). Parent firm in the Dennis-family tax stack; the premium 'Tax Alchemy' strategy product (led by Karla's son Karlton) appears as a product line in KDA's portfolio.",
+  "website": "https://kdainc.com/",
+  "competitor_type": "tax_or_cpa_firm",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-12",
+  "next_review_by": "2026-11-08",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": null,
+  "employee_count": null,
+  "branch_count": 1,
+  "geographic_scope": "regional",
+  "headquarters_city": "La Palma",
+  "headquarters_state": "CA",
+
+  "aum_usd": null,
+  "aum_as_of": null,
+
+  "pricing_model": "gated_via_funnel",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "not_aimed",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "none",
+  "regulatory_note": "Tax preparation / strategy / CPA firm. Team described as 'licensed tax consultants, CPAs, and Enrolled Agents.' CPAs are regulated by the California Board of Accountancy; Enrolled Agents are licensed by the IRS. KDA itself is not an SEC/state-registered investment adviser. No advisory-account custody implied.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "niche_specialist",
+    "comprehensive",
+    "tax_specialty",
+    "personality_led",
+    "segment_specific",
+    "contrarian_vs_conventional"
+  ],
+  "vulnerabilities": [
+    "no_fee_transparency",
+    "no_early_adult_surface",
+    "no_401k_specific_funnel",
+    "no_segment_specific_messaging",
+    "modern_tech_asserted_not_shown",
+    "geographic_concentration"
+  ],
+  "tags": [
+    "founder_led",
+    "consumer_facing",
+    "regional",
+    "cpa_credentialed",
+    "content_engine",
+    "media_personality_led",
+    "not_sec_registered"
+  ],
+  "related_competitors": [
+    "Tax_Alchemy",
+    "Karlton_Dennis",
+    "Foundry_Financial"
+  ],
+
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "1993",
+        "event": "Karla Dennis & Associates, Inc. founded by Karla Dennis — 'a humble beginning of a future tax star.' Family-business framing from inception.",
+        "source": "kdainc.com homepage ('Since 1993') + about page"
+      },
+      {
+        "date": "2023",
+        "event": "Rebranded from 'Karla Dennis and Associates Inc.' to 'KDA Inc.' — framed as part of 'bold transitions in 2023 and beyond.'",
+        "source": "kdainc.com homepage news strip"
+      },
+      {
+        "date": "2026-05-12",
+        "event": "Site captured: hero 'Your Trusted Partner in Maximizing Tax Savings & Securing Financial Growth in Orange County and Greater Los Angeles.' Tagline: 'Expert Tax Consulting, Preparation & Advisory Services Since 1993.' Industry specializations: Business Owners, Real Estate Investors, Medical Professionals, Entertainers & Creatives, Investors & Capital Partners, Self-Employed/1099. Services menu: Tax Prep & Filing, Bookkeeping & Payroll, Entity Structure & Formation, Cost Segregation, Audit Representation, Corporate Taxes, Real Estate Tax Prep, Premium Advisory, Tax Planning. Single office: 4 Centerpointe Dr #310, La Palma, CA 90623. Phone: 1 (800) 878-4051. Email: info@kdainc.com. Social proof: 'Over 100+ 5-Star Reviews on Google,' Inc. 5000 listed (no specific year cited in captured copy). Tax Alchemy referenced as a product line ('Tax Alchemy Products' linked from About). 'Her sons' referenced on the About page without naming Karlton specifically.",
+        "source": "tools/extract.ts + WebFetch about-page"
+      },
+      {
+        "date": "2026-05-12",
+        "event": "Inconsistent social-proof numbers on the homepage: header claims 'Rated 4.3 out of 5 / 199 reviews' but body claims 'Over 100+ 5-Star Reviews on Google.' Both might be accurate (4.3 average across 199 reviews; 100+ specifically 5-star within that 199), or it's a copy-edit lapse — worth a refresh check.",
+        "source": "kdainc.com homepage capture"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "regulatory_jurisdiction": "US | CA | UK | AU | EU | multiple | none (controlled vocab — see _context/taxonomy.md)",
+    "regulator": "Free-form string. Common values: SEC, state (NAME), CIRO + FSRA + AMF, FCA, ASIC, none, multiple. The actual regulator(s) the firm answers to. Use 'none' for content platforms and other non-registered entities.",
+    "regulatory_note": "Optional sentence explaining what's missing vs. an ADV-style dataset because of jurisdiction (vs. missing because we haven't pulled it). Null for US SEC-registered firms where we got the standard ADV pull.",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

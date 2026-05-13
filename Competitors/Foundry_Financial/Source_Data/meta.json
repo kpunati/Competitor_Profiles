@@ -1,0 +1,29 @@
+{
+  "slug": "Foundry_Financial",
+  "source_url": "https://www.foundryfinancial.org/",
+  "competitor_name": "Foundry Financial",
+  "extracted_at": "2026-05-12T06:24:45.631Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.foundryfinancial.org/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Foundry_Financial/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://www.foundryfinancial.org/wealth-management-los-angeles",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Foundry_Financial/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.foundryfinancial.org/our-story",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Foundry_Financial/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.foundryfinancial.org/blog",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Foundry_Financial/Source_Data/pages/blog.html"
+    }
+  ],
+  "page_budget": 6
+}

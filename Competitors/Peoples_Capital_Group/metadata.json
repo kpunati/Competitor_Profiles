@@ -1,0 +1,141 @@
+{
+  "competitor": "Peoples Capital Group",
+  "slug": "Peoples_Capital_Group",
+  "summary_line": "New Jersey passive real-estate syndication firm founded 2013 by Seth Martinez + Aaron Fragnito — 109+ investors, $114M+ transaction volume, $25M+ AUM, 300+ real-estate transactions, 8-figure portfolio, focused on Northern NJ / NYC-Metro Class-B apartment complexes (Paterson, Rahway). Investors are funneled into discrete deal offerings via discovery-call → approval → investment funnel. NOT a registered investment adviser — a vertically integrated real-estate investment company operating Reg D-style syndications. Aaron Fragnito co-hosts the Passive Cash Flow Podcast + NJ Real Estate Network (NJREN).",
+  "website": "https://www.peoplescapitalgroup.com/",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-05-13",
+  "next_review_by": "2026-11-09",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": null,
+  "employee_count": null,
+  "branch_count": 1,
+  "geographic_scope": "regional",
+  "headquarters_city": "Chatham",
+  "headquarters_state": "NJ",
+
+  "aum_usd": 25000000,
+  "aum_as_of": "2026-05-13",
+
+  "pricing_model": "opaque",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": 50000,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "none",
+  "regulatory_note": "Peoples Capital Group is a real-estate syndication / private placement firm, not a registered investment adviser. Offerings are presumably structured under Regulation D (likely Rule 506(c) given the public marketing) for accredited investors only — though the site disclaimer says 'This is not a solicitation for Funds. This feature and all content on our website for information purposes and not financial advice.' At $25M AUM the firm is well below the $100M federal SEC threshold; depending on activities they may operate as an Exempt Reporting Adviser (ERA) under §203(m) of the Investment Advisers Act, or they may be a state-registered RE syndicator. The pipeline's enrich-adv correctly returned no confident match — IAPD search hit 'V WEALTH ADVISORS LLC' and 'ALDRIDGE CHERRA & ALDRIDGE FINANCIAL GROUP' at 1/3 tokens which were appropriately rejected as low confidence. Worth a manual ERA / state-securities lookup on next refresh if this firm becomes more material.",
+  "sec_registered": false,
+  "crd_number": null,
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
+
+  "media_presence": "content_heavy",
+  "design_tone": "establishment",
+
+  "positioning_claims": [
+    "niche_specialist",
+    "comprehensive",
+    "personality_led",
+    "named_byline_content",
+    "content_led"
+  ],
+  "vulnerabilities": [
+    "no_segment_specific_messaging",
+    "no_fee_transparency",
+    "no_early_adult_surface",
+    "no_401k_specific_funnel",
+    "geographic_concentration",
+    "key_person_risk"
+  ],
+  "tags": [
+    "founder_led",
+    "consumer_facing",
+    "regional",
+    "content_engine",
+    "media_personality_led",
+    "not_sec_registered"
+  ],
+  "related_competitors": [
+    "Samo_Financial",
+    "Karlton_Dennis",
+    "Dealmakers"
+  ],
+
+  "trajectory": {
+    "aum_history": [],
+    "advisor_count_history": [],
+    "employee_count_history": [],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2013",
+        "event": "Peoples Capital Group founded by Seth Martinez and Aaron Fragnito to 'help more people invest in real estate and become less reliant on the stock market.'",
+        "source": "peoplescapitalgroup.com about page"
+      },
+      {
+        "date": "2026-05-13",
+        "event": "Site captured: claimed stats — 109+ investors, $114M+ transaction volume, 13+ years in business, 300+ real-estate transactions, $40M+ valued real estate transacted, $25M+ assets under management, 8-figure real-estate portfolio. Hero: 'Wealth Preservation & Growth Through Real Estate.' ICP: accredited investors seeking passive real-estate exposure without operational involvement. Stated prior deal-level returns (per site): 11-unit Paterson NJ complex (10 investors, $400K raised, 24% annualized cash-on-cash achieved); 27-apartment Rahway NJ (19 investors, $1.325M raised, targeted 11%+ return / 15%+ IRR — 'ahead of schedule'); 25-unit Paterson NJ (19 investors, $1.035M raised, targeted 10%+ return / 15%+ IRR — 'ahead of schedule'). Conversion funnel: Discovery Call → Approval to Invest → Investment → Wealth Growth & Preservation. Charity component: 10% of PCG's asset-management fee donated to World Vision, St. Jude Children's Research Hospital, and Wounded Warrior Project. Seth Martinez is the senior managing partner (medical-billing co-founder background, CPC Medical Billing co-founded 2003, 7-figure exit 2009); Aaron Fragnito is co-founder + host of the Passive Cash Flow Podcast + NJ Real Estate Network + former adjunct professor at Rowan University ('Real Estate Entrepreneurship'). Footer email: seth@peoplescapitalgroup.com / Phone: 908-257-0642.",
+        "source": "tools/extract.ts (4 pages — home / about / blog / contact)"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
+    "confidence": "high | medium | low",
+    "last_updated": "ISO date of most recent refresh",
+    "next_review_by": "ISO date — when this profile should be refreshed (default last_updated + review_cadence_days)",
+    "review_cadence_days": "default 90 — shorten for high-threat competitors (e.g. 30), lengthen for watch-only (e.g. 180)",
+    "team_size": "solo | small | mid | large — categorical bucket; the actual integer goes in employee_count",
+    "advisor_count": "integer count of registered investment advisor representatives (from Form ADV Part 1A Item 5.B)",
+    "employee_count": "integer total employees (from Form ADV Part 1A Item 5.A)",
+    "branch_count": "integer count of offices/branches (from Form ADV Part 1A Section 1.F)",
+    "geographic_scope": "local | regional | national | international",
+    "aum_usd": "most-recently-reported regulatory AUM in USD, from Form ADV Part 1A Item 5.F",
+    "aum_as_of": "ISO date of the ADV filing the AUM was reported in",
+    "pricing_model": "transparent_tiers | aum_only_disclosed | opaque | subscription | mixed_with_commissions | membership_fee | gated_via_funnel",
+    "fee_schedule_published": "true if a fee table is visible on the public site without gating",
+    "fee_aum_pct_low|high": "AUM fee as decimal, e.g. 0.0075 for 0.75% — range across tiers; null if not disclosed",
+    "fee_flat_low|high_usd": "annual flat planning fee range in USD; null if not disclosed",
+    "min_account_usd": "stated account minimum in USD, null if none or not disclosed",
+    "wealth_tiers_served": "[mass_market | mass_affluent | hnw | uhnw]",
+    "segment_early_adults": "strong | ok | weak | not_aimed — fit against the Early Adults segment from _context/our_thesis.md",
+    "segment_mid_career_401k": "strong | ok | weak | not_aimed — fit against the 40-50 401(k) segment",
+    "regulatory_jurisdiction": "US | CA | UK | AU | EU | multiple | none (controlled vocab — see _context/taxonomy.md)",
+    "regulator": "Free-form string. Common values: SEC, state (NAME), CIRO + FSRA + AMF, FCA, ASIC, none, multiple. The actual regulator(s) the firm answers to. Use 'none' for content platforms and other non-registered entities.",
+    "regulatory_note": "Optional sentence explaining what's missing vs. an ADV-style dataset because of jurisdiction (vs. missing because we haven't pulled it). Null for US SEC-registered firms where we got the standard ADV pull.",
+    "ownership_structure": "founder_led | solo_owner | employee_owned | pe_backed | public | private_partnership | network_collective | private_content_business",
+    "disciplinary_disclosures": "true if any DRPs are on file at IAPD or in ADV Part 2A Item 9",
+    "disciplinary_disclosure_count": "integer count of disclosure reporting pages",
+    "media_presence": "none | moderate | content_heavy | personality_led",
+    "design_tone": "establishment | modern | energetic | minimalist | editorial | b2b_professional",
+    "positioning_claims": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "vulnerabilities": "controlled tag list — see _context/taxonomy.md for canonical vocabulary",
+    "tags": "controlled tag list for cross-cutting attributes (e.g. fee_only, pe_backed, niche_specialist) — see _context/taxonomy.md",
+    "related_competitors": "array of slugs in Competitors/ that this competitor is meaningfully compared with",
+    "trajectory.aum_history": "[{as_of: ISO date, value_usd: int, source: 'ADV' | 'press' | 'site'}] — chronological, oldest first; populated from historical ADV filings",
+    "trajectory.advisor_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.employee_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.branch_count_history": "[{as_of: ISO date, value: int, source}]",
+    "trajectory.notable_events": "[{date: ISO, event: string, source: string}] — acquisitions, leadership changes, new disclosures, product launches, ownership changes",
+    "_applicability": "Fields prefixed sec_/crd_/aum_/fee_/disciplinary_/advisor_count apply to SEC-registered RIAs. For non-RIA entities (b2b_network, education_platform, finance_coach) leave null and rely on tags + positioning_claims instead. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

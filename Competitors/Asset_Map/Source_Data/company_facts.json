@@ -1,0 +1,43 @@
+{
+  "competitor": "Asset Map",
+  "website": "https://www.asset-map.com/",
+  "last_updated": "2026-05-13",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand. NOTE: the IAPD auto-match returned a FALSE POSITIVE on this refresh — 'Asset Map' was matched against 'SUGAR MAPLE ASSET MANAGEMENT, LLC' (CRD 282632) due to a token-fuzz weakness in pickBestMatch (Asset/Asset + Map/Maple scored as 2/2). Asset-Map, Inc. is a B2B SaaS for financial advisors based in Philadelphia, PA — not an RIA — and is not in the IAPD database. The sec_iapd block is manually cleared below. Bug logged for pickBestMatch tightening: it should require exact token equality (or full-string-contains check) before claiming a confident match.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "sales@asset-map.com",
+      "support@asset-map.com"
+    ],
+    "footer_phones": [
+      "888-664-8850",
+      "8886648850"
+    ],
+    "sec_iapd": {
+      "matched": false,
+      "note": "Asset Map is a B2B SaaS, not an RIA. The pipeline's auto-match returned a false-positive against 'Sugar Maple Asset Management, LLC' — manually cleared on 2026-05-13."
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Asset"
+  }
+}
