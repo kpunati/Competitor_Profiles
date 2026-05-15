@@ -92,6 +92,137 @@
     }
   },
   {
+    "competitor": "Merit Financial Advisors",
+    "slug": "Merit_Financial_Advisors",
+    "summary_line": "Major Atlanta-area RIA aggregator founded 1998 by Rick Kent — $23.88B regulatory AUM, 229 advisors, 470 employees, 0 DRPs (Form ADV); site claims $24.69B 'assets served' (incl. brokerage + retirement plans), 350+ team members, 55+ offices nationwide, 26,000+ households. Multi-year M&A roll-up growth strategy with mainstream press deck (2025 InvestmentNews RIA Firm of the Year · 2025 Forbes Top RIA Firms · 2025 Barron's Top 100 Private Wealth · Inc. 5000 2024). Same peer-set as Focus_Partners.",
+    "website": "https://www.meritfinancialadvisors.com/",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "medium-high",
+    "confidence": "high",
+    "last_updated": "2026-05-15",
+    "next_review_by": "2026-08-13",
+    "review_cadence_days": 90,
+    "team_size": "large",
+    "advisor_count": 229,
+    "employee_count": 470,
+    "branch_count": 55,
+    "geographic_scope": "national",
+    "headquarters_city": "Alpharetta",
+    "headquarters_state": "GA",
+    "aum_usd": 23875298692,
+    "aum_as_of": "2026-05-15",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Filing entity per About page: 'Merit Financial Group, LLC, an SEC registered investment adviser.' Multiple legal entities likely exist across the M&A footprint (brokerage, retirement-plan business, ESOP business) which is why the homepage's $24.69B 'assets served' number exceeds the ADV's $23.88B regulatory AUM. Worth a Form ADV Part 1A Section 7 (related persons / affiliates) pull on next refresh to map the full corporate structure.",
+    "sec_registered": true,
+    "crd_number": "142457",
+    "sec_number": "801-67462",
+    "ownership_structure": "pe_backed",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "content_heavy",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fiduciary",
+      "independent",
+      "comprehensive",
+      "national_scale",
+      "category_shaping"
+    ],
+    "vulnerabilities": [
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "no_fee_transparency",
+      "no_segment_specific_messaging",
+      "pe_ownership_vulnerable"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "national_aggregator",
+      "roll_up",
+      "consumer_facing",
+      "dual_facing",
+      "cfp_credentialed",
+      "aum_fee",
+      "clean_regulatory_record",
+      "content_engine"
+    ],
+    "related_competitors": [
+      "Focus_Partners",
+      "Walser_Wealth",
+      "Ritholtz_Wealth"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-05-15",
+          "value_usd": 23875298692,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-05-15",
+          "value": 229,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-05-15",
+          "value": 470,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [
+        {
+          "as_of": "2026-05-15",
+          "value": 55,
+          "source": "site (homepage claims 55+ offices nationwide)"
+        }
+      ],
+      "notable_events": [
+        {
+          "date": "1998",
+          "event": "Merit founded by Rick Kent on a 'servant-leadership philosophy.' Stated focus: working with individuals in transition.",
+          "source": "meritfinancialadvisors.com about page"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "ADV snapshot via IAPD CRD 142457 — 470 employees, 229 advisors performing advisory functions, $23,875,298,692 regulatory AUM, 0 disciplinary disclosures. SEC file 801-67462. Legal name in IAPD: 'MERIT FINANCIAL ADVISORS' (filing entity per About: 'Merit Financial Group, LLC').",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Site captured (homepage was bot-blocked by nginx 403 to Playwright — full content via WebFetch fallback). Hero: 'We Are Merit.' Sub-hero: 'Your trusted financial partner, providing the support you need to navigate life's challenges, transitions, and victories.' Stated assets-served breakdown on homepage: $17.86B advisory + $2.73B brokerage + $2.30B retirement plans + $1.80B ESOP = $24.69B 'assets served.' Stated team: 350+ members. Stated offices: 55+ nationwide. Stated households: 26,000+. Press deck: 2025 InvestmentNews RIA Firm of the Year · 2024 InvestmentNews Awards / Top Advisors · 2025 Forbes Top RIA Firms · 2024 Inc. 5000 · 2023 & 2025 Barron's Top 100 Private Wealth Management. Featured-in media list: U.S. News · WealthManagement.com · Bloomberg · MarketWatch · Kiplinger · WSJ · Yahoo Finance · CBS News. Service lines: Financial Planning · Wealth Management · Life Transitions (Retirement, Divorce, Career Transition, Widowhood) · Insurance Planning · Business solutions (CPA Connect, Retirement Solutions for Employers, Business Succession) · Tax Services. Pricing described as 'structured tiered fee approach' with 'sliding scale' tied to AUM, but no fee tier table published. Main phone: 866-637-6949. HQ: Atlanta area (Alpharetta GA per public records; not directly stated on captured pages).",
+          "source": "WebFetch (Playwright extract was bot-blocked) + tools/extract.ts"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Leadership team page captured via WebFetch. Founder & CEO: Rick Kent ('servant-leadership philosophy'). President & Partner: Kay Lynn Mayhue (overseeing multi-year M&A activity). COO: Chrissy Lee. VP Strategic Partnerships: David Wahlen (previously 'leading the sourcing and integration of over 50 acquired firms since 2018' at his prior employer). Multiple M&A references suggest the growth model is acquisition-led — same archetype as Focus_Partners, Mariner, Hightower. Specific firms acquired are not enumerated on captured pages.",
+          "source": "WebFetch — meritfinancialadvisors.com/about/our-leadership-team/"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "XY Planning Network",
     "slug": "Xy_Planning_Network",
     "summary_line": "B2B subscription network — not an RIA itself — that sells operational infrastructure ($544/month Emerald tier) to 2,100+ fee-only advisor firms, many of which target our Gen X/Y demographics.",
@@ -658,6 +789,122 @@
           "date": "2026-05-13",
           "event": "PIPELINE BUG (logged here): The enrich-adv.ts pickBestMatch incorrectly returned a 2/2-token match against 'SUGAR MAPLE ASSET MANAGEMENT, LLC' (CRD 282632) — the actual matching was 'Asset'/'Asset' + 'Map'/'Maple'/'Management', which is a token-prefix or substring fuzz rather than exact equality. The false-positive ADV pull (which extracted 3 employees / 3 advisors / $291M AUM from CRD 282632) was overwritten in this metadata. adv_cache/ deleted. company_facts.json sec_iapd block manually cleared. To fix: tighten pickBestMatch to require exact token equality (case-insensitive whole-word) before declaring N/N confidence — or alternately, require that all query tokens appear as whole words inside a single name or DBA string.",
           "source": "tools/enrich-adv.ts behavior on 2026-05-13"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Brindle & Bay Financial Advisors",
+    "slug": "Brindle_And_Bay",
+    "summary_line": "Frisco, TX retirement-focused fiduciary RIA founded by Nick Davis (CFP®, ChFC®, RICP®) — former full-time pastor for 10 years in Texas before entering financial planning — $184.8M AUM, 3 advisors, 4 employees (per ADV), but site team page lists 7 named people including 3 outside Investment Committee CPAs. Targets people within 10 years of retirement; uses three named ICP personas (John & Laura 'Ready for Retirement,' Amy & Dave 'Work Optional,' Carolyn 'Single & Meaningful'). AUM-fee model around 1% but no tier table published.",
+    "website": "https://www.brindleandbay.com/",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-05-15",
+    "next_review_by": "2026-11-11",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 3,
+    "employee_count": 4,
+    "branch_count": 1,
+    "geographic_scope": "regional",
+    "headquarters_city": "Frisco",
+    "headquarters_state": "TX",
+    "aum_usd": 184800000,
+    "aum_as_of": "2026-05-15",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": 0.01,
+    "fee_aum_pct_high": 0.01,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "291747",
+    "sec_number": "801-131045",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fiduciary",
+      "niche_specialist",
+      "segment_specific",
+      "personality_led",
+      "content_led",
+      "named_byline_content",
+      "comprehensive",
+      "evidence_based"
+    ],
+    "vulnerabilities": [
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "no_fee_transparency",
+      "geographic_concentration",
+      "key_person_risk"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "regional",
+      "consumer_facing",
+      "cfp_credentialed",
+      "aum_fee",
+      "content_engine",
+      "media_personality_led",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Foundry_Financial",
+      "The_Peak_Fp",
+      "Streamline_Planning"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-05-15",
+          "value_usd": 184800000,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-05-15",
+          "value": 3,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-05-15",
+          "value": 4,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-05-15",
+          "event": "ADV snapshot via IAPD CRD 291747 — 4 employees, 3 advisors performing advisory functions, $184,800,000 regulatory AUM, 0 disciplinary disclosures. SEC file 801-131045. Legal name: 'BRINDLE & BAY FINANCIAL ADVISORS, LLC.'",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Site captured: hero 'We help you retire with calmness and clarity.' Single-segment ICP commitment via three named personas on the homepage: 'John & Laura — Ready for Retirement,' 'Amy & Dave — Work Optional,' 'Carolyn — Single & Meaningful.' Founder Nick Davis, CFP®, ChFC®, RICP®, was a 'full-time pastor for ten years' in Texas before founding the firm — Golden Rule-as-business-philosophy framing throughout. Team page lists 7 named people: Nick Davis (Founder, Senior Financial Planner), Connie Davis (Director of Member Experience — same surname, likely spouse), Tori Ten Hagen (Lead Financial Planner, CFP®), Andrew Bencivenga (Lead Planner, Tax Specialist, CFP®, RICP®, EA), and three outside Investment Committee CPAs (Derek Prusa CFP®/CPA, Benjamin Webster CPA, Andrew VanDerSchaaf CPA). Address: 5899 Preston Road, STE. 1103, Frisco, TX 75034. Phone: (214) 988-9178. Pricing: AUM-based 'about 1% per year' (no tier table published) plus a one-time planning setup cost that 'varies depending on complexity.' Does NOT offer hourly / one-time fee plans. Form CRS link in footer. Content surfaces: blog · YouTube · podcast (Episode 31 visible) · 'Nick's Weekly Memo' newsletter. Active recent content includes 'You Need a One Page Retirement Plan' and 'People Say These 5 Items Make Retirement Better.'",
+          "source": "tools/extract.ts (5 pages — home / about / services / blog / contact)"
         }
       ]
     }
@@ -1541,6 +1788,136 @@
           "date": "2026-05-13",
           "event": "Site captured: hero 'Hire a top-rated Tax CPA that guarantees results.' Statistic: '93% of business owners and investors overpay their taxes each year. Over half mismanage their finances.' Service set: Tax Planning (3 tiers — Comprehensive $5K / Premium $7.5K / Elite $10K, first year), Tax Preparation, Bookkeeping. Year-2 maintenance pricing also published as a separate table. Named team (from About page meta description): Sherman Standberry CPA (CEO & Managing Partner), Krystal Standberry (referenced as co-founder), Goldie Hall, Aaron Guinn. Money-back guarantee mechanic: refund up to 100% if (a) plan doesn't identify ≥2x fee in tax savings, (b) business earns ≥$100K revenue, (c) client provided all required info. Eight named-with-last-initial testimonials on homepage (Alex H., Ted K., Wakila S., Kenn R., Brandon M., plus 3 duplicates). Lead-capture form qualifies by Annual Income (7 brackets from <$50K to >$5M) and Business/1099/Rental income (Yes/No). Self-paced 'Tax Savers Course' product on a separate learn.mycpacoach.com LMS. Blog has weekly+ cadence with long-tail-SEO titles ('34 Big Tax Deductions (Write-offs) for Businesses in 2026'). 'Featured In' banner present but logos not captured. Footer credits 'My CPA Coach LLC' (2025).",
           "source": "tools/extract.ts (5 pages — home / about / pricing / blog / contact)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Peak Financial Planning (thepeakfp.com)",
+    "slug": "The_Peak_Fp",
+    "summary_line": "Woodland Hills (LA) fee-only fiduciary RIA founded 2022 by Eric Amzalag (CFP®, RICP®) — $93M AUM, 4 advisors, 7 employees, 0 DRPs. Single-segment ICP commitment: 'people in the Retirement Risk Zone with $1M+ in retirement savings,' delivered through a flat-fee 4-month financial-planning engagement ($4,000 upfront + $1,000/mo) that optionally converts to AUM wealth management (4 published tier bands from 1.00% down to 0.50% above $10M). Eric runs a YouTube channel with ~50,000 subscribers that doubles as the audience-building lever for the practice.",
+    "website": "https://www.thepeakfp.com/",
+    "competitor_type": "wealth_mgmt_solo",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-05-15",
+    "next_review_by": "2026-11-11",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 4,
+    "employee_count": 7,
+    "branch_count": 1,
+    "geographic_scope": "national",
+    "headquarters_city": "Woodland Hills",
+    "headquarters_state": "CA",
+    "aum_usd": 93000000,
+    "aum_as_of": "2026-05-15",
+    "pricing_model": "transparent_tiers",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": 0.005,
+    "fee_aum_pct_high": 0.01,
+    "fee_flat_low_usd": 5000,
+    "fee_flat_high_usd": 12000,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "IAPD reports CRD 317288, SEC file 801-135890, with $93M reported AUM. The firm's own site footer states 'Peak Financial Planning is a Registered Investment Advisor in the State of CA' — at sub-$100M AUM this would normally indicate state registration with California's DFPI rather than SEC registration. We treat the firm as SEC-registered per the IAPD authoritative record (801- file numbers are SEC), with the site/IAPD discrepancy flagged for next-refresh verification. Same pattern as Intrepid_Wealth_Partners — likely transitional or an outdated footer copy on the firm's own site.",
+    "sec_registered": true,
+    "crd_number": "317288",
+    "sec_number": "801-135890",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "personality_led",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fiduciary",
+      "fee_only",
+      "independent",
+      "evidence_based",
+      "transparent_pricing",
+      "niche_specialist",
+      "segment_specific",
+      "personality_led",
+      "content_led",
+      "named_byline_content",
+      "comprehensive",
+      "contrarian_vs_conventional"
+    ],
+    "vulnerabilities": [
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "key_person_risk",
+      "geographic_concentration"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "regional",
+      "consumer_facing",
+      "cfp_credentialed",
+      "aum_fee",
+      "flat_fee",
+      "hybrid_fee",
+      "content_engine",
+      "media_personality_led",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Foundry_Financial",
+      "Intrepid_Wealth_Partners",
+      "Streamline_Planning"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-05-15",
+          "value_usd": 93000000,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-05-15",
+          "value": 4,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-05-15",
+          "value": 7,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2022",
+          "event": "Peak Financial Planning founded by Eric Amzalag (CFP®, RICP®). The firm 'specializes in helping individuals and couples navigate the critical decade before and after retirement.'",
+          "source": "thepeakfp.com about page"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "ADV snapshot via IAPD CRD 317288 — 7 employees, 4 advisors performing advisory functions, $93,000,000 regulatory AUM, 0 disciplinary disclosures. SEC file 801-135890.",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts; legal name 'PEAK FINANCIAL PLANNING')"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Site captured: hero 'We help you build a Retirement System.' Single-segment ICP commitment: people in the 'Retirement Risk Zone' with $1,000,000+ retirement savings. Founder/CEO Eric Amzalag, CFP®, RICP®, UCSB economics + accounting BA, runs a YouTube channel with ~50,000 subscribers that hosts a signature framework called 'Navigating the Retirement Risk Zone.' Head Financial Planner: Joseph Perez, CFP® (3 years tenure, Cal State Northridge BS, VITA tax-clinic volunteer background). Published fee schedule: flat-fee planning engagement at $4,000 upfront + $1,000/mo for 4 months = $8,000 baseline (homepage describes $5,000-$12,000 range across complexity tiers); separately published AUM tier table for optional wealth management (1.00% < $1M, 0.85% to $2M, 0.75% to $10M, 0.50% > $10M). Press deck (In The Press section). Lead magnet: 'Free Webinar - The 4 Step System to Living Your Dream Retirement.' Also published: a sample financial plan link, YouTube guides, podcast, blog, Client Stories page. Form ADV downloadable from the footer ('Peak FP ADV' link). Eric's personal note in About: 'married to Amanda, fraternal twin boys Isaiah and Elijah, mountaineering / fitness-races / hyrox mixed-doubles.'",
+          "source": "tools/extract.ts (6 pages — home / about / services / pricing / blog / contact)"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Pipeline pickBestMatch note: this firm was missed by the initial enrich-adv pass because the user-supplied name 'The Peak FP' returned no IAPD hits. A second pass with legal name 'Peak Financial Planning' returned a 3/3 exact-token match against CRD 317288. The pickBestMatch token logic is strict on positive direction (good — no false positive here); the lesson for the catalog is that brand-name-on-site can diverge meaningfully from legal-entity-name in IAPD, so a fallback strategy might be 'if zero hits on the user-provided name, retry with site-page-title or About-page-stated-entity-name.'",
+          "source": "tools/enrich-adv.ts behavior"
         }
       ]
     }

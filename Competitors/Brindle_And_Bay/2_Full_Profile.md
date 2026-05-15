@@ -1,200 +1,59 @@
 ---
-competitor: Competitor Name
-website: https://example.com
-competitor_type: wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm
-threat_level: high | medium-high | medium | low
-confidence: high | medium | low
-last_updated: YYYY-MM-DD
-next_review_by: YYYY-MM-DD
-review_cadence_days: 90
+competitor: Brindle & Bay Financial Advisors
+website: https://www.brindleandbay.com/
+competitor_type: wealth_mgmt_traditional
+threat_level: low
+confidence: high
+last_updated: 2026-05-15
+next_review_by: 2026-11-11
+review_cadence_days: 180
 ---
 
-# {Competitor Name} — Full Profile
+# Brindle & Bay — Full Profile (Stub)
 
-*This is the deep dive. For a quick read, see `1_Summary.md`.*
+Substance is in [`1_Summary.md`](./1_Summary.md). This file preserves the schema convention.
 
-## The big picture
-
-Two or three paragraphs orienting the reader. Who this company is, what they're trying to do in the market, and why they matter to us. Written like the opening of a magazine profile, not a corporate slide.
-
----
-
-## Who they are
-
-A short paragraph covering the basics — when they were founded, where they're based, how big they are, who's running the show, and how they're funded. Pull from `Source_Data/company_facts.json`.
+## Quick reference
 
 | | |
 |---|---|
-| Founded | |
-| Headquarters | |
-| Employees | (with source and date) |
-| Funding | (last round, amount, when) |
-| Leadership | |
-| Recent moves | (hiring, layoffs, launches, press) |
+| Legal name | Brindle & Bay Financial Advisors, LLC |
+| CRD / SEC# | 291747 / 801-131045 |
+| Founder | Nick Davis, CFP®, ChFC®, RICP® |
+| Founder's prior career | Full-time pastor in Texas for 10 years |
+| HQ | 5899 Preston Road, Suite 1103, Frisco, TX 75034 |
+| Phone | (214) 988-9178 |
+| AUM | $184,800,000 |
+| Headcount | 4 employees, 3 advisors (Form ADV) — site shows 7 named including 3 outside CPAs |
+| DRPs | 0 |
+| Pricing | "About 1% per year" AUM (no tier table) + variable one-time planning setup cost · No hourly / one-time fee plans |
+| ICP | People within 10 years of retirement |
+| Personas on homepage | John & Laura (Ready for Retirement) · Amy & Dave (Work Optional) · Carolyn (Single & Meaningful) |
+| Content surfaces | Blog · Podcast (Episode 31+) · YouTube · Nick's Weekly Memo newsletter |
+| Form CRS | Linked in footer |
 
-## Trajectory
+## Named team (captured from About page)
 
-Direction matters more than the static snapshot. Pull three historical Form ADV filings (most recent + ~12 months back + ~24-36 months back) and chart the deltas. For non-RIA entities, substitute the closest equivalent (subscriber counts, content cadence, named hires).
+- Nick Davis — Founder, Senior Financial Planner
+- Connie Davis — Director of Member Experience (likely Nick's spouse)
+- Tori Ten Hagen — Lead Financial Planner, CFP®
+- Andrew Bencivenga — Lead Planner, Tax Specialist, CFP®, RICP®, EA
+- Investment Committee (outside contractors): Derek Prusa CFP®/CPA · Benjamin Webster CPA · Andrew VanDerSchaaf CPA
 
-| Metric | ~24-36 mo ago | ~12 mo ago | Most recent | Source |
-|---|---|---|---|---|
-| Regulatory AUM (USD) | | | | ADV Part 1A Item 5.F |
-| Advisor count (IARs) | | | | ADV Part 1A Item 5.B |
-| Employee count | | | | ADV Part 1A Item 5.A |
-| Branch count | | | | ADV Part 1A Section 1.F |
-| Disclosures on file | | | | IAPD / ADV Part 2A Item 9 |
+## Captured pages
 
-**Notable events since last review** (acquisitions, leadership changes, new disclosures, ownership changes, product launches):
+- [Homepage](./Source_Data/pages/home.html) — three named ICP personas
+- [About](./Source_Data/pages/about.html) — Nick's origin story + team
+- [Services](./Source_Data/pages/services.html)
+- [Blog](./Source_Data/pages/blog.html)
+- [Contact](./Source_Data/pages/contact.html)
 
-- (event — source — date)
+## Open questions for next refresh
 
-**What the direction tells us** — one or two sentences. Growing, flat, or shrinking? Does the trajectory support or undercut their public positioning?
+- Founding year (not stated on captured pages — would be on Form ADV Part 1A Item 2.A or About page if pulled deeper)
+- AUM tier table / specific fee schedule (currently only "about 1%" published)
+- Podcast subscriber count
+- YouTube subscriber count
+- Whether Connie Davis is Nick's spouse (presumed but not confirmed on captured pages)
 
-## Who they sell to
-
-Who their customer is and how we know. Pair every claim with the evidence — pricing tier, case studies featured, careers page hiring, the language used on the home page.
-
-## What they sell
-
-What's actually in their product or service. The tiers, the packaging, the price points if visible, and how a buyer gets started (free trial, demo call, contact sales).
-
-## How they reach people
-
-Where their traffic comes from and how loud they are.
-
-| | Value | Source | When |
-|---|---|---|---|
-| Monthly website visits | | | |
-| Top traffic channels | | | |
-| Top keywords they rank for | | | |
-| Social following | | | |
-| Review score & count | | | |
-
----
-
-## How they look
-
-A short paragraph describing the visual feel of their brand — what you'd notice in the first three seconds. Then bullets for the specifics:
-
-- **Colors**: dominant palette, accent choices, what the palette signals
-- **Type**: heading/body pairing, the mood it sets
-- **Imagery**: photography vs. illustration, real people vs. abstract, warm vs. clinical
-- **Layout**: spacious or dense, what that implies about who they're for
-- **Logo**: shape, wordmark vs. symbol, the emotional register
-
-*Design specifics (hex codes, font names) are in `Source_Data/design_details.json` if anyone needs them for reference.*
-
-## How they sound
-
-A short paragraph describing the voice you hear reading their site. Then specifics:
-
-- **Tone**: formal / conversational / playful / technical / etc.
-- **Reading level**: roughly
-- **Sentence style**: short and punchy / long and considered / mixed
-- **Words they own**: the distinctive vocabulary
-- **Words they avoid**: what they don't say
-- **Pronouns**: "we" vs. "you" vs. "I" — what it implies
-
-**A sample, in their words:**
-> A direct quote, one to three sentences, that captures the voice best.
-
-## The story they tell
-
-Two or three paragraphs on how they position themselves. Where they place themselves vs. the rest of the category, the implicit competitor they're swinging at, and the worldview they're inviting buyers into.
-
-## What they promise
-
-The hierarchy of promises a visitor sees:
-
-1. **Primary** (the headline above the fold): 
-2. **Secondary** (the supporting promises): 
-3. **Tertiary** (further down the page): 
-
-## How they ask for the sale
-
-The call-to-action strategy:
-
-- **Primary CTA**: what it says, where it appears, how often
-- **Friction level**: free trial / demo / contact sales / signup
-- **What this tells us**: their sales motion in one sentence
-
-## Who vouches for them
-
-How they prove they're trustworthy:
-
-- Customer logos they feature
-- Testimonials they highlight
-- Numbers they cite (customers, revenue, savings, etc.)
-- Awards or press
-- What's conspicuously *missing* — sometimes more telling
-
-## How they price
-
-How pricing is presented:
-
-- Transparent or gated?
-- Tier names and what they imply
-- The anchor strategy (which tier is the recommended one)
-- What the pricing page is really selling beyond price
-
-## What they believe
-
-The worldview underneath everything else. What problem they think they're solving, why they think they're the right ones to solve it, and what they think is wrong with how the rest of the category does it.
-
----
-
-## What this means for our entry
-
-### What's working for them
-
-Specific, concrete observations. Not "good design" — explain *why* something works and what a new entrant can learn from it.
-
-### Where they're vulnerable
-
-Gaps, weaknesses, or assumptions a focused new entrant could exploit. Pay particular attention to weaknesses against the segments named in `_context/our_thesis.md`.
-
-### How well do they serve each of our target segments?
-
-For each segment in `_context/our_thesis.md`, score Strong / OK / Weak / Not aimed at this segment and say why in a sentence. This is where the entry openings show up.
-
-### What we should consider taking from them
-
-The handful of things — moves, framings, design choices, copy patterns, specific phrases — worth borrowing or adapting.
-
-### What we should deliberately *not* do
-
-Things they do that feel right at first glance but we'd be wrong to copy.
-
----
-
-## Recommended actions
-
-### Quick wins (this month)
-- 
-
-### Strategic shifts (this quarter)
-- 
-
-### Watch items (monitor, don't act yet)
-- 
-
----
-
-## Open questions
-
-Things worth verifying or returning to:
-- 
-
-## Where this came from
-
-- Website captured on: 
-- Company information from: 
-- Traffic estimates from: 
-- Review data from: 
-
-**Confidence**: high / medium / low — with a sentence explaining why.
-
-Pages we looked at:
-- [Homepage](./Source_Data/home.html) — [screenshot](./Screenshots/Homepage.png)
-- [Pricing](./Source_Data/pricing.html) — [screenshot](./Screenshots/Pricing_Page.png)
-- [About](./Source_Data/about.html) — [screenshot](./Screenshots/About_Page.png)
+**Confidence**: high. Form ADV data + named team + ICP personas + content surface all captured cleanly.

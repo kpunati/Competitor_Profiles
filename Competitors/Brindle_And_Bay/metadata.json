@@ -1,63 +1,125 @@
 {
-  "competitor": null,
-  "slug": null,
-  "summary_line": null,
-  "website": null,
-  "competitor_type": null,
-  "threat_level": null,
-  "confidence": null,
+  "competitor": "Brindle & Bay Financial Advisors",
+  "slug": "Brindle_And_Bay",
+  "summary_line": "Frisco, TX retirement-focused fiduciary RIA founded by Nick Davis (CFP®, ChFC®, RICP®) — former full-time pastor for 10 years in Texas before entering financial planning — $184.8M AUM, 3 advisors, 4 employees (per ADV), but site team page lists 7 named people including 3 outside Investment Committee CPAs. Targets people within 10 years of retirement; uses three named ICP personas (John & Laura 'Ready for Retirement,' Amy & Dave 'Work Optional,' Carolyn 'Single & Meaningful'). AUM-fee model around 1% but no tier table published.",
+  "website": "https://www.brindleandbay.com/",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
   "last_updated": "2026-05-15",
-  "next_review_by": null,
-  "review_cadence_days": 90,
+  "next_review_by": "2026-11-11",
+  "review_cadence_days": 180,
+
   "team_size": "small",
   "advisor_count": 3,
   "employee_count": 4,
-  "branch_count": null,
-  "geographic_scope": null,
-  "headquarters_city": null,
-  "headquarters_state": null,
+  "branch_count": 1,
+  "geographic_scope": "regional",
+  "headquarters_city": "Frisco",
+  "headquarters_state": "TX",
+
   "aum_usd": 184800000,
-  "aum_as_of": "2026-03-24",
-  "pricing_model": null,
-  "fee_schedule_published": null,
-  "fee_aum_pct_low": null,
-  "fee_aum_pct_high": null,
+  "aum_as_of": "2026-05-15",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": 0.01,
+  "fee_aum_pct_high": 0.01,
   "fee_flat_low_usd": null,
   "fee_flat_high_usd": null,
   "min_account_usd": null,
-  "wealth_tiers_served": [],
-  "segment_early_adults": null,
-  "segment_mid_career_401k": null,
-  "regulatory_jurisdiction": null,
-  "regulator": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
   "regulatory_note": null,
-  "sec_registered": null,
-  "crd_number": null,
-  "sec_number": null,
-  "ownership_structure": null,
-  "fiduciary_stated_explicitly": null,
-  "fee_only_stated_explicitly": null,
-  "disciplinary_disclosures": null,
-  "disciplinary_disclosure_count": null,
-  "media_presence": null,
-  "design_tone": null,
-  "positioning_claims": [],
-  "vulnerabilities": [],
-  "tags": [],
-  "related_competitors": [],
+  "sec_registered": true,
+  "crd_number": "291747",
+  "sec_number": "801-131045",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fiduciary",
+    "niche_specialist",
+    "segment_specific",
+    "personality_led",
+    "content_led",
+    "named_byline_content",
+    "comprehensive",
+    "evidence_based"
+  ],
+  "vulnerabilities": [
+    "no_early_adult_surface",
+    "no_401k_specific_funnel",
+    "no_fee_transparency",
+    "geographic_concentration",
+    "key_person_risk"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "regional",
+    "consumer_facing",
+    "cfp_credentialed",
+    "aum_fee",
+    "content_engine",
+    "media_personality_led",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Foundry_Financial",
+    "The_Peak_Fp",
+    "Streamline_Planning"
+  ],
+
   "trajectory": {
-    "aum_history": [],
-    "advisor_count_history": [],
-    "employee_count_history": [],
+    "aum_history": [
+      {
+        "as_of": "2026-05-15",
+        "value_usd": 184800000,
+        "source": "ADV"
+      }
+    ],
+    "advisor_count_history": [
+      {
+        "as_of": "2026-05-15",
+        "value": 3,
+        "source": "ADV"
+      }
+    ],
+    "employee_count_history": [
+      {
+        "as_of": "2026-05-15",
+        "value": 4,
+        "source": "ADV"
+      }
+    ],
     "branch_count_history": [],
     "notable_events": [
       {
-        "date": "2026-03-24",
-        "event": "ADV snapshot — 4 employees; 3 advisors performing advisory functions; $184,800,000 regulatory AUM; 627 client accounts",
+        "date": "2026-05-15",
+        "event": "ADV snapshot via IAPD CRD 291747 — 4 employees, 3 advisors performing advisory functions, $184,800,000 regulatory AUM, 0 disciplinary disclosures. SEC file 801-131045. Legal name: 'BRINDLE & BAY FINANCIAL ADVISORS, LLC.'",
         "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-05-15",
+        "event": "Site captured: hero 'We help you retire with calmness and clarity.' Single-segment ICP commitment via three named personas on the homepage: 'John & Laura — Ready for Retirement,' 'Amy & Dave — Work Optional,' 'Carolyn — Single & Meaningful.' Founder Nick Davis, CFP®, ChFC®, RICP®, was a 'full-time pastor for ten years' in Texas before founding the firm — Golden Rule-as-business-philosophy framing throughout. Team page lists 7 named people: Nick Davis (Founder, Senior Financial Planner), Connie Davis (Director of Member Experience — same surname, likely spouse), Tori Ten Hagen (Lead Financial Planner, CFP®), Andrew Bencivenga (Lead Planner, Tax Specialist, CFP®, RICP®, EA), and three outside Investment Committee CPAs (Derek Prusa CFP®/CPA, Benjamin Webster CPA, Andrew VanDerSchaaf CPA). Address: 5899 Preston Road, STE. 1103, Frisco, TX 75034. Phone: (214) 988-9178. Pricing: AUM-based 'about 1% per year' (no tier table published) plus a one-time planning setup cost that 'varies depending on complexity.' Does NOT offer hourly / one-time fee plans. Form CRS link in footer. Content surfaces: blog · YouTube · podcast (Episode 31 visible) · 'Nick's Weekly Memo' newsletter. Active recent content includes 'You Need a One Page Retirement Plan' and 'People Say These 5 Items Make Retirement Better.'",
+        "source": "tools/extract.ts (5 pages — home / about / services / blog / contact)"
       }
     ]
   },
+
   "_schema": {
     "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
     "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",

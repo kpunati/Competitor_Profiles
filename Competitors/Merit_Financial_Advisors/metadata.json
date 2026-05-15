@@ -1,63 +1,139 @@
 {
-  "competitor": null,
-  "slug": null,
-  "summary_line": null,
-  "website": null,
-  "competitor_type": null,
-  "threat_level": null,
-  "confidence": null,
+  "competitor": "Merit Financial Advisors",
+  "slug": "Merit_Financial_Advisors",
+  "summary_line": "Major Atlanta-area RIA aggregator founded 1998 by Rick Kent — $23.88B regulatory AUM, 229 advisors, 470 employees, 0 DRPs (Form ADV); site claims $24.69B 'assets served' (incl. brokerage + retirement plans), 350+ team members, 55+ offices nationwide, 26,000+ households. Multi-year M&A roll-up growth strategy with mainstream press deck (2025 InvestmentNews RIA Firm of the Year · 2025 Forbes Top RIA Firms · 2025 Barron's Top 100 Private Wealth · Inc. 5000 2024). Same peer-set as Focus_Partners.",
+  "website": "https://www.meritfinancialadvisors.com/",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "medium-high",
+  "confidence": "high",
   "last_updated": "2026-05-15",
-  "next_review_by": null,
+  "next_review_by": "2026-08-13",
   "review_cadence_days": 90,
+
   "team_size": "large",
   "advisor_count": 229,
   "employee_count": 470,
-  "branch_count": null,
-  "geographic_scope": null,
-  "headquarters_city": null,
-  "headquarters_state": null,
+  "branch_count": 55,
+  "geographic_scope": "national",
+  "headquarters_city": "Alpharetta",
+  "headquarters_state": "GA",
+
   "aum_usd": 23875298692,
-  "aum_as_of": "2026-03-31",
-  "pricing_model": null,
-  "fee_schedule_published": null,
+  "aum_as_of": "2026-05-15",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
   "fee_aum_pct_low": null,
   "fee_aum_pct_high": null,
   "fee_flat_low_usd": null,
   "fee_flat_high_usd": null,
   "min_account_usd": null,
-  "wealth_tiers_served": [],
-  "segment_early_adults": null,
-  "segment_mid_career_401k": null,
-  "regulatory_jurisdiction": null,
-  "regulator": null,
-  "regulatory_note": null,
-  "sec_registered": null,
-  "crd_number": null,
-  "sec_number": null,
-  "ownership_structure": null,
-  "fiduciary_stated_explicitly": null,
-  "fee_only_stated_explicitly": null,
-  "disciplinary_disclosures": null,
-  "disciplinary_disclosure_count": null,
-  "media_presence": null,
-  "design_tone": null,
-  "positioning_claims": [],
-  "vulnerabilities": [],
-  "tags": [],
-  "related_competitors": [],
+
+  "wealth_tiers_served": ["mass_affluent", "hnw", "uhnw"],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "ok",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "Filing entity per About page: 'Merit Financial Group, LLC, an SEC registered investment adviser.' Multiple legal entities likely exist across the M&A footprint (brokerage, retirement-plan business, ESOP business) which is why the homepage's $24.69B 'assets served' number exceeds the ADV's $23.88B regulatory AUM. Worth a Form ADV Part 1A Section 7 (related persons / affiliates) pull on next refresh to map the full corporate structure.",
+  "sec_registered": true,
+  "crd_number": "142457",
+  "sec_number": "801-67462",
+  "ownership_structure": "pe_backed",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "content_heavy",
+  "design_tone": "establishment",
+
+  "positioning_claims": [
+    "fiduciary",
+    "independent",
+    "comprehensive",
+    "national_scale",
+    "category_shaping"
+  ],
+  "vulnerabilities": [
+    "no_early_adult_surface",
+    "no_401k_specific_funnel",
+    "no_fee_transparency",
+    "no_segment_specific_messaging",
+    "pe_ownership_vulnerable"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "national_aggregator",
+    "roll_up",
+    "consumer_facing",
+    "dual_facing",
+    "cfp_credentialed",
+    "aum_fee",
+    "clean_regulatory_record",
+    "content_engine"
+  ],
+  "related_competitors": [
+    "Focus_Partners",
+    "Walser_Wealth",
+    "Ritholtz_Wealth"
+  ],
+
   "trajectory": {
-    "aum_history": [],
-    "advisor_count_history": [],
-    "employee_count_history": [],
-    "branch_count_history": [],
+    "aum_history": [
+      {
+        "as_of": "2026-05-15",
+        "value_usd": 23875298692,
+        "source": "ADV"
+      }
+    ],
+    "advisor_count_history": [
+      {
+        "as_of": "2026-05-15",
+        "value": 229,
+        "source": "ADV"
+      }
+    ],
+    "employee_count_history": [
+      {
+        "as_of": "2026-05-15",
+        "value": 470,
+        "source": "ADV"
+      }
+    ],
+    "branch_count_history": [
+      {
+        "as_of": "2026-05-15",
+        "value": 55,
+        "source": "site (homepage claims 55+ offices nationwide)"
+      }
+    ],
     "notable_events": [
       {
-        "date": "2026-03-31",
-        "event": "ADV snapshot — 470 employees; 229 advisors performing advisory functions; $23,875,298,692 regulatory AUM; 20,710 client accounts; \"Other\" fee specify: CONSULTING FEES",
+        "date": "1998",
+        "event": "Merit founded by Rick Kent on a 'servant-leadership philosophy.' Stated focus: working with individuals in transition.",
+        "source": "meritfinancialadvisors.com about page"
+      },
+      {
+        "date": "2026-05-15",
+        "event": "ADV snapshot via IAPD CRD 142457 — 470 employees, 229 advisors performing advisory functions, $23,875,298,692 regulatory AUM, 0 disciplinary disclosures. SEC file 801-67462. Legal name in IAPD: 'MERIT FINANCIAL ADVISORS' (filing entity per About: 'Merit Financial Group, LLC').",
         "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-05-15",
+        "event": "Site captured (homepage was bot-blocked by nginx 403 to Playwright — full content via WebFetch fallback). Hero: 'We Are Merit.' Sub-hero: 'Your trusted financial partner, providing the support you need to navigate life's challenges, transitions, and victories.' Stated assets-served breakdown on homepage: $17.86B advisory + $2.73B brokerage + $2.30B retirement plans + $1.80B ESOP = $24.69B 'assets served.' Stated team: 350+ members. Stated offices: 55+ nationwide. Stated households: 26,000+. Press deck: 2025 InvestmentNews RIA Firm of the Year · 2024 InvestmentNews Awards / Top Advisors · 2025 Forbes Top RIA Firms · 2024 Inc. 5000 · 2023 & 2025 Barron's Top 100 Private Wealth Management. Featured-in media list: U.S. News · WealthManagement.com · Bloomberg · MarketWatch · Kiplinger · WSJ · Yahoo Finance · CBS News. Service lines: Financial Planning · Wealth Management · Life Transitions (Retirement, Divorce, Career Transition, Widowhood) · Insurance Planning · Business solutions (CPA Connect, Retirement Solutions for Employers, Business Succession) · Tax Services. Pricing described as 'structured tiered fee approach' with 'sliding scale' tied to AUM, but no fee tier table published. Main phone: 866-637-6949. HQ: Atlanta area (Alpharetta GA per public records; not directly stated on captured pages).",
+        "source": "WebFetch (Playwright extract was bot-blocked) + tools/extract.ts"
+      },
+      {
+        "date": "2026-05-15",
+        "event": "Leadership team page captured via WebFetch. Founder & CEO: Rick Kent ('servant-leadership philosophy'). President & Partner: Kay Lynn Mayhue (overseeing multi-year M&A activity). COO: Chrissy Lee. VP Strategic Partnerships: David Wahlen (previously 'leading the sourcing and integration of over 50 acquired firms since 2018' at his prior employer). Multiple M&A references suggest the growth model is acquisition-led — same archetype as Focus_Partners, Mariner, Hightower. Specific firms acquired are not enumerated on captured pages.",
+        "source": "WebFetch — meritfinancialadvisors.com/about/our-leadership-team/"
       }
     ]
   },
+
   "_schema": {
     "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
     "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",

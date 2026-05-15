@@ -1,200 +1,80 @@
 ---
-competitor: Competitor Name
-website: https://example.com
-competitor_type: wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm
-threat_level: high | medium-high | medium | low
-confidence: high | medium | low
-last_updated: YYYY-MM-DD
-next_review_by: YYYY-MM-DD
+competitor: Merit Financial Advisors
+website: https://www.meritfinancialadvisors.com/
+competitor_type: wealth_mgmt_traditional
+threat_level: medium-high
+confidence: high
+last_updated: 2026-05-15
+next_review_by: 2026-08-13
 review_cadence_days: 90
 ---
 
-# {Competitor Name} — Full Profile
+# Merit Financial Advisors — Full Profile (Stub)
 
-*This is the deep dive. For a quick read, see `1_Summary.md`.*
+Substance is in [`1_Summary.md`](./1_Summary.md). This file preserves the schema convention.
 
-## The big picture
-
-Two or three paragraphs orienting the reader. Who this company is, what they're trying to do in the market, and why they matter to us. Written like the opening of a magazine profile, not a corporate slide.
-
----
-
-## Who they are
-
-A short paragraph covering the basics — when they were founded, where they're based, how big they are, who's running the show, and how they're funded. Pull from `Source_Data/company_facts.json`.
+## Quick reference
 
 | | |
 |---|---|
-| Founded | |
-| Headquarters | |
-| Employees | (with source and date) |
-| Funding | (last round, amount, when) |
-| Leadership | |
-| Recent moves | (hiring, layoffs, launches, press) |
+| Legal name (filing) | Merit Financial Group, LLC |
+| Brand | Merit Financial Advisors |
+| CRD / SEC# | 142457 / 801-67462 |
+| Founded | 1998 by Rick Kent |
+| HQ | Atlanta area (Alpharetta, GA per public records) |
+| Main phone | 866-637-6949 |
+| Regulatory AUM | $23,875,298,692 (Form ADV 2026-05-15) |
+| Site-stated "assets served" | $24.69B ($17.86B advisory + $2.73B brokerage + $2.30B retirement plans + $1.80B ESOP) |
+| Headcount | 470 employees (ADV) / 350+ team (site) |
+| Advisors | 229 (ADV) |
+| Offices | 55+ nationwide (site) |
+| Households | 26,000+ (site) |
+| DRPs | 0 |
+| Pricing | "Structured tiered fee approach" / "sliding scale" — **no fee table published** |
 
-## Trajectory
+## Leadership team (captured)
 
-Direction matters more than the static snapshot. Pull three historical Form ADV filings (most recent + ~12 months back + ~24-36 months back) and chart the deltas. For non-RIA entities, substitute the closest equivalent (subscriber counts, content cadence, named hires).
+- **Rick Kent** — Founder & CEO ("servant-leadership philosophy")
+- **Kay Lynn Mayhue** — President, Partner (M&A oversight)
+- **Chrissy Lee** — COO
+- **David Wahlen** — VP Strategic Partnerships (previously integrated 50+ firms since 2018 at prior employer; M&A growth-function owner)
 
-| Metric | ~24-36 mo ago | ~12 mo ago | Most recent | Source |
-|---|---|---|---|---|
-| Regulatory AUM (USD) | | | | ADV Part 1A Item 5.F |
-| Advisor count (IARs) | | | | ADV Part 1A Item 5.B |
-| Employee count | | | | ADV Part 1A Item 5.A |
-| Branch count | | | | ADV Part 1A Section 1.F |
-| Disclosures on file | | | | IAPD / ADV Part 2A Item 9 |
+## Service lines
 
-**Notable events since last review** (acquisitions, leadership changes, new disclosures, ownership changes, product launches):
+1. Financial Planning
+2. Wealth Management
+3. **Life Transitions** — Retirement · Divorce · Career Transition · Widowhood
+4. Insurance Planning
+5. Business solutions — CPA Connect · Retirement Solutions for Employers · Business Succession
+6. Tax Services
 
-- (event — source — date)
+## Press / awards deck (current as of capture)
 
-**What the direction tells us** — one or two sentences. Growing, flat, or shrinking? Does the trajectory support or undercut their public positioning?
+- **2025** InvestmentNews RIA Firm of the Year
+- **2025** Forbes Top RIA Firms
+- **2025** Barron's Top 100 Private Wealth Management
+- **2024** Inc. 5000
+- **2024** InvestmentNews Awards / Top Advisors
+- **2023** Barron's Top 100 Private Wealth Management
 
-## Who they sell to
+Featured-in: U.S. News · WealthManagement.com · Bloomberg · MarketWatch · Kiplinger · WSJ · Yahoo Finance · CBS News
 
-Who their customer is and how we know. Pair every claim with the evidence — pricing tier, case studies featured, careers page hiring, the language used on the home page.
+## Captured pages
 
-## What they sell
+- [Homepage](./Source_Data/pages/home.html) — captured the nginx 403 challenge body; substantive homepage content from WebFetch
+- Leadership page (`/about/our-leadership-team/`) — WebFetch only
+- About page (`/about/`) — WebFetch only
 
-What's actually in their product or service. The tiers, the packaging, the price points if visible, and how a buyer gets started (free trial, demo call, contact sales).
+## Pipeline note
 
-## How they reach people
+Playwright extract was bot-blocked by nginx 403 on the homepage; the substantive content was pulled via WebFetch. Same pattern we've seen on ~8 firms in the catalog. Bot-protection is now the default on serious wealth-management firm sites at scale. **Worth scheduling for the next tools/extract.ts iteration**: detect a 403/Cloudflare-challenge response → automatically fall back to a WebFetch-style retrieval (or at minimum, mark the captured pages as `bot_blocked: true` so the metadata stage knows to compensate with manual fetches).
 
-Where their traffic comes from and how loud they are.
+## Open questions for next refresh
 
-| | Value | Source | When |
-|---|---|---|---|
-| Monthly website visits | | | |
-| Top traffic channels | | | |
-| Top keywords they rank for | | | |
-| Social following | | | |
-| Review score & count | | | |
+- PE backer / capital structure (inferred but not disclosed)
+- Specific acquisitions over the past 4 years (referenced but not enumerated)
+- Form ADV Part 1A Section 7 affiliate map (multiple legal entities expected)
+- Eric / Connie / spouse-team relationships in the executive line (Kay Lynn Mayhue + others)
+- Whether the "$24.69B assets served" vs $23.88B regulatory AUM gap holds steady or is widening
 
----
-
-## How they look
-
-A short paragraph describing the visual feel of their brand — what you'd notice in the first three seconds. Then bullets for the specifics:
-
-- **Colors**: dominant palette, accent choices, what the palette signals
-- **Type**: heading/body pairing, the mood it sets
-- **Imagery**: photography vs. illustration, real people vs. abstract, warm vs. clinical
-- **Layout**: spacious or dense, what that implies about who they're for
-- **Logo**: shape, wordmark vs. symbol, the emotional register
-
-*Design specifics (hex codes, font names) are in `Source_Data/design_details.json` if anyone needs them for reference.*
-
-## How they sound
-
-A short paragraph describing the voice you hear reading their site. Then specifics:
-
-- **Tone**: formal / conversational / playful / technical / etc.
-- **Reading level**: roughly
-- **Sentence style**: short and punchy / long and considered / mixed
-- **Words they own**: the distinctive vocabulary
-- **Words they avoid**: what they don't say
-- **Pronouns**: "we" vs. "you" vs. "I" — what it implies
-
-**A sample, in their words:**
-> A direct quote, one to three sentences, that captures the voice best.
-
-## The story they tell
-
-Two or three paragraphs on how they position themselves. Where they place themselves vs. the rest of the category, the implicit competitor they're swinging at, and the worldview they're inviting buyers into.
-
-## What they promise
-
-The hierarchy of promises a visitor sees:
-
-1. **Primary** (the headline above the fold): 
-2. **Secondary** (the supporting promises): 
-3. **Tertiary** (further down the page): 
-
-## How they ask for the sale
-
-The call-to-action strategy:
-
-- **Primary CTA**: what it says, where it appears, how often
-- **Friction level**: free trial / demo / contact sales / signup
-- **What this tells us**: their sales motion in one sentence
-
-## Who vouches for them
-
-How they prove they're trustworthy:
-
-- Customer logos they feature
-- Testimonials they highlight
-- Numbers they cite (customers, revenue, savings, etc.)
-- Awards or press
-- What's conspicuously *missing* — sometimes more telling
-
-## How they price
-
-How pricing is presented:
-
-- Transparent or gated?
-- Tier names and what they imply
-- The anchor strategy (which tier is the recommended one)
-- What the pricing page is really selling beyond price
-
-## What they believe
-
-The worldview underneath everything else. What problem they think they're solving, why they think they're the right ones to solve it, and what they think is wrong with how the rest of the category does it.
-
----
-
-## What this means for our entry
-
-### What's working for them
-
-Specific, concrete observations. Not "good design" — explain *why* something works and what a new entrant can learn from it.
-
-### Where they're vulnerable
-
-Gaps, weaknesses, or assumptions a focused new entrant could exploit. Pay particular attention to weaknesses against the segments named in `_context/our_thesis.md`.
-
-### How well do they serve each of our target segments?
-
-For each segment in `_context/our_thesis.md`, score Strong / OK / Weak / Not aimed at this segment and say why in a sentence. This is where the entry openings show up.
-
-### What we should consider taking from them
-
-The handful of things — moves, framings, design choices, copy patterns, specific phrases — worth borrowing or adapting.
-
-### What we should deliberately *not* do
-
-Things they do that feel right at first glance but we'd be wrong to copy.
-
----
-
-## Recommended actions
-
-### Quick wins (this month)
-- 
-
-### Strategic shifts (this quarter)
-- 
-
-### Watch items (monitor, don't act yet)
-- 
-
----
-
-## Open questions
-
-Things worth verifying or returning to:
-- 
-
-## Where this came from
-
-- Website captured on: 
-- Company information from: 
-- Traffic estimates from: 
-- Review data from: 
-
-**Confidence**: high / medium / low — with a sentence explaining why.
-
-Pages we looked at:
-- [Homepage](./Source_Data/home.html) — [screenshot](./Screenshots/Homepage.png)
-- [Pricing](./Source_Data/pricing.html) — [screenshot](./Screenshots/Pricing_Page.png)
-- [About](./Source_Data/about.html) — [screenshot](./Screenshots/About_Page.png)
+**Confidence**: high on the captured-site facts and ADV-pulled regulatory numbers. Medium on the M&A-history detail and capital-structure questions (not surfaced on captured pages).

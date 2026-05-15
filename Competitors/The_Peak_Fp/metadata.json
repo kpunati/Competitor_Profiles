@@ -1,63 +1,140 @@
 {
-  "competitor": null,
-  "slug": null,
-  "summary_line": null,
-  "website": null,
-  "competitor_type": null,
-  "threat_level": null,
-  "confidence": null,
+  "competitor": "Peak Financial Planning (thepeakfp.com)",
+  "slug": "The_Peak_Fp",
+  "summary_line": "Woodland Hills (LA) fee-only fiduciary RIA founded 2022 by Eric Amzalag (CFP®, RICP®) — $93M AUM, 4 advisors, 7 employees, 0 DRPs. Single-segment ICP commitment: 'people in the Retirement Risk Zone with $1M+ in retirement savings,' delivered through a flat-fee 4-month financial-planning engagement ($4,000 upfront + $1,000/mo) that optionally converts to AUM wealth management (4 published tier bands from 1.00% down to 0.50% above $10M). Eric runs a YouTube channel with ~50,000 subscribers that doubles as the audience-building lever for the practice.",
+  "website": "https://www.thepeakfp.com/",
+  "competitor_type": "wealth_mgmt_solo",
+  "threat_level": "low",
+  "confidence": "high",
   "last_updated": "2026-05-15",
-  "next_review_by": null,
-  "review_cadence_days": 90,
+  "next_review_by": "2026-11-11",
+  "review_cadence_days": 180,
+
   "team_size": "small",
   "advisor_count": 4,
   "employee_count": 7,
-  "branch_count": null,
-  "geographic_scope": null,
-  "headquarters_city": null,
-  "headquarters_state": null,
+  "branch_count": 1,
+  "geographic_scope": "national",
+  "headquarters_city": "Woodland Hills",
+  "headquarters_state": "CA",
+
   "aum_usd": 93000000,
-  "aum_as_of": "2026-05-04",
-  "pricing_model": null,
-  "fee_schedule_published": null,
-  "fee_aum_pct_low": null,
-  "fee_aum_pct_high": null,
-  "fee_flat_low_usd": null,
-  "fee_flat_high_usd": null,
+  "aum_as_of": "2026-05-15",
+
+  "pricing_model": "transparent_tiers",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": 0.005,
+  "fee_aum_pct_high": 0.01,
+  "fee_flat_low_usd": 5000,
+  "fee_flat_high_usd": 12000,
   "min_account_usd": null,
-  "wealth_tiers_served": [],
-  "segment_early_adults": null,
-  "segment_mid_career_401k": null,
-  "regulatory_jurisdiction": null,
-  "regulator": null,
-  "regulatory_note": null,
-  "sec_registered": null,
-  "crd_number": null,
-  "sec_number": null,
-  "ownership_structure": null,
-  "fiduciary_stated_explicitly": null,
-  "fee_only_stated_explicitly": null,
-  "disciplinary_disclosures": null,
-  "disciplinary_disclosure_count": null,
-  "media_presence": null,
-  "design_tone": null,
-  "positioning_claims": [],
-  "vulnerabilities": [],
-  "tags": [],
-  "related_competitors": [],
+
+  "wealth_tiers_served": ["hnw"],
+
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "IAPD reports CRD 317288, SEC file 801-135890, with $93M reported AUM. The firm's own site footer states 'Peak Financial Planning is a Registered Investment Advisor in the State of CA' — at sub-$100M AUM this would normally indicate state registration with California's DFPI rather than SEC registration. We treat the firm as SEC-registered per the IAPD authoritative record (801- file numbers are SEC), with the site/IAPD discrepancy flagged for next-refresh verification. Same pattern as Intrepid_Wealth_Partners — likely transitional or an outdated footer copy on the firm's own site.",
+  "sec_registered": true,
+  "crd_number": "317288",
+  "sec_number": "801-135890",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "personality_led",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fiduciary",
+    "fee_only",
+    "independent",
+    "evidence_based",
+    "transparent_pricing",
+    "niche_specialist",
+    "segment_specific",
+    "personality_led",
+    "content_led",
+    "named_byline_content",
+    "comprehensive",
+    "contrarian_vs_conventional"
+  ],
+  "vulnerabilities": [
+    "no_early_adult_surface",
+    "no_401k_specific_funnel",
+    "key_person_risk",
+    "geographic_concentration"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "regional",
+    "consumer_facing",
+    "cfp_credentialed",
+    "aum_fee",
+    "flat_fee",
+    "hybrid_fee",
+    "content_engine",
+    "media_personality_led",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Foundry_Financial",
+    "Intrepid_Wealth_Partners",
+    "Streamline_Planning"
+  ],
+
   "trajectory": {
-    "aum_history": [],
-    "advisor_count_history": [],
-    "employee_count_history": [],
+    "aum_history": [
+      {
+        "as_of": "2026-05-15",
+        "value_usd": 93000000,
+        "source": "ADV"
+      }
+    ],
+    "advisor_count_history": [
+      {
+        "as_of": "2026-05-15",
+        "value": 4,
+        "source": "ADV"
+      }
+    ],
+    "employee_count_history": [
+      {
+        "as_of": "2026-05-15",
+        "value": 7,
+        "source": "ADV"
+      }
+    ],
     "branch_count_history": [],
     "notable_events": [
       {
-        "date": "2026-05-04",
-        "event": "ADV snapshot — 7 employees; 4 advisors performing advisory functions; $93,000,000 regulatory AUM; 300 client accounts",
-        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        "date": "2022",
+        "event": "Peak Financial Planning founded by Eric Amzalag (CFP®, RICP®). The firm 'specializes in helping individuals and couples navigate the critical decade before and after retirement.'",
+        "source": "thepeakfp.com about page"
+      },
+      {
+        "date": "2026-05-15",
+        "event": "ADV snapshot via IAPD CRD 317288 — 7 employees, 4 advisors performing advisory functions, $93,000,000 regulatory AUM, 0 disciplinary disclosures. SEC file 801-135890.",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts; legal name 'PEAK FINANCIAL PLANNING')"
+      },
+      {
+        "date": "2026-05-15",
+        "event": "Site captured: hero 'We help you build a Retirement System.' Single-segment ICP commitment: people in the 'Retirement Risk Zone' with $1,000,000+ retirement savings. Founder/CEO Eric Amzalag, CFP®, RICP®, UCSB economics + accounting BA, runs a YouTube channel with ~50,000 subscribers that hosts a signature framework called 'Navigating the Retirement Risk Zone.' Head Financial Planner: Joseph Perez, CFP® (3 years tenure, Cal State Northridge BS, VITA tax-clinic volunteer background). Published fee schedule: flat-fee planning engagement at $4,000 upfront + $1,000/mo for 4 months = $8,000 baseline (homepage describes $5,000-$12,000 range across complexity tiers); separately published AUM tier table for optional wealth management (1.00% < $1M, 0.85% to $2M, 0.75% to $10M, 0.50% > $10M). Press deck (In The Press section). Lead magnet: 'Free Webinar - The 4 Step System to Living Your Dream Retirement.' Also published: a sample financial plan link, YouTube guides, podcast, blog, Client Stories page. Form ADV downloadable from the footer ('Peak FP ADV' link). Eric's personal note in About: 'married to Amanda, fraternal twin boys Isaiah and Elijah, mountaineering / fitness-races / hyrox mixed-doubles.'",
+        "source": "tools/extract.ts (6 pages — home / about / services / pricing / blog / contact)"
+      },
+      {
+        "date": "2026-05-15",
+        "event": "Pipeline pickBestMatch note: this firm was missed by the initial enrich-adv pass because the user-supplied name 'The Peak FP' returned no IAPD hits. A second pass with legal name 'Peak Financial Planning' returned a 3/3 exact-token match against CRD 317288. The pickBestMatch token logic is strict on positive direction (good — no false positive here); the lesson for the catalog is that brand-name-on-site can diverge meaningfully from legal-entity-name in IAPD, so a fallback strategy might be 'if zero hits on the user-provided name, retry with site-page-title or About-page-stated-entity-name.'",
+        "source": "tools/enrich-adv.ts behavior"
       }
     ]
   },
+
   "_schema": {
     "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
     "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",
