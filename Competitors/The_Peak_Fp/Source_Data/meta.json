@@ -1,0 +1,39 @@
+{
+  "slug": "The_Peak_Fp",
+  "source_url": "https://www.thepeakfp.com/",
+  "competitor_name": "Certified Financial Planner in Los Angeles",
+  "extracted_at": "2026-05-15T21:21:48.763Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.thepeakfp.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/The_Peak_Fp/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://www.thepeakfp.com/process",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/The_Peak_Fp/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.thepeakfp.com/financial-planning-in-los-angeles",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/The_Peak_Fp/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "pricing",
+      "url": "https://www.thepeakfp.com/los-angeles-financial-advisor-fees",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/The_Peak_Fp/Source_Data/pages/pricing.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.thepeakfp.com/blog",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/The_Peak_Fp/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.thepeakfp.com/financial-advisor-in-los-angeles",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/The_Peak_Fp/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

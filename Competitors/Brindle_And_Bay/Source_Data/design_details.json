@@ -1,0 +1,65 @@
+{
+  "competitor": "Retire with Calmness and Clarity",
+  "extracted_at": "2026-05-15",
+  "source_url": "https://www.brindleandbay.com/",
+  "colors": {
+    "body_background": "rgb(52, 58, 65)",
+    "body_text": "rgb(44, 45, 54)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 15
+      },
+      {
+        "color": "rgb(172, 99, 47)",
+        "count": 13
+      },
+      {
+        "color": "rgb(52, 58, 65)",
+        "count": 8
+      },
+      {
+        "color": "rgba(155, 155, 155, 0.07)",
+        "count": 4
+      },
+      {
+        "color": "rgb(255, 222, 222)",
+        "count": 3
+      },
+      {
+        "color": "rgb(241, 241, 241)",
+        "count": 2
+      },
+      {
+        "color": "rgb(128, 128, 124)",
+        "count": 1
+      },
+      {
+        "color": "rgb(226, 226, 220)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(172, 99, 47)",
+    "accent": "rgb(52, 58, 65)"
+  },
+  "typography": {
+    "heading_family": "granville, sans-serif",
+    "heading_weight": "400",
+    "body_family": "Jost",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 16
+  },
+  "primary_button": {
+    "text": "See if you're a fit",
+    "background": "rgb(172, 99, 47)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 8,
+    "padding": "20px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

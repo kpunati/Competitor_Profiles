@@ -1,0 +1,53 @@
+{
+  "competitor": "Retire with Calmness and Clarity",
+  "website": "https://www.brindleandbay.com/",
+  "last_updated": "2026-05-15",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": "https://youtube.com/channel",
+      "instagram": null
+    },
+    "footer_emails": [
+      "hello@brindleandbay.com"
+    ],
+    "footer_phones": [
+      "+12149889178",
+      "(214) 988-9178"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "BRINDLE & BAY FINANCIAL ADVISORS, LLC",
+      "crd_number": "291747",
+      "sec_number": "801-131045",
+      "headquarters": "5899 PRESTON RD, STE. 1103, FRISCO, TX, 75034, United States",
+      "branch_count": 2,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "STONEBRIDGE ADVISORY GROUP, LLC"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/291747/PDF/291747.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/291747"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Retire%20with%20Calmness%20and"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "competitor": "Certified Financial Planner in Los Angeles",
+  "website": "https://www.thepeakfp.com/",
+  "last_updated": "2026-05-15",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": "https://youtube.com/@thepeakfp",
+      "instagram": null
+    },
+    "footer_emails": [
+      "admin@thepeakfp.com"
+    ],
+    "footer_phones": [
+      "399-2091645",
+      "(818) 600-6099"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "PEAK FINANCIAL PLANNING",
+      "crd_number": "317288",
+      "sec_number": "801-135890",
+      "headquarters": "21201 VICTORY BLVD, SUITE 215, CANOGA PARK, CA, 91303, United States",
+      "branch_count": 4,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "PEAK FINANCIAL PLANNING, LLC"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/317288/PDF/317288.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/317288"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Certified%20Financial%20Planner%20in"
+  }
+}

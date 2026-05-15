@@ -1,0 +1,177 @@
+{
+  "query": "Brindle Bay Financial Advisors",
+  "top": {
+    "firm_source_id": "291747",
+    "firm_ia_sec_number": "131045",
+    "firm_ia_full_sec_number": "801-131045",
+    "firm_name": "BRINDLE & BAY FINANCIAL ADVISORS, LLC",
+    "firm_other_names": [
+      "BRINDLE & BAY FINANCIAL ADVISORS, LLC",
+      "STONEBRIDGE ADVISORY GROUP, LLC"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 2,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5899 PRESTON RD\", \"street2\": \"STE. 1103\", \"city\": \"FRISCO\", \"state\": \"TX\", \"country\": \"United States\", \"postalCode\": \"75034\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "291747",
+      "firm_ia_sec_number": "131045",
+      "firm_ia_full_sec_number": "801-131045",
+      "firm_name": "BRINDLE & BAY FINANCIAL ADVISORS, LLC",
+      "firm_other_names": [
+        "BRINDLE & BAY FINANCIAL ADVISORS, LLC",
+        "STONEBRIDGE ADVISORY GROUP, LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 2,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"5899 PRESTON RD\", \"street2\": \"STE. 1103\", \"city\": \"FRISCO\", \"state\": \"TX\", \"country\": \"United States\", \"postalCode\": \"75034\"}}"
+    },
+    {
+      "firm_source_id": "152583",
+      "firm_ia_sec_number": "107792",
+      "firm_ia_full_sec_number": "801-107792",
+      "firm_name": "BAY COLONY ADVISORS",
+      "firm_other_names": [
+        "ALLEGIANCE FINANCIAL SERVICES INC.",
+        "WINDSOR WEALTH MANAGEMENT",
+        "TEWKS WEALTH MANAGEMENT, LLC",
+        "SENTINEL ADVISORY SERVICES",
+        "PENSION & WEALTH MANAGEMENT ADVISORS",
+        "LEONARD FINANCIAL GROUP",
+        "LEGACY FINANCIAL",
+        "HAGIN INVESTMENT MANAGEMENT",
+        "GREENHAVEN FINANCIAL MANAGEMENT",
+        "GLAZIER FINANCIAL ADVISORS",
+        "ESSENTIAL ASSET MANAGEMENT, LLC",
+        "EMERALD WEALTH ADVISORS",
+        "CHRISTOPHER LEE FINANCIAL",
+        "CASTLE HILL FINANCIAL",
+        "BUSINESS BENEFITS, INC.",
+        "BAY COLONY ADVISORY GROUP, INC.",
+        "BAY COLONY ADVISORS",
+        "ASYMMETRIC CAPITAL ADVISORY"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 26,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"86 BAKER AVENUE EXTENSION\", \"street2\": \"SUITE 310\", \"city\": \"CONCORD\", \"state\": \"MA\", \"country\": \"United States\", \"postalCode\": \"01742\"}}"
+    },
+    {
+      "firm_source_id": "130576",
+      "firm_name": "BAY FINANCIAL ADVISORS, INC.",
+      "firm_other_names": [
+        "BAY FINANCIAL ADVISORS, INC."
+      ],
+      "firm_ia_scope": "INACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 0,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"51 SAWYER ROAD, SUITE 340\", \"city\": \"WALTHAM\", \"state\": \"MA\", \"country\": \"United States\", \"postalCode\": \"02453\"}}"
+    },
+    {
+      "firm_source_id": "130535",
+      "firm_bd_sec_number": "66358",
+      "firm_bd_full_sec_number": "8-66358",
+      "firm_ia_sec_number": "72074",
+      "firm_ia_full_sec_number": "801-72074",
+      "firm_name": "BAY MUTUAL FINANCIAL, LLC",
+      "ia_firm_name": "BAY MUTUAL FINANCIAL LLC",
+      "firm_other_names": [
+        "BAY MUTUAL FINANCIAL LLC",
+        "THE RETIREMENT LABORATORY",
+        "THE PLAN ADVISORS",
+        "PACIFIC MUTUAL FINANCIAL GROUP, LLC",
+        "FIDUCIARY FORTRESS",
+        "BAY MUTUAL STRATEGIC ADVISORS",
+        "BAY MUTUAL FINANCIAL, LLC"
+      ],
+      "firm_scope": "INACTIVE",
+      "firm_ia_scope": "INACTIVE",
+      "firm_disclosure_fl": "Y",
+      "firm_ia_disclosure_fl": "Y",
+      "firm_approved_finra_registration_count": 0,
+      "firm_branches_count": 0,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1460 FOURTH ST.\", \"street2\": \"STE. 212\", \"city\": \"SANTA MONICA\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"90401\"}}"
+    },
+    {
+      "firm_source_id": "226708",
+      "firm_ia_sec_number": "121867",
+      "firm_ia_full_sec_number": "801-121867",
+      "firm_name": "BAYNTREE WEALTH ADVISORS, LLC",
+      "firm_other_names": [
+        "BAINTREE FINANCIAL GROUP",
+        "BAYNTREE WEALTH ADVISORS, LLC",
+        "BAINTREE WEALTH ADVISORS, LLC",
+        "BAINTREE FINANCIAL GROUP, LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 1,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"7001 NORTH SCOTTSDALE ROAD\", \"street2\": \"SUITE 2055\", \"city\": \"SCOTTSDALE\", \"state\": \"AZ\", \"country\": \"United States\", \"postalCode\": \"85253\"}}"
+    },
+    {
+      "firm_source_id": "311019",
+      "firm_name": "BAYOU CITY FINANCIAL ADVISORS, LLC",
+      "firm_other_names": [
+        "BAYOU CITY FINANCIAL ADVISORS, LLC"
+      ],
+      "firm_ia_scope": "INACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 0,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1400 BROADFIELD BLVD\", \"street2\": \"SUITE 101\", \"city\": \"HOUSTON\", \"state\": \"TX\", \"country\": \"United States\", \"postalCode\": \"77084\"}}"
+    },
+    {
+      "firm_source_id": "166207",
+      "firm_name": "EAST BAY INVESTMENT SOLUTIONS",
+      "firm_other_names": [
+        "EAST BAY FINANCIAL SERVICES, LLC",
+        "JERICHO INVESTMENT ADVISORS, LLC",
+        "JERICHO INVESTMENT ADVISORS",
+        "EAST BAY INVESTMENT SOLUTIONS"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 2,
+      "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"CHARLESTON\", \"state\": \"SC\", \"country\": \"United States\"}}"
+    },
+    {
+      "firm_source_id": "299550",
+      "firm_name": "PLANNING & FINANCIAL ADVISORS",
+      "firm_other_names": [
+        "BAY AREA PLANNING & FINANCIAL GROUP, INC.",
+        "PLANNING & FINANCIAL ADVISORS"
+      ],
+      "firm_ia_scope": "INACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 0,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"6 PETALUMA BOULEVARD NORTH\", \"street2\": \"SUITE B3\", \"city\": \"PETALUMA\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"94952\"}}"
+    },
+    {
+      "firm_source_id": "152162",
+      "firm_name": "PLANNING & FINANCIAL ADVISORS",
+      "firm_other_names": [
+        "BAY AREA PLANNING & FINANCIAL GROUP, INC.",
+        "PLANNING & FINANCIAL ADVISORS"
+      ],
+      "firm_ia_scope": "INACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 0,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"6 PETALUMA BOULEVARD NORTH\", \"street2\": \"SUITE B3\", \"city\": \"PETALUMA\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"94952\"}}"
+    },
+    {
+      "firm_source_id": "324480",
+      "firm_name": "FIAT FINANCIAL PLANNERS",
+      "firm_other_names": [
+        "EMERALD BAY ADVISORS LLC",
+        "INTERSERV INTERNATIONAL SERVCIES LLC",
+        "FIAT FINANCIAL PLANNERS"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 1,
+      "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"WICHITA\", \"state\": \"KS\", \"country\": \"United States\"}}"
+    }
+  ]
+}

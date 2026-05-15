@@ -1,0 +1,65 @@
+{
+  "competitor": "Certified Financial Planner in Los Angeles",
+  "extracted_at": "2026-05-15",
+  "source_url": "https://www.thepeakfp.com/",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgba(95, 236, 56, 0)",
+        "count": 40
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 8
+      },
+      {
+        "color": "rgb(248, 248, 248)",
+        "count": 6
+      },
+      {
+        "color": "rgb(28, 117, 187)",
+        "count": 5
+      },
+      {
+        "color": "rgb(221, 221, 221)",
+        "count": 3
+      },
+      {
+        "color": "rgb(141, 198, 62)",
+        "count": 2
+      },
+      {
+        "color": "rgba(29, 29, 29, 0.93)",
+        "count": 1
+      },
+      {
+        "color": "rgb(236, 236, 236)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(255, 255, 255)",
+    "accent": "rgb(248, 248, 248)"
+  },
+  "typography": {
+    "heading_family": "Inter, sans-serif",
+    "heading_weight": "700",
+    "body_family": "Inter, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 24
+  },
+  "primary_button": {
+    "text": "",
+    "background": "rgba(95, 236, 56, 0)",
+    "text_color": "rgb(51, 51, 51)",
+    "border_radius_px": 0,
+    "padding": "0px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

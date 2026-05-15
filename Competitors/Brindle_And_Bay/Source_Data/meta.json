@@ -1,0 +1,34 @@
+{
+  "slug": "Brindle_And_Bay",
+  "source_url": "https://www.brindleandbay.com/",
+  "competitor_name": "Retire with Calmness and Clarity",
+  "extracted_at": "2026-05-15T21:22:05.373Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.brindleandbay.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Brindle_And_Bay/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://www.brindleandbay.com/services?trakyo_id=oW8bjVzHm4EQ4DZi",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Brindle_And_Bay/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.brindleandbay.com/our-story?trakyo_id=oW8bjVzHm4EQ4DZi",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Brindle_And_Bay/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.brindleandbay.com/post-type/all-articles?trakyo_id=oW8bjVzHm4EQ4DZi",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Brindle_And_Bay/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.brindleandbay.com/contact-us?trakyo_id=oW8bjVzHm4EQ4DZi",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Brindle_And_Bay/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}
