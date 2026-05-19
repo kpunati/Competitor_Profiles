@@ -1,0 +1,65 @@
+{
+  "competitor": "Money Guy",
+  "extracted_at": "2026-05-17",
+  "source_url": "https://moneyguy.com/",
+  "colors": {
+    "body_background": "rgb(254, 254, 254)",
+    "body_text": "rgb(5, 76, 125)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 20
+      },
+      {
+        "color": "rgb(242, 101, 49)",
+        "count": 13
+      },
+      {
+        "color": "rgb(81, 201, 245)",
+        "count": 9
+      },
+      {
+        "color": "rgb(254, 254, 254)",
+        "count": 6
+      },
+      {
+        "color": "rgba(21, 48, 85, 0.15)",
+        "count": 6
+      },
+      {
+        "color": "rgb(5, 76, 125)",
+        "count": 5
+      },
+      {
+        "color": "rgb(21, 48, 85)",
+        "count": 4
+      },
+      {
+        "color": "rgb(247, 243, 243)",
+        "count": 3
+      }
+    ],
+    "primary": "rgb(242, 101, 49)",
+    "accent": "rgb(81, 201, 245)"
+  },
+  "typography": {
+    "heading_family": "tenon, Arial, Helvetica, sans-serif",
+    "heading_weight": "700",
+    "body_family": "tenon, Arial, Helvetica, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 20
+  },
+  "primary_button": {
+    "text": "BECOME A CLIENT",
+    "background": "rgb(242, 101, 49)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 4,
+    "padding": "14px 20px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "kind": "about",
+  "url": "https://moneyguy.com/about-us/",
+  "title": "moneyguy.com | 504: Gateway time-out",
+  "meta": {
+    "description": null,
+    "og_title": null,
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Gateway time-out Error code 504"
+    },
+    {
+      "level": "H3",
+      "text": "Browser"
+    },
+    {
+      "level": "H3",
+      "text": "Cloudflare"
+    },
+    {
+      "level": "H3",
+      "text": "Host"
+    },
+    {
+      "level": "H2",
+      "text": "What happened?"
+    },
+    {
+      "level": "H2",
+      "text": "What can I do?"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "cloudflare.com",
+      "tag": "A",
+      "href": "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_504&utm_campaign=moneyguy.com"
+    },
+    {
+      "text": "Cloudflare",
+      "tag": "A",
+      "href": "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_504&utm_campaign=moneyguy.com"
+    },
+    {
+      "text": "Click to reveal",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Cloudflare",
+      "tag": "A",
+      "href": "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_504&utm_campaign=moneyguy.com"
+    }
+  ],
+  "body_text": "Gateway time-out Error code 504\nVisit cloudflare.com for more information.\n2026-05-17 16:43:01 UTC\nYou\nBrowser\nWorking\nSan Jose\nCloudflare\nWorking\nmoneyguy.com\nHost\nError\nWhat happened?\nThe web server reported a gateway time-out error.\nWhat can I do?\nPlease try again in a few minutes.\nCloudflare Ray ID: 9fd414271840eb24 • Your IP: Click to reveal • Performance & security by Cloudflare"
+}

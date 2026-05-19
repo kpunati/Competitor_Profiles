@@ -1,0 +1,205 @@
+{
+  "kind": "blog",
+  "url": "https://heritagewealthplanning.com/blog/",
+  "title": "Blog | Josh Scandlen | Certified Financial Planner",
+  "meta": {
+    "description": null,
+    "og_title": "Blog | Josh Scandlen | Certified Financial Planner",
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H2",
+      "text": "Milton Friedman Proven Wrong"
+    },
+    {
+      "level": "H2",
+      "text": "The Case AGAINST International Stocks (No One Talks About This)"
+    },
+    {
+      "level": "H2",
+      "text": "The Art of Spending"
+    },
+    {
+      "level": "H2",
+      "text": "Are Stocks REALLY Less Volatile in the Long Term?"
+    },
+    {
+      "level": "H2",
+      "text": "Embrace the Simple Life"
+    },
+    {
+      "level": "H2",
+      "text": "Why Market Volatility Can Actually Help Your Retirement"
+    },
+    {
+      "level": "H2",
+      "text": "Will Long Term Care Costs Destroy Your Retirement?"
+    },
+    {
+      "level": "H2",
+      "text": "Don’t Kill Your Retirement Plan By Doing This"
+    },
+    {
+      "level": "H2",
+      "text": "Why So Negative?"
+    },
+    {
+      "level": "H2",
+      "text": "What is Money and What is its Use?"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "HOME",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/"
+    },
+    {
+      "text": "MEET JOSH",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/meet-josh/"
+    },
+    {
+      "text": "BOOKS",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/books/"
+    },
+    {
+      "text": "COURSES",
+      "tag": "A",
+      "href": "https://retirementplanningschool.teachable.com/courses/"
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/blog/"
+    },
+    {
+      "text": "FEES",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/fees/"
+    },
+    {
+      "text": "TAX TOOLS",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/contact/"
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/"
+    },
+    {
+      "text": "Meet Josh",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/meet-josh/"
+    },
+    {
+      "text": "Books",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/books/"
+    },
+    {
+      "text": "Courses",
+      "tag": "A",
+      "href": "https://retirementplanningschool.teachable.com/courses/"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/blog/"
+    },
+    {
+      "text": "Fees",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/fees/"
+    },
+    {
+      "text": "Tax Tools",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Interactive Tax Page",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/interactive-tax-page/"
+    },
+    {
+      "text": "Tax Rates",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/tax-rates/"
+    },
+    {
+      "text": "Property Taxes",
+      "tag": "A",
+      "href": "https://smartasset.com/taxes/property-taxes"
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/contact/"
+    },
+    {
+      "text": "Uncategorized",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/category/uncategorized/"
+    },
+    {
+      "text": "Milton Friedman Proven Wrong",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/milton-friedman-proven-wrong/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/milton-friedman-proven-wrong/"
+    },
+    {
+      "text": "Uncategorized",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/category/uncategorized/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/the-case-against-international-stocks-no-one-talks-about-this/"
+    },
+    {
+      "text": "Uncategorized",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/category/uncategorized/"
+    },
+    {
+      "text": "The Art of Spending",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/the-art-of-spending/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/the-art-of-spending/"
+    },
+    {
+      "text": "Uncategorized",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/category/uncategorized/"
+    },
+    {
+      "text": "Are Stocks REALLY Less Volatile in the Long Term?",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/are-stocks-really-less-volatile-in-the-long-term/"
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "https://heritagewealthplanning.com/are-stocks-really-less-volatile-in-the-long-term/"
+    }
+  ],
+  "body_text": "HOME\nMEET JOSH\nBOOKS\nCOURSES\nBLOG\nFEES\nTAX TOOLS\nCONTACT\nUncategorized\nMilton Friedman Proven Wrong\nMar 30, 2026\nOne of my main objectives being online is to get my fellow right wingers to live in reality, not made up globalist fear mongering Unfortunately, most on the right still believe what Milton Friedman said about inflation. \"Inflation is always and everywhere a...\nRead More\nUncategorized\nThe Case AGAINST International Stocks (No One Talks About This)\nMar 25, 2026\nA few big themes jump out across the 50-year span. The US structural breakout after the GFC. From the end of WWII through roughly 2000, US corporate profits as a share of GDP largely ranged between 5% and 7%, but since the 2008–09 financial crisis they climbed to...\nRead More\nUncategorized\nThe Art of Spending\nDec 9, 2025\nBen Johnson, CFP®, RLP®,AEP®,MS  Providing Clarity, Confidence, and Peace of Mind to your Financial Plan, so you can Enjoy Life Now and In the Future. December 9, 2025 Picture “financial planning,” and most likely you imagine spreadsheets, budgets, and the...\nRead More\nUncategorized\nAre Stocks REALLY Less Volatile in the Long Term?\nDec 9, 2025\nThis destroys the \"stocks are less risky in the long term\" narrative. Something I never even thought about actually. I'm reading this paper, \"Are Stocks Really Less Volatile in the Long Run?\" by a couple professors. They make the argument that if stocks are...\nRead More\nUncategorized\nEmbrace the Simple Life\nNov 26, 2025\nBen Johnson, CFP®, RLP®,AEP®,MS  Providing Clarity, Confidence, and Peace of Mind to your Financial Plan, so you can Enjoy Life Now and In the Future. October 21, 2025 In a world where innovation and complexity reign supreme, it’s easy to believe that the best...\nRead More\nUncategorized\nWhy Market Volatility Can Actually Help Your Retirement\nNov 16, 2025\nHere's something that might surprise you: a portfolio that bounces up and down can actually be better for retirement than one that stays perfectly stable. Yes, even those scary down years can work in your favor. The Unexpected Power of Volatility Let's look at a...\nRead More\nUncategorized\nWill Long Term Care Costs Destroy Your Retirement?\nNov 11, 2025\nWe need to tackle the big scary monster that lurks in every retirement conversation: long-term care costs. You've probably heard the frightening statistics. “The average cost of a nursing home varies significantly by location, but recent data from 2024 shows a...\nRead More\nUncategorized\nDon’t Kill Your Retirement Plan By Doing This\nNov 7, 2025\nI want  to revisit a huge issue that is often overlooked with Monte Carlo scenarios.  Remember, Monte Carlo’s provide a probability of success around three inputs, return expectations, volatility around those return expectations and inflation.  The problem here is...\nRead More\nUncategorized\nWhy So Negative?\nOct 17, 2025\nI Don't Understand the DoomsayersCheck this out. Low fertility rates lead to declining populations for our economic competitors:Now look at this:Oh and maybe most importantly there is this:Now there is this:And one could make an argument that China...\nRead More\nUncategorized\nWhat is Money and What is its Use?\nSep 14, 2025\nThis article appeared in The Standard newspaper, published in Cassville, Georgia, on November 26, 1857, during a period of financial panic and banking controversies in the United States. Money is gold and silver coin. It became such to the American people...\nRead More\nLoad More\nRecent Posts\nMilton Friedman Proven Wrong\nThe Case AGAINST International Stocks (No One Talks About This)\nThe Art of Spending\nAre Stocks REALLY Less Volatile in the Long Term?\nEmbrace the Simple Life\nCategories\nCategories\nSelect Category\nBest Small Towns  (1)\nBlog Post  (17)\nhealth care  (5)\nhealth insurance  (1)\nInvesting  (3)\nLife Insurance  (1)\nMedicare  (3)\nReal World Financial Series  (1)\nRetirement Planning  (8)\nReverse Mortgages  (3)\nSocial Security  (2)\nUncategorized  (72)\nVanguard  (1)\nJosh@HeritageWealthPlanning.com\n© Copyright 2026 | Heritage Wealth Planning\nBlog Comments Policy\nDisclaimer\nPrivacy Policy\nTerms of Use\nNewsletter Subscription & Disclaimer"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "Money_Guy",
+  "source_url": "https://moneyguy.com/",
+  "competitor_name": "Money Guy",
+  "extracted_at": "2026-05-17T16:43:24.119Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://moneyguy.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Money_Guy/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://moneyguy.com/about-us/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Money_Guy/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://moneyguy.com/resources/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Money_Guy/Source_Data/pages/blog.html"
+    }
+  ],
+  "page_budget": 6
+}

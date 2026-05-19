@@ -1,0 +1,24 @@
+{
+  "slug": "Roadmap_Money",
+  "source_url": "https://www.roadmapmoney.com/",
+  "competitor_name": "Roadmap Money",
+  "extracted_at": "2026-05-17T16:42:51.675Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://www.roadmapmoney.com/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Roadmap_Money/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://www.roadmapmoney.com/about/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Roadmap_Money/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://www.roadmapmoney.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Roadmap_Money/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

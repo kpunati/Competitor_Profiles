@@ -1,0 +1,185 @@
+{
+  "kind": "about",
+  "url": "https://www.roadmapmoney.com/about/",
+  "title": "About – Roadmap Money",
+  "meta": {
+    "description": null,
+    "og_title": null,
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "About"
+    },
+    {
+      "level": "H2",
+      "text": "My Story"
+    },
+    {
+      "level": "H2",
+      "text": "Who Is Jacob?"
+    },
+    {
+      "level": "H2",
+      "text": "What Else?"
+    },
+    {
+      "level": "H3",
+      "text": "Create a Roadmap. Enjoy the Journey."
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "href": "#content"
+    },
+    {
+      "text": "Menu",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Menu",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "BUDGETING",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/category/budgeting/"
+    },
+    {
+      "text": "HOW TO BUDGET (START HERE)",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/budgeting-basics-part-1-laying-your-financial-foundation/"
+    },
+    {
+      "text": "TOP 5 BUDGET APPS FOR COUPLES IN 2021 (BETTER MARRIAGE!)",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/best-budget-apps-for-couples/"
+    },
+    {
+      "text": "SAVE MONEY",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/save-money/"
+    },
+    {
+      "text": "BEST MONEY MARKET ACCOUNTS",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/best-money-market-accounts/"
+    },
+    {
+      "text": "BEST HIGH YIELD SAVINGS ACCOUNTS",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/best-high-yield-savings-accounts/"
+    },
+    {
+      "text": "BEST LIFE INSURANCE COMPANIES (ONLINE)",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/best-online-life-insurance/"
+    },
+    {
+      "text": "PAY OFF DEBT",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/debt/"
+    },
+    {
+      "text": "FREE DEBT SNOWBALL SPREADSHEET",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/debt-snowball-spreadsheet/"
+    },
+    {
+      "text": "PAY OFF CREDIT CARD DEBT (GUIDE)",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/pay-off-credit-card-debt/"
+    },
+    {
+      "text": "DESTROY YOUR CAR PAYMENT (GUIDE)",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/pay-off-car-payment/"
+    },
+    {
+      "text": "INVESTING",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/category/investing/"
+    },
+    {
+      "text": "TOP 10 INVESTING APPS OF 2022",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/top-investing-apps/"
+    },
+    {
+      "text": "starting and STICKING TO your budget",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/budgeting/"
+    },
+    {
+      "text": "money saving tips",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/save-money/"
+    },
+    {
+      "text": "best budgeting apps",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/budgeting/budgeting-apps/"
+    },
+    {
+      "text": "Lived on $14 an hour",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/how-we-survived-on-14-an-hour/"
+    },
+    {
+      "text": "Stay At Home Mom",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/5-ways-being-a-stay-at-home-parent-saves-you-money/"
+    },
+    {
+      "text": "travel the country for a year",
+      "tag": "A",
+      "href": "https://www.roadmapmoney.com/i-quit-my-job/"
+    },
+    {
+      "text": "Money Coach",
+      "tag": "A",
+      "href": "https://jacobwade.com/coaching/"
+    },
+    {
+      "text": "Yahoo! Finance",
+      "tag": "A",
+      "href": "https://finance.yahoo.com/news/where-experts-think-invest-money-184828740.html?soc_src=community&soc_trk=tw"
+    },
+    {
+      "text": "CBS News",
+      "tag": "A",
+      "href": "https://www.cbsnews.com/media/laid-off-9-changes-to-make-today/6/"
+    },
+    {
+      "text": "MSN Money",
+      "tag": "A",
+      "href": "https://www.msn.com/g00/en-us/money/savingandinvesting/where-experts-think-you-should-invest-your-money-in-2020/ss-BBYtf4a?i10c.ua=1&i10c.encReferrer=&i10c.dv=22#image=2"
+    },
+    {
+      "text": "Forbes",
+      "tag": "A",
+      "href": "https://www.forbes.com/sites/jrose/2020/03/10/6-pieces-of-financial-advice-you-shouldnt-follow/"
+    },
+    {
+      "text": "Go Banking Rates",
+      "tag": "A",
+      "href": "https://www.gobankingrates.com/investing/strategy/where-experts-think-you-should-invest-your-money-in-2020/"
+    },
+    {
+      "text": "Nasdaq",
+      "tag": "A",
+      "href": "https://www.nasdaq.com/articles/5-ways-find-money-what-you-really-love-2015-11-18"
+    },
+    {
+      "text": "AOL Finance",
+      "tag": "A",
+      "href": "https://www.aol.com/article/finance/2013/06/25/budget-friendly-summer-fun-tips/20633302/"
+    }
+  ],
+  "body_text": "Skip to content\nBUDGETING\nTHE 7 BEST BUDGETING APPS IN 2026 (FREE & PAID MINT ALTERNATIVES)\nHOW TO BUDGET (START HERE)\nTOP 5 BUDGET APPS FOR COUPLES IN 2021 (BETTER MARRIAGE!)\nSAVE MONEY\nBEST MONEY MARKET ACCOUNTS\nBEST HIGH YIELD SAVINGS ACCOUNTS\nBEST LIFE INSURANCE COMPANIES (ONLINE)\nPAY OFF DEBT\nFREE DEBT SNOWBALL SPREADSHEET\nPAY OFF CREDIT CARD DEBT (GUIDE)\nDESTROY YOUR CAR PAYMENT (GUIDE)\nINVESTING\nTOP 10 INVESTING APPS OF 2022\nAbout\nJacob Wade\nSeptember 8, 2021\nI'm Jacob Wade, the Founder of Roadmap Money!\nI am a husband, father, and self-proclaimed #budgetnerd!\nRoadmap Money was created out a passion for helping you create a PLAN for your money and helping you keep more of it.\nIf you asked me 3 years ago what I thought I'd be doing today, it would not have included the following:\nSelling everything and quitting my six figure job\nLiving in an RV with our family of 5 while traveling the country\nWearing flip flops in December\nYet here we are.\nWithout our budget, NONE of this would have been possible.\nSo I want to pass on what I've learned over the past 10+ years of living on the budget and growing our wealth.\nHere, you'll find tips on starting and STICKING TO your budget, money saving tips to save BIG $$$ every month, and reviews on the best budgeting apps to help YOU take back control of your money!\nMy Story\nI’m Jacob Wade, and I gave up on the “American Dream.”\nThere’s nothing wrong with going to college, working hard, and build a life you LOVE, but I found out that the typical dreams of previous generations are now designed to keep you TRAPPED, and do not allow the Freedom to live life on your own terms.\nThrough a decade of intentional saving, planning and choices, we realized that we could step off the highway of the typical American life, and jump on the road less traveled.\nI want to share the lessons we learned along the way, and show how YOU can build a Roadmap to Financial Freedom.\nWho Is Jacob?\nI’m just a regular guy with a passion for helping people understanding HOW MONEY WORKS.\nI’ve also done a few crazy things in my life:\nLived on $14 an hour and STILL saved money\nEnabled my wife to be a Stay At Home Mom\nPaid off over $40,000 in debt\nGrown our net worth from negative to over 6 figures\nQuit my six-figure job and travel the country for a year (2.5 years, actually!)\nI am on a MISSION to spread the message of Financial Freedom, and to show that you can build a life you WANT, while still living a life you LOVE.\nI have been writing about personal finance since 2012, and helping others make Better Money Decisions as a Money Coach since 2013.\nI have been featured as a money expert in many national publications such as\nYahoo! Finance\nCBS News\nMSN Money\nForbes\nGo Banking Rates\nNasdaq\nAOL Finance\nand more!\nWhat Else?\nI'm just a regular guy with a thing for budgets!\nBut here are 5 things that most people DON'T know about me:\nI'm a black-belt in Shitō-ryū karate\nI used to be a licensed Tax Professional (“Enrolled Agent” was my official title)\nI once performed at a concert in front of over 150 (paying) people. I rapped. About video games. (No, I will not give you the YouTube link)\nI am (sadly) a lifelong Seattle Mariners fan\nI eat mostly organic food. Except Doritos.\nPlease let me know if you need anything. I am here to help, and cannot WAIT until you start your journey to Financial Freedom!\nI read ALL my emails, you can contact me directly HERE\nCreate a Roadmap. Enjoy the Journey.\nFiguring out money doesn't have to be hard when you have the roadmap in front of you. Let's build a plan for your financial freedom today.\nSend Me the FREE Template!\n©2023 Roadmap Money\nDISCLAIMER:\nInformation presented on Roadmap Money is intended for informational purposes only and is not meant to be taken as financial advice. While all attempts are made to present accurate information, it may not be appropriate for your specific circumstances and information may become outdated over time. I am not a personal finance professional and you should seek out a professional before making any financial decisions.\nRoadmap Money has partnered with CardRatings for our coverage of credit card products. Roadmap Money and CardRatings may receive a commission from card issuers. Opinions, reviews, analyses & recommendations are the author’s alone, and have not been reviewed, endorsed or approved by any of these entities. Comment Disclaimer: These responses are not provided or commissioned by the bank advertiser. Responses have not been reviewed, approved or otherwise endorsed by the bank advertiser. It is not the bank advertiser’s responsibility to ensure all posts and/or questions are answered. This content is not provided or commissioned by the credit card issuer. Opinions expressed here are author’s alone, not those of the credit card issuer, and have not been reviewed, approved or otherwise endorsed by the credit card issuer. This site may be compensated through the credit card issuer Affiliate Program. RoadmapMoney.com makes no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. All information is provided on an as-is basis. RoadmapMoney.com does not include the entire universe of available financial or credit offers. Full Disclosure: We may earn a commission if you click on our links and make a purchase, at no additional cost to you. RoadmapMoney.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate I earn from qualifying purchases.\nAbout\nContact\nDisclosure & Privacy"
+}
