@@ -1,0 +1,29 @@
+{
+  "slug": "Afford_Anything",
+  "source_url": "https://affordanything.com",
+  "competitor_name": "Home",
+  "extracted_at": "2026-06-15T21:27:20.508Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://affordanything.com",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Afford_Anything/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://affordanything.com/about/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Afford_Anything/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://affordanything.com/blog/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Afford_Anything/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://affordanything.com/contact/",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Afford_Anything/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

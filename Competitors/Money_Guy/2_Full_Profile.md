@@ -1,200 +1,63 @@
 ---
-competitor: Competitor Name
-website: https://example.com
-competitor_type: wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm
-threat_level: high | medium-high | medium | low
-confidence: high | medium | low
-last_updated: YYYY-MM-DD
-next_review_by: YYYY-MM-DD
+competitor: Money Guy / Abound Wealth Management
+website: https://moneyguy.com/
+competitor_type: wealth_mgmt_content_led
+threat_level: medium-high
+confidence: high
+last_updated: 2026-05-17
+next_review_by: 2026-08-15
 review_cadence_days: 90
 ---
 
-# {Competitor Name} — Full Profile
+# Money Guy / Abound Wealth Management — Full Profile (Stub)
 
-*This is the deep dive. For a quick read, see `1_Summary.md`.*
+Substance is in [`1_Summary.md`](./1_Summary.md). This stub preserves the schema convention and captures cross-references.
 
-## The big picture
-
-Two or three paragraphs orienting the reader. Who this company is, what they're trying to do in the market, and why they matter to us. Written like the opening of a magazine profile, not a corporate slide.
-
----
-
-## Who they are
-
-A short paragraph covering the basics — when they were founded, where they're based, how big they are, who's running the show, and how they're funded. Pull from `Source_Data/company_facts.json`.
+## Quick reference
 
 | | |
 |---|---|
-| Founded | |
-| Headquarters | |
-| Employees | (with source and date) |
-| Funding | (last round, amount, when) |
-| Leadership | |
-| Recent moves | (hiring, layoffs, launches, press) |
+| Brand | The Money Guy Show (moneyguy.com) |
+| Legal RIA | Abound Wealth Management, LLC |
+| CRD / SEC# | 285903 / 801-108697 |
+| Founders | Brian Preston (CPA, CFP®, PFS) + Bo Hanson (CFA, CFP®) |
+| HQ | 317 Main Street Suite 201, Franklin TN 37064 |
+| AUM | $1,948,433,647 |
+| Headcount | 41 employees, 26 advisors (Form ADV) |
+| Branches | 3 |
+| DRPs | 0 |
+| Signature framework | Financial Order of Operations® (FOO) — 9 steps, registered trademark |
+| Named heuristic | 20/3/8 Car Rule |
+| Shows (5) | The Money Guy Show · Making a Millionaire · Ask Money Guy · Financial Advisors React · Financial Advisors Explain |
+| Course tier | $49 FOO course |
+| Other products | Know Your Number course · Millionaire Mission book (Brian) |
+| Community framing | "Financial Mutants" / "Moneyverse" |
+| Conversion CTA | "Become a Client" → Abound Wealth Management |
 
-## Trajectory
+## Captured pages
 
-Direction matters more than the static snapshot. Pull three historical Form ADV filings (most recent + ~12 months back + ~24-36 months back) and chart the deltas. For non-RIA entities, substitute the closest equivalent (subscriber counts, content cadence, named hires).
+- [Homepage](./Source_Data/pages/home.html) — full content captured
+- [Blog/Resources](./Source_Data/pages/blog.html) — captured
+- About page returned Cloudflare 504 Gateway Timeout — not captured
 
-| Metric | ~24-36 mo ago | ~12 mo ago | Most recent | Source |
-|---|---|---|---|---|
-| Regulatory AUM (USD) | | | | ADV Part 1A Item 5.F |
-| Advisor count (IARs) | | | | ADV Part 1A Item 5.B |
-| Employee count | | | | ADV Part 1A Item 5.A |
-| Branch count | | | | ADV Part 1A Section 1.F |
-| Disclosures on file | | | | IAPD / ADV Part 2A Item 9 |
+## Two-domain architecture (pattern observation)
 
-**Notable events since last review** (acquisitions, leadership changes, new disclosures, ownership changes, product launches):
+Three firms in our catalog now operate a "content brand + underlying RIA" two-domain structure:
 
-- (event — source — date)
+| Content surface | Underlying RIA | RIA AUM |
+|---|---|---|
+| moneyguy.com (Money Guy Show) | Abound Wealth Management LLC | $1.95B |
+| pwlcapital.com / Rational Reminder podcast | PWL Capital | $7B CAD |
+| ritholtzwealth.com / The Compound | Ritholtz Wealth Management | (see profile) |
 
-**What the direction tells us** — one or two sentences. Growing, flat, or shrinking? Does the trajectory support or undercut their public positioning?
+Common pattern: the content surface is the audience-building lever; the RIA captures qualified high-value conversions; the content surface stays clean of direct fee disclosure so the brand can speak to a wider audience than the actual RIA can serve.
 
-## Who they sell to
+## Open questions for next refresh
 
-Who their customer is and how we know. Pair every claim with the evidence — pricing tier, case studies featured, careers page hiring, the language used on the home page.
+- Founding year of Abound Wealth Management LLC (CRD assignment date should be on Form ADV Part 1A Item 2.A)
+- Abound's fee schedule (not visible from the moneyguy.com content surface)
+- YouTube subscriber count + podcast download metrics
+- Total course-tier customer count (FOO + Know Your Number paid users)
+- Whether the 5 shows are produced in-house or use outside production teams
 
-## What they sell
-
-What's actually in their product or service. The tiers, the packaging, the price points if visible, and how a buyer gets started (free trial, demo call, contact sales).
-
-## How they reach people
-
-Where their traffic comes from and how loud they are.
-
-| | Value | Source | When |
-|---|---|---|---|
-| Monthly website visits | | | |
-| Top traffic channels | | | |
-| Top keywords they rank for | | | |
-| Social following | | | |
-| Review score & count | | | |
-
----
-
-## How they look
-
-A short paragraph describing the visual feel of their brand — what you'd notice in the first three seconds. Then bullets for the specifics:
-
-- **Colors**: dominant palette, accent choices, what the palette signals
-- **Type**: heading/body pairing, the mood it sets
-- **Imagery**: photography vs. illustration, real people vs. abstract, warm vs. clinical
-- **Layout**: spacious or dense, what that implies about who they're for
-- **Logo**: shape, wordmark vs. symbol, the emotional register
-
-*Design specifics (hex codes, font names) are in `Source_Data/design_details.json` if anyone needs them for reference.*
-
-## How they sound
-
-A short paragraph describing the voice you hear reading their site. Then specifics:
-
-- **Tone**: formal / conversational / playful / technical / etc.
-- **Reading level**: roughly
-- **Sentence style**: short and punchy / long and considered / mixed
-- **Words they own**: the distinctive vocabulary
-- **Words they avoid**: what they don't say
-- **Pronouns**: "we" vs. "you" vs. "I" — what it implies
-
-**A sample, in their words:**
-> A direct quote, one to three sentences, that captures the voice best.
-
-## The story they tell
-
-Two or three paragraphs on how they position themselves. Where they place themselves vs. the rest of the category, the implicit competitor they're swinging at, and the worldview they're inviting buyers into.
-
-## What they promise
-
-The hierarchy of promises a visitor sees:
-
-1. **Primary** (the headline above the fold): 
-2. **Secondary** (the supporting promises): 
-3. **Tertiary** (further down the page): 
-
-## How they ask for the sale
-
-The call-to-action strategy:
-
-- **Primary CTA**: what it says, where it appears, how often
-- **Friction level**: free trial / demo / contact sales / signup
-- **What this tells us**: their sales motion in one sentence
-
-## Who vouches for them
-
-How they prove they're trustworthy:
-
-- Customer logos they feature
-- Testimonials they highlight
-- Numbers they cite (customers, revenue, savings, etc.)
-- Awards or press
-- What's conspicuously *missing* — sometimes more telling
-
-## How they price
-
-How pricing is presented:
-
-- Transparent or gated?
-- Tier names and what they imply
-- The anchor strategy (which tier is the recommended one)
-- What the pricing page is really selling beyond price
-
-## What they believe
-
-The worldview underneath everything else. What problem they think they're solving, why they think they're the right ones to solve it, and what they think is wrong with how the rest of the category does it.
-
----
-
-## What this means for our entry
-
-### What's working for them
-
-Specific, concrete observations. Not "good design" — explain *why* something works and what a new entrant can learn from it.
-
-### Where they're vulnerable
-
-Gaps, weaknesses, or assumptions a focused new entrant could exploit. Pay particular attention to weaknesses against the segments named in `_context/our_thesis.md`.
-
-### How well do they serve each of our target segments?
-
-For each segment in `_context/our_thesis.md`, score Strong / OK / Weak / Not aimed at this segment and say why in a sentence. This is where the entry openings show up.
-
-### What we should consider taking from them
-
-The handful of things — moves, framings, design choices, copy patterns, specific phrases — worth borrowing or adapting.
-
-### What we should deliberately *not* do
-
-Things they do that feel right at first glance but we'd be wrong to copy.
-
----
-
-## Recommended actions
-
-### Quick wins (this month)
-- 
-
-### Strategic shifts (this quarter)
-- 
-
-### Watch items (monitor, don't act yet)
-- 
-
----
-
-## Open questions
-
-Things worth verifying or returning to:
-- 
-
-## Where this came from
-
-- Website captured on: 
-- Company information from: 
-- Traffic estimates from: 
-- Review data from: 
-
-**Confidence**: high / medium / low — with a sentence explaining why.
-
-Pages we looked at:
-- [Homepage](./Source_Data/home.html) — [screenshot](./Screenshots/Homepage.png)
-- [Pricing](./Source_Data/pricing.html) — [screenshot](./Screenshots/Pricing_Page.png)
-- [About](./Source_Data/about.html) — [screenshot](./Screenshots/About_Page.png)
+**Confidence**: high on Form ADV data and content surface; medium on commercial metrics (course revenue, podcast scale).

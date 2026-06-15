@@ -1,65 +1,95 @@
 {
-  "competitor": null,
-  "slug": null,
-  "summary_line": null,
-  "website": null,
-  "competitor_type": null,
-  "threat_level": null,
-  "confidence": null,
-  "last_updated": null,
-  "next_review_by": null,
-  "review_cadence_days": 90,
+  "competitor": "Roadmap Money (Jacob Wade)",
+  "slug": "Roadmap_Money",
+  "summary_line": "Personal-finance blog + affiliate-marketing site by Jacob Wade — explicitly NOT a personal finance professional per site disclaimer ('I am not a personal finance professional'). Content surfaces: budgeting / save-money / debt-payoff / investing-app reviews / credit-card affiliate offers / life-insurance comparison / Coast FIRE calculator. Featured-on deck: CBS News · MSN Money · Forbes · Nasdaq · Yahoo! Finance · Go Banking Rates · AOL Finance. Content appears stale (most-popular posts dated 2020-2022; copyright '©2023'). Sold the family home in 2018 and traveled in an RV for 3 years across 38 states before settling in Gulf Coast Florida.",
+  "website": "https://www.roadmapmoney.com/",
+  "competitor_type": "finance_coach",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-05-17",
+  "next_review_by": "2026-11-13",
+  "review_cadence_days": 180,
 
-  "team_size": null,
+  "team_size": "solo",
   "advisor_count": null,
   "employee_count": null,
   "branch_count": null,
-  "geographic_scope": null,
+  "geographic_scope": "national",
   "headquarters_city": null,
-  "headquarters_state": null,
+  "headquarters_state": "FL",
 
   "aum_usd": null,
   "aum_as_of": null,
 
-  "pricing_model": null,
-  "fee_schedule_published": null,
+  "pricing_model": "opaque",
+  "fee_schedule_published": false,
   "fee_aum_pct_low": null,
   "fee_aum_pct_high": null,
   "fee_flat_low_usd": null,
   "fee_flat_high_usd": null,
   "min_account_usd": null,
 
-  "wealth_tiers_served": [],
+  "wealth_tiers_served": ["mass_market", "mass_affluent"],
 
-  "segment_early_adults": null,
-  "segment_mid_career_401k": null,
+  "segment_early_adults": "ok",
+  "segment_mid_career_401k": "weak",
 
-  "regulatory_jurisdiction": null,
-  "regulator": null,
-  "regulatory_note": null,
-  "sec_registered": null,
+  "regulatory_jurisdiction": "US",
+  "regulator": "none",
+  "regulatory_note": "Personal-finance blog + affiliate-marketing site. Jacob Wade explicitly disclaims professional status: 'I am not a personal finance professional and you should seek out a professional before making any financial decisions.' Operates entirely under the educational-publisher carve-out (SEC v. Lowe 1985). Affiliate-marketing disclosures throughout (CardRatings partnership for credit-card content, affiliate links across investing-app and life-insurance content). No IAPD presence (correctly).",
+  "sec_registered": false,
   "crd_number": null,
   "sec_number": null,
-  "ownership_structure": null,
-  "fiduciary_stated_explicitly": null,
-  "fee_only_stated_explicitly": null,
+  "ownership_structure": "solo_owner",
+  "fiduciary_stated_explicitly": false,
+  "fee_only_stated_explicitly": false,
   "disciplinary_disclosures": null,
   "disciplinary_disclosure_count": null,
 
-  "media_presence": null,
-  "design_tone": null,
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
 
-  "positioning_claims": [],
-  "vulnerabilities": [],
-  "tags": [],
-  "related_competitors": [],
+  "positioning_claims": [
+    "personality_led",
+    "content_led",
+    "named_byline_content"
+  ],
+  "vulnerabilities": [
+    "no_segment_specific_messaging",
+    "no_401k_specific_funnel",
+    "key_person_risk",
+    "no_testimonials"
+  ],
+  "tags": [
+    "solo_advisor",
+    "consumer_facing",
+    "content_engine",
+    "media_personality_led",
+    "not_sec_registered"
+  ],
+  "related_competitors": [
+    "Clearvalue_Investing",
+    "Afford_Anything",
+    "Sven_Carlin"
+  ],
 
   "trajectory": {
     "aum_history": [],
     "advisor_count_history": [],
     "employee_count_history": [],
     "branch_count_history": [],
-    "notable_events": []
+    "notable_events": [
+      {
+        "date": "2018",
+        "event": "Jacob Wade quit his job, the family sold their home, and they took off on an RV adventure traveling the country for nearly 3 years (38 states, 20+ national parks). Eventually settled in the Gulf Coast of Florida.",
+        "source": "roadmapmoney.com about copy on homepage"
+      },
+      {
+        "date": "2026-05-17",
+        "event": "Site captured: hero 'Roadmap Money – Build a life you love with the money you already have.' Lead magnet: free Coast FIRE Calculator. Topic taxonomy: Budgeting · Save Money · Pay Off Debt · Investing · Top Money Apps · Top Credit Cards · Get Life Insurance · Money Tools. Top-of-page lead-magnet ask: 'GET YOUR RETIREMENT NUMBER' (Coast FIRE Calculator email opt-in). Stated audience: 'overworked, overstressed working professionals looking for a way to save more, invest more, and enjoy your money more without waiting until retirement.' Stated bona fides: 'nationally-recognized personal finance expert and writer for sites like The Balance and Investing Answers. Featured expert on CBS News, MSN Money, Forbes, Nasdaq, Yahoo! Finance, Go Banking Rates, and AOL Finance.' STALENESS SIGNAL: footer copyright '©2023'; most-popular posts list dated 2020-2022; lots of legacy product reviews (Acorns 2021, M1 Finance 2022, Personal Capital 2021, Qube Money 2021, 8 Best Life Insurance 2020). Disclaimer: 'I am not a personal finance professional.' Revenue model: affiliate marketing (CardRatings partnership disclosed).",
+        "source": "tools/extract.ts (3 pages — home / about / contact)"
+      }
+    ]
   },
 
   "_schema": {

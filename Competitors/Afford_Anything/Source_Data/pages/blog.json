@@ -1,0 +1,213 @@
+{
+  "kind": "blog",
+  "url": "https://affordanything.com/blog/",
+  "title": "Blog - Afford Anything®",
+  "meta": {
+    "description": null,
+    "og_title": null,
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H3",
+      "text": "Latest Post"
+    },
+    {
+      "level": "H2",
+      "text": "IT’S GIVING TUESDAY. YOU AND YOUR SPOUSE HAVE $500. NOW WHAT?"
+    },
+    {
+      "level": "H2",
+      "text": "RECORD HOLIDAY SALES? HERE’S WHAT THEY’RE NOT MENTIONING"
+    },
+    {
+      "level": "H2",
+      "text": "YOUR BRAIN ON BLACK FRIDAY (THE HIDDEN PSYCHOLOGY OF SALES)"
+    },
+    {
+      "level": "H2",
+      "text": "THE REAL PRICE OF THAT THING YOU’RE THINKING ABOUT BUYING"
+    },
+    {
+      "level": "H2",
+      "text": "“WHAT FEELING AM I BUYING?”"
+    },
+    {
+      "level": "H2",
+      "text": "WHAT’S UP WITH THIS 50-YEAR MORTGAGE?"
+    },
+    {
+      "level": "H2",
+      "text": "WOULD YOU TRUST AI WITH YOUR MONEY?"
+    },
+    {
+      "level": "H2",
+      "text": "BUY THE RUMOR, SELL THE NEWS (AND WHAT THAT MEANS FOR YOU)"
+    },
+    {
+      "level": "H2",
+      "text": "I PAID RENT TODAY. I ALSO COLLECTED RENT."
+    },
+    {
+      "level": "H2",
+      "text": "QUICK HEADS-UP (AND A DAD JOKE, SORT OF)"
+    },
+    {
+      "level": "H2",
+      "text": "THE 7 TYPES OF ENTREPRENEURS (YOU’RE PROBABLY ONE OF THEM)"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Afford Anything®",
+      "tag": "A",
+      "href": "https://affordanything.com/"
+    },
+    {
+      "text": "START HERE",
+      "tag": "A",
+      "href": "https://affordanything.com/start-here/"
+    },
+    {
+      "text": "ABOUT",
+      "tag": "A",
+      "href": "https://affordanything.com/about/"
+    },
+    {
+      "text": "TEAM AFFORD ANYTHING",
+      "tag": "A",
+      "href": "https://affordanything.com/team-afford-anything/"
+    },
+    {
+      "text": "MEDIA",
+      "tag": "A",
+      "href": "https://affordanything.com/media/"
+    },
+    {
+      "text": "QUESTIONS?",
+      "tag": "A",
+      "href": "https://affordanything.com/pick-my-brain/"
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "href": "https://affordanything.com/blog/"
+    },
+    {
+      "text": "BINGE",
+      "tag": "A",
+      "href": "https://affordanything.com/archive/"
+    },
+    {
+      "text": "PODCAST",
+      "tag": "A",
+      "href": "https://affordanything.com/podcast/"
+    },
+    {
+      "text": "BINGE",
+      "tag": "A",
+      "href": "https://affordanything.com/podcast/binge/"
+    },
+    {
+      "text": "SPONSORS",
+      "tag": "A",
+      "href": "https://affordanything.com/podcast/sponsors/"
+    },
+    {
+      "text": "ASK A QUESTION",
+      "tag": "A",
+      "href": "https://affordanything.com/podcast-questions/"
+    },
+    {
+      "text": "GUEST GUIDELINES",
+      "tag": "A",
+      "href": "https://affordanything.com/podcast-guest-guidelines/"
+    },
+    {
+      "text": "COMMUNITY",
+      "tag": "A",
+      "href": "https://affordanything.com/afford-anything-community/"
+    },
+    {
+      "text": "TV",
+      "tag": "A",
+      "href": "https://affordanything.com/tv/"
+    },
+    {
+      "text": "EXPLORE",
+      "tag": "A",
+      "href": "https://affordanything.com/explore/"
+    },
+    {
+      "text": "YOUR FIRST RENTAL PROPERTY",
+      "tag": "A",
+      "href": "https://courses.affordanything.com"
+    },
+    {
+      "text": "TRAVEL",
+      "tag": "A",
+      "href": "https://affordanything.com/travel-cards/"
+    },
+    {
+      "text": "START A BLOG",
+      "tag": "A",
+      "href": "https://affordanything.com/how-to-start-a-blog-and-make-money-on-bluehost/"
+    },
+    {
+      "text": "EARN EXTRA INCOME",
+      "tag": "A",
+      "href": "https://affordanything.com/extraincome/"
+    },
+    {
+      "text": "READ MORE",
+      "tag": "A",
+      "href": "https://affordanything.com/its-giving-tuesday-you-and-your-spouse-have-500-now-what/"
+    },
+    {
+      "text": "PAULA PANT",
+      "tag": "A",
+      "href": "https://affordanything.com"
+    },
+    {
+      "text": "RECORD HOLIDAY SALES? HERE’S WHAT THEY’RE NOT MENTIONING",
+      "tag": "A",
+      "href": "https://affordanything.com/record-holiday-sales-heres-what-theyre-not-mentioning/"
+    },
+    {
+      "text": "KEEP READING...",
+      "tag": "A",
+      "href": "https://affordanything.com/record-holiday-sales-heres-what-theyre-not-mentioning/"
+    },
+    {
+      "text": "PAULA PANT",
+      "tag": "A",
+      "href": "https://affordanything.com"
+    },
+    {
+      "text": "YOUR BRAIN ON BLACK FRIDAY (THE HIDDEN PSYCHOLOGY OF SALES)",
+      "tag": "A",
+      "href": "https://affordanything.com/your-brain-on-black-friday-the-hidden-psychology-of-sales/"
+    },
+    {
+      "text": "KEEP READING...",
+      "tag": "A",
+      "href": "https://affordanything.com/your-brain-on-black-friday-the-hidden-psychology-of-sales/"
+    },
+    {
+      "text": "PAULA PANT",
+      "tag": "A",
+      "href": "https://affordanything.com"
+    },
+    {
+      "text": "THE REAL PRICE OF THAT THING YOU’RE THINKING ABOUT BUYING",
+      "tag": "A",
+      "href": "https://affordanything.com/cost-of-buying/"
+    },
+    {
+      "text": "KEEP READING...",
+      "tag": "A",
+      "href": "https://affordanything.com/cost-of-buying/"
+    }
+  ],
+  "body_text": "Afford Anything®\nSTART HERE\nABOUT\nTEAM AFFORD ANYTHING\nMEDIA\nQUESTIONS?\nBLOG\nBINGE\nPODCAST\nBINGE\nSPONSORS\nASK A QUESTION\nGUEST GUIDELINES\nCOMMUNITY\nEXPLORE\nYOUR FIRST RENTAL PROPERTY\nTRAVEL\nSTART A BLOG\nEARN EXTRA INCOME\nLatest Post\nIT’S GIVING TUESDAY. YOU AND YOUR SPOUSE HAVE $500. NOW WHAT?\nREAD MORE\nDecember 1, 2025\nWritten By PAULA PANT\nRECORD HOLIDAY SALES? HERE’S WHAT THEY’RE NOT MENTIONING\nLet’s take a look at some stats from the holiday weekend.\nHow much are people spending?\nWhat does this tell us about the economy?\nHow confident do households feel about their income and budgets?\nLet’s look at the numbers and see what stories they’re telling us.\nU.S. shoppers spent a record $11.8 billion online on […]\nKEEP READING...\nNovember 26, 2025\nWritten By PAULA PANT\nYOUR BRAIN ON BLACK FRIDAY (THE HIDDEN PSYCHOLOGY OF SALES)\nTomorrow is Thanksgiving. Which means in 48 hours, your inbox is going to explode with “savings.”\nExcept here’s the thing: most of those “savings” aren’t savings at all.\nLet me break down what’s actually happening to your brain during Black Friday.\nTruth #1: You can’t save money by spending it.\nThat 40 percent off Instant […]\nKEEP READING...\nNovember 20, 2025\nWritten By PAULA PANT\nTHE REAL PRICE OF THAT THING YOU’RE THINKING ABOUT BUYING\nRemember the last thing you bought ….\n…. that’s now collecting dust in your closet?\nYou thought it was a great deal, but now it’s just making you feel guilty?\nYeah, me too.\nHere’s what nobody tells you about the price tag: it’s lying to you.\nThat $500 treadmill […]\nKEEP READING...\nNovember 17, 2025\nWritten By PAULA PANT\n“WHAT FEELING AM I BUYING?”\nWhat did you really buy the last time you made an impulse purchase?\n​\nI’m not asking you to name the item itself.\n​\nMy question goes deeper.\n​\nThe last time you made an impulse purchase — I guarantee — you wanted to feel a particular feeling.\n​\nMaybe […]\nKEEP READING...\nNovember 12, 2025\nWritten By PAULA PANT\nWHAT’S UP WITH THIS 50-YEAR MORTGAGE?\nI’m just going to come straight out of the gate with a hot take:\n​\n​If you need a 50-year mortgage, you can’t afford the property. ​\n​\nBefore you grab your pitchforks, let’s explore the new concept of a 50-year mortgage, which just entered the zeitgeist this week.\nWe’ll run the […]\nKEEP READING...\nOctober 14, 2025\nWritten By PAULA PANT\nWOULD YOU TRUST AI WITH YOUR MONEY?\nImagine asking ChatGPT to build you a $1.2 million portfolio … and then actually following it.\nThat’s exactly what one of our listeners considered doing.\nShe used AI to design her entire allocation, then called into the Afford Anything podcast to ask:\n“How’d the robot do? What would you tweak?”\nOn a recent episode, Joe […]\nKEEP READING...\nOctober 8, 2025\nWritten By PAULA PANT\nBUY THE RUMOR, SELL THE NEWS (AND WHAT THAT MEANS FOR YOU)\nHey everyone. Sooo … the Fed cut interest rates on Sept. 17.\nYou’re probably thinking:\n“Wow, Paula. That news is three weeks old. You’re finally writing about it now?”\nYep. Yep.\n“What are you going to tell us next? Hey everyone — We landed on the moon! Pearl Harbor attacked! Dewey defeats Truman!”\nFair point.\n […]\nKEEP READING...\nOctober 7, 2025\nWritten By PAULA PANT\nI PAID RENT TODAY. I ALSO COLLECTED RENT.\nI paid rent today. I also collected rent today.\nEver since I moved to New York City, I’ve had this uncommon experience on the first of every month. It flies in the face of how society teaches us to adult.\n​\nThe conventional thinking is that a person graduates from college, gets a […]\nKEEP READING...\nSeptember 24, 2025\nWritten By PAULA PANT\nQUICK HEADS-UP (AND A DAD JOKE, SORT OF)\nSo … this is awkward. Someone is pretending to be me via email.\nI’ve dealt with Instagram impersonators for years (until I got that blue checkmark — finally!), but this is my first time being impersonated through email.\nSomeone created a fake address and somehow scraped email addresses of my Instagram followers to send out […]\nKEEP READING...\nAugust 21, 2025\nWritten By PAULA PANT\nTHE 7 TYPES OF ENTREPRENEURS (YOU’RE PROBABLY ONE OF THEM)\nWe cover five pillars: Financial psychology, Increasing your income, Investing, Real estate, and Entrepreneurship. It’s double-ii FiiRE.\nToday, we’re diving into Pillar Five: Entrepreneurship.\nPillar V | Entrepreneurship\nEarlier this month, we covered the first four pillars in this newsletter.\nBut it wasn’t until Friday that we published our long-awaited interview with Lori Rosenkopf, the Vice Dean of […]\nKEEP READING...\n1\n2\n3\n…\n27\n›\nMost Popular\nInflation, Illustrated\nHow Much is Enough?\nWhat if We Quit Setting Goals? (Seriously?)\nThe Incredible Power of 10x Thinking\nBINGE QUESTIONS? CONTACT\nJoin 70,000+ subscribers who get free email updates.\n© 2021 Afford Anything. Designed By Wilnau Design. Built by Zach Swinehart. Disclosure\nSTART HERE\nABOUT\nTEAM AFFORD ANYTHING\nMEDIA\nQUESTIONS?\nBLOG\nBINGE\nPODCAST\nBINGE\nSPONSORS\nASK A QUESTION\nGUEST GUIDELINES\nCOMMUNITY\nEXPLORE\nYOUR FIRST RENTAL PROPERTY\nTRAVEL\nSTART A BLOG\nEARN EXTRA INCOME\nAfford Anything®\nSTART HERE\nABOUT\nTEAM AFFORD ANYTHING\nMEDIA\nQUESTIONS?\nBLOG\nBINGE\nPODCAST\nBINGE\nSPONSORS\nASK A QUESTION\nGUEST GUIDELINES\nCOMMUNITY\nEXPLORE\nYOUR FIRST RENTAL PROPERTY\nTRAVEL\nSTART A BLOG\nEARN EXTRA INCOME"
+}

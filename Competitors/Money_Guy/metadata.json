@@ -1,63 +1,132 @@
 {
-  "competitor": null,
-  "slug": null,
-  "summary_line": null,
-  "website": null,
-  "competitor_type": null,
-  "threat_level": null,
-  "confidence": null,
+  "competitor": "Money Guy / Abound Wealth Management",
+  "slug": "Money_Guy",
+  "summary_line": "Major personality-led personal-finance brand (Brian Preston CPA/CFP/PFS + Bo Hanson CFA/CFP) running The Money Guy Show, Making a Millionaire, Ask Money Guy, Financial Advisors React, Financial Advisors Explain — across podcast + YouTube + multi-tier course product. Underlying RIA: Abound Wealth Management, LLC, Franklin TN, $1.95B AUM, 26 advisors, 41 employees, 3 branches, 0 DRPs. Signature framework: Financial Order of Operations (FOO) — published $49 course. 'Become a Client' converts the content audience into Abound Wealth Management AUM clients.",
+  "website": "https://moneyguy.com/",
+  "competitor_type": "wealth_mgmt_content_led",
+  "threat_level": "medium-high",
+  "confidence": "high",
   "last_updated": "2026-05-17",
-  "next_review_by": null,
+  "next_review_by": "2026-08-15",
   "review_cadence_days": 90,
-  "team_size": "solo",
-  "advisor_count": 1,
-  "employee_count": 1,
-  "branch_count": null,
-  "geographic_scope": null,
-  "headquarters_city": null,
-  "headquarters_state": null,
-  "aum_usd": 17433224,
-  "aum_as_of": "2026-02-03",
-  "pricing_model": null,
-  "fee_schedule_published": null,
+
+  "team_size": "mid",
+  "advisor_count": 26,
+  "employee_count": 41,
+  "branch_count": 3,
+  "geographic_scope": "national",
+  "headquarters_city": "Franklin",
+  "headquarters_state": "TN",
+
+  "aum_usd": 1948433647,
+  "aum_as_of": "2026-05-17",
+
+  "pricing_model": "gated_via_funnel",
+  "fee_schedule_published": false,
   "fee_aum_pct_low": null,
   "fee_aum_pct_high": null,
-  "fee_flat_low_usd": null,
+  "fee_flat_low_usd": 49,
   "fee_flat_high_usd": null,
   "min_account_usd": null,
-  "wealth_tiers_served": [],
-  "segment_early_adults": null,
-  "segment_mid_career_401k": null,
-  "regulatory_jurisdiction": null,
-  "regulator": null,
-  "regulatory_note": null,
-  "sec_registered": null,
-  "crd_number": null,
-  "sec_number": null,
-  "ownership_structure": null,
-  "fiduciary_stated_explicitly": null,
-  "fee_only_stated_explicitly": null,
-  "disciplinary_disclosures": null,
-  "disciplinary_disclosure_count": null,
-  "media_presence": null,
-  "design_tone": null,
-  "positioning_claims": [],
-  "vulnerabilities": [],
-  "tags": [],
-  "related_competitors": [],
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+
+  "segment_early_adults": "ok",
+  "segment_mid_career_401k": "strong",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "Filing entity: 'Abound Wealth Management, LLC' (CRD 285903, SEC file 801-108697). Money Guy is the content/media brand; Abound is the underlying SEC-registered RIA. Two-domain architecture similar to PWL Capital (PWL is the RIA; Rational Reminder + Common Sense Investing are the content surfaces). Headquarters: 317 Main Street Suite 201, Franklin TN 37064. 3 branches.",
+  "sec_registered": true,
+  "crd_number": "285903",
+  "sec_number": "801-108697",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "personality_led",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fiduciary",
+    "evidence_based",
+    "personality_led",
+    "content_led",
+    "category_shaping",
+    "named_byline_content",
+    "two_customer_architecture",
+    "comprehensive",
+    "modern_tech"
+  ],
+  "vulnerabilities": [
+    "no_fee_transparency",
+    "key_person_risk"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "national_aggregator",
+    "consumer_facing",
+    "dual_facing",
+    "cfp_credentialed",
+    "cpa_credentialed",
+    "aum_fee",
+    "subscription_fee",
+    "content_engine",
+    "media_personality_led",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Pwl_Capital",
+    "Ritholtz_Wealth",
+    "Kitces"
+  ],
+
   "trajectory": {
-    "aum_history": [],
-    "advisor_count_history": [],
-    "employee_count_history": [],
-    "branch_count_history": [],
+    "aum_history": [
+      {
+        "as_of": "2026-05-17",
+        "value_usd": 1948433647,
+        "source": "ADV"
+      }
+    ],
+    "advisor_count_history": [
+      {
+        "as_of": "2026-05-17",
+        "value": 26,
+        "source": "ADV"
+      }
+    ],
+    "employee_count_history": [
+      {
+        "as_of": "2026-05-17",
+        "value": 41,
+        "source": "ADV"
+      }
+    ],
+    "branch_count_history": [
+      {
+        "as_of": "2026-05-17",
+        "value": 3,
+        "source": "IAPD"
+      }
+    ],
     "notable_events": [
       {
-        "date": "2026-02-03",
-        "event": "ADV snapshot — 1 employees; 1 advisors performing advisory functions; $17,433,224 regulatory AUM; 14 client accounts",
+        "date": "2026-05-17",
+        "event": "ADV snapshot via IAPD CRD 285903 — Abound Wealth Management, LLC: 41 employees, 26 advisors performing advisory functions, $1,948,433,647 regulatory AUM, 3 branches, 0 disciplinary disclosures. SEC file 801-108697. HQ: 317 Main Street Suite 201, Franklin TN 37064.",
         "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-05-17",
+        "event": "Site captured: Money Guy is the consumer-facing content brand for Abound Wealth Management. Hero: 'Simplified financial strategies that go beyond common sense.' Founders: Brian Preston (CPA, CFP®, PFS) and Bo Hanson (CFA, CFP®). Shows: The Money Guy Show · Making a Millionaire · Ask Money Guy · Financial Advisors React · Financial Advisors Explain. Active weekly cadence — recent episodes 5/15/26 ('7 Cashflow Milestones Worth Celebrating') and 5/13/26 ('5 Tools To Prevent Financial Disaster' / 'Everyday Investors Are Beating Fund Managers'). Signature framework: 'Financial Order of Operations®' (FOO) — 9-step wealth-building framework available as a $49 course. Additional product: 'Know Your Number' course (retirement-readiness interactive tool). Brian's book: 'Millionaire Mission.' Free resources stack: Wealth Multiplier Calculator, Compound Interest Calculator, Car Affordability Calculator (20/3/8 Rule), How Much House Can You Afford, Tax Guides 2025/2026, New Child Checklist, Old 401(k) Guide, etc. Topic taxonomy: Financial Planning · Investing · Budgeting · Debt Management · Money Mindset · Tax Planning · Retirement Planning · Estate Planning · Wealth Management. Community framing: 'Financial Mutants' / 'Moneyverse.' Primary CTA: 'BECOME A CLIENT' (routes to Abound Wealth Management). Two-domain architecture similar to PWL Capital — moneyguy.com is the content surface; abound separately handles regulated wealth management.",
+        "source": "tools/extract.ts (home + blog/resources pages); about page returned Cloudflare 504"
       }
     ]
   },
+
   "_schema": {
     "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
     "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md for the four-axis rubric",

@@ -1,0 +1,65 @@
+{
+  "competitor": "Home",
+  "extracted_at": "2026-06-15",
+  "source_url": "https://affordanything.com",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 35
+      },
+      {
+        "color": "rgb(82, 0, 0)",
+        "count": 26
+      },
+      {
+        "color": "rgb(255, 82, 82)",
+        "count": 19
+      },
+      {
+        "color": "rgb(33, 33, 33)",
+        "count": 10
+      },
+      {
+        "color": "rgb(236, 239, 241)",
+        "count": 6
+      },
+      {
+        "color": "rgb(96, 125, 139)",
+        "count": 2
+      },
+      {
+        "color": "rgb(175, 187, 195)",
+        "count": 1
+      },
+      {
+        "color": "rgb(249, 250, 251)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(82, 0, 0)",
+    "accent": "rgb(255, 82, 82)"
+  },
+  "typography": {
+    "heading_family": null,
+    "heading_weight": null,
+    "body_family": "Lora, \"Times New Roman\", Times, serif",
+    "body_weight": "400",
+    "body_size_px": 18,
+    "paragraph_size_px": 18
+  },
+  "primary_button": {
+    "text": "LET'S GET STARTED",
+    "background": "rgb(255, 82, 82)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 3,
+    "padding": "13px 41px 12px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

@@ -223,6 +223,129 @@
     }
   },
   {
+    "competitor": "Money Guy / Abound Wealth Management",
+    "slug": "Money_Guy",
+    "summary_line": "Major personality-led personal-finance brand (Brian Preston CPA/CFP/PFS + Bo Hanson CFA/CFP) running The Money Guy Show, Making a Millionaire, Ask Money Guy, Financial Advisors React, Financial Advisors Explain — across podcast + YouTube + multi-tier course product. Underlying RIA: Abound Wealth Management, LLC, Franklin TN, $1.95B AUM, 26 advisors, 41 employees, 3 branches, 0 DRPs. Signature framework: Financial Order of Operations (FOO) — published $49 course. 'Become a Client' converts the content audience into Abound Wealth Management AUM clients.",
+    "website": "https://moneyguy.com/",
+    "competitor_type": "wealth_mgmt_content_led",
+    "threat_level": "medium-high",
+    "confidence": "high",
+    "last_updated": "2026-05-17",
+    "next_review_by": "2026-08-15",
+    "review_cadence_days": 90,
+    "team_size": "mid",
+    "advisor_count": 26,
+    "employee_count": 41,
+    "branch_count": 3,
+    "geographic_scope": "national",
+    "headquarters_city": "Franklin",
+    "headquarters_state": "TN",
+    "aum_usd": 1948433647,
+    "aum_as_of": "2026-05-17",
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 49,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "strong",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Filing entity: 'Abound Wealth Management, LLC' (CRD 285903, SEC file 801-108697). Money Guy is the content/media brand; Abound is the underlying SEC-registered RIA. Two-domain architecture similar to PWL Capital (PWL is the RIA; Rational Reminder + Common Sense Investing are the content surfaces). Headquarters: 317 Main Street Suite 201, Franklin TN 37064. 3 branches.",
+    "sec_registered": true,
+    "crd_number": "285903",
+    "sec_number": "801-108697",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "personality_led",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fiduciary",
+      "evidence_based",
+      "personality_led",
+      "content_led",
+      "category_shaping",
+      "named_byline_content",
+      "two_customer_architecture",
+      "comprehensive",
+      "modern_tech"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "key_person_risk"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "national_aggregator",
+      "consumer_facing",
+      "dual_facing",
+      "cfp_credentialed",
+      "cpa_credentialed",
+      "aum_fee",
+      "subscription_fee",
+      "content_engine",
+      "media_personality_led",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Pwl_Capital",
+      "Ritholtz_Wealth",
+      "Kitces"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-05-17",
+          "value_usd": 1948433647,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-05-17",
+          "value": 26,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-05-17",
+          "value": 41,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [
+        {
+          "as_of": "2026-05-17",
+          "value": 3,
+          "source": "IAPD"
+        }
+      ],
+      "notable_events": [
+        {
+          "date": "2026-05-17",
+          "event": "ADV snapshot via IAPD CRD 285903 — Abound Wealth Management, LLC: 41 employees, 26 advisors performing advisory functions, $1,948,433,647 regulatory AUM, 3 branches, 0 disciplinary disclosures. SEC file 801-108697. HQ: 317 Main Street Suite 201, Franklin TN 37064.",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "Site captured: Money Guy is the consumer-facing content brand for Abound Wealth Management. Hero: 'Simplified financial strategies that go beyond common sense.' Founders: Brian Preston (CPA, CFP®, PFS) and Bo Hanson (CFA, CFP®). Shows: The Money Guy Show · Making a Millionaire · Ask Money Guy · Financial Advisors React · Financial Advisors Explain. Active weekly cadence — recent episodes 5/15/26 ('7 Cashflow Milestones Worth Celebrating') and 5/13/26 ('5 Tools To Prevent Financial Disaster' / 'Everyday Investors Are Beating Fund Managers'). Signature framework: 'Financial Order of Operations®' (FOO) — 9-step wealth-building framework available as a $49 course. Additional product: 'Know Your Number' course (retirement-readiness interactive tool). Brian's book: 'Millionaire Mission.' Free resources stack: Wealth Multiplier Calculator, Compound Interest Calculator, Car Affordability Calculator (20/3/8 Rule), How Much House Can You Afford, Tax Guides 2025/2026, New Child Checklist, Old 401(k) Guide, etc. Topic taxonomy: Financial Planning · Investing · Budgeting · Debt Management · Money Mindset · Tax Planning · Retirement Planning · Estate Planning · Wealth Management. Community framing: 'Financial Mutants' / 'Moneyverse.' Primary CTA: 'BECOME A CLIENT' (routes to Abound Wealth Management). Two-domain architecture similar to PWL Capital — moneyguy.com is the content surface; abound separately handles regulated wealth management.",
+          "source": "tools/extract.ts (home + blog/resources pages); about page returned Cloudflare 504"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "XY Planning Network",
     "slug": "Xy_Planning_Network",
     "summary_line": "B2B subscription network — not an RIA itself — that sells operational infrastructure ($544/month Emerald tier) to 2,100+ fee-only advisor firms, many of which target our Gen X/Y demographics.",
@@ -315,6 +438,109 @@
           "date": "2026-03-31",
           "event": "ADV snapshot — 5 employees; 5 advisors performing advisory functions; $175,656,748 regulatory AUM; 1,147 client accounts",
           "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Afford Anything (Paula Pant)",
+    "slug": "Afford_Anything",
+    "summary_line": "Major personal-finance content brand by Paula Pant — former newspaper reporter, world-travel/FI archetype — with 70,000+ email subscribers and a registered trademark on 'You can afford anything, but not everything™' as the brand thesis. Multi-surface content stack: blog · weekly Afford Anything podcast (major FI/personal-finance podcast) · Your First Rental Property® flagship course (biannual cohorts, currently closed) · free Escape book · 'Team Afford Anything' branded community. Themes converge on financial-independence + real-estate-as-income + lifestyle-design + entrepreneurship + money-psychology.",
+    "website": "https://affordanything.com",
+    "competitor_type": "finance_coach",
+    "threat_level": "medium",
+    "confidence": "high",
+    "last_updated": "2026-05-17",
+    "next_review_by": "2026-11-13",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "gated_via_funnel",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_market",
+      "mass_affluent"
+    ],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Afford Anything® is a personal-finance content + education brand (blog, podcast, course, free book, paid community). Not a registered investment adviser — Paula Pant operates entirely under the educational-publisher carve-out (SEC v. Lowe 1985). No advisory relationship is implied or offered; the flagship paid product 'Your First Rental Property®' is a structured course, not an advisory engagement. Trademark filings indicate the brand is a serious business: 'Afford Anything®' and 'You can afford anything, but not everything™' are both registered/asserted marks.",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "personality_led",
+    "design_tone": "editorial",
+    "positioning_claims": [
+      "personality_led",
+      "content_led",
+      "category_shaping",
+      "named_byline_content",
+      "contrarian_vs_conventional",
+      "niche_specialist",
+      "gen_xy_focus"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "no_fee_transparency",
+      "no_401k_specific_funnel"
+    ],
+    "tags": [
+      "founder_led",
+      "solo_advisor",
+      "consumer_facing",
+      "content_engine",
+      "media_personality_led",
+      "subscription_fee",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Money_Guy",
+      "Clearvalue_Investing",
+      "Peoples_Capital_Group"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2008-04",
+          "event": "Paula Pant left her newspaper reporter job in Colorado ($21K/yr salary) and bought a one-way ticket to Egypt with $25K saved. Spent ~2 years backpacking Asia + Australia (Cairo, Thailand, Indonesia, Tasmania, 27,000km drive across Australia).",
+          "source": "affordanything.com about page"
+        },
+        {
+          "date": "2010",
+          "event": "Paula returned to the U.S. and began focusing on four pillars she still teaches today: financial psychology / money mindset, investing (stocks + index funds + 'measured conservative allocation into crypto'), real estate (rental income → primary residence; currently simultaneously a landlord AND renter), entrepreneurship.",
+          "source": "affordanything.com about page"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "Site captured: Afford Anything® brand thesis 'You can afford anything, but not everything™ — and that's true not only for your money, but also your time, focus, energy and attention.' Stated audience: 70,000+ free-email subscribers. Multi-surface content stack: blog (BINGE-able backlog) · Afford Anything podcast (BINGE) · Your First Rental Property® flagship course (biannual cohorts; enrollment currently closed; next cohort Spring 2026) · free Escape book download · paid community ('Team Afford Anything') · sponsor program · ask-a-question + guest-guidelines for podcast guests. Topic taxonomy on nav: Your First Rental Property · Travel · Start a Blog · Earn Extra Income. Footer copyright '©2021' is stale — same pattern we've seen across multiple personality-brand sites (Peak FP '©2024', Roadmap Money '©2023'). Site credited 'Designed By Wilnau Design. Built by Zach Swinehart.'",
+          "source": "tools/extract.ts (4 pages — home / about / blog / contact)"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "CATALOG SUB-CATEGORY NOTE: Afford Anything is the cleanest exemplar in our catalog of the 'FI/FIRE content brand with real-estate-investing as the wealth lever' archetype. Sits adjacent to Peoples_Capital_Group + Samo_Financial (NJ-based passive RE syndicators) on the product side, and adjacent to ClearValue_Investing + Sven_Carlin + Roadmap_Money on the content-publisher side. Distinguishing feature is the trademarked thesis statement that has become a category-defining phrase in personal-finance content ('you can afford anything, but not everything') — one of very few firms in our catalog with a category-shaping positioning sentence that is regularly cited by others.",
+          "source": "internal — emerging pattern across multiple profiles"
         }
       ]
     }
@@ -1296,6 +1522,124 @@
     }
   },
   {
+    "competitor": "Heritage Wealth Planning (Josh Scandlen)",
+    "slug": "Heritage_Wealth_Planning",
+    "summary_line": "Solo CFP®/Master's-in-PFP Josh Scandlen operating a flat-fee planning-only practice (no AUM, no wealth management) with a published fee table tiered by net worth — $1,250 (NW <$1M) / $2,500 (NW >$1M) / $5,000 (NW >$5M) — plus a $250 'Can I Retire?' course. Heavy anti-AUM-industry voice ('from someone who doesn't get paid to sell you stuff'). YouTube-led personality brand. Per IAPD, the firm's RIA registration is INACTIVE (CRD 293260, no SEC #, branch_count 0, 0 DRPs) — Josh has moved operations into the education-publisher carve-out, selling planning-as-flat-fee-engagements + courses + books rather than ongoing advisory.",
+    "website": "https://heritagewealthplanning.com/",
+    "competitor_type": "wealth_mgmt_solo",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-05-17",
+    "next_review_by": "2026-11-13",
+    "review_cadence_days": 180,
+    "team_size": "solo",
+    "advisor_count": null,
+    "employee_count": 1,
+    "branch_count": 0,
+    "geographic_scope": "national",
+    "headquarters_city": "Alpharetta",
+    "headquarters_state": "GA",
+    "aum_usd": 0,
+    "aum_as_of": "2026-05-17",
+    "pricing_model": "transparent_tiers",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 1250,
+    "fee_flat_high_usd": 5000,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "IAPD shows CRD 293260 with registration_status INACTIVE, no SEC file number, branch_count 0, $0 AUM. This is meaningful: Josh Scandlen has moved Heritage Wealth Planning out of the registered-RIA perimeter entirely and is operating in the education-publisher carve-out (planning sold as flat-fee one-time engagements + $250 course + books + YouTube). The framing on the homepage ('from someone who doesn't get paid to sell you stuff') is consistent with this regulatory posture — he is *explicitly NOT* a continuous-advisory AUM-fee fiduciary; he sells specific deliverable engagements at a fixed price. Same regulatory pattern as Karlton Dennis (Tax Alchemy under CPA carve-out), ClearValue Investing (educational publisher), Sven Carlin (educational publisher) — but distinctive because Heritage previously held active RIA registration and went INACTIVE rather than never having registered.",
+    "sec_registered": false,
+    "crd_number": "293260",
+    "sec_number": null,
+    "ownership_structure": "solo_owner",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "personality_led",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "personality_led",
+      "content_led",
+      "named_byline_content",
+      "transparent_pricing",
+      "contrarian_vs_conventional",
+      "niche_specialist"
+    ],
+    "vulnerabilities": [
+      "key_person_risk",
+      "no_early_adult_surface",
+      "no_401k_specific_funnel",
+      "opaque_team"
+    ],
+    "tags": [
+      "founder_led",
+      "solo_advisor",
+      "consumer_facing",
+      "cfp_credentialed",
+      "flat_fee",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "The_Peak_Fp",
+      "Foundry_Financial",
+      "Karlton_Dennis"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-05-17",
+          "value_usd": 0,
+          "source": "ADV (firm is INACTIVE)"
+        }
+      ],
+      "advisor_count_history": [],
+      "employee_count_history": [
+        {
+          "as_of": "2026-05-17",
+          "value": 1,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [
+        {
+          "as_of": "2026-05-17",
+          "value": 0,
+          "source": "IAPD"
+        }
+      ],
+      "notable_events": [
+        {
+          "date": "2026-05-17",
+          "event": "IAPD record (CRD 293260): Heritage Wealth Planning registration is INACTIVE. 1 employee, 0 branches, $0 reported AUM, no SEC file number, 0 DRPs. Address on file: 13010 Morris Road, Bldg 1, Fl 6, Alpharetta GA 30004 (same Atlanta-area address district as Merit Financial Advisors / KDA Inc. / Synergy Private — likely a virtual-office / WeWork-style shared address).",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "Site captured: hero 'Josh Scandlen / CERTIFIED FINANCIAL PLANNER Practitioner and holds a Master's of Science degree in Personal Financial Planning.' Sub-hero positioning quote on home: 'I know that there is nothing better for men than to rejoice and do good while they live - Ecclesiastes 3:12.' Anti-AUM-industry framing throughout — sample copy: 'Maybe, just maybe, it's time for a different viewpoint, from someone who doesn't get paid to sell you stuff.' Pricing fully published on /fees/: 'Peace-of-Mind Financial Plan' tiered by net worth: $1,250 (NW < $1M) / $2,500 (NW > $1M) / $5,000 (NW > $5M); 'Can I Retire' Course $250 with 30-day money-back guarantee. Scarcity: 'I have a waitlist of a few weeks.' Single contact: Josh@HeritageWealthPlanning.com. Three blog posts visible on homepage: 'Milton Friedman Proven Wrong' (3/30/26), 'The Case AGAINST International Stocks' (3/25/26), 'The Art of Spending' (12/9/25). Conservative/right-leaning content stance evident in copy ('get my fellow right wingers to live in reality, not made up globalist fear mongering').",
+          "source": "tools/extract.ts (4 pages — home / blog / pricing/fees / contact)"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "CATALOG OBSERVATION: Heritage Wealth Planning fits a recurring archetype — 'ex-RIA-now-content-publisher.' Josh held active SEC/state registration earlier (CRD assigned, presumably went through registered-RIA operations); his current INACTIVE status + flat-fee-only-no-AUM business model + course product + YouTube channel together describe a firm that has *deliberately exited* the regulated-advisory perimeter to operate under the education-publisher carve-out. Same pattern as previously-cataloged Karlton Dennis (Tax Alchemy: CPA carve-out + course + content), ClearValue Investing (publisher carve-out + $14.99/mo subscription), Sven Carlin (publisher carve-out + research platform). Worth tracking as a sub-category in the catalog.",
+          "source": "internal — emerging pattern across multiple profiles"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "Intrepid Wealth Partners",
     "slug": "Intrepid_Wealth_Partners",
     "summary_line": "Solo-CFP RIA (~$54M AUM, 1 advisor, ~356 client accounts) in Melbourne Beach, FL, led by founder Derek Notman — surf-themed 'beach vibes' brand targeting 'high-earning millennials,' doctors, founders, and executives with a fully published three-tier asset-based fee schedule (1.00% / 0.70% / 0.55%), no account minimums, and a named modern tech stack (Altruist, Asset Map, Nitrogen).",
@@ -2181,6 +2525,94 @@
           "date": "2026-05",
           "event": "30th anniversary; ~$7B CAD AUM, 2,700+ client families, 100+ employees; Vancouver expansion via Chalten Fee-Only Advisors acquisition; recent Western Canada expansion via Macdonald, Shymko & Company; France Kingsbury appointed Chief Legal and Compliance Officer; PWL joins SIMA; Rational Reminder podcast at Episode 408",
           "source": "site homepage + articles index"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Roadmap Money (Jacob Wade)",
+    "slug": "Roadmap_Money",
+    "summary_line": "Personal-finance blog + affiliate-marketing site by Jacob Wade — explicitly NOT a personal finance professional per site disclaimer ('I am not a personal finance professional'). Content surfaces: budgeting / save-money / debt-payoff / investing-app reviews / credit-card affiliate offers / life-insurance comparison / Coast FIRE calculator. Featured-on deck: CBS News · MSN Money · Forbes · Nasdaq · Yahoo! Finance · Go Banking Rates · AOL Finance. Content appears stale (most-popular posts dated 2020-2022; copyright '©2023'). Sold the family home in 2018 and traveled in an RV for 3 years across 38 states before settling in Gulf Coast Florida.",
+    "website": "https://www.roadmapmoney.com/",
+    "competitor_type": "finance_coach",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-05-17",
+    "next_review_by": "2026-11-13",
+    "review_cadence_days": 180,
+    "team_size": "solo",
+    "advisor_count": null,
+    "employee_count": null,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": "FL",
+    "aum_usd": null,
+    "aum_as_of": null,
+    "pricing_model": "opaque",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_market",
+      "mass_affluent"
+    ],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "none",
+    "regulatory_note": "Personal-finance blog + affiliate-marketing site. Jacob Wade explicitly disclaims professional status: 'I am not a personal finance professional and you should seek out a professional before making any financial decisions.' Operates entirely under the educational-publisher carve-out (SEC v. Lowe 1985). Affiliate-marketing disclosures throughout (CardRatings partnership for credit-card content, affiliate links across investing-app and life-insurance content). No IAPD presence (correctly).",
+    "sec_registered": false,
+    "crd_number": null,
+    "sec_number": null,
+    "ownership_structure": "solo_owner",
+    "fiduciary_stated_explicitly": false,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": null,
+    "disciplinary_disclosure_count": null,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "personality_led",
+      "content_led",
+      "named_byline_content"
+    ],
+    "vulnerabilities": [
+      "no_segment_specific_messaging",
+      "no_401k_specific_funnel",
+      "key_person_risk",
+      "no_testimonials"
+    ],
+    "tags": [
+      "solo_advisor",
+      "consumer_facing",
+      "content_engine",
+      "media_personality_led",
+      "not_sec_registered"
+    ],
+    "related_competitors": [
+      "Clearvalue_Investing",
+      "Afford_Anything",
+      "Sven_Carlin"
+    ],
+    "trajectory": {
+      "aum_history": [],
+      "advisor_count_history": [],
+      "employee_count_history": [],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2018",
+          "event": "Jacob Wade quit his job, the family sold their home, and they took off on an RV adventure traveling the country for nearly 3 years (38 states, 20+ national parks). Eventually settled in the Gulf Coast of Florida.",
+          "source": "roadmapmoney.com about copy on homepage"
+        },
+        {
+          "date": "2026-05-17",
+          "event": "Site captured: hero 'Roadmap Money – Build a life you love with the money you already have.' Lead magnet: free Coast FIRE Calculator. Topic taxonomy: Budgeting · Save Money · Pay Off Debt · Investing · Top Money Apps · Top Credit Cards · Get Life Insurance · Money Tools. Top-of-page lead-magnet ask: 'GET YOUR RETIREMENT NUMBER' (Coast FIRE Calculator email opt-in). Stated audience: 'overworked, overstressed working professionals looking for a way to save more, invest more, and enjoy your money more without waiting until retirement.' Stated bona fides: 'nationally-recognized personal finance expert and writer for sites like The Balance and Investing Answers. Featured expert on CBS News, MSN Money, Forbes, Nasdaq, Yahoo! Finance, Go Banking Rates, and AOL Finance.' STALENESS SIGNAL: footer copyright '©2023'; most-popular posts list dated 2020-2022; lots of legacy product reviews (Acorns 2021, M1 Finance 2022, Personal Capital 2021, Qube Money 2021, 8 Best Life Insurance 2020). Disclaimer: 'I am not a personal finance professional.' Revenue model: affiliate marketing (CardRatings partnership disclosed).",
+          "source": "tools/extract.ts (3 pages — home / about / contact)"
         }
       ]
     }

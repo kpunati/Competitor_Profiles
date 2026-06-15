@@ -1,30 +1,22 @@
 {
-  "competitor": "Money Guy",
-  "website": "https://moneyguy.com/",
+  "competitor": "Home",
+  "website": "https://affordanything.com",
   "last_updated": "2026-06-15",
   "auto_filled": {
     "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
     "social_links": {
       "linkedin": null,
-      "twitter": null,
-      "facebook": null,
+      "twitter": "https://twitter.com/affordanything",
+      "facebook": "https://facebook.com/AffordAnything",
       "youtube": null,
-      "instagram": null
+      "instagram": "https://instagram.com/paulapant"
     },
     "footer_emails": [],
     "footer_phones": [],
     "sec_iapd": {
-      "matched": true,
-      "legal_name": "ABOUND WEALTH MANAGEMENT, LLC",
-      "crd_number": "285903",
-      "sec_number": "801-108697",
-      "headquarters": "317 MAIN STREET, SUITE 201, FRANKLIN, TN, 37064, United States",
-      "branch_count": 3,
-      "disciplinary_disclosures": false,
-      "registration_status": "ACTIVE",
-      "dbas_and_affiliates": [],
-      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/285903/PDF/285903.pdf",
-      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/285903"
+      "matched": false,
+      "queried_as": "Afford Anything",
+      "note": "No confident IAPD match. Either this competitor isn't a US-registered RIA, or the firm name needs disambiguation — retry with --crd <number>."
     }
   },
   "manual": {
@@ -41,6 +33,6 @@
     "fee_structure_summary": null,
     "fee_schedule_published": null,
     "notes": null,
-    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Money%20Guy"
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Home"
   }
 }

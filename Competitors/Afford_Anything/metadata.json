@@ -1,121 +1,107 @@
 {
-  "competitor": "Heritage Wealth Planning (Josh Scandlen)",
-  "slug": "Heritage_Wealth_Planning",
-  "summary_line": "Solo CFP®/Master's-in-PFP Josh Scandlen operating a flat-fee planning-only practice (no AUM, no wealth management) with a published fee table tiered by net worth — $1,250 (NW <$1M) / $2,500 (NW >$1M) / $5,000 (NW >$5M) — plus a $250 'Can I Retire?' course. Heavy anti-AUM-industry voice ('from someone who doesn't get paid to sell you stuff'). YouTube-led personality brand. Per IAPD, the firm's RIA registration is INACTIVE (CRD 293260, no SEC #, branch_count 0, 0 DRPs) — Josh has moved operations into the education-publisher carve-out, selling planning-as-flat-fee-engagements + courses + books rather than ongoing advisory.",
-  "website": "https://heritagewealthplanning.com/",
-  "competitor_type": "wealth_mgmt_solo",
-  "threat_level": "low",
+  "competitor": "Afford Anything (Paula Pant)",
+  "slug": "Afford_Anything",
+  "summary_line": "Major personal-finance content brand by Paula Pant — former newspaper reporter, world-travel/FI archetype — with 70,000+ email subscribers and a registered trademark on 'You can afford anything, but not everything™' as the brand thesis. Multi-surface content stack: blog · weekly Afford Anything podcast (major FI/personal-finance podcast) · Your First Rental Property® flagship course (biannual cohorts, currently closed) · free Escape book · 'Team Afford Anything' branded community. Themes converge on financial-independence + real-estate-as-income + lifestyle-design + entrepreneurship + money-psychology.",
+  "website": "https://affordanything.com",
+  "competitor_type": "finance_coach",
+  "threat_level": "medium",
   "confidence": "high",
   "last_updated": "2026-05-17",
   "next_review_by": "2026-11-13",
   "review_cadence_days": 180,
 
-  "team_size": "solo",
+  "team_size": "small",
   "advisor_count": null,
-  "employee_count": 1,
-  "branch_count": 0,
+  "employee_count": null,
+  "branch_count": null,
   "geographic_scope": "national",
-  "headquarters_city": "Alpharetta",
-  "headquarters_state": "GA",
+  "headquarters_city": null,
+  "headquarters_state": null,
 
-  "aum_usd": 0,
-  "aum_as_of": "2026-05-17",
+  "aum_usd": null,
+  "aum_as_of": null,
 
-  "pricing_model": "transparent_tiers",
-  "fee_schedule_published": true,
+  "pricing_model": "gated_via_funnel",
+  "fee_schedule_published": false,
   "fee_aum_pct_low": null,
   "fee_aum_pct_high": null,
-  "fee_flat_low_usd": 1250,
-  "fee_flat_high_usd": 5000,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
   "min_account_usd": null,
 
-  "wealth_tiers_served": ["mass_affluent", "hnw", "uhnw"],
+  "wealth_tiers_served": ["mass_market", "mass_affluent"],
 
-  "segment_early_adults": "not_aimed",
-  "segment_mid_career_401k": "weak",
+  "segment_early_adults": "ok",
+  "segment_mid_career_401k": "ok",
 
   "regulatory_jurisdiction": "US",
   "regulator": "none",
-  "regulatory_note": "IAPD shows CRD 293260 with registration_status INACTIVE, no SEC file number, branch_count 0, $0 AUM. This is meaningful: Josh Scandlen has moved Heritage Wealth Planning out of the registered-RIA perimeter entirely and is operating in the education-publisher carve-out (planning sold as flat-fee one-time engagements + $250 course + books + YouTube). The framing on the homepage ('from someone who doesn't get paid to sell you stuff') is consistent with this regulatory posture — he is *explicitly NOT* a continuous-advisory AUM-fee fiduciary; he sells specific deliverable engagements at a fixed price. Same regulatory pattern as Karlton Dennis (Tax Alchemy under CPA carve-out), ClearValue Investing (educational publisher), Sven Carlin (educational publisher) — but distinctive because Heritage previously held active RIA registration and went INACTIVE rather than never having registered.",
+  "regulatory_note": "Afford Anything® is a personal-finance content + education brand (blog, podcast, course, free book, paid community). Not a registered investment adviser — Paula Pant operates entirely under the educational-publisher carve-out (SEC v. Lowe 1985). No advisory relationship is implied or offered; the flagship paid product 'Your First Rental Property®' is a structured course, not an advisory engagement. Trademark filings indicate the brand is a serious business: 'Afford Anything®' and 'You can afford anything, but not everything™' are both registered/asserted marks.",
   "sec_registered": false,
-  "crd_number": "293260",
+  "crd_number": null,
   "sec_number": null,
-  "ownership_structure": "solo_owner",
+  "ownership_structure": "founder_led",
   "fiduciary_stated_explicitly": false,
   "fee_only_stated_explicitly": false,
-  "disciplinary_disclosures": false,
-  "disciplinary_disclosure_count": 0,
+  "disciplinary_disclosures": null,
+  "disciplinary_disclosure_count": null,
 
   "media_presence": "personality_led",
-  "design_tone": "modern",
+  "design_tone": "editorial",
 
   "positioning_claims": [
     "personality_led",
     "content_led",
+    "category_shaping",
     "named_byline_content",
-    "transparent_pricing",
     "contrarian_vs_conventional",
-    "niche_specialist"
+    "niche_specialist",
+    "gen_xy_focus"
   ],
   "vulnerabilities": [
     "key_person_risk",
-    "no_early_adult_surface",
-    "no_401k_specific_funnel",
-    "opaque_team"
+    "no_fee_transparency",
+    "no_401k_specific_funnel"
   ],
   "tags": [
     "founder_led",
     "solo_advisor",
     "consumer_facing",
-    "cfp_credentialed",
-    "flat_fee",
     "content_engine",
     "media_personality_led",
+    "subscription_fee",
     "not_sec_registered"
   ],
   "related_competitors": [
-    "The_Peak_Fp",
-    "Foundry_Financial",
-    "Karlton_Dennis"
+    "Money_Guy",
+    "Clearvalue_Investing",
+    "Peoples_Capital_Group"
   ],
 
   "trajectory": {
-    "aum_history": [
-      {
-        "as_of": "2026-05-17",
-        "value_usd": 0,
-        "source": "ADV (firm is INACTIVE)"
-      }
-    ],
+    "aum_history": [],
     "advisor_count_history": [],
-    "employee_count_history": [
-      {
-        "as_of": "2026-05-17",
-        "value": 1,
-        "source": "ADV"
-      }
-    ],
-    "branch_count_history": [
-      {
-        "as_of": "2026-05-17",
-        "value": 0,
-        "source": "IAPD"
-      }
-    ],
+    "employee_count_history": [],
+    "branch_count_history": [],
     "notable_events": [
       {
-        "date": "2026-05-17",
-        "event": "IAPD record (CRD 293260): Heritage Wealth Planning registration is INACTIVE. 1 employee, 0 branches, $0 reported AUM, no SEC file number, 0 DRPs. Address on file: 13010 Morris Road, Bldg 1, Fl 6, Alpharetta GA 30004 (same Atlanta-area address district as Merit Financial Advisors / KDA Inc. / Synergy Private — likely a virtual-office / WeWork-style shared address).",
-        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        "date": "2008-04",
+        "event": "Paula Pant left her newspaper reporter job in Colorado ($21K/yr salary) and bought a one-way ticket to Egypt with $25K saved. Spent ~2 years backpacking Asia + Australia (Cairo, Thailand, Indonesia, Tasmania, 27,000km drive across Australia).",
+        "source": "affordanything.com about page"
+      },
+      {
+        "date": "2010",
+        "event": "Paula returned to the U.S. and began focusing on four pillars she still teaches today: financial psychology / money mindset, investing (stocks + index funds + 'measured conservative allocation into crypto'), real estate (rental income → primary residence; currently simultaneously a landlord AND renter), entrepreneurship.",
+        "source": "affordanything.com about page"
       },
       {
         "date": "2026-05-17",
-        "event": "Site captured: hero 'Josh Scandlen / CERTIFIED FINANCIAL PLANNER Practitioner and holds a Master's of Science degree in Personal Financial Planning.' Sub-hero positioning quote on home: 'I know that there is nothing better for men than to rejoice and do good while they live - Ecclesiastes 3:12.' Anti-AUM-industry framing throughout — sample copy: 'Maybe, just maybe, it's time for a different viewpoint, from someone who doesn't get paid to sell you stuff.' Pricing fully published on /fees/: 'Peace-of-Mind Financial Plan' tiered by net worth: $1,250 (NW < $1M) / $2,500 (NW > $1M) / $5,000 (NW > $5M); 'Can I Retire' Course $250 with 30-day money-back guarantee. Scarcity: 'I have a waitlist of a few weeks.' Single contact: Josh@HeritageWealthPlanning.com. Three blog posts visible on homepage: 'Milton Friedman Proven Wrong' (3/30/26), 'The Case AGAINST International Stocks' (3/25/26), 'The Art of Spending' (12/9/25). Conservative/right-leaning content stance evident in copy ('get my fellow right wingers to live in reality, not made up globalist fear mongering').",
-        "source": "tools/extract.ts (4 pages — home / blog / pricing/fees / contact)"
+        "event": "Site captured: Afford Anything® brand thesis 'You can afford anything, but not everything™ — and that's true not only for your money, but also your time, focus, energy and attention.' Stated audience: 70,000+ free-email subscribers. Multi-surface content stack: blog (BINGE-able backlog) · Afford Anything podcast (BINGE) · Your First Rental Property® flagship course (biannual cohorts; enrollment currently closed; next cohort Spring 2026) · free Escape book download · paid community ('Team Afford Anything') · sponsor program · ask-a-question + guest-guidelines for podcast guests. Topic taxonomy on nav: Your First Rental Property · Travel · Start a Blog · Earn Extra Income. Footer copyright '©2021' is stale — same pattern we've seen across multiple personality-brand sites (Peak FP '©2024', Roadmap Money '©2023'). Site credited 'Designed By Wilnau Design. Built by Zach Swinehart.'",
+        "source": "tools/extract.ts (4 pages — home / about / blog / contact)"
       },
       {
         "date": "2026-05-17",
-        "event": "CATALOG OBSERVATION: Heritage Wealth Planning fits a recurring archetype — 'ex-RIA-now-content-publisher.' Josh held active SEC/state registration earlier (CRD assigned, presumably went through registered-RIA operations); his current INACTIVE status + flat-fee-only-no-AUM business model + course product + YouTube channel together describe a firm that has *deliberately exited* the regulated-advisory perimeter to operate under the education-publisher carve-out. Same pattern as previously-cataloged Karlton Dennis (Tax Alchemy: CPA carve-out + course + content), ClearValue Investing (publisher carve-out + $14.99/mo subscription), Sven Carlin (publisher carve-out + research platform). Worth tracking as a sub-category in the catalog.",
+        "event": "CATALOG SUB-CATEGORY NOTE: Afford Anything is the cleanest exemplar in our catalog of the 'FI/FIRE content brand with real-estate-investing as the wealth lever' archetype. Sits adjacent to Peoples_Capital_Group + Samo_Financial (NJ-based passive RE syndicators) on the product side, and adjacent to ClearValue_Investing + Sven_Carlin + Roadmap_Money on the content-publisher side. Distinguishing feature is the trademarked thesis statement that has become a category-defining phrase in personal-finance content ('you can afford anything, but not everything') — one of very few firms in our catalog with a category-shaping positioning sentence that is regularly cited by others.",
         "source": "internal — emerging pattern across multiple profiles"
       }
     ]
