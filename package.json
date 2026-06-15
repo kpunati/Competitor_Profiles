@@ -13,9 +13,14 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.40.0",
+    "@mozilla/readability": "^0.6.0",
+    "@types/jsdom": "^28.0.3",
     "@types/pdf-parse": "^1.1.5",
+    "@types/turndown": "^5.0.6",
+    "jsdom": "^29.1.1",
     "pdf-parse": "^2.4.5",
-    "playwright": "^1.49.0"
+    "playwright": "^1.49.0",
+    "turndown": "^7.2.4"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",

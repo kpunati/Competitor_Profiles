@@ -1,0 +1,110 @@
+{
+  "firm": "Foundry_Financial",
+  "blog_url": "https://www.foundryfinancial.org/blog",
+  "captured": "2026-06-15",
+  "post_count": 9,
+  "posts": [
+    {
+      "file": "2025-07-07_major-tax-legislation-changes-for-2025-a-comprehensive-guide.md",
+      "url": "https://www.foundryfinancial.org/blog/major-tax-legislation-changes-for-2025-a-comprehensive-guide-for-savers-and-retirees",
+      "title": "Major Tax Legislation Changes for 2025: A Comprehensive Guide for Savers and Retirees",
+      "date": "2025-07-07",
+      "author": "Kevin Lum",
+      "word_count": 882,
+      "tags": [],
+      "captured": "2026-06-15"
+    },
+    {
+      "file": "2025-01-04_why-another-market-crash-is-almost-guaranteed-and-why-you-sh.md",
+      "url": "https://www.foundryfinancial.org/blog/dont-fear-the-coming-market-crash",
+      "title": "Why Another Market Crash Is Almost Guaranteed (And Why You Shouldn’t Worry)",
+      "date": "2025-01-04",
+      "author": "Kevin Lum",
+      "word_count": 749,
+      "tags": [],
+      "captured": "2026-06-15"
+    },
+    {
+      "file": "2023-05-18_section-1202-the-qualified-small-business-stock-exclusion-qs.md",
+      "url": "https://www.foundryfinancial.org/blog/section-1202-what-is-qsbs",
+      "title": "Section 1202: The Qualified Small Business Stock Exclusion (QSBS)",
+      "date": "2023-05-18",
+      "author": "Kevin Lum",
+      "word_count": 1197,
+      "tags": [],
+      "captured": "2026-06-15"
+    },
+    {
+      "file": "2023-04-27_rolling-a-529-into-a-roth.md",
+      "url": "https://www.foundryfinancial.org/blog/rolling-a-529-into-a-roth",
+      "title": "Rolling a 529 into a Roth",
+      "date": "2023-04-27",
+      "author": "Kevin Lum",
+      "word_count": 560,
+      "tags": [
+        "college savings",
+        "roth ira",
+        "529 plan"
+      ],
+      "captured": "2026-06-15"
+    },
+    {
+      "file": "2023-04-21_a-fresh-approach-to-investing-our-firm-s-unique-strategy.md",
+      "url": "https://www.foundryfinancial.org/blog/a-fresh-approach-to-investing-our-firms-unique-strategy",
+      "title": "A Fresh Approach to Investing: Our Firm's Unique Strategy",
+      "date": "2023-04-21",
+      "author": "Kevin Lum",
+      "word_count": 505,
+      "tags": [],
+      "captured": "2026-06-15"
+    },
+    {
+      "file": "2022-12-06_5-things-to-consider-when-selling-a-business.md",
+      "url": "https://www.foundryfinancial.org/blog/5-things-to-consider-when-selling-a-business",
+      "title": "5 Things to Consider When Selling a Business",
+      "date": "2022-12-06",
+      "author": "Kevin Lum",
+      "word_count": 902,
+      "tags": [],
+      "captured": "2026-06-15"
+    },
+    {
+      "file": "2022-01-13_should-i-invest-in-crypto.md",
+      "url": "https://www.foundryfinancial.org/blog/should-i-invest-in-crypto",
+      "title": "Should I Invest In Crypto?",
+      "date": "2022-01-13",
+      "author": "Kevin Lum",
+      "word_count": 1169,
+      "tags": [],
+      "captured": "2026-06-15"
+    },
+    {
+      "file": "2022-01-10_how-to-do-a-back-door-roth-conversion.md",
+      "url": "https://www.foundryfinancial.org/blog/how-to-do-back-door-roth-conversion",
+      "title": "How to Do a Back-Door Roth Conversion",
+      "date": "2022-01-10",
+      "author": "Kevin Lum",
+      "word_count": 653,
+      "tags": [
+        "roth ira",
+        "retirement"
+      ],
+      "captured": "2026-06-15"
+    },
+    {
+      "file": "2020-08-06_tax-planning-in-turbulent-times-taxes-and-saving.md",
+      "url": "https://www.foundryfinancial.org/blog/tax-planning-in-turbulent-times-taxes-and-saving",
+      "title": "Tax Planning In Turbulent Times: Taxes And Saving",
+      "date": "2020-08-06",
+      "author": "Kevin Lum",
+      "word_count": 771,
+      "tags": [
+        "rmd",
+        "secure act",
+        "annuities",
+        "ira"
+      ],
+      "captured": "2026-06-15"
+    }
+  ]
+}
