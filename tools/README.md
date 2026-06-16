@@ -16,6 +16,7 @@ Scripts that produce the research. This folder is for whoever maintains the pipe
   - `00_Market_Overview/Head_to_Head_Matrix.md` — auto-populated cross-cutting matrix with segment-coverage tallies, jurisdiction breakdowns, and tag rollups
 
   Re-run any time after adding a new profile. Overwrites only the three catalog files; hand-written prose in `00_Market_Overview/` is untouched.
+- **`build-page-index.ts`** — walks every `Competitors/*/Source_Data/pages/*.json` and every `Competitors/*/Knowledge_From_Source/_index.json`, then emits `00_Market_Overview/pages_by_kind.json` — the canonical "what kinds of pages exist across the catalog" index. Site pages are classified by `extract.ts`'s existing `kind` field (`home` / `about` / `contact` / `services` / `pricing` / `blog` → `blog_index` / `compliance` / `starthere`); blog posts come from each firm's `_index.json` and are tagged `blog_post`. Output is grouped by kind (`kind.contact`, `kind.services`, …) and by firm (`by_firm.Foundry_Financial.contact = 1`). This index is the input list for the planned semantic embedder and for any "show me every contact page" query — no folder walking needed.
 - **`enrich.ts`** — placeholder for additional non-website data (traffic estimates, social follower counts, etc.). Not implemented; for wealth management, the public site + IAPD lookup covers what we need.
 
 ## One-time setup
@@ -94,7 +95,12 @@ CLI flags:
 
 ## After every new profile
 
-Run `npx tsx tools/synthesize.ts` to refresh `00_Market_Overview/competitor_catalog.csv`, `competitor_catalog.json`, and `Head_to_Head_Matrix.md`. The CSV is built for direct import into a Notion database — each row is one competitor, multi-select fields use comma-separated values inside quoted cells.
+```bash
+npx tsx tools/synthesize.ts        # refresh catalog.csv + catalog.json + Head_to_Head_Matrix.md
+npx tsx tools/build-page-index.ts  # refresh pages_by_kind.json
+```
+
+The CSV is built for direct import into a Notion database — each row is one competitor, multi-select fields use comma-separated values inside quoted cells. The page index drives any cross-cutting "show me every X page" query and feeds the planned semantic embedder.
 
 ## How a profile gets written
 

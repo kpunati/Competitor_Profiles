@@ -4,9 +4,45 @@ Research on our key competitors, organized so you can read as little or as much 
 
 ## Start here
 
-**`00_Market_Overview/Executive_Briefing.md`** — the headline findings in two pages. If you read nothing else, read this.
+**What this is:** a folder of research on 30 financial-advisor competitors, plus our own brand voice files. Using Claude Code, you can ask questions about it in plain English — *"what do small fee-only firms say on their contact page?"*, *"draft a blog post in our voice based on what's in here"* — and Claude reads the folder and answers. No coding needed. Uses your existing Claude.ai subscription — no separate billing.
 
-For programmatic queries, **`00_Market_Overview/competitor_catalog.csv`** (Notion-importable) and **`competitor_catalog.json`** hold every competitor's structured metadata: type, threat level, AUM, fee transparency, segment-fit scores, regulatory jurisdiction, positioning claims, vulnerabilities, etc.
+### What you need (one-time)
+
+1. A **paid Claude.ai subscription** — Pro, Max, Team, or Enterprise (the same login you already use at claude.ai)
+2. **Claude Code** installed on your computer — download from [claude.com/download](https://claude.com/download)
+3. **Access to this repo** — send Karthik your GitHub username so he can add you as a collaborator
+
+### Three steps to start chatting
+
+**Step 1.** Open Claude Code on your computer. (On a Mac: open the Terminal app, type `claude`, hit enter. On Windows: open PowerShell, type `claude`, hit enter. Or open this folder in VS Code and click the Claude Code icon in the sidebar.)
+
+**Step 2.** Download this folder. Paste these three lines into Claude Code one at a time:
+
+```bash
+git clone https://github.com/kpunati/Competitor_Profiles.git
+cd Competitor_Profiles
+claude
+```
+
+The first command downloads the folder to your computer. The second steps into it. The third starts Claude Code chatting from inside this folder, so it can read every file here.
+
+**Step 3.** Ask a question. Copy any of these, paste into the chat, hit enter:
+
+> *"Read every `1_Summary.md` in the `Competitors/` folder. Tell me the 5 firms most similar to a small fee-only RIA based in NJ. Format as a table with firm, AUM, and why they're comparable."*
+
+> *"Draft a contact page for our firm. Look at how Brindle & Bay, Foundry Financial, and The Peak FP handle theirs, then write our version using `_context/brand_voice.md` for voice and avoiding everything in `_context/brand_what_not_to_make.md`. Cite which firms you drew from."*
+
+> *"What do competitors charge for their services? Read every page tagged 'pricing' in `00_Market_Overview/pages_by_kind.json` and summarize the patterns you see. Recommend which approach fits our brand best."*
+
+> *"Write a 500-word blog post titled 'Why trend-following beats market prediction.' In our voice per `_context/brand_voice.md`. End with a CTA to schedule a consultation."*
+
+Claude writes a draft. Read it, edit it, copy it into wherever you need it (email, Google Doc, website).
+
+**Want more prompts and a deeper walkthrough?** Open [`ONBOARDING.md`](ONBOARDING.md) — same flow, more examples, troubleshooting tips.
+
+---
+
+**Already comfortable with the catalog?** Jump straight to **`00_Market_Overview/Executive_Briefing.md`** for the headline findings, or **`00_Market_Overview/competitor_catalog.csv`** (Notion-importable) for structured metadata across all 30 firms.
 
 ## How this folder is organized
 
@@ -19,6 +55,7 @@ For programmatic queries, **`00_Market_Overview/competitor_catalog.csv`** (Notio
   Head_to_Head_Matrix.md    Auto-generated cross-competitor matrix + segment coverage + tag rollups
   competitor_catalog.csv    Notion-importable catalog of every competitor's structured metadata (45 columns)
   competitor_catalog.json   Same data as JSON for programmatic use
+  pages_by_kind.json        Cross-catalog index: every captured page tagged by kind (home / about / contact / services / pricing / blog_post / …)
 
 _context/                   Standing context — shapes every profile
   our_thesis.md             Who we serve, what edge we think we have
@@ -36,8 +73,14 @@ Competitors/                One folder per competitor
                             Each post: YAML frontmatter + clean markdown body.
                             _index.json catalogs the per-firm corpus.
 
+Summaries/                  Convenience mirror — every competitor's 1_Summary.md in one place
+  summary_<slug>/           One folder per competitor, holding a copy of that firm's 1_Summary.md
+                            (e.g. summary_Advize_Wealth/1_Summary.md)
+
 tools/                      Scripts that produce the research (technical)
 ```
+
+> **Keep summaries in sync.** `Summaries/summary_<slug>/1_Summary.md` is a **copy** of `Competitors/<slug>/1_Summary.md`. If you edit one, update the other so they don't drift. The canonical source is the one under `Competitors/`; the `Summaries/` copy exists only for quick cross-competitor reading.
 
 ## How to read a competitor
 
