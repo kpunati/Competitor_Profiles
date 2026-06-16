@@ -24,6 +24,7 @@ import { mkdir, writeFile, readFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { createHash } from "node:crypto";
 import { JSDOM } from "jsdom";
 import { Readability } from "@mozilla/readability";
 import TurndownService from "turndown";
@@ -208,44 +209,76 @@ async function discoverPostUrls(
   timeoutMs: number,
 ): Promise<string[]> {
   // Open the blog index, scroll to trigger lazy loading, harvest links.
+  // If Playwright hits a Cloudflare interstitial / 403, fall back to a
+  // plain fetch() and parse the raw HTML for links (no JS, no lazy-load
+  // but at least we get the initial set of post URLs).
+  let html: string | null = null;
   try {
-    await page.goto(blogUrl, { waitUntil: "domcontentloaded", timeout: timeoutMs });
-  } catch {
-    await page.goto(blogUrl, { waitUntil: "commit", timeout: timeoutMs });
-    await page.waitForTimeout(3000);
-  }
-  await page.waitForLoadState("networkidle", { timeout: 10_000 }).catch(() => {});
+    try {
+      await page.goto(blogUrl, { waitUntil: "domcontentloaded", timeout: timeoutMs });
+    } catch {
+      await page.goto(blogUrl, { waitUntil: "commit", timeout: timeoutMs });
+      await page.waitForTimeout(3000);
+    }
+    await page.waitForLoadState("networkidle", { timeout: 10_000 }).catch(() => {});
 
-  // Auto-scroll to load lazy posts
-  await page.evaluate(async () => {
-    await new Promise<void>((resolve) => {
-      let total = 0;
-      const step = 500;
-      const t = setInterval(() => {
-        window.scrollBy(0, step);
-        total += step;
-        if (total >= document.body.scrollHeight - window.innerHeight) {
+    html = await page.content();
+    if (/checking your browser|403\s*[-–]?\s*forbidden|access denied/i.test(html.slice(0, 5000))) {
+      html = null;
+    }
+  } catch {
+    html = null;
+  }
+
+  let raw: { href: string; text: string }[];
+  if (html) {
+    // Playwright path: auto-scroll + harvest live DOM
+    await page.evaluate(async () => {
+      await new Promise<void>((resolve) => {
+        let total = 0;
+        const step = 500;
+        const t = setInterval(() => {
+          window.scrollBy(0, step);
+          total += step;
+          if (total >= document.body.scrollHeight - window.innerHeight) {
+            clearInterval(t);
+            resolve();
+          }
+        }, 250);
+        setTimeout(() => {
           clearInterval(t);
           resolve();
-        }
-      }, 250);
-      // Hard timeout — some pages have infinite scroll
-      setTimeout(() => {
-        clearInterval(t);
-        resolve();
-      }, 15_000);
+        }, 15_000);
+      });
     });
-  });
+
+    raw = await page.evaluate(() => {
+      return Array.from(document.querySelectorAll("a[href]")).map((a) => ({
+        href: (a as HTMLAnchorElement).href,
+        text: ((a as HTMLElement).innerText || "").trim().slice(0, 120),
+      }));
+    });
+  } else {
+    // Fallback path: plain fetch() with stealth headers, parse with JSDOM
+    console.log(`[scrape-knowledge] discovery: Playwright bot-blocked, falling back to fetch()`);
+    const r = await fetch(blogUrl, {
+      headers: STEALTH_HEADERS,
+      redirect: "follow",
+      signal: AbortSignal.timeout(timeoutMs),
+    });
+    if (!r.ok) {
+      throw new Error(`Blog discovery failed: HTTP ${r.status} ${r.statusText}`);
+    }
+    const fallbackHtml = await r.text();
+    const dom = new JSDOM(fallbackHtml, { url: blogUrl });
+    raw = Array.from(dom.window.document.querySelectorAll("a[href]")).map((a) => ({
+      href: (a as HTMLAnchorElement).href,
+      text: (a.textContent || "").trim().slice(0, 120),
+    }));
+  }
 
   const base = new URL(blogUrl);
   const blogPathDepth = base.pathname.split("/").filter(Boolean).length;
-
-  const raw = await page.evaluate(() => {
-    return Array.from(document.querySelectorAll("a[href]")).map((a) => ({
-      href: (a as HTMLAnchorElement).href,
-      text: ((a as HTMLElement).innerText || "").trim().slice(0, 120),
-    }));
-  });
 
   const candidates = new Set<string>();
   for (const { href } of raw) {
@@ -270,9 +303,23 @@ async function discoverPostUrls(
     u.hash = "";
     const cleaned = u.toString();
 
-    // Must be deeper than the blog index OR contain a content-URL hint
+    // Accept if EITHER:
+    //  (a) URL is deeper than the blog index (typical /blog/post-name pattern)
+    //  (b) URL pathname contains a content-URL hint (/blog/, /post/, etc.)
+    //  (c) URL pathname looks like a slug — long-with-hyphens-style — at the
+    //      root level (WordPress sites that publish posts directly at /post-slug/
+    //      instead of /blog/post-slug/, like Tax Alchemy and Sven Carlin)
     const pathDepth = u.pathname.split("/").filter(Boolean).length;
-    if (pathDepth > blogPathDepth || CONTENT_URL_HINT.test(u.pathname)) {
+    const lastSeg = u.pathname.split("/").filter(Boolean).pop() ?? "";
+    const slugLike =
+      lastSeg.length >= 20 &&
+      (lastSeg.match(/-/g)?.length ?? 0) >= 3 &&
+      !INDEX_URL_HINT.test(u.pathname);
+    if (
+      pathDepth > blogPathDepth ||
+      CONTENT_URL_HINT.test(u.pathname) ||
+      slugLike
+    ) {
       candidates.add(cleaned);
     }
   }
@@ -396,8 +443,16 @@ async function capturePost(
   turndown.remove(["script", "style", "noscript", "iframe", "form", "button"]);
   const markdownBody = turndown.turndown(article.content).trim();
 
-  // Resolve title: Readability's title is usually best. Strip site-name suffix.
-  const rawTitle = (article.title || meta.title || "Untitled").trim();
+  // Resolve title. Readability is usually best. If the Readability title
+  // matches the document <title> exactly AND the document has an H1 with
+  // a different text, the site is using a templated <title> (Peak FP
+  // pattern) — fall back to the H1.
+  let rawTitle = (article.title || meta.title || "Untitled").trim();
+  const docTitle = doc.title?.trim();
+  const firstH1 = doc.querySelector("h1")?.textContent?.trim();
+  if (firstH1 && docTitle && rawTitle === docTitle && firstH1 !== docTitle) {
+    rawTitle = firstH1;
+  }
   const title = cleanTitle(rawTitle);
 
   // Date precedence: explicit meta > URL pattern > unknown
@@ -411,7 +466,11 @@ async function capturePost(
       .replace(/[^a-z0-9]+/g, "-")
       .replace(/^-+|-+$/g, "")
       .slice(0, 60) || "untitled";
-  const filename = `${filenameDate}_${slugify(title)}.md`;
+  // Append a short URL hash so different posts that produce the same slug
+  // (templated <title>s, very long titles truncated to the same prefix,
+  // posts with duplicate titles in different sections) don't collide.
+  const urlHash = createHash("sha1").update(finalUrl).digest("hex").slice(0, 6);
+  const filename = `${filenameDate}_${slugify(title)}_${urlHash}.md`;
   const filePath = join(knowledgeDir, filename);
 
   // Build frontmatter + body
