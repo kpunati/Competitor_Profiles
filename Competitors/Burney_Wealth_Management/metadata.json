@@ -1,0 +1,73 @@
+{
+  "competitor": "Burney Company",
+  "slug": "Burney_Wealth_Management",
+  "summary_line": "Reston VA fee-only fiduciary RIA serving **both retail (individuals/families) and institutional clients** — $3.59B AUM, 46 employees, 42 advisors, 0 DRPs. Legal name 'THE BURNEY COMPANY' (folder named for the candidate-list label 'Burney Wealth Management'). Active-management firm — closer to USWM's investment philosophy than most large RIAs which lean passive/indexed. Dual-brand structure: burney.com (this site) + burneyinvest.com (institutional asset management).",
+  "website": "https://burney.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "mid",
+  "advisor_count": 42,
+  "employee_count": 46,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": "Reston",
+  "headquarters_state": "VA",
+
+  "aum_usd": 3588662390,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["hnw", "uhnw"],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "Folder slug uses candidate-list label; legal name in IAPD is 'THE BURNEY COMPANY' (CRD 106945). Dual-brand: burney.com is the family/wealth side; burneyinvest.com is the institutional asset management side.",
+  "sec_registered": true,
+  "crd_number": "106945",
+  "sec_number": null,
+  "ownership_structure": "private_partnership",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "establishment",
+  "positioning_claims": ["fee_only", "fiduciary", "active_management", "dual_facing", "nationally_recognized"],
+  "vulnerabilities": ["no_fee_transparency", "dual_brand_complexity", "no_segment_specific_funnel"],
+  "tags": ["multi_advisor", "national", "consumer_facing", "b2b_facing", "dual_facing", "fee_only", "aum_fee", "clean_regulatory_record"],
+  "related_competitors": ["Foundry_Financial", "Pwl_Capital", "Modera_Wealth_Management"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 3588662390, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 42, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 46, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 106945 — 46 employees, 42 advisors, $3,588,662,390 regulatory AUM, 0 DRPs. Legal name: 'THE BURNEY COMPANY.' Initial IAPD lookup with 'Burney Wealth Management' returned no hits — retried with 'Burney Company' and matched. Worth noting for future refreshes: legal name + popular brand name diverge.",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: homepage only. Title: 'Burney Company | Financial Services for Families and Institutions.' Two equal-weight homepage sections: 'For individuals and families' + 'For firms and institutions.' Headline: 'Work with a nationally recognized team of fiduciaries.' CTA: 'Visit burneyinvest.com →' (separate site for the institutional side).",
+        "source": "tools/extract.ts (homepage only)"
+      }
+    ]
+  },
+
+  "_schema": {}
+}

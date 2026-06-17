@@ -1,0 +1,65 @@
+{
+  "competitor": "Why",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://www.themathergroup.com",
+  "colors": {
+    "body_background": "rgb(245, 248, 250)",
+    "body_text": "rgb(51, 51, 51)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(244, 244, 244)",
+        "count": 35
+      },
+      {
+        "color": "rgb(214, 214, 214)",
+        "count": 19
+      },
+      {
+        "color": "rgb(219, 225, 235)",
+        "count": 13
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 9
+      },
+      {
+        "color": "rgb(16, 50, 207)",
+        "count": 9
+      },
+      {
+        "color": "rgb(3, 54, 103)",
+        "count": 7
+      },
+      {
+        "color": "rgb(245, 248, 250)",
+        "count": 5
+      },
+      {
+        "color": "rgb(251, 252, 253)",
+        "count": 5
+      }
+    ],
+    "primary": "rgb(214, 214, 214)",
+    "accent": "rgb(219, 225, 235)"
+  },
+  "typography": {
+    "heading_family": "Manrope, sans-serif",
+    "heading_weight": "500",
+    "body_family": "Arial, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 14,
+    "paragraph_size_px": 15
+  },
+  "primary_button": {
+    "text": "Contact us",
+    "background": "rgb(3, 54, 103)",
+    "text_color": "rgb(245, 248, 250)",
+    "border_radius_px": 6,
+    "padding": "14px 15px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

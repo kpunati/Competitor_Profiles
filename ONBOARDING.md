@@ -1,6 +1,6 @@
 # Onboarding — Using This Catalog with Claude Code
 
-This catalog holds research on 30 wealth-management competitors plus our own brand voice files. Pair it with **Claude Code** and you have a private, on-demand research and drafting assistant that already knows our positioning — no API key, no separate billing, just your existing Claude.ai subscription.
+This catalog holds research on 48 wealth-management competitors plus our own brand voice files. Pair it with **Claude Code** and you have a private, on-demand research and drafting assistant that already knows our positioning — no API key, no separate billing, just your existing Claude.ai subscription.
 
 This document gets you from zero to "asking the catalog useful questions" in about 10 minutes.
 
@@ -80,7 +80,7 @@ Three habits that make output dramatically better:
 ### 3.2 Competitive intelligence
 
 **Find our closest comparables:**
-> Read every `Summaries/summary_*/1_Summary.md`. Tell me which 5 firms are most directly comparable to USWM (small, fee-only, active investment management, NJ/NY area or fully virtual). Format as a table: firm, AUM, primary positioning, why they're comparable. Then call out the one or two patterns we should learn from each.
+> Read every `Summaries/summary_*/1_Summary.md`. Tell me which 5 firms are most directly comparable to USWM by **offerings and voice** — fee-only fiduciary, active investment management (trend-following + options overlay + rules-based), tax-integrated (EA / NATP credentials), three-conviction style brand voice. Size and team count aren't the filter — methodology and brand are. Format as a table: firm, AUM, primary positioning, why they're comparable. Then call out the one or two patterns we should learn from each.
 
 **Pricing-page survey:**
 > Use `00_Market_Overview/pages_by_kind.json` to find every page tagged `pricing`. Read each one. Summarize the 3-4 pricing-presentation patterns you see, with example firms for each. Recommend which pattern USWM should adopt given our brand voice and that we're fee-only.
@@ -112,8 +112,8 @@ Three habits that make output dramatically better:
 
 ## 4. What's in this catalog (one-paragraph map)
 
-- **`Competitors/<Firm>/`** — 30 folders, one per competitor. Each has `1_Summary.md` (one-page brief), `2_Full_Profile.md` (deep dive), `metadata.json` (structured data), `Screenshots/`, raw site capture in `Source_Data/`, and (for 16 firms) a `Knowledge_From_Source/` corpus of 277 markdown-converted blog posts.
-- **`Summaries/summary_<Firm>/1_Summary.md`** — convenience mirror of every firm's summary in one folder, useful for cross-competitor reading without 30 cd's.
+- **`Competitors/<Firm>/`** — 48 folders, one per competitor. Each has `1_Summary.md` (one-page brief), `2_Full_Profile.md` (deep dive), `metadata.json` (structured data), `Screenshots/`, raw site capture in `Source_Data/`, and (for 18 firms) a `Knowledge_From_Source/` corpus of ~297 markdown-converted blog posts.
+- **`Summaries/summary_<Firm>/1_Summary.md`** — convenience mirror of every firm's summary in one folder, useful for cross-competitor reading without 48 cd's.
 - **`00_Market_Overview/`** — `competitor_catalog.csv` + `.json` (every competitor's structured fields), `Head_to_Head_Matrix.md` (cross-cutting matrix), `pages_by_kind.json` (every page in the catalog tagged by kind: home / about / contact / services / pricing / blog_post / …).
 - **`_context/`** — `brand_voice.md` + `brand_what_not_to_make.md` (USWM voice + anti-patterns), `our_thesis.md` (target segments + edge), `industry_frame.md` + `taxonomy.md` (category background + controlled vocabulary).
 - **`tools/`** — TypeScript scripts that produced the research. Ignore unless you're maintaining the pipeline.

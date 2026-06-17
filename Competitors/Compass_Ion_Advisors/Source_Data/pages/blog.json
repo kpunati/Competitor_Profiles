@@ -1,0 +1,241 @@
+{
+  "kind": "blog",
+  "url": "https://compass-ionadvisors.com/insights/",
+  "title": "Insights - Compass Ion Advisors",
+  "meta": {
+    "description": null,
+    "og_title": "Insights - Compass Ion Advisors",
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Insights"
+    },
+    {
+      "level": "H2",
+      "text": "You Are What You Consume | IPO Chatter"
+    },
+    {
+      "level": "H3",
+      "text": "You Are What You Consume | IPO Chatter"
+    },
+    {
+      "level": "H3",
+      "text": "What Does History Tell Us About Geopolitical Events? | Defining Success"
+    },
+    {
+      "level": "H3",
+      "text": "Home Prices are Down | The Next Recession"
+    },
+    {
+      "level": "H3",
+      "text": "The 0% Tax Bracket | Who Pays For College?"
+    },
+    {
+      "level": "H3",
+      "text": "Preparing to Sell | Your Zip Code & Legacy"
+    },
+    {
+      "level": "H3",
+      "text": "Profits in Prediction Markets | Pro Friend Tip"
+    },
+    {
+      "level": "H3",
+      "text": "A Confident Financial Future | Spending > Income"
+    },
+    {
+      "level": "H3",
+      "text": "Tax Savings from Roth Conversions | Stock Market History"
+    },
+    {
+      "level": "H3",
+      "text": "Long-Term Care Insurance | Forgotten 401(k)s"
+    },
+    {
+      "level": "H3",
+      "text": "Taxes & the Lack of Planning | Adulthood"
+    },
+    {
+      "level": "H2",
+      "text": "Quarterly Investment Updates"
+    },
+    {
+      "level": "H3",
+      "text": "Q1 Capital Market Highlights"
+    },
+    {
+      "level": "H3",
+      "text": "Q4 Market & Economic Highlights"
+    },
+    {
+      "level": "H3",
+      "text": "Q3 Market & Economic Highlights"
+    },
+    {
+      "level": "H3",
+      "text": "Q2 Capital Market Highlights"
+    },
+    {
+      "level": "H3",
+      "text": "Q1 Capital Market Highlights"
+    },
+    {
+      "level": "H3",
+      "text": "Sign up for up-to-date financial news."
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Skip to main navigation",
+      "tag": "A",
+      "href": "#primary-menu"
+    },
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "href": "#page-content"
+    },
+    {
+      "text": "Main Navigation",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Mission",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/mission/"
+    },
+    {
+      "text": "People",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/people/"
+    },
+    {
+      "text": "Process",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/process/"
+    },
+    {
+      "text": "Services",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/services/"
+    },
+    {
+      "text": "Guide for Good",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/guide-for-good/"
+    },
+    {
+      "text": "Insights",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/insights/"
+    },
+    {
+      "text": "Talk with an Advisor",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/contact/"
+    },
+    {
+      "text": "877.799.6830",
+      "tag": "A",
+      "href": "tel:8777996830"
+    },
+    {
+      "text": "info@ionadv.com",
+      "tag": "A",
+      "href": "mailto:info@ionadv.com"
+    },
+    {
+      "text": "Client Login",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/client-login/"
+    },
+    {
+      "text": "877.799.6830",
+      "tag": "A",
+      "href": "tel:8777996830"
+    },
+    {
+      "text": "info@ionadv.com",
+      "tag": "A",
+      "href": "mailto:info@ionadv.com"
+    },
+    {
+      "text": "Client Login",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/client-login/"
+    },
+    {
+      "text": "You Are What You Consume | IPO Chatter",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/06-16-2026/"
+    },
+    {
+      "text": "You Are What You Consume | IPO Chatter",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/06-16-2026/"
+    },
+    {
+      "text": "Home Prices are Down | The Next Recession",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/02-02-2026/"
+    },
+    {
+      "text": "The 0% Tax Bracket | Who Pays For College?",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/05-26-2026/"
+    },
+    {
+      "text": "Preparing to Sell | Your Zip Code & Legacy",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/05-19-2026/"
+    },
+    {
+      "text": "Profits in Prediction Markets | Pro Friend Tip",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/05-12-2026/"
+    },
+    {
+      "text": "A Confident Financial Future | Spending > Income",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/05-05-2026/"
+    },
+    {
+      "text": "Tax Savings from Roth Conversions | Stock Market History",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/04-28-2026/"
+    },
+    {
+      "text": "Long-Term Care Insurance | Forgotten 401(k)s",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/04-14-2026/"
+    },
+    {
+      "text": "Taxes & the Lack of Planning | Adulthood",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/04-07-2026/"
+    },
+    {
+      "text": "See More Articles",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/category/articles/"
+    },
+    {
+      "text": "Q1 Capital Market Highlights",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/q1-capital-market-highlights/"
+    },
+    {
+      "text": "Q4 Market & Economic Highlights",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/01-20-2026/"
+    },
+    {
+      "text": "Q3 Market & Economic Highlights",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/10-21-2025/"
+    }
+  ],
+  "body_text": "Skip to main navigation\nSkip to content\nMission\nPeople\nProcess\nServices\nGuide for Good\nInsights\nTalk with an Advisor\n 877.799.6830  info@ionadv.com  Client Login\nInsights\nWEEKLY MARKET NEWS\nYou Are What You Consume | IPO Chatter\nAll Categories\nEvents\nEvents\nWeekly Market News\nQuarterly Investment Updates\nArticles\nResources\nWEEKLY MARKET NEWS\nYou Are What You Consume | IPO Chatter\nWEEKLY MARKET NEWS\nWhat Does History Tell Us About Geopolitical Events? | Defining Success\nWEEKLY MARKET NEWS\nHome Prices are Down | The Next Recession\nWEEKLY MARKET NEWS\nThe 0% Tax Bracket | Who Pays For College?\nWEEKLY MARKET NEWS\nPreparing to Sell | Your Zip Code & Legacy\nWEEKLY MARKET NEWS\nProfits in Prediction Markets | Pro Friend Tip\nWEEKLY MARKET NEWS\nA Confident Financial Future | Spending > Income\nWEEKLY MARKET NEWS\nTax Savings from Roth Conversions | Stock Market History\nWEEKLY MARKET NEWS\nLong-Term Care Insurance | Forgotten 401(k)s\nWEEKLY MARKET NEWS\nTaxes & the Lack of Planning | Adulthood\nSee More Articles\nQuarterly Investment Updates\nQ1 Capital Market Highlights\nQ4 Market & Economic Highlights\nQ3 Market & Economic Highlights\nQ2 Capital Market Highlights\nQ1 Capital Market Highlights\nSEE MORE INVESTMENT UPDATES\nSign up for up-to-date financial news.\nTalk with an Advisor\n Client Login\n300 Conshohocken State Rd #230,\nConshohocken, PA 19428\n 877.799.6830\n info@ionadv.com\nCareers Privacy Policy Terms & Conditions Disclosures\nCopyright © 2008-2026 Compass Ion Advisors, LLC. All Rights Reserved.\nForm ADV 3, Customer Relationship Summary\nSecurities offered through Keel Point Capital LLC, Member FINRA and SIPC. | finra.org | sipc.org | Important Disclosures\nCertain representatives of Compass Ion Advisors are also Registered Representatives offering securities through Keel Point Capital LLC, Member FINRA/SIPC\nCheck the background of this firm on FINRA’s BrokerCheck"
+}

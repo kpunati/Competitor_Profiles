@@ -1,0 +1,35 @@
+{
+  "query": "Burney Company",
+  "top": {
+    "firm_source_id": "106945",
+    "firm_ia_sec_number": "10232",
+    "firm_ia_full_sec_number": "801-10232",
+    "firm_name": "THE BURNEY COMPANY",
+    "firm_other_names": [
+      "BURNEY CO",
+      "THE BURNEY COMPANY",
+      "BURNEY COMPANY"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 32,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1800 ALEXANDER BELL DRIVE\", \"street2\": \"SUITE 510\", \"city\": \"RESTON\", \"state\": \"VA\", \"country\": \"United States\", \"postalCode\": \"20191\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "106945",
+      "firm_ia_sec_number": "10232",
+      "firm_ia_full_sec_number": "801-10232",
+      "firm_name": "THE BURNEY COMPANY",
+      "firm_other_names": [
+        "BURNEY CO",
+        "THE BURNEY COMPANY",
+        "BURNEY COMPANY"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 32,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"1800 ALEXANDER BELL DRIVE\", \"street2\": \"SUITE 510\", \"city\": \"RESTON\", \"state\": \"VA\", \"country\": \"United States\", \"postalCode\": \"20191\"}}"
+    }
+  ]
+}

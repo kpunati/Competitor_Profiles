@@ -1,0 +1,65 @@
+{
+  "competitor": "Modera Wealth Management",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://moderawealth.com",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(80, 80, 80)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(60, 75, 90)",
+        "count": 27
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 23
+      },
+      {
+        "color": "rgba(180, 100, 0, 0)",
+        "count": 11
+      },
+      {
+        "color": "rgb(180, 100, 0)",
+        "count": 8
+      },
+      {
+        "color": "rgb(179, 187, 87)",
+        "count": 4
+      },
+      {
+        "color": "rgb(99, 111, 123)",
+        "count": 4
+      },
+      {
+        "color": "rgba(60, 75, 90, 0.698)",
+        "count": 3
+      },
+      {
+        "color": "rgb(160, 170, 45)",
+        "count": 2
+      }
+    ],
+    "primary": "rgb(255, 255, 255)",
+    "accent": "rgba(180, 100, 0, 0)"
+  },
+  "typography": {
+    "heading_family": "\"Macklin Sans\", sans-serif",
+    "heading_weight": "200",
+    "body_family": "\"Macklin Sans\", sans-serif",
+    "body_weight": "300",
+    "body_size_px": 18,
+    "paragraph_size_px": 14
+  },
+  "primary_button": {
+    "text": "June 17 webinar: Common estate planning gaps high-net-worth ",
+    "background": "rgb(179, 187, 87)",
+    "text_color": "rgb(60, 75, 90)",
+    "border_radius_px": 0,
+    "padding": "0px 20px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

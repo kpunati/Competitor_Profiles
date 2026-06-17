@@ -1,0 +1,73 @@
+{
+  "competitor": "EP Wealth Advisors",
+  "slug": "Ep_Wealth_Advisors",
+  "summary_line": "Torrance CA-based national fee-only RIA aggregator — $45.1B AUM, 618 employees, 320 advisors, 0 DRPs. 60+ offices nationally. Tagline: 'Fee-only financial advisors who manage your financial plan, integrate your taxes and estate, and create a custom portfolio that aligns with your goals.' Mid-size between Mercer ($84B) and Mather ($13B) — a large national aggregator that grew via acquisitions.",
+  "website": "https://epwealth.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "large",
+  "advisor_count": 320,
+  "employee_count": 618,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": "Torrance",
+  "headquarters_state": "CA",
+
+  "aum_usd": 45145000000,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["hnw", "uhnw"],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "111147",
+  "sec_number": null,
+  "ownership_structure": "pe_backed",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "establishment",
+  "positioning_claims": ["fee_only", "fiduciary", "tax_integrated", "estate_integrated", "national_scale", "active_acquirer"],
+  "vulnerabilities": ["pe_growth_pressure", "brand_consolidation_across_offices", "no_fee_transparency"],
+  "tags": ["pe_backed", "roll_up", "national", "consumer_facing", "fee_only", "aum_fee", "cfp_credentialed", "clean_regulatory_record"],
+  "related_competitors": ["Mercer_Advisors", "The_Mather_Group", "Carson_Group", "Focus_Partners"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 45145000000, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 320, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 618, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 111147 — 618 employees, 320 advisors, $45,145,000,000 regulatory AUM, 0 DRPs.",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: homepage only. Hero stats: '60+' (offices), '600+' (employees, matches ADV), '$44.1B+' (AUM, lower than ADV value). H2: 'EP WEALTH ADVISORS: WEALTH MANAGEMENT FOR ALL THINGS IMPORTANT TO YOU.' H1: 'ACCESS PERSONALIZED PLANNING-BASED ADVICE.' Tagline: 'Fee only financial advisors who manage your financial plan, integrate your taxes and estate, and create a custom portfolio that aligns with your goals.'",
+        "source": "tools/extract.ts (homepage only)"
+      }
+    ]
+  },
+
+  "_schema": {}
+}

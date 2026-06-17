@@ -18,6 +18,7 @@ import { readFile, readdir, writeFile, stat } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+import { buildClaudeMd } from "./build-claude-md.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -428,6 +429,14 @@ async function main() {
   console.log(`  → ${matrixPath}`);
 
   console.log(`[synthesize] done. ${all.length} competitors, ${CSV_COLUMNS.length} columns.`);
+
+  // Refresh the AUTO section of CLAUDE.md so it reflects the new catalog state.
+  // Safe no-op if CLAUDE.md / pages_by_kind.json are missing.
+  try {
+    await buildClaudeMd();
+  } catch (err) {
+    console.warn(`[synthesize] build-claude-md failed: ${(err as Error).message}`);
+  }
 }
 
 main().catch((err) => {

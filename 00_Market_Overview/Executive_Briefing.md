@@ -1,37 +1,47 @@
 # Executive Briefing
 
-*Two-page summary of everything we found across the competitive set. This is the front door — written for a busy reader who has five minutes.*
+*Two-page summary of the market we're entering. Written for a busy reader with five minutes. The 48 firms in this catalog were analyzed on their own terms — strengths, weaknesses, what each cluster does well, what each is missing — and the result rolls up to a clear set of openings and risks.*
 
-*Populated once the first batch of competitor profiles is complete.*
+*Based on 48 competitor profiles plus brand voice files in `_context/`. Synthesized 2026-06-17.*
 
 ---
 
 ## The landscape, in two paragraphs
 
-(What kind of market is this. How crowded. Who the major players are. What the center of gravity looks like.)
+The wealth-management market is **fragmented but consolidating fast**. The 48 firms studied span four structural models: **PE-backed national roll-ups** ([Mercer](../Competitors/Mercer_Advisors/1_Summary.md) $84B, [Carson Group](../Competitors/Carson_Group/1_Summary.md) $51B, [EP Wealth](../Competitors/Ep_Wealth_Advisors/1_Summary.md) $45B, [The Mather Group](../Competitors/The_Mather_Group/1_Summary.md) $13B) that grow via acquisition and collectively control over $240B in catalog AUM; **employee-owned + private-partnership independent firms** ([Modera](../Competitors/Modera_Wealth_Management/1_Summary.md) $17.5B since 1983, [Pure Financial](../Competitors/Pure_Financial_Advisors/1_Summary.md) $11B, [Plancorp](../Competitors/Plancorp/1_Summary.md) $9.9B, [Burney](../Competitors/Burney_Wealth_Management/1_Summary.md), [Truepoint](../Competitors/Truepoint_Wealth_Counsel/1_Summary.md), [Compass Ion](../Competitors/Compass_Ion_Advisors/1_Summary.md)) that proved the independent path scales for 30-40 years; **niche-specialist mid-tier firms** ([Brooklyn FI](../Competitors/Brooklyn_Fi/1_Summary.md), [Cordant](../Competitors/Cordant_Wealth_Partners/1_Summary.md), [Greenbush](../Competitors/Greenbush_Financial_Group/1_Summary.md), [Brindle & Bay](../Competitors/Brindle_And_Bay/1_Summary.md), [Foundry Financial](../Competitors/Foundry_Financial/1_Summary.md)) that compete on segment commitment; and **subscription / advice-only challengers** ([Domain Money](../Competitors/Domain_Money/1_Summary.md) VC-funded, [Stash Wealth](../Competitors/Stash_Wealth/1_Summary.md), [Abundo Wealth](../Competitors/Abundo_Wealth/1_Summary.md)) pulling at the entry end with flat-fee products targeted at younger professionals.
+
+The center of gravity is shifting on three vectors. **Pricing transparency** is becoming a competitive expectation — the top quintile of catalog firms publish tier tables, and opaque pricing now reads as defensive. **Subscription / flat-fee unit economics** are pulling capital into the entry tier — Domain Money has Bessemer, SV Angel, Maveron, plus LPs including Marc Benioff and Ashton Kutcher, with Joe Duran (who sold United Capital to Goldman Sachs for ~$750M) chairing the advisor board. **Tax integration as a bundled service** rather than a referral is differentiating the best mid-tier firms ([Brooklyn FI](../Competitors/Brooklyn_Fi/1_Summary.md) runs 5 in-house CPAs led by a CPA Director). Active management still works at scale ([Burney](../Competitors/Burney_Wealth_Management/1_Summary.md) runs $3.6B explicitly active, [Modera](../Competitors/Modera_Wealth_Management/1_Summary.md) $17.5B with active components) but is rarely paired with the other modern moves (transparent pricing, in-house tax, named 401(k) services).
 
 ## Three things working in this market
 
-1. 
-2. 
-3. 
+1. **Active management is commercially viable at scale.** Burney explicitly delivers active investment management at $3.6B AUM serving both retail and institutional. Modera, Plancorp, and Truepoint scale past $5B without leaning entirely passive. The "you can't beat the market" indexer argument is not actually winning at the firm-level — credentialed active methodology continues to find market demand.
+2. **Subscription / flat-fee captures younger prospects.** Three firms ([Domain Money](../Competitors/Domain_Money/1_Summary.md), [Stash](../Competitors/Stash_Wealth/1_Summary.md), [Abundo](../Competitors/Abundo_Wealth/1_Summary.md)) prove the model works at different scales — $43M AUM with VC backing, $51M solo-founder, $0 AUM with 12 advisors. The CAC math at the early-adult / first-investor tier is unsolvable under AUM-only pricing; flat-fee unlocks the segment.
+3. **Anti-wirehouse rhetoric resonates across firm sizes.** [Truepoint](../Competitors/Truepoint_Wealth_Counsel/1_Summary.md)'s 4-vs-4 hero contrast ("People · Compassion · Your Trust · Return on Life" vs. "Products · Commissions · Our Bottom Line · Return on Investment") is the catalog's strongest copywriting. [Cordant](../Competitors/Cordant_Wealth_Partners/1_Summary.md) and [Avise](../Competitors/Avise_Financial/1_Summary.md) use softer versions. The pattern works whether the firm is $370M or $6.4B.
 
-## Three gaps nobody is filling
+## Three things failing in this market
 
-1. 
-2. 
-3. 
+1. **Generic positioning at the homepage level.** Most of the catalog's $1B+ firms open with "comprehensive holistic wealth management" or close variants — words that no longer differentiate. [Plancorp](../Competitors/Plancorp/1_Summary.md) at $9.9B is the cleanest example; the firm is clearly successful, but the homepage gives no answer to "why this firm over the next one."
+2. **No published pricing.** ~80% of the catalog gates fees behind a sales call. Reasonable defensively but structurally weak against the top quintile that publishes — and against [Domain Money](../Competitors/Domain_Money/1_Summary.md)'s entire pitch ("no hidden or AUM fees—ever").
+3. **Anonymized credibility claims.** "Decades of combined experience" / "our team of experts" used across the catalog. The firms with **specific named people + credentials + prior-career arcs** ([Stash](../Competitors/Stash_Wealth/1_Summary.md)'s Priya Malani Merrill→ballerina arc, [Brindle & Bay](../Competitors/Brindle_And_Bay/1_Summary.md)'s Nick Davis pastor→CFP, [Domain Money](../Competitors/Domain_Money/1_Summary.md)'s Adam Dell Goldman/Dell/Autodesk exits) convert better than anonymous aggregate claims.
 
-## Where we should aim
+## Three gaps the market is missing
 
-(Two or three sentences. The recommended direction, plain and direct.)
+1. **Active investment management + transparent published pricing.** [Burney](../Competitors/Burney_Wealth_Management/1_Summary.md) is the largest active-management firm and does not publish fees. The transparent-pricing leaders ([Brooklyn FI](../Competitors/Brooklyn_Fi/1_Summary.md), [Domain Money](../Competitors/Domain_Money/1_Summary.md), [Pure Financial](../Competitors/Pure_Financial_Advisors/1_Summary.md)) lean passive. The combination is empty.
+2. **Named 401(k) consulting at the mid-career individual level.** [Greenbush](../Competitors/Greenbush_Financial_Group/1_Summary.md) is the only firm in 48 that names Company Retirement Plans as a homepage pillar — and it's plan-sponsor focused. The 40-50 individual with a corporate 401(k) + held-away IRA + tax-coordination need has no dedicated landing page across the catalog.
+3. **Truly entry-level first-investor product.** Stash targets HENRYs (already six-figure earners); Abundo's "For Everyone" is broad; Domain Money's Essential at $2,900/yr renewal is too high for a post-college starter portfolio. The just-out-of-college / first-paycheck cohort is structurally underserved.
+
+## Where USWM's positioning lands
+
+USWM's durable identity — **active investment management methodology (trend-following + options overlay + rules-based + risk-first) · fee-only fiduciary structure · tax integration via Beata's EA + NATP credentials · the three convictions as operating philosophy · Chatham NJ anchor · editorial-not-corporate brand voice per `_context/brand_voice.md`** — aligns cleanly with the three market gaps above. Each gap has different competitors at the edges; none is currently being filled head-on. Kean's actual wirehouse departure (Merrill / JPMorgan / Citi / UBS / AIG → independent) is stronger anti-wirehouse material than any catalog firm currently uses for the framing.
+
+The growth path can be aggressive without diluting the identity. [Modera](../Competitors/Modera_Wealth_Management/1_Summary.md) proves an employee-owned, fee-only firm scales to $17.5B over 40 years while staying recognizably itself. [Brooklyn FI](../Competitors/Brooklyn_Fi/1_Summary.md) scaled from launch to $563M and a 21-person bench in ~7 years with a clear-voiced brand. The constraint isn't size — it's brand voice and offering discipline as the firm grows.
 
 ## What to do next
 
-- **This month**: 
-- **This quarter**: 
-- **Watch and revisit**: 
+- **This month**: Publish at least 2 fee tiers on the website (the new transparency floor). Name 401(k) consulting as a homepage pillar. Move Kean's wirehouse-defection narrative to the About page. Ship a "Foundation Plan" entry product spec ($500-$2,500 flat-fee onboarding for first-account investors).
+- **This quarter**: Set up a 90-day monitoring cycle on [Domain Money](../Competitors/Domain_Money/1_Summary.md) (the only `medium`-threat firm — track funding rounds + ADV employee growth + segment overlap). Launch one named content franchise (not "Blog" — name it). Test the three-conviction structure in headline copy + initial-consult conversations.
+- **Watch and revisit**: [Modera](../Competitors/Modera_Wealth_Management/1_Summary.md)'s M&A pattern (potential NJ-area acquirer or partner). Subscription-model renewal economics as Domain Money's Year-2 retention surfaces in their ADVs. Any new VC-backed entrant in the entry-tier flat-fee category.
 
 ---
 
-*For the full picture, see `Competitive_Landscape.md`, `What_The_Market_Looks_Like.md`, and `Where_We_Should_Play.md` in this folder.*
+*For the cluster map see [`Competitive_Landscape.md`](Competitive_Landscape.md). For market-pattern strengths and weaknesses see [`What_The_Market_Looks_Like.md`](What_The_Market_Looks_Like.md). For the full positioning recommendation see [`Where_We_Should_Play.md`](Where_We_Should_Play.md).*

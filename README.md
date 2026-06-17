@@ -4,7 +4,7 @@ Research on our key competitors, organized so you can read as little or as much 
 
 ## Start here
 
-**What this is:** a folder of research on 30 financial-advisor competitors, plus our own brand voice files. Using Claude Code, you can ask questions about it in plain English — *"what do small fee-only firms say on their contact page?"*, *"draft a blog post in our voice based on what's in here"* — and Claude reads the folder and answers. No coding needed. Uses your existing Claude.ai subscription — no separate billing.
+**What this is:** a folder of research on 48 financial-advisor competitors, plus our own brand voice files. Using Claude Code, you can ask questions about it in plain English — *"what do fee-only fiduciary firms say on their contact page?"*, *"draft a blog post in our voice based on what's in here"* — and Claude reads the folder and answers. No coding needed. Uses your existing Claude.ai subscription — no separate billing.
 
 ### What you need (one-time)
 
@@ -28,7 +28,7 @@ The first command downloads the folder to your computer. The second steps into i
 
 **Step 3.** Ask a question. Copy any of these, paste into the chat, hit enter:
 
-> *"Read every `1_Summary.md` in the `Competitors/` folder. Tell me the 5 firms most similar to a small fee-only RIA based in NJ. Format as a table with firm, AUM, and why they're comparable."*
+> *"Read every `1_Summary.md` in the `Competitors/` folder. Tell me the 5 firms most similar to USWM by methodology and voice — active investment management, fee-only fiduciary, tax-integrated, NJ-anchored. Format as a table with firm, AUM, primary positioning, and what's worth learning from each."*
 
 > *"Draft a contact page for our firm. Look at how Brindle & Bay, Foundry Financial, and The Peak FP handle theirs, then write our version using `_context/brand_voice.md` for voice and avoiding everything in `_context/brand_what_not_to_make.md`. Cite which firms you drew from."*
 
@@ -42,7 +42,7 @@ Claude writes a draft. Read it, edit it, copy it into wherever you need it (emai
 
 ---
 
-**Already comfortable with the catalog?** Jump straight to **`00_Market_Overview/Executive_Briefing.md`** for the headline findings, or **`00_Market_Overview/competitor_catalog.csv`** (Notion-importable) for structured metadata across all 30 firms.
+**Already comfortable with the catalog?** Jump straight to **`00_Market_Overview/Executive_Briefing.md`** for the headline findings, or **`00_Market_Overview/competitor_catalog.csv`** (Notion-importable) for structured metadata across all 48 firms.
 
 ## How this folder is organized
 
@@ -93,9 +93,10 @@ tools/                      Scripts that produce the research (technical)
 
 | | |
 |---|---|
-| Competitors profiled | **30** |
+| Competitors profiled | **48** |
 | Market-overview matrix columns | 45 |
-| Knowledge_From_Source corpus | ~274 markdown posts across 16 firms (Tier 1 + 2 complete) |
+| Knowledge_From_Source corpus | ~297 markdown posts across 18 firms |
+| Site pages indexed by kind | 155 in `pages_by_kind.json` |
 | Jurisdictions covered | US (primary) · CA (PWL) · UK (Dealmakers) · EU (Sven Carlin) |
 
 ## How this research was built
@@ -116,7 +117,7 @@ To run a refresh pass, follow `tools/refresh_prompt.md` — a standing instructi
 
 ## Roadmap
 
-Planned tooling to support the catalog as it scales beyond ~30 competitors:
+Planned tooling to support the catalog as it scales beyond ~50 competitors:
 
 - **`tools/build-index.ts`** — walks every `Competitors/*/metadata.json` and emits a single `_index.json`. Today `tools/synthesize.ts` regenerates `competitor_catalog.{csv,json}` and `Head_to_Head_Matrix.md` from the same source; consider promoting the underlying read-and-merge into a shared helper.
 - **`tools/refresh.ts`** — diff-aware refresh script that mechanically finds stale profiles, re-runs the data pipeline (extract → enrich → enrich-pdf → synthesize), produces a delta report, and only invokes an agent for the narrative-rewrite judgment step. The right end state for refresh — see Tier 3 in `tools/refresh_prompt.md`.
@@ -124,7 +125,7 @@ Planned tooling to support the catalog as it scales beyond ~30 competitors:
 - **`tools/enrich-fca.ts` + `tools/enrich-companies-house.ts`** (Phase 2 — UK jurisdiction). Deferred until we have ≥2 UK firms in the catalog. Currently 1 (Dealmakers).
 - **`tools/enrich-nrd.ts`** (Phase 3 — Canadian jurisdiction). Deferred until we have ≥2 Canadian firms. Currently 1 (PWL Capital).
 - **`pickBestMatch` tightening in `tools/enrich-adv.ts`** — the current prefix-token-fuzz matcher has produced three false positives this catalog (Streamline → unrelated NY DBA umbrella, Asset Map → Sugar Maple Asset Management, Starke → Starkey & Associates). Fix is single-method: require exact whole-word token equality before claiming a confident match. Documented in each affected metadata file's `regulatory_note`.
-- **Bot-protection fallback in `tools/extract.ts`** — `tools/scrape-knowledge.ts` already has a `fetch()` fallback when Playwright hits Cloudflare; the same pattern should be ported to `extract.ts` so the site-shape capture step doesn't write 403 challenge bodies as if they were real pages. ~8 of 30 firms in the catalog have triggered this.
+- **Bot-protection fallback in `tools/extract.ts`** — `tools/scrape-knowledge.ts` already has a `fetch()` fallback when Playwright hits Cloudflare; the same pattern should be ported to `extract.ts` so the site-shape capture step doesn't write 403 challenge bodies as if they were real pages. ~10 of 48 firms in the catalog have triggered this (most recently Mercer Advisors and Carson Group).
 - **`_context/findings_log.md`** — running log of refresh batches, taxonomy changes, and conclusions that shifted because of new data. The audit trail when a future analyst asks *"why did we change our mind about Focus Partners between Q2 and Q3?"*
 
 ## Status
@@ -132,6 +133,7 @@ Planned tooling to support the catalog as it scales beyond ~30 competitors:
 - [x] Structure set up
 - [x] First competitor captured and analyzed
 - [x] Initial competitor set captured (30 firms)
+- [x] Candidate-firm expansion batch (+18 firms → 48 total)
 - [x] Knowledge corpus for Tier 1+2 content firms (`Knowledge_From_Source/`)
-- [ ] Market overview written (`00_Market_Overview/Executive_Briefing.md` and the other strategy docs are still TODO)
-- [ ] Internal direction recommended
+- [x] Market overview written (`00_Market_Overview/Executive_Briefing.md` + `Competitive_Landscape.md` + `What_The_Market_Looks_Like.md` + `Where_We_Should_Play.md` — first-draft synthesis from the 48-firm catalog, ready for your editorial pass)
+- [ ] Internal direction recommended (the strategy docs propose a direction; your sign-off is the next step)

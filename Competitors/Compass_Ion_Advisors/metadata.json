@@ -1,0 +1,73 @@
+{
+  "competitor": "Compass Ion Advisors",
+  "slug": "Compass_Ion_Advisors",
+  "summary_line": "PA-based mid-large fee-only RIA — $1.59B AUM, 24 employees, 15 advisors, 0 DRPs. Tagline: 'Live freely.' Site IA: Mission · People · Process · Services · Guide for Good · Insights. 'Holistic and comprehensive' framing. Content-engine ('Insights' nav item). NOTE: site home meta description is the default WordPress placeholder text ('This is an example page. It's different from a blog post...') — the firm forgot to set their site meta. Quality marker: above the size class of USWM's direct comparables, useful as a 'what mid-large local RIA looks like' benchmark.",
+  "website": "https://compass-ionadvisors.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "mid",
+  "advisor_count": 15,
+  "employee_count": 24,
+  "branch_count": null,
+  "geographic_scope": "regional",
+  "headquarters_city": null,
+  "headquarters_state": "PA",
+
+  "aum_usd": 1586830325,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["hnw", "uhnw"],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "166418",
+  "sec_number": null,
+  "ownership_structure": "private_partnership",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "content_heavy",
+  "design_tone": "establishment",
+  "positioning_claims": ["fee_only", "fiduciary", "holistic", "values_driven", "content_led"],
+  "vulnerabilities": ["no_fee_transparency", "wordpress_default_meta_unfixed", "broad_target_audience"],
+  "tags": ["multi_advisor", "regional", "consumer_facing", "cfp_credentialed", "fee_only", "aum_fee", "content_engine", "clean_regulatory_record"],
+  "related_competitors": ["Plancorp", "Truepoint_Wealth_Counsel", "Foundry_Financial"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 1586830325, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 15, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 24, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 166418 — 24 employees, 15 advisors, $1,586,830,325 regulatory AUM (~$106M per advisor), 0 DRPs. Legal name: 'COMPASS ION ADVISORS, LLC.'",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: 5 pages (home, mission, blog, contact, services). Hero H1: 'Live freely.' Site IA: Mission · People · Process · Services · Guide for Good · Insights · Talk with an Advisor. Phone: 877.799.6830. Positioning: 'Living freely can be simple' / 'Let us help you find your financial direction.' Mission page reframes 'Living freely' as core promise. **DATA-QUALITY NOTE**: homepage og_description is the WordPress default placeholder ('This is an example page. It's different from a blog post... I'm a bike messenger by day...') — they shipped the site without setting meta. Doesn't affect their business but is a real signal about marketing-ops maturity for a $1.59B AUM firm.",
+        "source": "tools/extract.ts (5 pages)"
+      }
+    ]
+  },
+
+  "_schema": {}
+}

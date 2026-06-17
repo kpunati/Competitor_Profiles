@@ -1,0 +1,73 @@
+{
+  "competitor": "Mercer Advisors",
+  "slug": "Mercer_Advisors",
+  "summary_line": "Denver-based PE-backed national RIA roll-up — **$84.4B AUM, 1,429 employees, 632 advisors, 0 DRPs** — by far the largest firm in the entire catalog. Legal name 'MERCER GLOBAL ADVISORS INC.' Active acquirer of independent RIAs. Site capture returned 403 Forbidden (bot-blocked); analysis relies on IAPD + public knowledge.",
+  "website": "https://merceradvisors.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "large",
+  "advisor_count": 632,
+  "employee_count": 1429,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": "Denver",
+  "headquarters_state": "CO",
+
+  "aum_usd": 84396892590,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["hnw", "uhnw"],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "Site returned 403 Forbidden to extract.ts (bot-protection). Profile relies on IAPD/ADV data + public knowledge. Same pattern as ~8 other firms in the catalog with Cloudflare-style blocks.",
+  "sec_registered": true,
+  "crd_number": "147363",
+  "sec_number": null,
+  "ownership_structure": "pe_backed",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "establishment",
+  "positioning_claims": ["fee_only", "fiduciary", "national_scale", "active_acquirer", "comprehensive_services"],
+  "vulnerabilities": ["pe_growth_pressure", "brand_consolidation_across_acquisitions", "large_firm_complexity", "bot_blocked_site"],
+  "tags": ["pe_backed", "roll_up", "national", "consumer_facing", "fee_only", "aum_fee", "cfp_credentialed", "clean_regulatory_record"],
+  "related_competitors": ["The_Mather_Group", "Ep_Wealth_Advisors", "Focus_Partners", "Carson_Group"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 84396892590, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 632, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 1429, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 147363 — 1,429 employees, 632 advisors, $84,396,892,590 regulatory AUM, 0 DRPs. Legal name: 'MERCER GLOBAL ADVISORS INC.' By far the largest single firm in the catalog.",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts returned 403 Forbidden / nginx (Cloudflare-style bot protection). No homepage content captured. Profile relies on IAPD/ADV data + public knowledge (PE-backed national roll-up that has acquired dozens of independent RIAs over the past decade). Mercer is one of the prototype 'aggregator' RIAs alongside Focus Partners, Hightower, Captrust, Creative Planning.",
+        "source": "tools/extract.ts (failed: 403 Forbidden)"
+      }
+    ]
+  },
+
+  "_schema": { "_applicability": "Site data limited due to bot-block; profile content based on IAPD + public knowledge." }
+}

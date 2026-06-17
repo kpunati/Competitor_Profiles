@@ -1,0 +1,53 @@
+{
+  "competitor": "Abundo Wealth",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://abundowealth.com",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 14
+      },
+      {
+        "color": "rgb(242, 135, 40)",
+        "count": 11
+      },
+      {
+        "color": "rgb(28, 54, 100)",
+        "count": 11
+      },
+      {
+        "color": "rgb(31, 41, 55)",
+        "count": 2
+      },
+      {
+        "color": "rgb(243, 244, 246)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(242, 135, 40)",
+    "accent": "rgb(28, 54, 100)"
+  },
+  "typography": {
+    "heading_family": "\"Times New Roman\", serif",
+    "heading_weight": "200",
+    "body_family": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 36
+  },
+  "primary_button": {
+    "text": "Get Started",
+    "background": "rgb(242, 135, 40)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 6,
+    "padding": "12px 32px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

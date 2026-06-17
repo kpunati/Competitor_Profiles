@@ -1,0 +1,65 @@
+{
+  "competitor": "Cordant Wealth Partners",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://cordantwealth.com",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 95
+      },
+      {
+        "color": "rgb(243, 245, 247)",
+        "count": 7
+      },
+      {
+        "color": "rgb(242, 242, 242)",
+        "count": 6
+      },
+      {
+        "color": "rgb(97, 162, 41)",
+        "count": 6
+      },
+      {
+        "color": "rgb(122, 155, 78)",
+        "count": 5
+      },
+      {
+        "color": "rgba(57, 57, 57, 0.95)",
+        "count": 4
+      },
+      {
+        "color": "rgb(121, 156, 73)",
+        "count": 3
+      },
+      {
+        "color": "rgb(58, 72, 86)",
+        "count": 3
+      }
+    ],
+    "primary": "rgb(243, 245, 247)",
+    "accent": "rgb(242, 242, 242)"
+  },
+  "typography": {
+    "heading_family": "Lato, sans-serif",
+    "heading_weight": "900",
+    "body_family": "Lato, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 19,
+    "paragraph_size_px": 16
+  },
+  "primary_button": {
+    "text": "GET YOUR FREE ASSESSMENT",
+    "background": "rgb(121, 156, 73)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 0,
+    "padding": "0px 58px 0px 34px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

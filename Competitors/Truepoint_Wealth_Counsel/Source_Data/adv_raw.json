@@ -1,0 +1,45 @@
+{
+  "query": "Truepoint Wealth Counsel",
+  "top": {
+    "firm_source_id": "105664",
+    "firm_ia_sec_number": "25433",
+    "firm_ia_full_sec_number": "801-25433",
+    "firm_name": "TRUEPOINT, INC.",
+    "firm_other_names": [
+      "ACS FINANCIAL ADVISORS LLC",
+      "TRUEPOINT, INC.",
+      "TRUEPOINT WEALTH COUNSEL, LLC",
+      "TRUEPOINT INSTITUTIONAL ADVISORS, LLC",
+      "TRUEPOINT FINANCIAL",
+      "TRUEPOINT FAMILY OFFICE",
+      "TRUEPOINT CAPITAL, LLC",
+      "COMMAS"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 32,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"9999 CARVER ROAD\", \"street2\": \"SUITE 200\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"United States\", \"postalCode\": \"45242\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "105664",
+      "firm_ia_sec_number": "25433",
+      "firm_ia_full_sec_number": "801-25433",
+      "firm_name": "TRUEPOINT, INC.",
+      "firm_other_names": [
+        "ACS FINANCIAL ADVISORS LLC",
+        "TRUEPOINT, INC.",
+        "TRUEPOINT WEALTH COUNSEL, LLC",
+        "TRUEPOINT INSTITUTIONAL ADVISORS, LLC",
+        "TRUEPOINT FINANCIAL",
+        "TRUEPOINT FAMILY OFFICE",
+        "TRUEPOINT CAPITAL, LLC",
+        "COMMAS"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 32,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"9999 CARVER ROAD\", \"street2\": \"SUITE 200\", \"city\": \"CINCINNATI\", \"state\": \"OH\", \"country\": \"United States\", \"postalCode\": \"45242\"}}"
+    }
+  ]
+}

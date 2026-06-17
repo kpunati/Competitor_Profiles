@@ -1,0 +1,113 @@
+{
+  "competitor": "Abundo Wealth",
+  "slug": "Abundo_Wealth",
+  "summary_line": "Advice-only RIA — explicitly does NOT manage assets, only advises on them. $0 regulatory AUM by design, 14 employees, 12 advisors, 0 DRPs. Tagline: 'Minimize Fees. Maximize Life.' Mission: 'change the financial planning industry' via low-cost, transparent, advice-only delivery. Real captured site IA with 6 sub-pages.",
+  "website": "https://abundowealth.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "mid",
+  "advisor_count": 12,
+  "employee_count": 14,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": null,
+  "headquarters_state": null,
+
+  "aum_usd": 0,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "subscription",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_market", "mass_affluent"],
+
+  "segment_early_adults": "ok",
+  "segment_mid_career_401k": "ok",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "Advice-only by design — Abundo does not take custody or manage assets, so regulatory AUM is $0. Revenue model is subscription / flat-fee planning.",
+  "sec_registered": true,
+  "crd_number": "304612",
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fee_only",
+    "fiduciary",
+    "advice_only",
+    "no_aum_fee",
+    "transparent_pricing",
+    "for_everyone",
+    "mission_driven"
+  ],
+  "vulnerabilities": [
+    "no_aum_revenue_scaling",
+    "depends_on_subscription_lifetime_value",
+    "broad_positioning_risks_dilution"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "national",
+    "consumer_facing",
+    "fee_only",
+    "subscription_fee",
+    "flat_fee",
+    "cfp_credentialed",
+    "content_engine",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Stash_Wealth",
+    "Domain_Money",
+    "Brindle_And_Bay",
+    "Streamline_Planning"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      { "as_of": "2026-06-17", "value_usd": 0, "source": "ADV" }
+    ],
+    "advisor_count_history": [
+      { "as_of": "2026-06-17", "value": 12, "source": "ADV" }
+    ],
+    "employee_count_history": [
+      { "as_of": "2026-06-17", "value": 14, "source": "ADV" }
+    ],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 304612 — 14 employees, 12 advisors, $0 regulatory AUM (advice-only by design), 0 DRPs. Legal name: 'ABUNDO WEALTH.'",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts captured 6 pages (home, about, blog, contact, pricing, services). Hero H1: 'Advice-Only Financial Planning For Everyone.' Mission: 'We're on a Mission to Change the Financial Planning Industry.' Promise: 'Everyone deserves high-quality advice, transparent pricing, and low-cost investing.' Three pillars: Work with a Trusted Partner, Build a Plan You Love, Always Feel Supported. Tagline: 'Minimize Fees. Maximize Life.' About page H1: 'We're a passionate group of people working to build the future of Financial Planning.' Site IA: /what-to-expect, /our-story, /pricing (anchored at /#pricing), services, blog, contact. Pricing page captured but body was empty (JS-rendered) — exact dollar tiers need follow-up. 'Advisors Accepting Clients' section on about page suggests multi-advisor onboarding model.",
+        "source": "tools/extract.ts (6 pages — home/about/blog/contact/pricing/services)"
+      }
+    ]
+  },
+
+  "_schema": {
+    "_applicability": "Abundo's aum_usd = 0 is correct (advice-only); fee_aum_pct fields null intentionally."
+  }
+}

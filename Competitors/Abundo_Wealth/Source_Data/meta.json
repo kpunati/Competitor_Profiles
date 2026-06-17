@@ -1,0 +1,39 @@
+{
+  "slug": "Abundo_Wealth",
+  "source_url": "https://abundowealth.com",
+  "competitor_name": "Abundo Wealth",
+  "extracted_at": "2026-06-17T05:06:47.843Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://abundowealth.com",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Abundo_Wealth/Source_Data/pages/home.html"
+    },
+    {
+      "kind": "services",
+      "url": "https://abundowealth.com/services",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Abundo_Wealth/Source_Data/pages/services.html"
+    },
+    {
+      "kind": "about",
+      "url": "https://abundowealth.com/our-story",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Abundo_Wealth/Source_Data/pages/about.html"
+    },
+    {
+      "kind": "pricing",
+      "url": "https://abundowealth.com/pricing",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Abundo_Wealth/Source_Data/pages/pricing.html"
+    },
+    {
+      "kind": "blog",
+      "url": "https://abundowealth.com/blog",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Abundo_Wealth/Source_Data/pages/blog.html"
+    },
+    {
+      "kind": "contact",
+      "url": "https://abundowealth.com/schedule",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Abundo_Wealth/Source_Data/pages/contact.html"
+    }
+  ],
+  "page_budget": 6
+}

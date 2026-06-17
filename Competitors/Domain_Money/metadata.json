@@ -1,0 +1,117 @@
+{
+  "competitor": "Domain Money",
+  "slug": "Domain_Money",
+  "summary_line": "VC-backed subscription advisory founded by Adam Dell (repeat founder — Clarity Money → Goldman Sachs / MessageOne → Dell / Buzzsaw → Autodesk). 30+ CFP®s on staff, advisor board chaired by Joe Duran (founded United Capital, sold to GS). Three published tiers: Essential ($3,900 yr1 / $2,900 renewal), Strategic ($5,200 / $4,200, 'most popular'), Comprehensive ($9,000 / $8,000). 39 employees, 14 advisors, $43.3M AUM, 0 DRPs. VC: Bessemer · SV Angel · Maveron · Torch · RRE · LPs including Ashton Kutcher + Marc Benioff. 'No hidden or AUM fees—ever.' Direct subscription competitor with serious capital behind it.",
+  "website": "https://domainmoney.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "medium",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-09-15",
+  "review_cadence_days": 90,
+
+  "team_size": "mid",
+  "advisor_count": 14,
+  "employee_count": 39,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": null,
+  "headquarters_state": null,
+
+  "aum_usd": 43285190,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "subscription",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": 2900,
+  "fee_flat_high_usd": 9000,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+
+  "segment_early_adults": "ok",
+  "segment_mid_career_401k": "ok",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "316434",
+  "sec_number": null,
+  "ownership_structure": "pe_backed",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fee_only",
+    "fiduciary",
+    "subscription_first",
+    "no_aum_fee",
+    "next_generation",
+    "vc_backed_scale",
+    "transparent_pricing",
+    "tier_based_pricing",
+    "satisfaction_guaranteed"
+  ],
+  "vulnerabilities": [
+    "low_aum_per_employee",
+    "vc_growth_pressure",
+    "subscription_churn_risk",
+    "broad_segment_positioning",
+    "key_person_concentration_at_founder"
+  ],
+  "tags": [
+    "pe_backed",
+    "multi_advisor",
+    "national",
+    "consumer_facing",
+    "cfp_credentialed",
+    "fee_only",
+    "subscription_fee",
+    "flat_fee",
+    "content_engine",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Abundo_Wealth",
+    "Stash_Wealth",
+    "Brooklyn_Fi",
+    "Xy_Planning_Network"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      { "as_of": "2026-06-17", "value_usd": 43285190, "source": "ADV" }
+    ],
+    "advisor_count_history": [
+      { "as_of": "2026-06-17", "value": 14, "source": "ADV" }
+    ],
+    "employee_count_history": [
+      { "as_of": "2026-06-17", "value": 39, "source": "ADV" }
+    ],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 316434 — 39 employees, 14 advisors, $43,285,190 regulatory AUM (low for employee count — confirms subscription-first revenue model), 0 DRPs. Legal name: 'DOMAIN MONEY ADVISORS, LLC.'",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts captured homepage only; WebFetch on /pricing and /about. Three published subscription tiers (annual prices, Year 1 vs. Renewal): Essential — $3,900 / $2,900 (W-2 professionals + DIYers needing a second opinion). Strategic ('Most Popular') — $5,200 / $4,200 (families + mid-career 'busy-complex'). Comprehensive — $9,000 / $8,000 (HNW + pre-retirees). 'No hidden or AUM fees—ever' / No minimums / 'Cancel anytime' / 100% satisfaction guarantee with refund. Founder/CEO Adam Dell — Clarity Money (sold to Goldman Sachs / led Marcus product), MessageOne (sold to Dell), Buzzsaw (sold to Autodesk). VC: Bessemer Venture Partners, SV Angel, Maveron, Torch Capital, RRE Ventures. Notable LPs: Ashton Kutcher, Marc Benioff. Advisory board chair: Joe Duran (founded United Capital, sold to Goldman). 30+ CFP®s + engineering leadership (Zeeshan Mian VP Eng) + ops/growth/design/marketing/client success. Positioning: 'We believe the right thing to do with your money should never be some big secret.' / 'Flat-fee, judgement free expert financial planning for the next generation.'",
+        "source": "tools/extract.ts (homepage only) + WebFetch on /pricing + /about"
+      }
+    ]
+  },
+
+  "_schema": {
+    "_applicability": "VC-backed subscription advisory — pricing_model: subscription, ownership_structure: pe_backed."
+  }
+}

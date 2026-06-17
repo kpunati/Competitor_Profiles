@@ -1,0 +1,51 @@
+{
+  "competitor": "Burney Company",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://burney.com",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 152
+      },
+      {
+        "color": "rgb(1, 48, 66)",
+        "count": 43
+      },
+      {
+        "color": "rgb(248, 248, 238)",
+        "count": 42
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.7)",
+        "count": 42
+      },
+      {
+        "color": "rgb(39, 70, 139)",
+        "count": 42
+      },
+      {
+        "color": "rgba(255, 255, 255, 0.8)",
+        "count": 2
+      }
+    ],
+    "primary": "rgb(1, 48, 66)",
+    "accent": "rgb(248, 248, 238)"
+  },
+  "typography": {
+    "heading_family": "Untitled-Serif, serif",
+    "heading_weight": "400",
+    "body_family": "Gilroy, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 20,
+    "paragraph_size_px": 20
+  },
+  "primary_button": null,
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

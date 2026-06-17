@@ -1,0 +1,14 @@
+{
+  "slug": "Carson_Group",
+  "source_url": "https://carsongroup.com",
+  "competitor_name": "403 Forbidden",
+  "extracted_at": "2026-06-17T08:02:24.088Z",
+  "pages": [
+    {
+      "kind": "home",
+      "url": "https://carsongroup.com",
+      "file": "/Users/karti/Desktop/Competitor_Profiles/Competitors/Carson_Group/Source_Data/pages/home.html"
+    }
+  ],
+  "page_budget": 6
+}

@@ -1,0 +1,33 @@
+{
+  "query": "Modera Wealth Management",
+  "top": {
+    "firm_source_id": "155649",
+    "firm_ia_sec_number": "71973",
+    "firm_ia_full_sec_number": "801-71973",
+    "firm_name": "MODERA WEALTH MANAGEMENT, LLC",
+    "firm_other_names": [
+      "MODERA ADVISORS OF CRYSTAL RIVER, LLC",
+      "MODERA WEALTH MANAGEMENT, LLC"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 112,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"56 JEFFERSON AVENUE\", \"city\": \"WESTWOOD\", \"state\": \"NJ\", \"country\": \"United States\", \"postalCode\": \"07675\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "155649",
+      "firm_ia_sec_number": "71973",
+      "firm_ia_full_sec_number": "801-71973",
+      "firm_name": "MODERA WEALTH MANAGEMENT, LLC",
+      "firm_other_names": [
+        "MODERA ADVISORS OF CRYSTAL RIVER, LLC",
+        "MODERA WEALTH MANAGEMENT, LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 112,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"56 JEFFERSON AVENUE\", \"city\": \"WESTWOOD\", \"state\": \"NJ\", \"country\": \"United States\", \"postalCode\": \"07675\"}}"
+    }
+  ]
+}

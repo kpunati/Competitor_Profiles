@@ -1,24 +1,34 @@
 {
-  "generated_at": "2026-06-16",
+  "generated_at": "2026-06-17",
   "totals": {
-    "firms": 30,
-    "site_pages": 117,
-    "blog_posts": 277,
-    "total": 394,
+    "firms": 48,
+    "site_pages": 155,
+    "blog_posts": 297,
+    "total": 452,
     "kinds": {
-      "about": 19,
-      "blog_index": 24,
+      "about": 23,
+      "blog_index": 29,
       "compliance": 1,
-      "contact": 26,
-      "home": 30,
-      "pricing": 7,
-      "services": 9,
+      "contact": 31,
+      "home": 48,
+      "pricing": 9,
+      "services": 13,
       "starthere": 1,
-      "blog_post": 277
+      "blog_post": 297
     }
   },
   "kind": {
     "about": [
+      {
+        "firm": "Abundo_Wealth",
+        "source": "site",
+        "kind": "about",
+        "url": "https://abundowealth.com/our-story",
+        "title": "Our Team | Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Source_Data/pages/about.json",
+        "description": "Abundo provides ongoing, Advice-Only comprehensive financial planning at a low cost and without conflicts of interest. Minimize Fees. Maximize Life.",
+        "heading_count": 10
+      },
       {
         "firm": "Advize_Wealth",
         "source": "site",
@@ -59,6 +69,15 @@
         "heading_count": 28
       },
       {
+        "firm": "Compass_Ion_Advisors",
+        "source": "site",
+        "kind": "about",
+        "url": "https://compass-ionadvisors.com/mission/",
+        "title": "Mission - Compass Ion Advisors",
+        "file": "Competitors/Compass_Ion_Advisors/Source_Data/pages/about.json",
+        "heading_count": 4
+      },
+      {
         "firm": "Focus_Partners",
         "source": "site",
         "kind": "about",
@@ -89,6 +108,16 @@
         "heading_count": 5
       },
       {
+        "firm": "Modera_Wealth_Management",
+        "source": "site",
+        "kind": "about",
+        "url": "https://moderawealth.com/our-story/",
+        "title": "Fee-Only Fiduciary Planning | Modera Wealth Management",
+        "file": "Competitors/Modera_Wealth_Management/Source_Data/pages/about.json",
+        "description": "Modera has been a fee-only fiduciary RIA since 1983. Employee-owned, managing $17.5B for 6,300+ clients. Discover what sets us apart.",
+        "heading_count": 28
+      },
+      {
         "firm": "Money_Guy",
         "source": "site",
         "kind": "about",
@@ -116,6 +145,16 @@
         "file": "Competitors/Peoples_Capital_Group/Source_Data/pages/about.json",
         "description": "Peoples Capital Group is a New Jersey real estate investment group that helps People invest in real estate who do not have the time or experience to invest alone.",
         "heading_count": 19
+      },
+      {
+        "firm": "Pure_Financial_Advisors",
+        "source": "site",
+        "kind": "about",
+        "url": "https://purefinancial.com/why-pure/our-story/",
+        "title": "About Pure Financial Advisors - Fee-Only Financial Planning",
+        "file": "Competitors/Pure_Financial_Advisors/Source_Data/pages/about.json",
+        "description": "Pure is a fee-only RIA providing comprehensive retirement planning services and tax-optimized investment management.",
+        "heading_count": 26
       },
       {
         "firm": "Pwl_Capital",
@@ -205,6 +244,16 @@
     ],
     "blog_index": [
       {
+        "firm": "Abundo_Wealth",
+        "source": "site",
+        "kind": "blog_index",
+        "url": "https://abundowealth.com/blog",
+        "title": "Abundo Wealth | Blog",
+        "file": "Competitors/Abundo_Wealth/Source_Data/pages/blog.json",
+        "description": "Abundo provides ongoing, Advice-Only comprehensive financial planning at a low cost and without conflicts of interest. Minimize Fees. Maximize Life.",
+        "heading_count": 17
+      },
+      {
         "firm": "Advize_Wealth",
         "source": "site",
         "kind": "blog_index",
@@ -251,6 +300,15 @@
         "file": "Competitors/Clearvalue_Investing/Source_Data/pages/blog.json",
         "description": "Content coming soon!",
         "heading_count": 2
+      },
+      {
+        "firm": "Compass_Ion_Advisors",
+        "source": "site",
+        "kind": "blog_index",
+        "url": "https://compass-ionadvisors.com/insights/",
+        "title": "Insights - Compass Ion Advisors",
+        "file": "Competitors/Compass_Ion_Advisors/Source_Data/pages/blog.json",
+        "heading_count": 19
       },
       {
         "firm": "Couplr_AI",
@@ -319,6 +377,15 @@
         "heading_count": 27
       },
       {
+        "firm": "Modera_Wealth_Management",
+        "source": "site",
+        "kind": "blog_index",
+        "url": "https://moderawealth.com/insights/",
+        "title": "News | Modera Wealth Management",
+        "file": "Competitors/Modera_Wealth_Management/Source_Data/pages/blog.json",
+        "heading_count": 13
+      },
+      {
         "firm": "Money_Guy",
         "source": "site",
         "kind": "blog_index",
@@ -347,6 +414,16 @@
         "file": "Competitors/Peoples_Capital_Group/Source_Data/pages/blog.json",
         "description": "Get the latest in real estate investing news and tips of the trade. Learn how to utilize the latest news to position yourself to successfully invest in real estate and maximize your Return on Investment.",
         "heading_count": 55
+      },
+      {
+        "firm": "Pure_Financial_Advisors",
+        "source": "site",
+        "kind": "blog_index",
+        "url": "https://purefinancial.com/learning-center/blog/",
+        "title": "Personal Finance Blog | Pure Financial Advisors, Inc.",
+        "file": "Competitors/Pure_Financial_Advisors/Source_Data/pages/blog.json",
+        "description": "Weekly informative blog posts keeping you up-to-date and informed on the latest financial planning news, strategies and headlines.",
+        "heading_count": 27
       },
       {
         "firm": "Pwl_Capital",
@@ -405,6 +482,15 @@
         "heading_count": 5
       },
       {
+        "firm": "The_Mather_Group",
+        "source": "site",
+        "kind": "blog_index",
+        "url": "https://www.themathergroup.com/news/a-conversation-with-jennifer-des-groseilliers-jd",
+        "title": "A Conversation With Jennifer des Groseilliers, JD | The Mather Group",
+        "file": "Competitors/The_Mather_Group/Source_Data/pages/blog.json",
+        "heading_count": 6
+      },
+      {
         "firm": "The_Peak_Fp",
         "source": "site",
         "kind": "blog_index",
@@ -448,6 +534,16 @@
       }
     ],
     "contact": [
+      {
+        "firm": "Abundo_Wealth",
+        "source": "site",
+        "kind": "contact",
+        "url": "https://abundowealth.com/schedule",
+        "title": "Abundo Wealth | Schedule a Free Consultation",
+        "file": "Competitors/Abundo_Wealth/Source_Data/pages/contact.json",
+        "description": "Abundo provides ongoing, Advice-Only comprehensive financial planning at a low cost and without conflicts of interest. Minimize Fees. Maximize Life.",
+        "heading_count": 7
+      },
       {
         "firm": "Advize_Wealth",
         "source": "site",
@@ -494,6 +590,15 @@
         "file": "Competitors/Clearvalue_Investing/Source_Data/pages/contact.json",
         "description": "Got questions or feedback? Contact us! Your input helps us improve. Send a message, we're here for you. Thank you for being part of our community!",
         "heading_count": 4
+      },
+      {
+        "firm": "Compass_Ion_Advisors",
+        "source": "site",
+        "kind": "contact",
+        "url": "https://compass-ionadvisors.com/contact/",
+        "title": "Contact - Compass Ion Advisors",
+        "file": "Competitors/Compass_Ion_Advisors/Source_Data/pages/contact.json",
+        "heading_count": 2
       },
       {
         "firm": "Couplr_AI",
@@ -563,6 +668,16 @@
         "heading_count": 1
       },
       {
+        "firm": "Modera_Wealth_Management",
+        "source": "site",
+        "kind": "contact",
+        "url": "https://moderawealth.com/get-in-touch/",
+        "title": "Get in touch | Modera Wealth Management",
+        "file": "Competitors/Modera_Wealth_Management/Source_Data/pages/contact.json",
+        "description": "By sending this message, you agree that Modera will use the personal information you disclose to have an adviser contact you and/or you agree to opt-in to",
+        "heading_count": 3
+      },
+      {
         "firm": "My_Cpa_Coach",
         "source": "site",
         "kind": "contact",
@@ -581,6 +696,16 @@
         "file": "Competitors/Peoples_Capital_Group/Source_Data/pages/contact.json",
         "description": "Peoples Capital Group wants to help you build your real estate portfolio. Contact us to learn how we may be able to help you!",
         "heading_count": 7
+      },
+      {
+        "firm": "Pure_Financial_Advisors",
+        "source": "site",
+        "kind": "contact",
+        "url": "https://purefinancial.com/why-pure/contact-us/",
+        "title": "Contact Us - Pure Financial Advisors",
+        "file": "Competitors/Pure_Financial_Advisors/Source_Data/pages/contact.json",
+        "description": "Contact Pure Financial Advisors for information on fee-only financial planning or directions to office locations.",
+        "heading_count": 36
       },
       {
         "firm": "Pwl_Capital",
@@ -668,6 +793,16 @@
         "heading_count": 6
       },
       {
+        "firm": "The_Mather_Group",
+        "source": "site",
+        "kind": "contact",
+        "url": "https://www.themathergroup.com/contact-wealth",
+        "title": "Contact Us | The Mather Group",
+        "file": "Competitors/The_Mather_Group/Source_Data/pages/contact.json",
+        "description": "Discover purpose-driven wealth management with The Mather Group. Transparent pricing, fiduciary responsibility, and personalized financial strategies.",
+        "heading_count": 6
+      },
+      {
         "firm": "The_Peak_Fp",
         "source": "site",
         "kind": "contact",
@@ -700,6 +835,16 @@
     ],
     "home": [
       {
+        "firm": "Abundo_Wealth",
+        "source": "site",
+        "kind": "home",
+        "url": "https://abundowealth.com/",
+        "title": "Abundo Wealth | Advice-Only Financial Planning",
+        "file": "Competitors/Abundo_Wealth/Source_Data/pages/home.json",
+        "description": "Abundo provides ongoing, Advice-Only comprehensive financial planning at a low cost and without conflicts of interest. Minimize Fees. Maximize Life.",
+        "heading_count": 34
+      },
+      {
         "firm": "Advize_Wealth",
         "source": "site",
         "kind": "home",
@@ -730,6 +875,16 @@
         "heading_count": 14
       },
       {
+        "firm": "Avise_Financial",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.avisefinancial.com/",
+        "title": "Avise Financial — Genuine Financial Advice",
+        "file": "Competitors/Avise_Financial/Source_Data/pages/home.json",
+        "description": "Avise is a collective that helps good-hearted financial advisors start and operate their own independent firms. Our platform makes it easy for quality advisors to offer good advice to more people by making it simple to launch and run an RIA.",
+        "heading_count": 12
+      },
+      {
         "firm": "Brindle_And_Bay",
         "source": "site",
         "kind": "home",
@@ -740,6 +895,34 @@
         "heading_count": 18
       },
       {
+        "firm": "Brooklyn_Fi",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.brooklynfi.com/",
+        "title": "Your Trusted Financial Advisors in Brooklyn | BKFi",
+        "file": "Competitors/Brooklyn_Fi/Source_Data/pages/home.json",
+        "description": "Brooklyn FI is a fee-only financial planning firm based out of Brooklyn, NY with a focus on creatives and the tech industry.",
+        "heading_count": 11
+      },
+      {
+        "firm": "Burney_Wealth_Management",
+        "source": "site",
+        "kind": "home",
+        "url": "https://burney.com/",
+        "title": "Burney Company | Financial Services for Families and Institutions",
+        "file": "Competitors/Burney_Wealth_Management/Source_Data/pages/home.json",
+        "heading_count": 5
+      },
+      {
+        "firm": "Carson_Group",
+        "source": "site",
+        "kind": "home",
+        "url": "https://carsongroup.com/",
+        "title": "403 Forbidden",
+        "file": "Competitors/Carson_Group/Source_Data/pages/home.json",
+        "heading_count": 1
+      },
+      {
         "firm": "Clearvalue_Investing",
         "source": "site",
         "kind": "home",
@@ -748,6 +931,26 @@
         "file": "Competitors/Clearvalue_Investing/Source_Data/pages/home.json",
         "description": "Unlock stock & crypto strategies to maximize returns. Learn from successful investors & make smarter decisions today!",
         "heading_count": 2
+      },
+      {
+        "firm": "Compass_Ion_Advisors",
+        "source": "site",
+        "kind": "home",
+        "url": "https://compass-ionadvisors.com/",
+        "title": "Home - Compass Ion Advisors",
+        "file": "Competitors/Compass_Ion_Advisors/Source_Data/pages/home.json",
+        "description": "This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I’m a bike messenger […]",
+        "heading_count": 6
+      },
+      {
+        "firm": "Cordant_Wealth_Partners",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.cordantwealth.com/",
+        "title": "Cordant Wealth | Portland Financial Advisor for Tech Employees",
+        "file": "Competitors/Cordant_Wealth_Partners/Source_Data/pages/home.json",
+        "description": "We help you maximize your equity comp and lower taxes. We are a 100% fiduciary, financial advisor for tech employees in Portland, Oregon.",
+        "heading_count": 8
       },
       {
         "firm": "Couplr_AI",
@@ -768,6 +971,26 @@
         "heading_count": 1
       },
       {
+        "firm": "Domain_Money",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.domainmoney.com/",
+        "title": "Domain Money - Financial Plans for Your Life",
+        "file": "Competitors/Domain_Money/Source_Data/pages/home.json",
+        "description": "Flat-fee, judgement free expert financial planning for the next generation. Step by step plans from expert advisors to live your best life.",
+        "heading_count": 8
+      },
+      {
+        "firm": "Ep_Wealth_Advisors",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.epwealth.com/",
+        "title": "Financial Advisors, Tax and Estate Planning | EP Wealth Advisors",
+        "file": "Competitors/Ep_Wealth_Advisors/Source_Data/pages/home.json",
+        "description": "Fee only financial advisors who manage your financial plan, integrate your taxes and estate, and create a\ncustom portfolio that aligns with your goals.",
+        "heading_count": 12
+      },
+      {
         "firm": "Focus_Partners",
         "source": "site",
         "kind": "home",
@@ -786,6 +1009,15 @@
         "file": "Competitors/Foundry_Financial/Source_Data/pages/home.json",
         "description": "Financial advisor in Los Angeles serving clients across the US. We provide financial clarity, so you can feel confident about your money at every stage of your journey, ensuring you remain in command of your finances. Offering fee-based financial advising services. Our comprehensive retirement planning services allows you to progress toward achieving your retirement goals.",
         "heading_count": 11
+      },
+      {
+        "firm": "Greenbush_Financial_Group",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.greenbushfinancial.com/",
+        "title": "Greenbush Financial Group",
+        "file": "Competitors/Greenbush_Financial_Group/Source_Data/pages/home.json",
+        "heading_count": 9
       },
       {
         "firm": "Heritage_Wealth_Planning",
@@ -837,6 +1069,15 @@
         "heading_count": 13
       },
       {
+        "firm": "Mercer_Advisors",
+        "source": "site",
+        "kind": "home",
+        "url": "https://merceradvisors.com/",
+        "title": "403 Forbidden",
+        "file": "Competitors/Mercer_Advisors/Source_Data/pages/home.json",
+        "heading_count": 1
+      },
+      {
         "firm": "Merit_Financial_Advisors",
         "source": "site",
         "kind": "home",
@@ -844,6 +1085,16 @@
         "title": "403 Forbidden",
         "file": "Competitors/Merit_Financial_Advisors/Source_Data/pages/home.json",
         "heading_count": 1
+      },
+      {
+        "firm": "Modera_Wealth_Management",
+        "source": "site",
+        "kind": "home",
+        "url": "https://moderawealth.com/",
+        "title": "Modera - Wealth Management Firm",
+        "file": "Competitors/Modera_Wealth_Management/Source_Data/pages/home.json",
+        "description": "Simplify your financial life with Modera Wealth Management—personalized, fee-only advice that helps you gain clarity, confidence, and peace of mind",
+        "heading_count": 17
       },
       {
         "firm": "Money_Guy",
@@ -874,6 +1125,26 @@
         "file": "Competitors/Peoples_Capital_Group/Source_Data/pages/home.json",
         "description": "Peoples Capital Group is a New Jersey based Real Estate Investment Company that helps People invest in real estate who do not have the time or experience to invest alone. Passive Real Estate Investing",
         "heading_count": 43
+      },
+      {
+        "firm": "Plancorp",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.plancorp.com/",
+        "title": "Top St. Louis Financial Advisors | Plancorp Wealth Management",
+        "file": "Competitors/Plancorp/Source_Data/pages/home.json",
+        "description": "We specialize in holistic and comprehensive wealth management. From retirement planning to strategic investing and everything between, Plancorp helps you make the most of your wealth.",
+        "heading_count": 24
+      },
+      {
+        "firm": "Pure_Financial_Advisors",
+        "source": "site",
+        "kind": "home",
+        "url": "https://purefinancial.com/",
+        "title": "Pure Financial | Fee-Only Financial Advisors",
+        "file": "Competitors/Pure_Financial_Advisors/Source_Data/pages/home.json",
+        "description": "Pure Financial Advisors is a fee-only financial planning firm providing retirement planning services and tax-optimized investment management.",
+        "heading_count": 36
       },
       {
         "firm": "Pwl_Capital",
@@ -925,6 +1196,16 @@
         "heading_count": 25
       },
       {
+        "firm": "Stash_Wealth",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.stashwealth.com/",
+        "title": "Stash Wealth | Financial Advisors for 30-Somethings",
+        "file": "Competitors/Stash_Wealth/Source_Data/pages/home.json",
+        "description": "Virtual financial advisor for 30-somethings. Work one-on-one with a planner to balance your lifestyle today and your goals for the future.",
+        "heading_count": 9
+      },
+      {
         "firm": "Streamline_Planning",
         "source": "site",
         "kind": "home",
@@ -962,6 +1243,16 @@
         "heading_count": 1
       },
       {
+        "firm": "The_Mather_Group",
+        "source": "site",
+        "kind": "home",
+        "url": "https://www.themathergroup.com/",
+        "title": "Why-Powered Wealth Management | The Mather Group",
+        "file": "Competitors/The_Mather_Group/Source_Data/pages/home.json",
+        "description": "Discover purpose-driven wealth management with The Mather Group. Transparent pricing, fiduciary responsibility, and personalized financial strategies.",
+        "heading_count": 8
+      },
+      {
         "firm": "The_Peak_Fp",
         "source": "site",
         "kind": "home",
@@ -972,6 +1263,16 @@
         "heading_count": 11
       },
       {
+        "firm": "Truepoint_Wealth_Counsel",
+        "source": "site",
+        "kind": "home",
+        "url": "https://truepointwealth.com/",
+        "title": "Wealth Management Cincinnati - Truepoint Wealth Counsel",
+        "file": "Competitors/Truepoint_Wealth_Counsel/Source_Data/pages/home.json",
+        "description": "Fee-only wealth management firm based in Cincinnati, OH. Helping clients achieve financial peace of mind since 1990. Speak with an advisor today.",
+        "heading_count": 9
+      },
+      {
         "firm": "Walser_Wealth",
         "source": "site",
         "kind": "home",
@@ -980,6 +1281,16 @@
         "file": "Competitors/Walser_Wealth/Source_Data/pages/home.json",
         "description": "Walser Wealth is a nationally trusted independent wealth management firm specializing in retirement, income, and tax strategies. Start planning with confidence.",
         "heading_count": 30
+      },
+      {
+        "firm": "Wiser_Wealth_Management",
+        "source": "site",
+        "kind": "home",
+        "url": "https://wiserinvestor.com/",
+        "title": "Marietta Financial Advisors – Wiser Wealth Management",
+        "file": "Competitors/Wiser_Wealth_Management/Source_Data/pages/home.json",
+        "description": "Wiser Wealth Management in Marietta, Georgia specializes in both investment advisory services and financial consulting with no product sales or commissions.",
+        "heading_count": 41
       },
       {
         "firm": "Xy_Planning_Network",
@@ -993,6 +1304,16 @@
       }
     ],
     "pricing": [
+      {
+        "firm": "Abundo_Wealth",
+        "source": "site",
+        "kind": "pricing",
+        "url": "https://abundowealth.com/pricing",
+        "title": "Abundo Wealth | Advice-Only Financial Planning",
+        "file": "Competitors/Abundo_Wealth/Source_Data/pages/pricing.json",
+        "description": "Abundo provides ongoing, Advice-Only comprehensive financial planning at a low cost and without conflicts of interest. Minimize Fees. Maximize Life.",
+        "heading_count": 0
+      },
       {
         "firm": "Asset_Map",
         "source": "site",
@@ -1042,6 +1363,16 @@
         "heading_count": 11
       },
       {
+        "firm": "Pure_Financial_Advisors",
+        "source": "site",
+        "kind": "pricing",
+        "url": "https://purefinancial.com/why-pure/fees/",
+        "title": "Financial Planning & Asset Management Fees",
+        "file": "Competitors/Pure_Financial_Advisors/Source_Data/pages/pricing.json",
+        "description": "How much does financial planning cost? Learn more about Fees from Pure Financial Advisors. Contact us today!",
+        "heading_count": 47
+      },
+      {
         "firm": "The_Peak_Fp",
         "source": "site",
         "kind": "pricing",
@@ -1064,6 +1395,16 @@
     ],
     "services": [
       {
+        "firm": "Abundo_Wealth",
+        "source": "site",
+        "kind": "services",
+        "url": "https://abundowealth.com/services",
+        "title": "Abundo Wealth | Advice-Only Financial Planning",
+        "file": "Competitors/Abundo_Wealth/Source_Data/pages/services.json",
+        "description": "Abundo provides ongoing, Advice-Only comprehensive financial planning at a low cost and without conflicts of interest. Minimize Fees. Maximize Life.",
+        "heading_count": 0
+      },
+      {
         "firm": "Brindle_And_Bay",
         "source": "site",
         "kind": "services",
@@ -1072,6 +1413,15 @@
         "file": "Competitors/Brindle_And_Bay/Source_Data/pages/services.json",
         "description": "Independent financial planning and private wealth management firm focused on educating our clients so they can be confident in their financial future.",
         "heading_count": 15
+      },
+      {
+        "firm": "Compass_Ion_Advisors",
+        "source": "site",
+        "kind": "services",
+        "url": "https://compass-ionadvisors.com/process/",
+        "title": "Process - Compass Ion Advisors",
+        "file": "Competitors/Compass_Ion_Advisors/Source_Data/pages/services.json",
+        "heading_count": 8
       },
       {
         "firm": "Foundry_Financial",
@@ -1092,6 +1442,16 @@
         "file": "Competitors/Kda_Inc/Source_Data/pages/services.json",
         "description": "Discover how tax services can transform your tax experience. Partner with a tax strategist to optimize your financial outcomes.",
         "heading_count": 3
+      },
+      {
+        "firm": "Modera_Wealth_Management",
+        "source": "site",
+        "kind": "services",
+        "url": "https://moderawealth.com/solutions/",
+        "title": "Solutions | Modera Wealth Management",
+        "file": "Competitors/Modera_Wealth_Management/Source_Data/pages/services.json",
+        "description": "Whether you are accumulating wealth in growth mode or sustaining the wealth you have earned, we are your CFO, and we report to you.",
+        "heading_count": 5
       },
       {
         "firm": "Pwl_Capital",
@@ -1132,6 +1492,16 @@
         "heading_count": 0
       },
       {
+        "firm": "The_Mather_Group",
+        "source": "site",
+        "kind": "services",
+        "url": "https://www.themathergroup.com/services-wealth",
+        "title": "Our Services | The Mather Group",
+        "file": "Competitors/The_Mather_Group/Source_Data/pages/services.json",
+        "description": "Discover purpose-driven wealth management with The Mather Group. Transparent pricing, fiduciary responsibility, and personalized financial strategies.",
+        "heading_count": 6
+      },
+      {
         "firm": "The_Peak_Fp",
         "source": "site",
         "kind": "services",
@@ -1163,6 +1533,203 @@
       }
     ],
     "blog_post": [
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/5-questions-to-ask-your-estate-attorney",
+        "title": "5 Questions To Ask Your Estate Attorney",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2025-11-16_5-questions-to-ask-your-estate-attorney_13e8a8.md",
+        "date": "2025-11-16",
+        "author": "Jeremy Zuke",
+        "word_count": 908
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/5-questions-to-ask-your-real-estate-agent",
+        "title": "5 Questions to Ask Your Real Estate Agent",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2025-12-05_5-questions-to-ask-your-real-estate-agent_caac55.md",
+        "date": "2025-12-05",
+        "author": "Jeremy Zuke",
+        "word_count": 1139
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/categories/travel-hacking",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2026-06-14_abundo-wealth_a4f304.md",
+        "date": "2026-06-14",
+        "word_count": 52
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/categories/managing-your-tax-bill",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2026-04-09_abundo-wealth_6d7192.md",
+        "date": "2026-04-09",
+        "word_count": 52
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/categories/buying-a-house",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2025-12-04_abundo-wealth_9d5822.md",
+        "date": "2025-12-04",
+        "word_count": 52
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/categories/foundational-personal-finance",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2025-09-30_abundo-wealth_5efcb1.md",
+        "date": "2025-09-30",
+        "word_count": 52
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/categories/financial-independence-and-early-retirement",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2025-06-24_abundo-wealth_5143ee.md",
+        "date": "2025-06-24",
+        "word_count": 52
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/categories/growing-your-wealth",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2025-02-12_abundo-wealth_a7b09e.md",
+        "date": "2025-02-12",
+        "word_count": 52
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/categories/saving-money",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2024-11-10_abundo-wealth_e66276.md",
+        "date": "2024-11-10",
+        "word_count": 52
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/categories/paying-for-college",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2024-05-08_abundo-wealth_f49a59.md",
+        "date": "2024-05-08",
+        "word_count": 52
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/legal/terms_of_use",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2026-06-17_abundo-wealth_b0391d.md",
+        "word_count": 1065
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/legal/notice_and_disclamer",
+        "title": "Abundo Wealth",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2026-06-17_abundo-wealth_49eecf.md",
+        "word_count": 578
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/cash-back-credit-cards-are-great-too",
+        "title": "Cash Back Credit Cards Are Great, Too",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2026-03-25_cash-back-credit-cards-are-great-too_18d3c1.md",
+        "date": "2026-03-25",
+        "author": "Jeremy Zuke",
+        "word_count": 1132
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/is-tax-loss-harvesting-right-for-you",
+        "title": "Is Tax Loss Harvesting Right for You?",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2026-04-10_is-tax-loss-harvesting-right-for-you_42bab1.md",
+        "date": "2026-04-10",
+        "author": "Olivia Lima",
+        "word_count": 2196
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/it-doesnt-have-to-be-a-cfp-professional",
+        "title": "It Doesn't Have to Be a CFP® Professional",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2025-10-01_it-doesn-t-have-to-be-a-cfp-professional_96c94b.md",
+        "date": "2025-10-01",
+        "author": "Jeremy Zuke",
+        "word_count": 1435
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/our-investment-philosophy",
+        "title": "Our Investment Philosophy",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2022-08-03_our-investment-philosophy_c0f1a5.md",
+        "date": "2022-08-03",
+        "author": "Eric Simonson",
+        "word_count": 1010
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/what-is-a-flat-fee-financial-advisor",
+        "title": "What is a Flat Fee Financial Advisor?",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2022-05-09_what-is-a-flat-fee-financial-advisor_c49acf.md",
+        "date": "2022-05-09",
+        "author": "Eric Simonson",
+        "word_count": 1432
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/when-do-you-need-a-financial-advisor",
+        "title": "When Do You Need a Financial Advisor?",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2022-06-23_when-do-you-need-a-financial-advisor_6dbe22.md",
+        "date": "2022-06-23",
+        "author": "Lori Bodenhamer",
+        "word_count": 710
+      },
+      {
+        "firm": "Abundo_Wealth",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://abundowealth.com/blog/why-travel-is-possible-on-any-income",
+        "title": "Why Travel Is Possible on Any Income",
+        "file": "Competitors/Abundo_Wealth/Knowledge_From_Source/2026-06-15_why-travel-is-possible-on-any-income_4e075c.md",
+        "date": "2026-06-15",
+        "author": "Emmanuella Desruisseaux",
+        "word_count": 1773
+      },
       {
         "firm": "Advize_Wealth",
         "source": "blog",
@@ -2384,6 +2951,17 @@
         "title": "Trading Chart Analysis & News",
         "file": "Competitors/Clearvalue_Investing/Knowledge_From_Source/2026-06-15_trading-chart-analysis-news.md",
         "word_count": 1936
+      },
+      {
+        "firm": "Compass_Ion_Advisors",
+        "source": "blog",
+        "kind": "blog_post",
+        "url": "https://compass-ionadvisors.com/q1-capital-market-highlights/",
+        "title": "Q1 Capital Market Highlights - Compass Ion Advisors",
+        "file": "Competitors/Compass_Ion_Advisors/Knowledge_From_Source/2026-04-21_q1-capital-market-highlights-compass-ion-advisors_8d2e90.md",
+        "date": "2026-04-21",
+        "author": "Compass Ion",
+        "word_count": 797
       },
       {
         "firm": "Focus_Partners",
@@ -4574,6 +5152,15 @@
     ]
   },
   "by_firm": {
+    "Abundo_Wealth": {
+      "about": 1,
+      "blog_index": 1,
+      "contact": 1,
+      "home": 1,
+      "pricing": 1,
+      "services": 1,
+      "blog_post": 19
+    },
     "Advize_Wealth": {
       "about": 1,
       "blog_index": 1,
@@ -4596,6 +5183,9 @@
       "home": 1,
       "pricing": 1
     },
+    "Avise_Financial": {
+      "home": 1
+    },
     "Brindle_And_Bay": {
       "about": 1,
       "blog_index": 1,
@@ -4604,6 +5194,15 @@
       "services": 1,
       "blog_post": 30
     },
+    "Brooklyn_Fi": {
+      "home": 1
+    },
+    "Burney_Wealth_Management": {
+      "home": 1
+    },
+    "Carson_Group": {
+      "home": 1
+    },
     "Clearvalue_Investing": {
       "blog_index": 1,
       "contact": 1,
@@ -4611,12 +5210,29 @@
       "pricing": 1,
       "blog_post": 14
     },
+    "Compass_Ion_Advisors": {
+      "about": 1,
+      "blog_index": 1,
+      "contact": 1,
+      "home": 1,
+      "services": 1,
+      "blog_post": 1
+    },
+    "Cordant_Wealth_Partners": {
+      "home": 1
+    },
     "Couplr_AI": {
       "blog_index": 1,
       "contact": 1,
       "home": 1
     },
     "Dealmakers": {
+      "home": 1
+    },
+    "Domain_Money": {
+      "home": 1
+    },
+    "Ep_Wealth_Advisors": {
       "home": 1
     },
     "Focus_Partners": {
@@ -4632,6 +5248,9 @@
       "home": 1,
       "services": 1,
       "blog_post": 9
+    },
+    "Greenbush_Financial_Group": {
+      "home": 1
     },
     "Heritage_Wealth_Planning": {
       "blog_index": 1,
@@ -4663,8 +5282,18 @@
       "contact": 1,
       "home": 1
     },
+    "Mercer_Advisors": {
+      "home": 1
+    },
     "Merit_Financial_Advisors": {
       "home": 1
+    },
+    "Modera_Wealth_Management": {
+      "about": 1,
+      "blog_index": 1,
+      "contact": 1,
+      "home": 1,
+      "services": 1
     },
     "Money_Guy": {
       "about": 1,
@@ -4684,6 +5313,16 @@
       "blog_index": 1,
       "contact": 1,
       "home": 1
+    },
+    "Plancorp": {
+      "home": 1
+    },
+    "Pure_Financial_Advisors": {
+      "about": 1,
+      "blog_index": 1,
+      "contact": 1,
+      "home": 1,
+      "pricing": 1
     },
     "Pwl_Capital": {
       "about": 1,
@@ -4718,6 +5357,9 @@
       "home": 1,
       "services": 1
     },
+    "Stash_Wealth": {
+      "home": 1
+    },
     "Streamline_Planning": {
       "blog_index": 1,
       "contact": 1,
@@ -4742,6 +5384,12 @@
       "home": 1,
       "blog_post": 1
     },
+    "The_Mather_Group": {
+      "blog_index": 1,
+      "contact": 1,
+      "home": 1,
+      "services": 1
+    },
     "The_Peak_Fp": {
       "about": 1,
       "blog_index": 1,
@@ -4751,12 +5399,18 @@
       "services": 1,
       "blog_post": 15
     },
+    "Truepoint_Wealth_Counsel": {
+      "home": 1
+    },
     "Walser_Wealth": {
       "blog_index": 1,
       "contact": 1,
       "home": 1,
       "services": 1,
       "blog_post": 12
+    },
+    "Wiser_Wealth_Management": {
+      "home": 1
     },
     "Xy_Planning_Network": {
       "about": 1,

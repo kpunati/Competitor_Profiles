@@ -1,0 +1,309 @@
+{
+  "kind": "home",
+  "url": "https://purefinancial.com/",
+  "title": "Pure Financial | Fee-Only Financial Advisors",
+  "meta": {
+    "description": "Pure Financial Advisors is a fee-only financial planning firm providing retirement planning services and tax-optimized investment management.",
+    "og_title": "Pure Financial | Fee-Only Financial Advisors",
+    "og_description": "Pure Financial Advisors is a fee-only financial planning firm providing retirement planning services and tax-optimized investment management."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Experience the Pure Difference"
+    },
+    {
+      "level": "H3",
+      "text": "Attend a Retirement Class"
+    },
+    {
+      "level": "H3",
+      "text": "Talk to an Advisor"
+    },
+    {
+      "level": "H2",
+      "text": "We’ve Got You Covered"
+    },
+    {
+      "level": "H3",
+      "text": "Prepare for Retirement"
+    },
+    {
+      "level": "H3",
+      "text": "Reduce Your Tax Liability"
+    },
+    {
+      "level": "H3",
+      "text": "Find Your Advisor"
+    },
+    {
+      "level": "H3",
+      "text": "Invest for Your Future"
+    },
+    {
+      "level": "H3",
+      "text": "Never Stop Learning"
+    },
+    {
+      "level": "H2",
+      "text": "Jumpstart Your Retirement Planning with Our Free Resources!"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Blueprint"
+    },
+    {
+      "level": "H3",
+      "text": "Learning Center"
+    },
+    {
+      "level": "H3",
+      "text": "Retirement Planning, Investing, and Tax Reduction Made Fun"
+    },
+    {
+      "level": "H2",
+      "text": "Pure in the News"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Planning"
+    },
+    {
+      "level": "H3",
+      "text": "Investment Planning"
+    },
+    {
+      "level": "H2",
+      "text": "Experience the PURE Difference"
+    },
+    {
+      "level": "H3",
+      "text": "Sign Up for Our Newsletter"
+    },
+    {
+      "level": "H3",
+      "text": "Give Us a Call:"
+    },
+    {
+      "level": "H3",
+      "text": "Quick Links:"
+    },
+    {
+      "level": "H3",
+      "text": "Connect with Us:"
+    },
+    {
+      "level": "H2",
+      "text": "Subscribe to YMYW"
+    },
+    {
+      "level": "H3",
+      "text": "Ask Joe & Big Al on Air"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Upgrade to Planner+"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Chili Piper Test"
+    },
+    {
+      "level": "H3",
+      "text": "Congress Approves The SECURE Act"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Free Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Free Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Get Our Insights"
+    },
+    {
+      "level": "H3",
+      "text": "White Papers"
+    },
+    {
+      "level": "H3",
+      "text": "Request ADV"
+    },
+    {
+      "level": "H3",
+      "text": "Secure Client Login"
+    },
+    {
+      "level": "H3",
+      "text": "Talk to an Advisor"
+    },
+    {
+      "level": "H3",
+      "text": "YMYW Newsletter"
+    },
+    {
+      "level": "H3",
+      "text": "Join the YMYW Newsletter!"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Manage options",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-manage-consent-container"
+    },
+    {
+      "text": "Manage services",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-cookies-overview"
+    },
+    {
+      "text": "Manage {vendor_count} vendors",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-tcf-wrapper"
+    },
+    {
+      "text": "Read more about these purposes",
+      "tag": "A",
+      "href": "https://cookiedatabase.org/tcf/purposes/"
+    },
+    {
+      "text": "Accept",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Functional only",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "View preferences",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Save preferences",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "View preferences",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-manage-consent-container"
+    },
+    {
+      "text": "Opt-out preferences",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/"
+    },
+    {
+      "text": "{title}",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "{title}",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "GET STARTED NOW",
+      "tag": "A",
+      "href": "https://purefinancial.com/financialblueprint/?utm_source=purefinancial.com&utm_medium=topbar&utm_campaign=FinancialBlueprint"
+    },
+    {
+      "text": "CALL",
+      "tag": "A",
+      "href": "tel:+18668767873"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://purefinancial.com/why-pure/contact-us/"
+    },
+    {
+      "text": "FORM CRS",
+      "tag": "A",
+      "href": "https://purefinancial.com/wp-content/uploads/2026/02/Form-CRS-2-12-26.pdf"
+    },
+    {
+      "text": "LOCATIONS",
+      "tag": "A",
+      "href": "https://purefinancial.com/why-pure/locations/"
+    },
+    {
+      "text": "LOG IN",
+      "tag": "A",
+      "href": "#modal-login"
+    },
+    {
+      "text": "GET AN ASSESSMENT",
+      "tag": "A",
+      "href": "https://purefinancial.com/lp/free-assessment"
+    },
+    {
+      "text": "Financial Resources",
+      "tag": "A",
+      "href": "https://purefinancial.com/learning-center/"
+    },
+    {
+      "text": "All White Papers",
+      "tag": "A",
+      "href": "https://purefinancial.com/white-papers/"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://purefinancial.com/learning-center/blog/"
+    },
+    {
+      "text": "Educational Events",
+      "tag": "A",
+      "href": "https://purefinancial.com/retirement-classes/"
+    },
+    {
+      "text": "Educational Videos",
+      "tag": "A",
+      "href": "https://purefinancial.com/ask-pure/"
+    },
+    {
+      "text": "Free Assessment",
+      "tag": "A",
+      "href": "https://purefinancial.com/lp/free-assessment/"
+    },
+    {
+      "text": "Retirement Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/retirement-classes/"
+    },
+    {
+      "text": "Chicago Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/chicago-classes/"
+    },
+    {
+      "text": "Denver Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/denver/"
+    },
+    {
+      "text": "Lehi Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/lehi-classes/"
+    },
+    {
+      "text": "Nashville Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/nashville-classes/"
+    }
+  ],
+  "body_text": "Plan your financial future with a quick analysis that will calculate your success. Get your financial blueprint today!\nGET STARTED NOW\nCALL\nCONTACT\nFORM CRS\nLOCATIONS\nLOG IN\nGET AN ASSESSMENT\nFinancial Resources\nRetirement Workshops\nFinancial Planning\nInvestment Planning\nThe Pure Difference\nYour Money, Your Wealth\nExperience the Pure Difference\nWith a focus on financial education and a transparent advisory process, our financial advisors strive to help everyone reach their financial goals. Find out how our advisors can help you create a holistic financial plan that will help set you up for success now and in the future. We offer fee-only financial planning to put you on track for the journey that lies ahead.\nGET YOUR FREE ASSESSMENT\nAttend a Retirement Class\nPlan for your retirement today and secure a better future for tomorrow.\nFind a retirement class near you today!\nVIEW CLASSES\nTalk to an Advisor\nOur process is personalized to meet your unique financial goals. A certified professional will take you through our customized process, answering all your questions.\nFind a financial advisor near you today!\nTALK TO AN ADVISOR\nWe’ve Got You Covered\nIt’s not just about your money, it’s about your life. Pure Financial private wealth management professionals understand how complex your life and financial situation can be, and we’re here to help. Whether you’re nearing retirement, in retirement, had a life-altering event, or just need advisory services, our team of experienced financial professionals can help you get the right information so you can make the best decisions for your financial future. Here’s what’s included in your free assessment:\nClearly define your financial and retirement plans, goals, and objectives\nStrategies to increase income\nStrategies to minimize taxes\nAssess portfolio for alignment of financial goals with investments\nCreate realistic expectations\nGET A FREE ASSESSMENT\nPrepare for Retirement\nEnsuring that you are prepared for retirement can be highly complex. You’ve worked hard enough to get to this point, so leave that work up to us. Our team of experienced financial professionals can help guide you through the retirement planning process. Let us take care of the complexities, while you enjoy life.\nLearn More\nReduce Your Tax Liability\nAt Pure, one of our key financial planning strategies is finding ways to reduce the amount you pay in taxes annually. Our experienced financial professionals devote substantial resources to develop tools and implement strategies that help control your tax burden now and in the future.\nLearn More\nFind Your Advisor\nPure Financial is a fee-only advisory firm that has hand-picked a team of qualified and credentialed professionals who are working to help you achieve your financial goals. Get to know our financial advisors and see how we can help you.\nLearn More\nInvest for Your Future\nPure’s asset management relies on evidence-based investment principles and decards of time-tested research. We design and manage portfolios utilizing a long-term, prudent investment strategy designed to let the power of the markets work for you.\nLearn More\nNever Stop Learning\nEducation is the foundation of a successful future. Here, we believe your financial journey should start with learning. We provide weekly content to help you through the ongoing process of creating your financial plan. Visit our learning center to take advantage of our financial resources.\nLearn More\nJumpstart Your Retirement Planning with Our Free Resources!\nPure Financial puts education at the core of everything we do. We strive to be a financial resource that people can turn to when they need a helping hand. Check out our latest white paper, educational video, join us at our next educational event, or talk to an advisor today to find out how we can help you reach your financial goals.\nFinancial Blueprint\nPlan your financial future with a quick analysis that will calculate your success. Get your FREE financial blueprint today!\nGet Started Now\nLearning Center\nJourney through our educational resources to help guide you toward achieving your short-term and long-term financial goals.\nEducation Home\nSun. 6:30am, CBS 8 San Diego\nSun. 6:30am, KIRO7-Seattle\nRetirement Planning, Investing, and Tax Reduction Made Fun\n WATCH TV SHOWS\n LISTEN TO PODCASTS\nDOWNLOAD OUR SPECIAL OFFER\nASK JOE & AL ON AIR\nPure in the News\nA highlight of our recent accomplishments and recognitions along the way\nPure Ranked #47 out of 1,000 RIAs in USA Today’s Best Financial Advisory Firms 2026\nPure Financial has earned a spot among the Top 25 of 115 Best Financial Advisory Firms managing over $5 billion in assets under management (AUM), an impressive 22-spot climb from last year. Even more notably, Pure Financial ranked #47 out of 1,000 Overall Best Financial Advisor Firms by USA Today, a remarkable leap from #375...\n08\nJUN\n2026\nREAD MORE\nPure Financial Ranked #7 out of 45 Top Wealth Management Firms by San Diego Business Journal\nPure was rated 7 out of 45 wealth management firms in San Diego.  The ranking was determined by assets managed locally for fiscal year 2025.  This recognition reflects Pure’s impressive growth trajectory and solidifies our position as one of the influential wealth management firms in the San Diego region. Click here to read the full...\n20\nAPR\n2026\nREAD MORE\nPure Ranked #39 out of 150 Fee-Only RIA Firms by Financial Planning (2025)\nPure Financial Advisors is proud to be named to Financial Planning’s 2025 list of top RIA Leaders, a ranking determined by assets under management. The firm earned the #39 spot among 150 ranked companies, rising four places from last year. In total, this year’s 150 largest fee-only financial planning firms manage $1.09 trillion in AUM...\n02\nDEC\n2025\nREAD MORE\nJOIN OUR NEWSLETTER READ MORE NEWS\nLink\nFinancial Planning\nIt all starts with a plan. Explore how our trusted advisors can help you with your financial plan today.\nLearn More\nLink\nInvestment Planning\nGrow your wealth through generations. Learn how Pure Financial invests for your future.\nLearn More\nLink\nExperience the PURE Difference\nGet Your Free Assessment\nFinancial Planning and Investment advisory services are offered through Pure Financial Advisors, LLC (Pure), a registered investment advisor. The content of this website is provided for informational purposes only and is not a solicitation or recommendation of any investment strategy. Investments and/or investment strategies involve risk including the possible loss of principal. There is no assurance that any investment strategy will achieve its objectives. Information provided is not intended as tax or legal advice and should not be relied on as such. You are encouraged to seek tax or legal advice from an independent professional. Pure is not affiliated with or endorsed by the Social Security Administration or any other government agency.\nSign Up for Our Newsletter\nHow Did You Hear About Us?\nRadio\nTV\nPodcast\nYoutube\nMailer\nWord of Mouth\nSearch Engine\nOther\nBy clicking submit, you are providing Pure Financial express written consent to be contacted by SMS, possibly using automated technology to the number you provided. If at any time you wish to opt-out of communication, please reply \"STOP\" to cancel. Text \"HELP\" for help. Message frequency may vary. Message/data rates may apply. Submission of this form does not authorize the purchase of goods, services, or products. See Pure’s Privacy Policy at the bottom of the webpage.\n Your information is secure.\nGive Us a Call:\n1 (866) 876-7873\nQuick Links:\nLog In\nCareers\nContact Us\nDesignations and Certifications\nFinancial Blueprint\nForm ADV 2A\nPartner with Pure\nPure Financial App\nCookie Policy\nPrivacy Policy\nPrivacy Statement\nConnect with Us:\n Youtube\n Twitter\n LinkedIn\n Facebook\nBack To Top\nRefunds available upon written notice\n© Copyright 2025. Pure Financial Advisors, LLC. All rights reserved."
+}

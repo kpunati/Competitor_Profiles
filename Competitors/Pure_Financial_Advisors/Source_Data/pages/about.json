@@ -1,0 +1,269 @@
+{
+  "kind": "about",
+  "url": "https://purefinancial.com/why-pure/our-story/",
+  "title": "About Pure Financial Advisors - Fee-Only Financial Planning",
+  "meta": {
+    "description": "Pure is a fee-only RIA providing comprehensive retirement planning services and tax-optimized investment management.",
+    "og_title": "About Pure Financial Advisors - Fee-Only Financial Planning",
+    "og_description": "Pure is a fee-only RIA providing comprehensive retirement planning services and tax-optimized investment management."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Our Story"
+    },
+    {
+      "level": "H2",
+      "text": "Michael Fenison"
+    },
+    {
+      "level": "H2",
+      "text": "Experience Meets Innovation"
+    },
+    {
+      "level": "H2",
+      "text": "Education and Growth"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Planning"
+    },
+    {
+      "level": "H3",
+      "text": "Investment Planning"
+    },
+    {
+      "level": "H2",
+      "text": "Experience the PURE Difference"
+    },
+    {
+      "level": "H3",
+      "text": "Sign Up for Our Newsletter"
+    },
+    {
+      "level": "H3",
+      "text": "Give Us a Call:"
+    },
+    {
+      "level": "H3",
+      "text": "Quick Links:"
+    },
+    {
+      "level": "H3",
+      "text": "Connect with Us:"
+    },
+    {
+      "level": "H2",
+      "text": "Subscribe to YMYW"
+    },
+    {
+      "level": "H3",
+      "text": "Ask Joe & Big Al on Air"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Upgrade to Planner+"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Chili Piper Test"
+    },
+    {
+      "level": "H3",
+      "text": "Congress Approves The SECURE Act"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Free Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Free Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Get Our Insights"
+    },
+    {
+      "level": "H3",
+      "text": "White Papers"
+    },
+    {
+      "level": "H3",
+      "text": "Request ADV"
+    },
+    {
+      "level": "H3",
+      "text": "Secure Client Login"
+    },
+    {
+      "level": "H3",
+      "text": "Talk to an Advisor"
+    },
+    {
+      "level": "H3",
+      "text": "YMYW Newsletter"
+    },
+    {
+      "level": "H3",
+      "text": "Join the YMYW Newsletter!"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Manage options",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-manage-consent-container"
+    },
+    {
+      "text": "Manage services",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-cookies-overview"
+    },
+    {
+      "text": "Manage {vendor_count} vendors",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-tcf-wrapper"
+    },
+    {
+      "text": "Read more about these purposes",
+      "tag": "A",
+      "href": "https://cookiedatabase.org/tcf/purposes/"
+    },
+    {
+      "text": "Accept",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Functional only",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "View preferences",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Save preferences",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "View preferences",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-manage-consent-container"
+    },
+    {
+      "text": "Opt-out preferences",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/"
+    },
+    {
+      "text": "{title}",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "{title}",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "GET STARTED NOW",
+      "tag": "A",
+      "href": "https://purefinancial.com/financialblueprint/?utm_source=purefinancial.com&utm_medium=topbar&utm_campaign=FinancialBlueprint"
+    },
+    {
+      "text": "CALL",
+      "tag": "A",
+      "href": "tel:+18668767873"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://purefinancial.com/why-pure/contact-us/"
+    },
+    {
+      "text": "FORM CRS",
+      "tag": "A",
+      "href": "https://purefinancial.com/wp-content/uploads/2026/02/Form-CRS-2-12-26.pdf"
+    },
+    {
+      "text": "LOCATIONS",
+      "tag": "A",
+      "href": "https://purefinancial.com/why-pure/locations/"
+    },
+    {
+      "text": "LOG IN",
+      "tag": "A",
+      "href": "#modal-login"
+    },
+    {
+      "text": "GET AN ASSESSMENT",
+      "tag": "A",
+      "href": "https://purefinancial.com/lp/free-assessment"
+    },
+    {
+      "text": "Financial Resources",
+      "tag": "A",
+      "href": "https://purefinancial.com/learning-center/"
+    },
+    {
+      "text": "All White Papers",
+      "tag": "A",
+      "href": "https://purefinancial.com/white-papers/"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://purefinancial.com/learning-center/blog/"
+    },
+    {
+      "text": "Educational Events",
+      "tag": "A",
+      "href": "https://purefinancial.com/retirement-classes/"
+    },
+    {
+      "text": "Educational Videos",
+      "tag": "A",
+      "href": "https://purefinancial.com/ask-pure/"
+    },
+    {
+      "text": "Free Assessment",
+      "tag": "A",
+      "href": "https://purefinancial.com/lp/free-assessment/"
+    },
+    {
+      "text": "Retirement Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/retirement-classes/"
+    },
+    {
+      "text": "Chicago Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/chicago-classes/"
+    },
+    {
+      "text": "Denver Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/denver/"
+    },
+    {
+      "text": "Lehi Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/lehi-classes/"
+    },
+    {
+      "text": "Nashville Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/nashville-classes/"
+    }
+  ],
+  "body_text": "Plan your financial future with a quick analysis that will calculate your success. Get your financial blueprint today!\nGET STARTED NOW\nCALL\nCONTACT\nFORM CRS\nLOCATIONS\nLOG IN\nGET AN ASSESSMENT\nFinancial Resources\nRetirement Workshops\nFinancial Planning\nInvestment Planning\nThe Pure Difference\nYour Money, Your Wealth\nMORE ABOUT PURE\nOur Story\nA business model that would minimize conflicts, one that would create a positive change for the financial industry.\nOUR FOUNDER\nMichael Fenison\nAfter selling his firm at the time, Michael Fenison figured it was time to retire. He had built one of the largest branch office systems in the ING broker-dealer network, but had grown frustrated with many issues in the financial industry.\nThe commission and sales culture of the brokerage industry never quite sat right with Fenison. The competitive sales environment caused a conflict of interest between the advisor and client. Oftentimes the advisors were only looking out for their own best interest.\nWhen Fenison was ready to hit the beach, friends and colleagues challenged him to use his experience to craft a new type of business model. This business model would minimize conflicts and create a positive change for the financial industry.\nExperience Meets Innovation\nThe result was Pure Financial Advisors, LLC, a fee-only Registered Investment Advisor providing comprehensive retirement planning services and tax-optimized investment management. A pure business model was the vision, and Pure Financial Advisors became the reality.\nDoors opened for business in 2007 with no clients, negative revenue, and zero assets under management. Within just seventeen years of the firm’s opening, Pure Financial surpassed $11.05 billion in client assets under management (as of February 12th, 2026), and is currently helping over 7,509 clients plan for their future.\nEducation and Growth\nThe foundation of Pure’s planning is rooted in years of time-tested research. Pure Financial looks to financial science as the guiding light to form our strategies. As the world continues to evolve, Pure continues to learn.\nPure Financial puts education at the core of everything we do. We strive to be a financial resource that people can turn to when they need a helping hand. Join us at our next educational event or talk to an advisor today to find out how we can help you reach your financial goals.\nLink\nFinancial Planning\nJoin us for a one-hour lunch n’ learn as we discuss the current state of the economy, the new tax reform, how to reduce taxes in retirement, and appropriate investment strategies for volatile markets.\nLearn More\nLink\nInvestment Planning\nDon’t leave Financial circumstances to uncertainty, solidify your retirement plans with the help of experts.\nLearn More\nLink\nExperience the PURE Difference\nGet Your Free Assessment\nSign Up for Our Newsletter\nHow Did You Hear About Us?\nRadio\nTV\nPodcast\nYoutube\nMailer\nWord of Mouth\nSearch Engine\nOther\nBy clicking submit, you are providing Pure Financial express written consent to be contacted by SMS, possibly using automated technology to the number you provided. If at any time you wish to opt-out of communication, please reply \"STOP\" to cancel. Text \"HELP\" for help. Message frequency may vary. Message/data rates may apply. Submission of this form does not authorize the purchase of goods, services, or products. See Pure’s Privacy Policy at the bottom of the webpage.\n Your information is secure.\nGive Us a Call:\n1 (866) 876-7873\nQuick Links:\nLog In\nCareers\nContact Us\nDesignations and Certifications\nFinancial Blueprint\nForm ADV 2A\nPartner with Pure\nPure Financial App\nCookie Policy\nPrivacy Policy\nPrivacy Statement\nConnect with Us:\n Youtube\n Twitter\n LinkedIn\n Facebook\nBack To Top\nRefunds available upon written notice\n© Copyright 2025. Pure Financial Advisors, LLC. All rights reserved."
+}

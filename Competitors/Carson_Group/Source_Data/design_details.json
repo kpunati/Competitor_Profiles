@@ -1,0 +1,26 @@
+{
+  "competitor": "403 Forbidden",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://carsongroup.com",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [],
+    "primary": null,
+    "accent": null
+  },
+  "typography": {
+    "heading_family": "Times",
+    "heading_weight": "700",
+    "body_family": "Times",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": null
+  },
+  "primary_button": null,
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

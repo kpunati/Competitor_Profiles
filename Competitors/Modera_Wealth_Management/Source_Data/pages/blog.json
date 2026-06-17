@@ -1,0 +1,217 @@
+{
+  "kind": "blog",
+  "url": "https://moderawealth.com/insights/",
+  "title": "News | Modera Wealth Management",
+  "meta": {
+    "description": null,
+    "og_title": "News | Modera Wealth Management",
+    "og_description": null
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Read our recent insights"
+    },
+    {
+      "level": "H3",
+      "text": "Guidance for Life After Loss"
+    },
+    {
+      "level": "H3",
+      "text": "How Secure Is Your Deferred Compensation Plan?"
+    },
+    {
+      "level": "H3",
+      "text": "Spousal IRAs: A Quick Guide"
+    },
+    {
+      "level": "H3",
+      "text": "Artificial Intelligence: A Double-Edged Sword for Older Adults and Their Finances"
+    },
+    {
+      "level": "H3",
+      "text": "Investor Brief: Countdown to Launch"
+    },
+    {
+      "level": "H3",
+      "text": "Navigating Wealth Conversations with Adult Children"
+    },
+    {
+      "level": "H3",
+      "text": "Retirement Planning: Getting and Staying on Track"
+    },
+    {
+      "level": "H3",
+      "text": "Are You a Business Owner in Need of a Succession Plan?"
+    },
+    {
+      "level": "H3",
+      "text": "LEARN BY TOPIC:"
+    },
+    {
+      "level": "H2",
+      "text": "Speak with an Advisor"
+    },
+    {
+      "level": "H2",
+      "text": "You Deserve Financial Clarity"
+    },
+    {
+      "level": "H3",
+      "text": "Common Estate Planning Gaps High-Net-Worth Families Should Review"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "href": "#content"
+    },
+    {
+      "text": "Register now",
+      "tag": "A",
+      "href": "https://learn.moderawealth.com/address-common-estate-planning-gaps-webinar"
+    },
+    {
+      "text": "Register now",
+      "tag": "A",
+      "href": "https://learn.moderawealth.com/address-common-estate-planning-gaps-webinar"
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "href": "https://www.facebook.com/ModeraWealthManagement"
+    },
+    {
+      "text": "Linkedin-in",
+      "tag": "A",
+      "href": "https://www.linkedin.com/company/modera-wealth-management/"
+    },
+    {
+      "text": "Youtube",
+      "tag": "A",
+      "href": "https://www.youtube.com/@ModeraWealthManagementLLC"
+    },
+    {
+      "text": "Form CRS",
+      "tag": "A",
+      "href": "https://moderawealth.com/wp-content/uploads/MWM-Form-CRS.pdf"
+    },
+    {
+      "text": "Giving",
+      "tag": "A",
+      "href": "https://moderawealth.com/giving-back/"
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "href": "https://moderawealth.com/category/press-mentions/"
+    },
+    {
+      "text": "OPEN ABOUT",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Our Story",
+      "tag": "A",
+      "href": "https://moderawealth.com/our-story/"
+    },
+    {
+      "text": "Our People",
+      "tag": "A",
+      "href": "https://moderawealth.com/people/"
+    },
+    {
+      "text": "Offices",
+      "tag": "A",
+      "href": "https://moderawealth.com/offices/"
+    },
+    {
+      "text": "Work With Us",
+      "tag": "A",
+      "href": "https://moderawealth.com/work-with-us/"
+    },
+    {
+      "text": "Recognition",
+      "tag": "A",
+      "href": "https://moderawealth.com/recognition/"
+    },
+    {
+      "text": "Our Story",
+      "tag": "A",
+      "href": "https://moderawealth.com/our-story/"
+    },
+    {
+      "text": "Our People",
+      "tag": "A",
+      "href": "https://moderawealth.com/people/"
+    },
+    {
+      "text": "Offices",
+      "tag": "A",
+      "href": "https://moderawealth.com/offices/"
+    },
+    {
+      "text": "Work With Us",
+      "tag": "A",
+      "href": "https://moderawealth.com/work-with-us/"
+    },
+    {
+      "text": "Recognition",
+      "tag": "A",
+      "href": "https://moderawealth.com/recognition/"
+    },
+    {
+      "text": "SPECIALTIES",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/"
+    },
+    {
+      "text": "OPEN SPECIALTIES",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Anesthesiologists",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/anesthesiologists/"
+    },
+    {
+      "text": "Business Owners",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/business-owners/"
+    },
+    {
+      "text": "Divorce",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/divorce/"
+    },
+    {
+      "text": "Doctors and Dentists",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/doctors-dentists/"
+    },
+    {
+      "text": "Executives",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/executives/"
+    },
+    {
+      "text": "Multigenerational Families",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/families/"
+    },
+    {
+      "text": "LGBTQ+",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/lgbtq/"
+    },
+    {
+      "text": "Retirees",
+      "tag": "A",
+      "href": "https://moderawealth.com/specialties/retirees/"
+    }
+  ],
+  "body_text": "Skip to content\nJune 17 webinar: Common estate planning gaps high-net-worth families should review. REGISTER NOW\nFacebook\nLinkedin-in\nYoutube\nForm CRS\nGiving\nPress\nABOUT\nOPEN ABOUT\nSPECIALTIES\nOPEN SPECIALTIES\nSOLUTIONS\nOPEN SOLUTIONS\nINSIGHTS\nOPEN INSIGHTS\nCLIENTS\nCONTACT\nFIND AN ADVISOR\nRead our recent insights\nGuidance for Life After Loss\nLosing a spouse is one of life’s most difficult transitions.\nREAD MORE\nHow Secure Is Your Deferred Compensation Plan?\nNonqualified deferred compensation (NQDC) plans can be valuable tools for high‑earning executives who want to manage taxable income and build long‑term savings. They also carry a unique set of risks that differ from traditional retirement plans.\nREAD MORE\nSpousal IRAs: A Quick Guide\nA “spousal” Individual Retirement Account (IRA) allows a spouse with little or no compensation from employment to open an IRA in their name and make contributions based on the other spouse’s income.\nREAD MORE\nArtificial Intelligence: A Double-Edged Sword for Older Adults and Their Finances\nThe silver generation, as they’re often called, faces a unique set of challenges in today’s fast-paced, ever-changing, tech-driven world.\nREAD MORE\nInvestor Brief: Countdown to Launch\nWe recently wrote an Investor Brief on the widely anticipated potential SpaceX initial public offering (IPO) (based on recent filings and media reports; IPO timing, size, and structure remain subject to change based on market conditions and regulatory review).\nREAD MORE\nNavigating Wealth Conversations with Adult Children\nAs children become adults, the conversations you have about money naturally change.\nREAD MORE\nRetirement Planning: Getting and Staying on Track\nRetirement isn’t a single event. Rather, it’s a series of stages, each with its own opportunities and challenges.\nREAD MORE\nAre You a Business Owner in Need of a Succession Plan?\nMany business owners transitioning into retirement know it can be beneficial when their younger partners choose to buy them out.\nREAD MORE\nLEARN BY TOPIC:\nCompany News\nFinancial Planning\nFinancial Planning Guides\nInvestments\nPrevious\n1\n2\n3\n…\n39\nNext\nSpeak with an Advisor\nBy sending this message, you agree that Modera will use the personal information you disclose to have an adviser contact you and/or you agree to opt-in to receive marketing communications from us. By providing a telephone number and submitting this form you are consenting to be contacted by SMS text message. Message & data rates may apply. You can reply STOP to opt-out of further messaging.\nYou Deserve Financial Clarity\nBook a financial consultation to discuss your goals and to get started on a plan to help you achieve them.\nSophisticated wealth management from really nice people.\nFacebook\nLinkedin-in\nYoutube\nLEARN MORE\nOur Story\nPeople\nSpecialties\nSolutions\nRecognition\nFind an Advisor\nOffices\nCareers\nContact Us\nSPECIALTIES\nBusiness Owners\nDivorce\nDoctors & Dentists\nExecutives\nFamilies\nLGBTQ+\nRetirees\nSpecial Needs\nSurviving Spouses\nWomen\nRESOURCES\nClient Resources\nNews & Thought Leadership\nTax Center\nWebinars\nOFFICES\nMaryland\nMassachusetts\nNew York\nNew Jersey\nPennsylvania\nVirginia\nNorth Carolina\nGeorgia\nFlorida\nStay Informed\nSubscribe to Modera emails to receive in-depth articles, quarterly market commentary, and webinar invitations.\nSUBSCRIBE\n2026 Modera Wealth Management\nForm CRS\nDisclosures\nForm ADV\nPrivacy\nTerms of Use\nCertified Financial Planner Board of Standards, Inc. (CFP Board) owns the certification marks CFP®, CERTIFIED FINANCIAL PLANNER®, and CFP® (with plaque design) in the United States, which it authorizes use of by individuals who successfully complete CFP Board’s initial and ongoing certification requirements.\nWEBINAR\nJune 17, 2026 | 12 PM ET\nCommon Estate Planning Gaps High-Net-Worth Families Should Review\nREGISTER NOW"
+}

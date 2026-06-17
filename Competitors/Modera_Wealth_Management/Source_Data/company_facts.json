@@ -1,0 +1,59 @@
+{
+  "competitor": "Modera Wealth Management",
+  "website": "https://moderawealth.com",
+  "last_updated": "2026-06-17",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": "https://linkedin.com/company/modera-wealth-management/",
+      "twitter": null,
+      "facebook": "https://facebook.com/ModeraWealthManagement",
+      "youtube": "https://youtube.com/@ModeraWealthManagementLLC",
+      "instagram": null
+    },
+    "footer_emails": [],
+    "footer_phones": [
+      "410-626-8198",
+      "1\n828-255-0271",
+      "678-833-1166",
+      "617-247-0518",
+      "704-358-3322",
+      "352-746-4460",
+      "610-336-4395",
+      "703-356-4380",
+      "973-605-1100",
+      "917-410-3328"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "MODERA WEALTH MANAGEMENT, LLC",
+      "crd_number": "155649",
+      "sec_number": "801-71973",
+      "headquarters": "56 JEFFERSON AVENUE, WESTWOOD, NJ, 07675, United States",
+      "branch_count": 112,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "MODERA ADVISORS OF CRYSTAL RIVER, LLC"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/155649/PDF/155649.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/155649"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Modera%20Wealth%20Management"
+  }
+}

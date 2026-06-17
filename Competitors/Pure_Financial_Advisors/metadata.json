@@ -1,0 +1,73 @@
+{
+  "competitor": "Pure Financial Advisors",
+  "slug": "Pure_Financial_Advisors",
+  "summary_line": "San Diego fee-only fiduciary RIA with strong national content presence — $11.05B AUM, 204 employees, 76 advisors, 0 DRPs. Retirement-focused with content engine: 'Your Money Your Wealth' podcast/show, free retirement classes, /why-pure/fees/ page published. Strong sitemap (300 entries) + nav (94) + known-paths (4 matches). 5 captured pages including pricing. 'Tax-optimized investment management' is a stated specialty.",
+  "website": "https://purefinancial.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "large",
+  "advisor_count": 76,
+  "employee_count": 204,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": "San Diego",
+  "headquarters_state": "CA",
+
+  "aum_usd": 11054059366,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+  "segment_early_adults": "weak",
+  "segment_mid_career_401k": "ok",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "144316",
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
+  "positioning_claims": ["fee_only", "fiduciary", "retirement_specialist", "tax_optimized", "content_heavy", "free_education_funnel", "fee_transparent"],
+  "vulnerabilities": ["large_team_complexity", "no_segment_named_for_early_adults"],
+  "tags": ["founder_led", "multi_advisor", "national", "consumer_facing", "cfp_credentialed", "fee_only", "aum_fee", "content_engine", "clean_regulatory_record"],
+  "related_competitors": ["Money_Guy", "Foundry_Financial", "Brindle_And_Bay"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 11054059366, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 76, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 204, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 144316 — 204 employees, 76 advisors, $11,054,059,366 regulatory AUM, 0 DRPs. Legal name: 'PURE FINANCIAL ADVISORS, LLC.'",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: 5 pages (home, about, blog, contact, pricing at /why-pure/fees/). Hero: 'Experience the Pure Difference.' Six homepage tiles: Prepare for Retirement · Reduce Your Tax Liability · Find Your Advisor · Invest for Your Future · Never Stop Learning + 'Jumpstart Your Retirement Planning with Our Free Resources!' Two main CTAs: 'Attend a Retirement Class' (free education funnel) + 'Talk to an Advisor.' Pricing page exists at /why-pure/fees/. Tagline: 'Pure Financial Advisors is a fee-only financial planning firm providing retirement planning services and tax-optimized investment management.' Known publicly for 'Your Money Your Wealth' podcast/show — major content brand.",
+        "source": "tools/extract.ts (5 pages — home/about/blog/contact/pricing)"
+      }
+    ]
+  },
+
+  "_schema": {}
+}

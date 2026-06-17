@@ -1,0 +1,73 @@
+{
+  "competitor": "Greenbush Financial Group",
+  "slug": "Greenbush_Financial_Group",
+  "summary_line": "Capital District NY fee-only RIA — $616.5M AUM concentrated in just 3 advisors / 6 employees (large per-advisor book ~$205M). Strong focus on three service pillars: investment management, **company retirement plans (401k)**, and financial planning. 'Virtual financial planning' + tax expertise explicit. Content-led with 'Subscribe to Blog' visible. 0 DRPs. Of the 18-firm batch, has the most relevant 401(k) segment angle for USWM's 40-50 mid-career cohort.",
+  "website": "https://greenbushfinancial.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": 3,
+  "employee_count": 6,
+  "branch_count": null,
+  "geographic_scope": "regional",
+  "headquarters_city": null,
+  "headquarters_state": "NY",
+
+  "aum_usd": 616539856,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+  "segment_early_adults": "weak",
+  "segment_mid_career_401k": "ok",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "125500",
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "content_heavy",
+  "design_tone": "establishment",
+  "positioning_claims": ["fee_only", "fiduciary", "401k_specialist", "tax_integrated", "virtual_capable", "content_led"],
+  "vulnerabilities": ["no_fee_transparency", "key_person_concentration", "narrow_service_lineup"],
+  "tags": ["founder_led", "multi_advisor", "regional", "consumer_facing", "fee_only", "aum_fee", "content_engine", "clean_regulatory_record"],
+  "related_competitors": ["Brindle_And_Bay", "Foundry_Financial", "The_Peak_Fp"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 616539856, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 3, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 6, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 125500 — 6 employees, 3 advisors, $616,539,856 regulatory AUM (~$205M per advisor — high per-advisor book), 0 DRPs. Legal name: 'GREENBUSH FINANCIAL GROUP, LLC.' Mid-2000s CRD vintage (older registration).",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts homepage only. Three service pillars on homepage: Investment Management · Company Retirement Plans · Financial Planning. Homepage frames: 'What Makes Us Different?' / 'Our Client Relationships Start With a Financial Plan' / 'Tax Expertise' / 'Virtual Financial Planning & Investment Management' / 'Employer Sponsored Retirement Plan.' FINRA BrokerCheck link in nav. 'Subscribe to Blog' visible — content-led. Pricing not disclosed on homepage.",
+        "source": "tools/extract.ts (homepage only)"
+      }
+    ]
+  },
+
+  "_schema": { "_applicability": "headquarters_city not captured (state inferred from common knowledge as NY)" }
+}

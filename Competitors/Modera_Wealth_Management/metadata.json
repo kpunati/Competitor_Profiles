@@ -1,0 +1,73 @@
+{
+  "competitor": "Modera Wealth Management",
+  "slug": "Modera_Wealth_Management",
+  "summary_line": "Westwood NJ-headquartered, employee-owned fee-only fiduciary RIA — founded 1983, $17.5B AUM, 238 employees, 106 advisors, 6,300+ clients, 0 DRPs. The largest NJ-headquartered RIA in this batch and the **geographic peer most relevant to USWM in Chatham**. Long history of strategic growth (timeline page shows expansion years from 1983 through 2024). Hero: 'Nothing makes us happier than helping you live well.' Employee-ownership is the defining structural differentiator vs. PE-backed peers like Mather Group ($13.4B) and Mercer Advisors.",
+  "website": "https://moderawealth.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "large",
+  "advisor_count": 106,
+  "employee_count": 238,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": "Westwood",
+  "headquarters_state": "NJ",
+
+  "aum_usd": 17678214162,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["hnw", "uhnw"],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "155649",
+  "sec_number": null,
+  "ownership_structure": "employee_owned",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "establishment",
+  "positioning_claims": ["fee_only", "fiduciary", "employee_owned", "long_history", "comprehensive", "national_scale"],
+  "vulnerabilities": ["no_fee_transparency", "large_firm_complexity", "broad_target_audience"],
+  "tags": ["employee_owned", "multi_advisor", "national", "consumer_facing", "cfp_credentialed", "fee_only", "aum_fee", "content_engine", "clean_regulatory_record"],
+  "related_competitors": ["Plancorp", "Truepoint_Wealth_Counsel", "Mercer_Advisors", "The_Mather_Group"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 17678214162, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 106, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 238, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 155649 — 238 employees, 106 advisors, $17,678,214,162 regulatory AUM, 0 DRPs. Legal name: 'MODERA WEALTH MANAGEMENT, LLC.' Established 1983 per /our-story.",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: 5 pages (home, about/our-story, blog, contact, services). Hero: 'Nothing makes us happier than helping you live well.' Homepage stats: $17.5B AUM / 11.2 (likely avg client retention years) / 6,300+ clients. Tagline: 'Simplify your financial life with Modera Wealth Management—personalized, fee-only advice that helps you gain clarity, confidence, and peace of mind.' Two pillars: Financial Planning · Investment Management. 'Our Story' page emphasizes 1983 founding + 'history of strategic growth' timeline with major expansion years 1983, 1995, 2011, 2013-2016+. Company-values copy: 'We are proactive, positive problem solvers... foster a culture of excellence and encourage diverse perspectives... deliver sophisticated, fee-only wealth management in a highly personal way... relentless commitment to a client-first, fiduciary approach.' Employee-owned structure is the defining ownership differentiator vs. PE-backed peers.",
+        "source": "tools/extract.ts (5 pages — home/about/blog/contact/services)"
+      }
+    ]
+  },
+
+  "_schema": {}
+}

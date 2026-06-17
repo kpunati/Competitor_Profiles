@@ -1,0 +1,65 @@
+{
+  "competitor": "Top St. Louis Financial Advisors",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://plancorp.com",
+  "colors": {
+    "body_background": "rgba(0, 0, 0, 0)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 54
+      },
+      {
+        "color": "rgb(238, 243, 247)",
+        "count": 9
+      },
+      {
+        "color": "rgb(2, 33, 105)",
+        "count": 6
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.4)",
+        "count": 3
+      },
+      {
+        "color": "rgba(255, 255, 255, 0)",
+        "count": 2
+      },
+      {
+        "color": "rgb(34, 43, 100)",
+        "count": 2
+      },
+      {
+        "color": "rgb(40, 156, 195)",
+        "count": 1
+      },
+      {
+        "color": "rgb(11, 11, 11)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(238, 243, 247)",
+    "accent": "rgb(2, 33, 105)"
+  },
+  "typography": {
+    "heading_family": "\"Fira Sans\", Arial, sans-serif",
+    "heading_weight": "300",
+    "body_family": "\"Fira Sans\", Arial, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 18,
+    "paragraph_size_px": 16
+  },
+  "primary_button": {
+    "text": "Meet the Team",
+    "background": "rgb(34, 43, 100)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 3,
+    "padding": "15px 25px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

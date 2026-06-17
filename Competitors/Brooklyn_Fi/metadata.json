@@ -1,0 +1,118 @@
+{
+  "competitor": "Brooklyn FI",
+  "slug": "Brooklyn_Fi",
+  "summary_line": "Brooklyn NY fee-only RIA co-founded by Ally Jane (AJ) Ayers (CFP®, EA, CEP) and Shane Mason (CPA/PFS, CFP®, CPWA®) — $563.1M AUM, 10 advisors, 10 employees across 10 branches (distributed). Three-tier productized service (Start Up <$1M / Core $1M-$10M / Private $10M+) bundling financial planning, investment management, and tax filing under one roof. Niche: tech professionals + creatives. 0 DRPs. Larger and more team-built than most niche-tech-focused RIAs in our catalog.",
+  "website": "https://brooklynfi.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "mid",
+  "advisor_count": 10,
+  "employee_count": 10,
+  "branch_count": 10,
+  "geographic_scope": "national",
+  "headquarters_city": "Brooklyn",
+  "headquarters_state": "NY",
+
+  "aum_usd": 563098081,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "transparent_tiers",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": 0.01,
+  "fee_aum_pct_high": 0.01,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw", "uhnw"],
+
+  "segment_early_adults": "weak",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "292115",
+  "sec_number": "801-120862",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "content_heavy",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fee_only",
+    "fiduciary",
+    "niche_specialist",
+    "tier_based_pricing",
+    "tax_integrated",
+    "equity_comp_specialist",
+    "national_virtual"
+  ],
+  "vulnerabilities": [
+    "no_401k_specific_funnel",
+    "narrow_niche_dependency",
+    "no_early_adult_surface"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "national",
+    "consumer_facing",
+    "cfp_credentialed",
+    "cpa_credentialed",
+    "fee_only",
+    "aum_fee",
+    "flat_fee",
+    "content_engine",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Foundry_Financial",
+    "Advize_Wealth",
+    "Walser_Wealth",
+    "Intrepid_Wealth_Partners"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      { "as_of": "2026-06-17", "value_usd": 563098081, "source": "ADV" }
+    ],
+    "advisor_count_history": [
+      { "as_of": "2026-06-17", "value": 10, "source": "ADV" }
+    ],
+    "employee_count_history": [
+      { "as_of": "2026-06-17", "value": 10, "source": "ADV" }
+    ],
+    "branch_count_history": [
+      { "as_of": "2026-06-17", "value": 10, "source": "ADV" }
+    ],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 292115 — 10 employees, 10 advisors, 10 branches, $563,098,081 regulatory AUM, 0 disciplinary disclosures. SEC file 801-120862. Legal name: 'BROOKLYN FI, LLC.' HQ 33 Nassau Ave, Brooklyn, NY 11222.",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts captured homepage only (sitemap=0, nav=0, known-paths=0). Followed up via WebFetch on /services, /pricing, /our-team. Brand shorthand 'BKFi.' Homepage frames a 'Without BKFi' vs 'With BKFi' comparison and exposes three productized tiers: Start Up (early-career, <$1M; base monthly planning fee + 1% AUM + separate tax filing), Core ($1M-$10M, tiered AUM + tax filing separate, '6-month tax forecasting'), Private ($10M+, tiered AUM that bundles personal & trust tax filing + annual in-person + family wealth + external-advisor coordination). Core services: financial planning, investment management, full tax preparation + year-round tax planning. Specialties: equity comp (stock options, RSUs, ISOs), estate, outsourced accounting. Niche: tech professionals (primary), creatives, families. Team page lists ~21 named: 2 co-founders (AJ Ayers CFP®/EA/CEP, Shane Mason CPA/PFS/CFP®/CPWA®), 1 Managing Partner (John Owens CFP®/EA/ECA/CPWA®), 7 financial planners (CFP®+ECA-heavy), 5 tax & accounting (CPA-heavy, headed by Dan Beyer CPA), 3 operations/marketing. '147 years combined experience.' Content surface: blog · podcast · events. Tagline: 'Your wealth is complex. Working with us isn't.'",
+        "source": "tools/extract.ts (homepage only) + manual WebFetch on /services, /pricing, /our-team"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md",
+    "_applicability": "sec_/crd_/aum_/fee_/disciplinary_/advisor_count fields apply to SEC-registered RIAs. See _context/taxonomy.md § Entity-type applicability."
+  }
+}

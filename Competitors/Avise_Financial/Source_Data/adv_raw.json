@@ -1,0 +1,43 @@
+{
+  "query": "Avise Financial",
+  "top": {
+    "firm_source_id": "328790",
+    "firm_ia_sec_number": "131992",
+    "firm_ia_full_sec_number": "801-131992",
+    "firm_name": "AVISE FINANCIAL",
+    "firm_other_names": [
+      "AVISE FINANCIAL",
+      "THESIS FINANCIAL PLANNING",
+      "SOLIDI WEALTH ADVISORS",
+      "PRIMEROS FINANCIAL",
+      "HYLA FINANCIAL",
+      "EQUALIS FINANCIAL",
+      "AVISE FINANCIAL COOPERATIVE, INC."
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 5,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"7080 HOLLYWOOD BLVD.\", \"street2\": \"SUITE 700\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"90028\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "328790",
+      "firm_ia_sec_number": "131992",
+      "firm_ia_full_sec_number": "801-131992",
+      "firm_name": "AVISE FINANCIAL",
+      "firm_other_names": [
+        "AVISE FINANCIAL",
+        "THESIS FINANCIAL PLANNING",
+        "SOLIDI WEALTH ADVISORS",
+        "PRIMEROS FINANCIAL",
+        "HYLA FINANCIAL",
+        "EQUALIS FINANCIAL",
+        "AVISE FINANCIAL COOPERATIVE, INC."
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 5,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"7080 HOLLYWOOD BLVD.\", \"street2\": \"SUITE 700\", \"city\": \"LOS ANGELES\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"90028\"}}"
+    }
+  ]
+}

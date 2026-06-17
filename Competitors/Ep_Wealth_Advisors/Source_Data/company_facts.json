@@ -1,0 +1,55 @@
+{
+  "competitor": "Financial Advisors, Tax and Estate Planning",
+  "website": "https://epwealth.com",
+  "last_updated": "2026-06-17",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [],
+    "footer_phones": [
+      "3322107533",
+      "17816833319"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "EP WEALTH ADVISORS",
+      "crd_number": "111147",
+      "sec_number": "801-29358",
+      "headquarters": "21535 HAWTHORNE BLVD, SUITE 400, TORRANCE, CA, 90503, United States",
+      "branch_count": 287,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "ENRIGHT FINANCIAL CONSULTANTS INC",
+        "EP WEALTH ADVISORS, LLC.",
+        "EP WEALTH ADVISORS, INC.",
+        "ENRIGHT PREMIER WEALTH ADVISORS, INC.",
+        "ENRIGHT PREMIER WEALTH ADVISORS"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/111147/PDF/111147.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/111147"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Financial%20Advisors%2C%20Tax%20and"
+  }
+}

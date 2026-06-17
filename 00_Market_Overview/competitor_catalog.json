@@ -546,6 +546,125 @@
     }
   },
   {
+    "competitor": "Domain Money",
+    "slug": "Domain_Money",
+    "summary_line": "VC-backed subscription advisory founded by Adam Dell (repeat founder — Clarity Money → Goldman Sachs / MessageOne → Dell / Buzzsaw → Autodesk). 30+ CFP®s on staff, advisor board chaired by Joe Duran (founded United Capital, sold to GS). Three published tiers: Essential ($3,900 yr1 / $2,900 renewal), Strategic ($5,200 / $4,200, 'most popular'), Comprehensive ($9,000 / $8,000). 39 employees, 14 advisors, $43.3M AUM, 0 DRPs. VC: Bessemer · SV Angel · Maveron · Torch · RRE · LPs including Ashton Kutcher + Marc Benioff. 'No hidden or AUM fees—ever.' Direct subscription competitor with serious capital behind it.",
+    "website": "https://domainmoney.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "medium",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-09-15",
+    "review_cadence_days": 90,
+    "team_size": "mid",
+    "advisor_count": 14,
+    "employee_count": 39,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": 43285190,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "subscription",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 2900,
+    "fee_flat_high_usd": 9000,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "316434",
+    "sec_number": null,
+    "ownership_structure": "pe_backed",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "subscription_first",
+      "no_aum_fee",
+      "next_generation",
+      "vc_backed_scale",
+      "transparent_pricing",
+      "tier_based_pricing",
+      "satisfaction_guaranteed"
+    ],
+    "vulnerabilities": [
+      "low_aum_per_employee",
+      "vc_growth_pressure",
+      "subscription_churn_risk",
+      "broad_segment_positioning",
+      "key_person_concentration_at_founder"
+    ],
+    "tags": [
+      "pe_backed",
+      "multi_advisor",
+      "national",
+      "consumer_facing",
+      "cfp_credentialed",
+      "fee_only",
+      "subscription_fee",
+      "flat_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Abundo_Wealth",
+      "Stash_Wealth",
+      "Brooklyn_Fi",
+      "Xy_Planning_Network"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 43285190,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 14,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 39,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 316434 — 39 employees, 14 advisors, $43,285,190 regulatory AUM (low for employee count — confirms subscription-first revenue model), 0 DRPs. Legal name: 'DOMAIN MONEY ADVISORS, LLC.'",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts captured homepage only; WebFetch on /pricing and /about. Three published subscription tiers (annual prices, Year 1 vs. Renewal): Essential — $3,900 / $2,900 (W-2 professionals + DIYers needing a second opinion). Strategic ('Most Popular') — $5,200 / $4,200 (families + mid-career 'busy-complex'). Comprehensive — $9,000 / $8,000 (HNW + pre-retirees). 'No hidden or AUM fees—ever' / No minimums / 'Cancel anytime' / 100% satisfaction guarantee with refund. Founder/CEO Adam Dell — Clarity Money (sold to Goldman Sachs / led Marcus product), MessageOne (sold to Dell), Buzzsaw (sold to Autodesk). VC: Bessemer Venture Partners, SV Angel, Maveron, Torch Capital, RRE Ventures. Notable LPs: Ashton Kutcher, Marc Benioff. Advisory board chair: Joe Duran (founded United Capital, sold to Goldman). 30+ CFP®s + engineering leadership (Zeeshan Mian VP Eng) + ops/growth/design/marketing/client success. Positioning: 'We believe the right thing to do with your money should never be some big secret.' / 'Flat-fee, judgement free expert financial planning for the next generation.'",
+          "source": "tools/extract.ts (homepage only) + WebFetch on /pricing + /about"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "Focus Partners Wealth",
     "slug": "Focus_Partners",
     "summary_line": "PE-backed national RIA consolidator — 1,005 branches and 20 acquired boutique brands consolidated under one SEC registration.",
@@ -835,6 +954,121 @@
     }
   },
   {
+    "competitor": "Abundo Wealth",
+    "slug": "Abundo_Wealth",
+    "summary_line": "Advice-only RIA — explicitly does NOT manage assets, only advises on them. $0 regulatory AUM by design, 14 employees, 12 advisors, 0 DRPs. Tagline: 'Minimize Fees. Maximize Life.' Mission: 'change the financial planning industry' via low-cost, transparent, advice-only delivery. Real captured site IA with 6 sub-pages.",
+    "website": "https://abundowealth.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "mid",
+    "advisor_count": 12,
+    "employee_count": 14,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": 0,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "subscription",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_market",
+      "mass_affluent"
+    ],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Advice-only by design — Abundo does not take custody or manage assets, so regulatory AUM is $0. Revenue model is subscription / flat-fee planning.",
+    "sec_registered": true,
+    "crd_number": "304612",
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "advice_only",
+      "no_aum_fee",
+      "transparent_pricing",
+      "for_everyone",
+      "mission_driven"
+    ],
+    "vulnerabilities": [
+      "no_aum_revenue_scaling",
+      "depends_on_subscription_lifetime_value",
+      "broad_positioning_risks_dilution"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "national",
+      "consumer_facing",
+      "fee_only",
+      "subscription_fee",
+      "flat_fee",
+      "cfp_credentialed",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Stash_Wealth",
+      "Domain_Money",
+      "Brindle_And_Bay",
+      "Streamline_Planning"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 0,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 12,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 14,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 304612 — 14 employees, 12 advisors, $0 regulatory AUM (advice-only by design), 0 DRPs. Legal name: 'ABUNDO WEALTH.'",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts captured 6 pages (home, about, blog, contact, pricing, services). Hero H1: 'Advice-Only Financial Planning For Everyone.' Mission: 'We're on a Mission to Change the Financial Planning Industry.' Promise: 'Everyone deserves high-quality advice, transparent pricing, and low-cost investing.' Three pillars: Work with a Trusted Partner, Build a Plan You Love, Always Feel Supported. Tagline: 'Minimize Fees. Maximize Life.' About page H1: 'We're a passionate group of people working to build the future of Financial Planning.' Site IA: /what-to-expect, /our-story, /pricing (anchored at /#pricing), services, blog, contact. Pricing page captured but body was empty (JS-rendered) — exact dollar tiers need follow-up. 'Advisors Accepting Clients' section on about page suggests multi-advisor onboarding model.",
+          "source": "tools/extract.ts (6 pages — home/about/blog/contact/pricing/services)"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "Advize Wealth Management",
     "slug": "Advize_Wealth",
     "summary_line": "Solo CFP Colin Overweg's fee-only, advice-only Rochester MI practice — the closest single-person version of our own 'independent + modern tech' positioning thesis.",
@@ -1020,6 +1254,117 @@
     }
   },
   {
+    "competitor": "Avise Financial",
+    "slug": "Avise_Financial",
+    "summary_line": "Self-described 'RIA co-op' — a member-owned platform of independent CFP®-led advisor practices. Co-founded by Leighann Miko CFP® and Katrina Soelter CFP®. $169.4M aggregated AUM across 6 member advisors, 7 employees, 0 DRPs. Revenue-share fee model (15% / 10% / 5% banded). Operations + tech + compliance + outsourced support ($45-$70/hr) provided to member advisors; consumer-facing 'Match With An Advisor' directory on the front-end. Closer to XY Planning Network in shape than to a traditional RIA — but as a cooperative with democratic voting and patronage dividends.",
+    "website": "https://avisefinancial.com",
+    "competitor_type": "b2b_network",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 6,
+    "employee_count": 7,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": null,
+    "headquarters_state": null,
+    "aum_usd": 169438931,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "subscription",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_market",
+      "mass_affluent"
+    ],
+    "segment_early_adults": "weak",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Avise registered as RIA but functions as a B2B platform / network across member advisors. AUM aggregates across member-firm books. Closer in structure to XY Planning Network than to a standalone advisory firm.",
+    "sec_registered": true,
+    "crd_number": "328790",
+    "sec_number": null,
+    "ownership_structure": "network_collective",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "rejection_of_corporate_advice",
+      "advisor_collective",
+      "consumer_matching_service"
+    ],
+    "vulnerabilities": [
+      "small_aum_scale_per_advisor",
+      "consumer_funnel_competes_with_member_firms",
+      "co_op_governance_complexity"
+    ],
+    "tags": [
+      "founder_led",
+      "network_collective",
+      "b2b_facing",
+      "dual_facing",
+      "national",
+      "cfp_credentialed",
+      "fee_only",
+      "subscription_fee",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Xy_Planning_Network",
+      "Focus_Partners",
+      "Couplr_AI"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 169438931,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 6,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 7,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 328790 — 7 employees, 6 advisors, $169,438,931 regulatory AUM (aggregated across member-firm books), 0 DRPs. Legal name: 'AVISE FINANCIAL.'",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts captured homepage only; WebFetch on /team, /for-advisors, /match. Avise positions explicitly as 'an RIA co-op that helps you build your ideal business.' Co-founders: Leighann Miko, CFP® (CSU Northridge → prior independent RIA) and Katrina Soelter, CFP® (UC Berkeley). Two-sided model: (1) advisor-facing — member advisors get compliance + ops + tech suite (AdvicePay, Advyzon, MessageWatcher, Wealthbox) + outsourced financial planning / investment research at $45-$70/hr + democratic voting rights + patronage dividends. Revenue-share tier: 15% of advisor revenue at $0-$500K, 10% at $500K-$1M, 5% at $1M+. (2) consumer-facing — 'Match With An Advisor' questionnaire-to-match flow. Five stated values: Value-Aligned, Independent, Personal, Diverse, Transparent.",
+          "source": "tools/extract.ts (homepage only) + WebFetch on /team + /for-advisors + /match"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "Brindle & Bay Financial Advisors",
     "slug": "Brindle_And_Bay",
     "summary_line": "Frisco, TX retirement-focused fiduciary RIA founded by Nick Davis (CFP®, ChFC®, RICP®) — former full-time pastor for 10 years in Texas before entering financial planning — $184.8M AUM, 3 advisors, 4 employees (per ADV), but site team page lists 7 named people including 3 outside Investment Committee CPAs. Targets people within 10 years of retirement; uses three named ICP personas (John & Laura 'Ready for Retirement,' Amy & Dave 'Work Optional,' Carolyn 'Single & Meaningful'). AUM-fee model around 1% but no tier table published.",
@@ -1136,6 +1481,346 @@
     }
   },
   {
+    "competitor": "Brooklyn FI",
+    "slug": "Brooklyn_Fi",
+    "summary_line": "Brooklyn NY fee-only RIA co-founded by Ally Jane (AJ) Ayers (CFP®, EA, CEP) and Shane Mason (CPA/PFS, CFP®, CPWA®) — $563.1M AUM, 10 advisors, 10 employees across 10 branches (distributed). Three-tier productized service (Start Up <$1M / Core $1M-$10M / Private $10M+) bundling financial planning, investment management, and tax filing under one roof. Niche: tech professionals + creatives. 0 DRPs. Larger and more team-built than most niche-tech-focused RIAs in our catalog.",
+    "website": "https://brooklynfi.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "mid",
+    "advisor_count": 10,
+    "employee_count": 10,
+    "branch_count": 10,
+    "geographic_scope": "national",
+    "headquarters_city": "Brooklyn",
+    "headquarters_state": "NY",
+    "aum_usd": 563098081,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "transparent_tiers",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": 0.01,
+    "fee_aum_pct_high": 0.01,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "weak",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "292115",
+    "sec_number": "801-120862",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "niche_specialist",
+      "tier_based_pricing",
+      "tax_integrated",
+      "equity_comp_specialist",
+      "national_virtual"
+    ],
+    "vulnerabilities": [
+      "no_401k_specific_funnel",
+      "narrow_niche_dependency",
+      "no_early_adult_surface"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "national",
+      "consumer_facing",
+      "cfp_credentialed",
+      "cpa_credentialed",
+      "fee_only",
+      "aum_fee",
+      "flat_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Foundry_Financial",
+      "Advize_Wealth",
+      "Walser_Wealth",
+      "Intrepid_Wealth_Partners"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 563098081,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 10,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 10,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 10,
+          "source": "ADV"
+        }
+      ],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 292115 — 10 employees, 10 advisors, 10 branches, $563,098,081 regulatory AUM, 0 disciplinary disclosures. SEC file 801-120862. Legal name: 'BROOKLYN FI, LLC.' HQ 33 Nassau Ave, Brooklyn, NY 11222.",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts captured homepage only (sitemap=0, nav=0, known-paths=0). Followed up via WebFetch on /services, /pricing, /our-team. Brand shorthand 'BKFi.' Homepage frames a 'Without BKFi' vs 'With BKFi' comparison and exposes three productized tiers: Start Up (early-career, <$1M; base monthly planning fee + 1% AUM + separate tax filing), Core ($1M-$10M, tiered AUM + tax filing separate, '6-month tax forecasting'), Private ($10M+, tiered AUM that bundles personal & trust tax filing + annual in-person + family wealth + external-advisor coordination). Core services: financial planning, investment management, full tax preparation + year-round tax planning. Specialties: equity comp (stock options, RSUs, ISOs), estate, outsourced accounting. Niche: tech professionals (primary), creatives, families. Team page lists ~21 named: 2 co-founders (AJ Ayers CFP®/EA/CEP, Shane Mason CPA/PFS/CFP®/CPWA®), 1 Managing Partner (John Owens CFP®/EA/ECA/CPWA®), 7 financial planners (CFP®+ECA-heavy), 5 tax & accounting (CPA-heavy, headed by Dan Beyer CPA), 3 operations/marketing. '147 years combined experience.' Content surface: blog · podcast · events. Tagline: 'Your wealth is complex. Working with us isn't.'",
+          "source": "tools/extract.ts (homepage only) + manual WebFetch on /services, /pricing, /our-team"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Burney Company",
+    "slug": "Burney_Wealth_Management",
+    "summary_line": "Reston VA fee-only fiduciary RIA serving **both retail (individuals/families) and institutional clients** — $3.59B AUM, 46 employees, 42 advisors, 0 DRPs. Legal name 'THE BURNEY COMPANY' (folder named for the candidate-list label 'Burney Wealth Management'). Active-management firm — closer to USWM's investment philosophy than most large RIAs which lean passive/indexed. Dual-brand structure: burney.com (this site) + burneyinvest.com (institutional asset management).",
+    "website": "https://burney.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "mid",
+    "advisor_count": 42,
+    "employee_count": 46,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Reston",
+    "headquarters_state": "VA",
+    "aum_usd": 3588662390,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Folder slug uses candidate-list label; legal name in IAPD is 'THE BURNEY COMPANY' (CRD 106945). Dual-brand: burney.com is the family/wealth side; burneyinvest.com is the institutional asset management side.",
+    "sec_registered": true,
+    "crd_number": "106945",
+    "sec_number": null,
+    "ownership_structure": "private_partnership",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "active_management",
+      "dual_facing",
+      "nationally_recognized"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "dual_brand_complexity",
+      "no_segment_specific_funnel"
+    ],
+    "tags": [
+      "multi_advisor",
+      "national",
+      "consumer_facing",
+      "b2b_facing",
+      "dual_facing",
+      "fee_only",
+      "aum_fee",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Foundry_Financial",
+      "Pwl_Capital",
+      "Modera_Wealth_Management"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 3588662390,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 42,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 46,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 106945 — 46 employees, 42 advisors, $3,588,662,390 regulatory AUM, 0 DRPs. Legal name: 'THE BURNEY COMPANY.' Initial IAPD lookup with 'Burney Wealth Management' returned no hits — retried with 'Burney Company' and matched. Worth noting for future refreshes: legal name + popular brand name diverge.",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: homepage only. Title: 'Burney Company | Financial Services for Families and Institutions.' Two equal-weight homepage sections: 'For individuals and families' + 'For firms and institutions.' Headline: 'Work with a nationally recognized team of fiduciaries.' CTA: 'Visit burneyinvest.com →' (separate site for the institutional side).",
+          "source": "tools/extract.ts (homepage only)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Carson Group",
+    "slug": "Carson_Group",
+    "summary_line": "Omaha-based personality-led national wealth management firm — $50.6B AUM, 1,416 employees, 472 advisors, 0 DRPs. Founded and led by Ron Carson (industry personality + author). Second-largest firm in the catalog by AUM (after Mercer at $84.4B). Site capture returned 403 Forbidden (bot-blocked); analysis relies on IAPD + public knowledge. Known for major content brand and active acquisition pipeline.",
+    "website": "https://carsongroup.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "large",
+    "advisor_count": 472,
+    "employee_count": 1416,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Omaha",
+    "headquarters_state": "NE",
+    "aum_usd": 50579657663,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Site returned 403 Forbidden to extract.ts (bot-protected). Profile relies on IAPD + public knowledge.",
+    "sec_registered": true,
+    "crd_number": "155344",
+    "sec_number": null,
+    "ownership_structure": "pe_backed",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": false,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "personality_led",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "personality_led",
+      "national_scale",
+      "active_acquirer",
+      "content_heavy"
+    ],
+    "vulnerabilities": [
+      "key_person_concentration",
+      "pe_growth_pressure",
+      "bot_blocked_site",
+      "no_fee_transparency"
+    ],
+    "tags": [
+      "pe_backed",
+      "roll_up",
+      "national",
+      "consumer_facing",
+      "media_personality_led",
+      "aum_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Mercer_Advisors",
+      "The_Mather_Group",
+      "Ep_Wealth_Advisors",
+      "Focus_Partners"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 50579657663,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 472,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 1416,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 155344 — 1,416 employees, 472 advisors, $50,579,657,663 regulatory AUM, 0 DRPs.",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts returned 403 Forbidden / nginx. No content captured. Carson Group is publicly known as a personality-led national wealth platform founded by Ron Carson (industry-known author/speaker). Like Mercer + Mather + EP Wealth, runs an active RIA acquisition pipeline. PE-backed structure. Major content brand (Carson Group has been one of the most prolific producers of advisor-facing content for years).",
+          "source": "tools/extract.ts (failed: 403 Forbidden)"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "ClearValue Investing",
     "slug": "Clearvalue_Investing",
     "summary_line": "Subscription investing-education membership site — Free tier + Premium ($14.99/mo) — operated by 'the ClearValue Team' (no individuals named on captured pages; brand is widely associated in the personal-finance YouTube space with the ClearValue Tax / Brian Kim creator economy, but that relationship is not confirmed on captured copy). Stock and crypto picks, technical analysis, options, index funds, community message board, and pre/post-market briefings. Carefully scoped as education, not advice — FAQ explicitly disclaims trade execution or personalized recommendations to stay outside SEC RIA registration requirements.",
@@ -1210,6 +1895,228 @@
           "date": "2026-05-13",
           "event": "Site captured: tagline 'Our mission is to help you obtain financial freedom. Checkout Our Youtube Channel.' Two-tier subscription pricing — Basic Access (Free): Financial Education · Financial Resources & Tools · ClearValue Team Insights · Pre and Post Market Briefings · Latest News · Community Message Board. Premium Membership ($14.99/mo = $180/yr): All Basic + Exclusive Posts & Insights · ClearValue Team's Investment Picks · Stock & Crypto Analysis · Technical Analysis · Options · Index Funds. Live market ticker on homepage (S&P 500 / Dow Jones / NASDAQ / Gold / Silver / Oil / Bitcoin / Ethereum / Solana / CPI / Mortgage / Treasury yields / Gas prices). News-aggregation feed on homepage (Boeing, Australia tax reform, energy stocks, Treasury commentary, etc.). 'ClearValue Team' referenced generically — no individuals named on captured pages. FAQ explicitly addresses 'Do you assist with making trades and investment decisions?' and 'Are you able to offer personalized financial recommendations?' — the legal-compliance scaffolding that keeps the firm outside RIA registration. Single anonymized testimonial captured ('Michael Bryant'). Social: Twitter + YouTube linked in footer (counts not captured). Sitemap is large (260 candidate URLs) suggesting extensive blog/content archive.",
           "source": "tools/extract.ts (4 pages — home / pricing / blog / contact)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Compass Ion Advisors",
+    "slug": "Compass_Ion_Advisors",
+    "summary_line": "PA-based mid-large fee-only RIA — $1.59B AUM, 24 employees, 15 advisors, 0 DRPs. Tagline: 'Live freely.' Site IA: Mission · People · Process · Services · Guide for Good · Insights. 'Holistic and comprehensive' framing. Content-engine ('Insights' nav item). NOTE: site home meta description is the default WordPress placeholder text ('This is an example page. It's different from a blog post...') — the firm forgot to set their site meta. Quality marker: above the size class of USWM's direct comparables, useful as a 'what mid-large local RIA looks like' benchmark.",
+    "website": "https://compass-ionadvisors.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "mid",
+    "advisor_count": 15,
+    "employee_count": 24,
+    "branch_count": null,
+    "geographic_scope": "regional",
+    "headquarters_city": null,
+    "headquarters_state": "PA",
+    "aum_usd": 1586830325,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "166418",
+    "sec_number": null,
+    "ownership_structure": "private_partnership",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "content_heavy",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "holistic",
+      "values_driven",
+      "content_led"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "wordpress_default_meta_unfixed",
+      "broad_target_audience"
+    ],
+    "tags": [
+      "multi_advisor",
+      "regional",
+      "consumer_facing",
+      "cfp_credentialed",
+      "fee_only",
+      "aum_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Plancorp",
+      "Truepoint_Wealth_Counsel",
+      "Foundry_Financial"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 1586830325,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 15,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 24,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 166418 — 24 employees, 15 advisors, $1,586,830,325 regulatory AUM (~$106M per advisor), 0 DRPs. Legal name: 'COMPASS ION ADVISORS, LLC.'",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: 5 pages (home, mission, blog, contact, services). Hero H1: 'Live freely.' Site IA: Mission · People · Process · Services · Guide for Good · Insights · Talk with an Advisor. Phone: 877.799.6830. Positioning: 'Living freely can be simple' / 'Let us help you find your financial direction.' Mission page reframes 'Living freely' as core promise. **DATA-QUALITY NOTE**: homepage og_description is the WordPress default placeholder ('This is an example page. It's different from a blog post... I'm a bike messenger by day...') — they shipped the site without setting meta. Doesn't affect their business but is a real signal about marketing-ops maturity for a $1.59B AUM firm.",
+          "source": "tools/extract.ts (5 pages)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Cordant Wealth Partners",
+    "slug": "Cordant_Wealth_Partners",
+    "summary_line": "Portland OR fee-only fiduciary RIA specializing in technology employees at major Pacific Northwest + national tech employers (Intel, Microsoft, Nike, Amazon, Apple). $370.5M AUM, 5 advisors, 8 employees, 0 DRPs. Deep expertise in RSUs, stock options, deferred comp. Three stated principles: fiduciary, fee-only, independent — explicit rejection of Wall Street bank product shelf.",
+    "website": "https://cordantwealth.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 5,
+    "employee_count": 8,
+    "branch_count": 1,
+    "geographic_scope": "regional",
+    "headquarters_city": "Portland",
+    "headquarters_state": "OR",
+    "aum_usd": 370502204,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": null,
+    "fee_flat_high_usd": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "weak",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "152395",
+    "sec_number": "801-71570",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "independent",
+      "niche_specialist",
+      "equity_comp_specialist",
+      "anti_wirehouse"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "no_401k_specific_funnel",
+      "no_early_adult_surface",
+      "narrow_niche_dependency",
+      "geographic_concentration"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "regional",
+      "consumer_facing",
+      "fee_only",
+      "aum_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Brooklyn_Fi",
+      "Foundry_Financial",
+      "Brindle_And_Bay",
+      "The_Peak_Fp"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 370502204,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 5,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 8,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 152395 — 8 employees, 5 advisors, $370,502,204 regulatory AUM, 0 disciplinary disclosures. SEC file 801-71570. Legal name: 'CORDANT WEALTH PARTNERS.'",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts captured homepage only (sitemap=0, nav=0, known-paths=0); /services WebFetch succeeded but /about and /team returned 404 (URL pattern differs). HQ: 2175 NW Raleigh Street, Suite 110, Portland OR 97210. Homepage H1: 'FINANCIAL ADVICE FOR TECH EMPLOYEES.' Niche: technology employees at Intel, Microsoft, Nike, Amazon, Apple (named on services page). Specialties: RSUs, stock options, deferred comp, employer benefits optimization, tax minimization. Three stated principles: (1) Fiduciary — 'highest legal standard of care, choosing to act as an unwavering fiduciary in the best and exclusive interest of our clients,' (2) Fee-Only — 'do not sell any products, compensated solely for the advice we provide,' (3) Independence — 'free to structure our business in the way that best serves our clients, not constrained by the whims of a Wall Street bank.' Content surface: blog visible, ebook lead magnet ('GRAB OUR LATEST EBOOK'). 'AS SEEN IN' media list referenced. Tagline: 'DISCOVER HOW WE CAN HELP LOWER YOUR TAXES + MAKE WORK OPTIONAL' (the 'work optional' framing echoes Brindle & Bay's 'Amy & Dave — Work Optional' persona).",
+          "source": "tools/extract.ts (homepage only) + WebFetch on /services + /about (404)"
         }
       ]
     }
@@ -1393,6 +2300,116 @@
     }
   },
   {
+    "competitor": "EP Wealth Advisors",
+    "slug": "Ep_Wealth_Advisors",
+    "summary_line": "Torrance CA-based national fee-only RIA aggregator — $45.1B AUM, 618 employees, 320 advisors, 0 DRPs. 60+ offices nationally. Tagline: 'Fee-only financial advisors who manage your financial plan, integrate your taxes and estate, and create a custom portfolio that aligns with your goals.' Mid-size between Mercer ($84B) and Mather ($13B) — a large national aggregator that grew via acquisitions.",
+    "website": "https://epwealth.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "large",
+    "advisor_count": 320,
+    "employee_count": 618,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Torrance",
+    "headquarters_state": "CA",
+    "aum_usd": 45145000000,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "111147",
+    "sec_number": null,
+    "ownership_structure": "pe_backed",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "tax_integrated",
+      "estate_integrated",
+      "national_scale",
+      "active_acquirer"
+    ],
+    "vulnerabilities": [
+      "pe_growth_pressure",
+      "brand_consolidation_across_offices",
+      "no_fee_transparency"
+    ],
+    "tags": [
+      "pe_backed",
+      "roll_up",
+      "national",
+      "consumer_facing",
+      "fee_only",
+      "aum_fee",
+      "cfp_credentialed",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Mercer_Advisors",
+      "The_Mather_Group",
+      "Carson_Group",
+      "Focus_Partners"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 45145000000,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 320,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 618,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 111147 — 618 employees, 320 advisors, $45,145,000,000 regulatory AUM, 0 DRPs.",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: homepage only. Hero stats: '60+' (offices), '600+' (employees, matches ADV), '$44.1B+' (AUM, lower than ADV value). H2: 'EP WEALTH ADVISORS: WEALTH MANAGEMENT FOR ALL THINGS IMPORTANT TO YOU.' H1: 'ACCESS PERSONALIZED PLANNING-BASED ADVICE.' Tagline: 'Fee only financial advisors who manage your financial plan, integrate your taxes and estate, and create a custom portfolio that aligns with your goals.'",
+          "source": "tools/extract.ts (homepage only)"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "Foundry Financial",
     "slug": "Foundry_Financial",
     "summary_line": "Single-office Pasadena RIA (~$233M AUM, 7 advisors, 10 employees, 626 client accounts) explicitly serving retirees and pre-retirees with tax-burdened portfolios; founder-led storytelling, fee-based wealth management via a trademarked 'Foundry Framework', and a free 'Retirement Assessment' as the single conversion path.",
@@ -1517,6 +2534,115 @@
           "date": "2026-05-12",
           "event": "Site captured: retiree-focused hero ('Retire with confidence.'), Foundry Framework™ trademarked process, free 'Are We a Good Fit?' retirement assessment as the single conversion path, founder origin story (mother's bad advisor experience after father's death) on About page, no team page visible from sitemap (link present at /financial-planners-los-angeles but not captured).",
           "source": "tools/extract.ts"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Greenbush Financial Group",
+    "slug": "Greenbush_Financial_Group",
+    "summary_line": "Capital District NY fee-only RIA — $616.5M AUM concentrated in just 3 advisors / 6 employees (large per-advisor book ~$205M). Strong focus on three service pillars: investment management, **company retirement plans (401k)**, and financial planning. 'Virtual financial planning' + tax expertise explicit. Content-led with 'Subscribe to Blog' visible. 0 DRPs. Of the 18-firm batch, has the most relevant 401(k) segment angle for USWM's 40-50 mid-career cohort.",
+    "website": "https://greenbushfinancial.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 3,
+    "employee_count": 6,
+    "branch_count": null,
+    "geographic_scope": "regional",
+    "headquarters_city": null,
+    "headquarters_state": "NY",
+    "aum_usd": 616539856,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "weak",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "125500",
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "content_heavy",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "401k_specialist",
+      "tax_integrated",
+      "virtual_capable",
+      "content_led"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "key_person_concentration",
+      "narrow_service_lineup"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "regional",
+      "consumer_facing",
+      "fee_only",
+      "aum_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Brindle_And_Bay",
+      "Foundry_Financial",
+      "The_Peak_Fp"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 616539856,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 3,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 6,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 125500 — 6 employees, 3 advisors, $616,539,856 regulatory AUM (~$205M per advisor — high per-advisor book), 0 DRPs. Legal name: 'GREENBUSH FINANCIAL GROUP, LLC.' Mid-2000s CRD vintage (older registration).",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts homepage only. Three service pillars on homepage: Investment Management · Company Retirement Plans · Financial Planning. Homepage frames: 'What Makes Us Different?' / 'Our Client Relationships Start With a Financial Plan' / 'Tax Expertise' / 'Virtual Financial Planning & Investment Management' / 'Employer Sponsored Retirement Plan.' FINRA BrokerCheck link in nav. 'Subscribe to Blog' visible — content-led. Pricing not disclosed on homepage.",
+          "source": "tools/extract.ts (homepage only)"
         }
       ]
     }
@@ -2048,6 +3174,227 @@
     }
   },
   {
+    "competitor": "Mercer Advisors",
+    "slug": "Mercer_Advisors",
+    "summary_line": "Denver-based PE-backed national RIA roll-up — **$84.4B AUM, 1,429 employees, 632 advisors, 0 DRPs** — by far the largest firm in the entire catalog. Legal name 'MERCER GLOBAL ADVISORS INC.' Active acquirer of independent RIAs. Site capture returned 403 Forbidden (bot-blocked); analysis relies on IAPD + public knowledge.",
+    "website": "https://merceradvisors.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "medium",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "large",
+    "advisor_count": 632,
+    "employee_count": 1429,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Denver",
+    "headquarters_state": "CO",
+    "aum_usd": 84396892590,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Site returned 403 Forbidden to extract.ts (bot-protection). Profile relies on IAPD/ADV data + public knowledge. Same pattern as ~8 other firms in the catalog with Cloudflare-style blocks.",
+    "sec_registered": true,
+    "crd_number": "147363",
+    "sec_number": null,
+    "ownership_structure": "pe_backed",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "national_scale",
+      "active_acquirer",
+      "comprehensive_services"
+    ],
+    "vulnerabilities": [
+      "pe_growth_pressure",
+      "brand_consolidation_across_acquisitions",
+      "large_firm_complexity",
+      "bot_blocked_site"
+    ],
+    "tags": [
+      "pe_backed",
+      "roll_up",
+      "national",
+      "consumer_facing",
+      "fee_only",
+      "aum_fee",
+      "cfp_credentialed",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "The_Mather_Group",
+      "Ep_Wealth_Advisors",
+      "Focus_Partners",
+      "Carson_Group"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 84396892590,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 632,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 1429,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 147363 — 1,429 employees, 632 advisors, $84,396,892,590 regulatory AUM, 0 DRPs. Legal name: 'MERCER GLOBAL ADVISORS INC.' By far the largest single firm in the catalog.",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts returned 403 Forbidden / nginx (Cloudflare-style bot protection). No homepage content captured. Profile relies on IAPD/ADV data + public knowledge (PE-backed national roll-up that has acquired dozens of independent RIAs over the past decade). Mercer is one of the prototype 'aggregator' RIAs alongside Focus Partners, Hightower, Captrust, Creative Planning.",
+          "source": "tools/extract.ts (failed: 403 Forbidden)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Modera Wealth Management",
+    "slug": "Modera_Wealth_Management",
+    "summary_line": "Westwood NJ-headquartered, employee-owned fee-only fiduciary RIA — founded 1983, $17.5B AUM, 238 employees, 106 advisors, 6,300+ clients, 0 DRPs. The largest NJ-headquartered RIA in this batch and the **geographic peer most relevant to USWM in Chatham**. Long history of strategic growth (timeline page shows expansion years from 1983 through 2024). Hero: 'Nothing makes us happier than helping you live well.' Employee-ownership is the defining structural differentiator vs. PE-backed peers like Mather Group ($13.4B) and Mercer Advisors.",
+    "website": "https://moderawealth.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "large",
+    "advisor_count": 106,
+    "employee_count": 238,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Westwood",
+    "headquarters_state": "NJ",
+    "aum_usd": 17678214162,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "155649",
+    "sec_number": null,
+    "ownership_structure": "employee_owned",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "employee_owned",
+      "long_history",
+      "comprehensive",
+      "national_scale"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "large_firm_complexity",
+      "broad_target_audience"
+    ],
+    "tags": [
+      "employee_owned",
+      "multi_advisor",
+      "national",
+      "consumer_facing",
+      "cfp_credentialed",
+      "fee_only",
+      "aum_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Plancorp",
+      "Truepoint_Wealth_Counsel",
+      "Mercer_Advisors",
+      "The_Mather_Group"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 17678214162,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 106,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 238,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 155649 — 238 employees, 106 advisors, $17,678,214,162 regulatory AUM, 0 DRPs. Legal name: 'MODERA WEALTH MANAGEMENT, LLC.' Established 1983 per /our-story.",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: 5 pages (home, about/our-story, blog, contact, services). Hero: 'Nothing makes us happier than helping you live well.' Homepage stats: $17.5B AUM / 11.2 (likely avg client retention years) / 6,300+ clients. Tagline: 'Simplify your financial life with Modera Wealth Management—personalized, fee-only advice that helps you gain clarity, confidence, and peace of mind.' Two pillars: Financial Planning · Investment Management. 'Our Story' page emphasizes 1983 founding + 'history of strategic growth' timeline with major expansion years 1983, 1995, 2011, 2013-2016+. Company-values copy: 'We are proactive, positive problem solvers... foster a culture of excellence and encourage diverse perspectives... deliver sophisticated, fee-only wealth management in a highly personal way... relentless commitment to a client-first, fiduciary approach.' Employee-owned structure is the defining ownership differentiator vs. PE-backed peers.",
+          "source": "tools/extract.ts (5 pages — home/about/blog/contact/services)"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "My CPA Coach",
     "slug": "My_Cpa_Coach",
     "summary_line": "Online tax-strategy and CPA-services firm led by Sherman & Krystal Standberry (CPAs) — explicitly tier-priced ($5,000 / $7,500 / $10,000 first-year plans, with year-2+ maintenance pricing also published), with a defined money-back guarantee mechanic, eight named-with-credentials testimonials, an active long-tail SEO blog, and a self-paced 'Tax Savers Course' product running on a separate learn.mycpacoach.com LMS subdomain. Targets small-business owners and high-income earners ($100K+ business revenue for the planning guarantee).",
@@ -2355,6 +3702,222 @@
           "date": "2026-05-13",
           "event": "Site captured: claimed stats — 109+ investors, $114M+ transaction volume, 13+ years in business, 300+ real-estate transactions, $40M+ valued real estate transacted, $25M+ assets under management, 8-figure real-estate portfolio. Hero: 'Wealth Preservation & Growth Through Real Estate.' ICP: accredited investors seeking passive real-estate exposure without operational involvement. Stated prior deal-level returns (per site): 11-unit Paterson NJ complex (10 investors, $400K raised, 24% annualized cash-on-cash achieved); 27-apartment Rahway NJ (19 investors, $1.325M raised, targeted 11%+ return / 15%+ IRR — 'ahead of schedule'); 25-unit Paterson NJ (19 investors, $1.035M raised, targeted 10%+ return / 15%+ IRR — 'ahead of schedule'). Conversion funnel: Discovery Call → Approval to Invest → Investment → Wealth Growth & Preservation. Charity component: 10% of PCG's asset-management fee donated to World Vision, St. Jude Children's Research Hospital, and Wounded Warrior Project. Seth Martinez is the senior managing partner (medical-billing co-founder background, CPC Medical Billing co-founded 2003, 7-figure exit 2009); Aaron Fragnito is co-founder + host of the Passive Cash Flow Podcast + NJ Real Estate Network + former adjunct professor at Rowan University ('Real Estate Entrepreneurship'). Footer email: seth@peoplescapitalgroup.com / Phone: 908-257-0642.",
           "source": "tools/extract.ts (4 pages — home / about / blog / contact)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Plancorp",
+    "slug": "Plancorp",
+    "summary_line": "St. Louis-based fee-only fiduciary RIA — $9.94B AUM, 97 employees, 50 advisors, 0 DRPs. Tagline: 'We specialize in holistic and comprehensive wealth management.' Mid-large national firm targeting HNW. Uses 'holistic' / 'comprehensive' (terms USWM's brand voice explicitly rejects) — useful as the COUNTEREXAMPLE for what USWM is NOT.",
+    "website": "https://plancorp.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "large",
+    "advisor_count": 50,
+    "employee_count": 97,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "St. Louis",
+    "headquarters_state": "MO",
+    "aum_usd": 9942372723,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "106599",
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "holistic_uses_avoidlist_term",
+      "comprehensive"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "generic_positioning",
+      "uses_avoid_list_language"
+    ],
+    "tags": [
+      "multi_advisor",
+      "national",
+      "consumer_facing",
+      "cfp_credentialed",
+      "fee_only",
+      "aum_fee",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Modera_Wealth_Management",
+      "Truepoint_Wealth_Counsel",
+      "Compass_Ion_Advisors"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 9942372723,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 50,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 97,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 106599 — 97 employees, 50 advisors, $9,942,372,723 regulatory AUM, 0 DRPs. Legal name: 'PLANCORP, LLC.' Mid-1990s CRD vintage.",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: homepage only. Title: 'Top St. Louis Financial Advisors | Plancorp Wealth Management.' Meta description: 'We specialize in holistic and comprehensive wealth management. From retirement planning to strategic investing and everything between, Plancorp helps you make the most of your wealth.' Headings array showed all H3s as empty strings — site is JS-rendered. NOTE: site openly uses both 'holistic' and 'comprehensive' — both on USWM's `_context/brand_what_not_to_make.md` avoid-list, marking Plancorp as the negative-example brand voice for USWM's positioning.",
+          "source": "tools/extract.ts (homepage only)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Pure Financial Advisors",
+    "slug": "Pure_Financial_Advisors",
+    "summary_line": "San Diego fee-only fiduciary RIA with strong national content presence — $11.05B AUM, 204 employees, 76 advisors, 0 DRPs. Retirement-focused with content engine: 'Your Money Your Wealth' podcast/show, free retirement classes, /why-pure/fees/ page published. Strong sitemap (300 entries) + nav (94) + known-paths (4 matches). 5 captured pages including pricing. 'Tax-optimized investment management' is a stated specialty.",
+    "website": "https://purefinancial.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "large",
+    "advisor_count": 76,
+    "employee_count": 204,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "San Diego",
+    "headquarters_state": "CA",
+    "aum_usd": 11054059366,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "weak",
+    "segment_mid_career_401k": "ok",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "144316",
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "content_heavy",
+    "design_tone": "modern",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "retirement_specialist",
+      "tax_optimized",
+      "content_heavy",
+      "free_education_funnel",
+      "fee_transparent"
+    ],
+    "vulnerabilities": [
+      "large_team_complexity",
+      "no_segment_named_for_early_adults"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "national",
+      "consumer_facing",
+      "cfp_credentialed",
+      "fee_only",
+      "aum_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Money_Guy",
+      "Foundry_Financial",
+      "Brindle_And_Bay"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 11054059366,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 76,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 204,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 144316 — 204 employees, 76 advisors, $11,054,059,366 regulatory AUM, 0 DRPs. Legal name: 'PURE FINANCIAL ADVISORS, LLC.'",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: 5 pages (home, about, blog, contact, pricing at /why-pure/fees/). Hero: 'Experience the Pure Difference.' Six homepage tiles: Prepare for Retirement · Reduce Your Tax Liability · Find Your Advisor · Invest for Your Future · Never Stop Learning + 'Jumpstart Your Retirement Planning with Our Free Resources!' Two main CTAs: 'Attend a Retirement Class' (free education funnel) + 'Talk to an Advisor.' Pricing page exists at /why-pure/fees/. Tagline: 'Pure Financial Advisors is a fee-only financial planning firm providing retirement planning services and tax-optimized investment management.' Known publicly for 'Your Money Your Wealth' podcast/show — major content brand.",
+          "source": "tools/extract.ts (5 pages — home/about/blog/contact/pricing)"
         }
       ]
     }
@@ -2794,6 +4357,122 @@
     }
   },
   {
+    "competitor": "Stash Wealth",
+    "slug": "Stash_Wealth",
+    "summary_line": "NYC virtual fee-only RIA founded by Priya Malani — former Merrill Lynch HNW advisor and former professional ballerina. Targets six-figure-earning 30-somethings (HENRYs). Core product: 'The Stash Plan' = $5,000 flat-fee 4-week deep dive. Edgy tone ('Get Your Financial Sh*t Together'). $51.7M AUM, 2 advisors, 3 employees per ADV, 0 DRPs. Smallest firm in this round.",
+    "website": "https://stashwealth.com",
+    "competitor_type": "wealth_mgmt_solo",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 2,
+    "employee_count": 3,
+    "branch_count": 1,
+    "geographic_scope": "national",
+    "headquarters_city": "New York",
+    "headquarters_state": "NY",
+    "aum_usd": 51715642,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "subscription",
+    "fee_schedule_published": true,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "fee_flat_low_usd": 5000,
+    "fee_flat_high_usd": 5000,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent"
+    ],
+    "segment_early_adults": "ok",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "167072",
+    "sec_number": "801-105050",
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "personality_led",
+    "design_tone": "energetic",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "niche_specialist",
+      "segment_specific",
+      "personality_led",
+      "flat_fee_transparent",
+      "national_virtual",
+      "founder_origin_story"
+    ],
+    "vulnerabilities": [
+      "no_401k_specific_funnel",
+      "single_founder_key_person_risk",
+      "small_aum_scale",
+      "narrow_niche_dependency"
+    ],
+    "tags": [
+      "founder_led",
+      "solo_advisor",
+      "national",
+      "consumer_facing",
+      "fee_only",
+      "flat_fee",
+      "subscription_fee",
+      "content_engine",
+      "media_personality_led",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Afford_Anything",
+      "Brindle_And_Bay",
+      "Money_Guy",
+      "Roadmap_Money"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 51715642,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 2,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 3,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 167072 — 3 employees, 2 advisors, $51,715,642 regulatory AUM, 0 disciplinary disclosures. SEC file 801-105050. Legal name: 'STASH WEALTH, LLC.'",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: extract.ts captured homepage only (sitemap=0, nav=0, known-paths=0); followed up via WebFetch on /how-we-work + /about. Brand voice deliberately edgy: H1 = 'Get Your Financial Sh*t Together.' Tagline: 'Home Of The HENRYs.' Sub-tagline: 'In your 30s making six-figures?' / 'Welcome.' Core product: **The Stash Plan** — a $5,000 flat-fee, 4-week deep dive into a client's finances, life, and goals; one-on-one with a dedicated advisor; combines 'cutting-edge financial tools' with 'deeply human insights.' Founder Priya Malani — origin story: started Stash after watching her parents' financial stress despite her father's successful six-figure medical career; previously at Merrill Lynch with HNW clients; former professional ballerina. Phone area code 212 (NYC). Positioning: 'high-achieving 30-somethings' wanting financial clarity; reframes money as 'a source of empowerment and joy' rather than stress. Content presence is personality-led around Priya. /the-stash-plan returned 404 in WebFetch (URL pattern may differ).",
+          "source": "tools/extract.ts (homepage only) + WebFetch on /how-we-work, /about"
+        }
+      ]
+    }
+  },
+  {
     "competitor": "Sven Carlin",
     "slug": "Sven_Carlin",
     "summary_line": "Croatian-born, Netherlands-based independent value-investing researcher with a PhD in finance and a former academic post at Amsterdam School of International Business — operates a multi-surface educational brand (Research Platform subscription, blog, podcast, book 'Modern Value Investing,' Stock Market Investing Courses, charity). Personality-led 'Modern Value Investing with Sven Carlin' brand teaching individual investors to evaluate individual stocks (Lululemon vs Nike, Berkshire Hathaway, Aker BP, etc.) rather than allocate to index funds.",
@@ -3050,6 +4729,324 @@
           "date": "2026-05-12",
           "event": "EXECUTION ISSUE — Contact page (/contact/) was captured but the body still contains template placeholder copy: 'Head Office Jln Cempaka Wangi No 22 Jakarta - Indonesia,' 'support@yourdomain.tld,' 'hello@yourdomain.tld,' 'Phone : +6221.2002.2012,' and 'Lorem ipsum dolor sit amet…' Lorem ipsum and a Wordpress agency placeholder ('Digimax's Expertise') are visible on the About page. The site footer credits 'Monster Link Marketing.' For a firm pricing engagements at $20K–$150K, the failure to remove template placeholders on contact and about is a credibility wart.",
           "source": "extract.ts capture of taxalchemy.com/contact/ and taxalchemy.com/about-us/"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "The Mather Group",
+    "slug": "The_Mather_Group",
+    "summary_line": "$13.4B AUM national RIA roll-up (formerly Sebold Capital Management before rebrand) — 186 employees, advisor count not parsed (large multi-strategy firm). Tagline: 'Why-Powered wealth management.' Active M&A acquirer of other RIAs (nav has 'M&A for RIAs'). Recognized by Barron's Top RIAs in America, Top 100 RIA firms, Financial Advisor RIA Leaders. 0 DRPs. Several orders of magnitude larger than USWM — useful primarily as 'what a roll-up at scale looks like' benchmark rather than direct competitor.",
+    "website": "https://www.themathergroup.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "large",
+    "advisor_count": null,
+    "employee_count": 186,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Chicago",
+    "headquarters_state": "IL",
+    "aum_usd": 13446388872,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Firm rebranded from 'Sebold Capital Management' — the prior shortlist entry pointed at the old name. The Mather Group is the current legal entity. ADV PDF parser returned advisor_count=null (large multi-strategy firm; may need manual extraction from PDF).",
+    "sec_registered": true,
+    "crd_number": "156005",
+    "sec_number": null,
+    "ownership_structure": "pe_backed",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "purpose_driven",
+      "active_acquirer",
+      "transparent_pricing"
+    ],
+    "vulnerabilities": [
+      "large_firm_complexity",
+      "rollup_brand_consistency",
+      "no_published_minimums"
+    ],
+    "tags": [
+      "pe_backed",
+      "roll_up",
+      "national",
+      "consumer_facing",
+      "fee_only",
+      "aum_fee",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Mercer_Advisors",
+      "Focus_Partners",
+      "Ep_Wealth_Advisors",
+      "Carson_Group"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 13446388872,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 186,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 156005 — 186 employees, advisor count not parsed by ADV PDF parser, $13,446,388,872 regulatory AUM, 0 DRPs. Legal name: 'THE MATHER GROUP, LLC.'",
+          "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: 4 pages (home, services, contact, blog). Tagline: 'Why-powered wealth management.' Home highlights media recognition: Top 100 RIA firms · Barron's · Top RIAs in America · Financial Advisor RIA Leaders · Financial Planning. Nav includes 'M&A for RIAs' — actively acquiring other RIAs. Site value props: 'Transparent pricing, fiduciary responsibility, and personalized financial strategies.' Service line nav at /services-wealth. Careers page at /careers-wealth. Brand rebranded from former 'Sebold Capital Management.'",
+          "source": "tools/extract.ts (4 pages)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Truepoint Wealth Counsel",
+    "slug": "Truepoint_Wealth_Counsel",
+    "summary_line": "Cincinnati OH fee-only fiduciary RIA founded 1990 — $6.39B AUM, 103 employees, 37 advisors, 0 DRPs. Hero is the catalog's most explicit anti-wirehouse rhetoric: 'People / Compassion / Your Trust / Return on Life — VS — Products / Commissions / Our Bottom Line / Return on Investment.' Direct rejection of product-sales model. Tagline: 'This is Life and Wealth, Well Managed.'",
+    "website": "https://truepointwealth.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "mid",
+    "advisor_count": 37,
+    "employee_count": 103,
+    "branch_count": null,
+    "geographic_scope": "national",
+    "headquarters_city": "Cincinnati",
+    "headquarters_state": "OH",
+    "aum_usd": 6392730954,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "hnw",
+      "uhnw"
+    ],
+    "segment_early_adults": "not_aimed",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": null,
+    "sec_registered": true,
+    "crd_number": "105664",
+    "sec_number": null,
+    "ownership_structure": "private_partnership",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "moderate",
+    "design_tone": "editorial",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "anti_wirehouse_explicit",
+      "long_history",
+      "return_on_life"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "broad_target_audience"
+    ],
+    "tags": [
+      "multi_advisor",
+      "national",
+      "consumer_facing",
+      "cfp_credentialed",
+      "fee_only",
+      "aum_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Modera_Wealth_Management",
+      "Plancorp",
+      "Compass_Ion_Advisors"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 6392730954,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 37,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 103,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 105664 — 103 employees, 37 advisors, $6,392,730,954 regulatory AUM, 0 DRPs.",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: homepage only. Founded 1990 per meta description. Tagline: 'Fee-only wealth management firm based in Cincinnati, OH. Helping clients achieve financial peace of mind since 1990.' Hero H1 is the catalog's most explicit anti-wirehouse positioning: 'People / Compassion / Your Trust / Return on Life — VS — Products / Commissions / Our Bottom Line / Return on Investment.' H2: 'This is Life and Wealth, Well Managed.' Sub-CTAs: 'Experience the Truepoint Difference,' 'We're Hiring.'",
+          "source": "tools/extract.ts (homepage only)"
+        }
+      ]
+    }
+  },
+  {
+    "competitor": "Wiser Wealth Management",
+    "slug": "Wiser_Wealth_Management",
+    "summary_line": "Marietta GA fee-only fiduciary RIA — $513.6M AUM, 11 employees, 5 advisors, 0 DRPs. Note: brand domain wiserwealth.com timed out on first capture; live site is wiserinvestor.com. Unusually broad niche menu visible on homepage: Retirement · Business Owners · Single Again Community · Airline Pilots · Legacy · Inheritance — including a divorce-recovery sub-segment most peers don't surface. 'No product sales or commissions.'",
+    "website": "https://wiserinvestor.com",
+    "competitor_type": "wealth_mgmt_traditional",
+    "threat_level": "low",
+    "confidence": "high",
+    "last_updated": "2026-06-17",
+    "next_review_by": "2026-12-14",
+    "review_cadence_days": 180,
+    "team_size": "small",
+    "advisor_count": 5,
+    "employee_count": 11,
+    "branch_count": null,
+    "geographic_scope": "regional",
+    "headquarters_city": "Marietta",
+    "headquarters_state": "GA",
+    "aum_usd": 513631706,
+    "aum_as_of": "2026-06-17",
+    "pricing_model": "aum_only_disclosed",
+    "fee_schedule_published": false,
+    "fee_aum_pct_low": null,
+    "fee_aum_pct_high": null,
+    "min_account_usd": null,
+    "wealth_tiers_served": [
+      "mass_affluent",
+      "hnw"
+    ],
+    "segment_early_adults": "weak",
+    "segment_mid_career_401k": "weak",
+    "regulatory_jurisdiction": "US",
+    "regulator": "SEC",
+    "regulatory_note": "Original captured URL wiserwealth.com timed out; firm's live site is at wiserinvestor.com. Both refer to same legal entity (CRD 125282, 'WISER WEALTH MANAGEMENT, INC').",
+    "sec_registered": true,
+    "crd_number": "125282",
+    "sec_number": null,
+    "ownership_structure": "founder_led",
+    "fiduciary_stated_explicitly": true,
+    "fee_only_stated_explicitly": true,
+    "disciplinary_disclosures": false,
+    "disciplinary_disclosure_count": 0,
+    "media_presence": "content_heavy",
+    "design_tone": "establishment",
+    "positioning_claims": [
+      "fee_only",
+      "fiduciary",
+      "multi_niche",
+      "no_product_sales",
+      "segment_specific"
+    ],
+    "vulnerabilities": [
+      "no_fee_transparency",
+      "niche_dilution_risk",
+      "small_team_size"
+    ],
+    "tags": [
+      "founder_led",
+      "multi_advisor",
+      "regional",
+      "consumer_facing",
+      "cfp_credentialed",
+      "fee_only",
+      "aum_fee",
+      "content_engine",
+      "clean_regulatory_record"
+    ],
+    "related_competitors": [
+      "Brindle_And_Bay",
+      "Foundry_Financial",
+      "Greenbush_Financial_Group"
+    ],
+    "trajectory": {
+      "aum_history": [
+        {
+          "as_of": "2026-06-17",
+          "value_usd": 513631706,
+          "source": "ADV"
+        }
+      ],
+      "advisor_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 5,
+          "source": "ADV"
+        }
+      ],
+      "employee_count_history": [
+        {
+          "as_of": "2026-06-17",
+          "value": 11,
+          "source": "ADV"
+        }
+      ],
+      "branch_count_history": [],
+      "notable_events": [
+        {
+          "date": "2026-06-17",
+          "event": "ADV snapshot via IAPD CRD 125282 — 11 employees, 5 advisors, $513,631,706 regulatory AUM, 0 DRPs. Legal name: 'WISER WEALTH MANAGEMENT, INC.'",
+          "source": "Form ADV Part 1A"
+        },
+        {
+          "date": "2026-06-17",
+          "event": "Site capture: homepage only at wiserinvestor.com (the wiserwealth.com domain timed out). Hero H1: 'Guiding you to financial freedom through life's pivotal moments.' Six niche tiles on homepage: RETIREMENT PLANNING · BUSINESS OWNERS · SINGLE AGAIN COMMUNITY · AIRLINE PILOTS · LEGACY PLANNING · INHERITANCE. 'Single Again Community' is a divorce-recovery sub-segment — unusual specificity. Tagline: 'specializes in both investment advisory services and financial consulting with no product sales or commissions.'",
+          "source": "tools/extract.ts (homepage only)"
         }
       ]
     }

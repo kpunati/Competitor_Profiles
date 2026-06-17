@@ -1,0 +1,65 @@
+{
+  "competitor": "Domain Money",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://domainmoney.com",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(0, 48, 60)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(248, 246, 242)",
+        "count": 32
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 31
+      },
+      {
+        "color": "rgb(217, 217, 217)",
+        "count": 22
+      },
+      {
+        "color": "rgb(255, 107, 26)",
+        "count": 7
+      },
+      {
+        "color": "rgb(0, 48, 60)",
+        "count": 3
+      },
+      {
+        "color": "rgb(0, 34, 43)",
+        "count": 1
+      },
+      {
+        "color": "rgb(152, 211, 243)",
+        "count": 1
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.4)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(255, 255, 255)",
+    "accent": "rgb(217, 217, 217)"
+  },
+  "typography": {
+    "heading_family": "ivypresto-display",
+    "heading_weight": "300",
+    "body_family": "proxima-nova, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 16
+  },
+  "primary_button": {
+    "text": "Free Strategy Session",
+    "background": "rgb(255, 107, 26)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 32,
+    "padding": "0px 26px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

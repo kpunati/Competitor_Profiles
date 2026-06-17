@@ -1,0 +1,273 @@
+{
+  "kind": "blog",
+  "url": "https://purefinancial.com/learning-center/blog/",
+  "title": "Personal Finance Blog | Pure Financial Advisors, Inc.",
+  "meta": {
+    "description": "Weekly informative blog posts keeping you up-to-date and informed on the latest financial planning news, strategies and headlines.",
+    "og_title": "Personal Finance Blog | Pure Financial Advisors, Inc.",
+    "og_description": "Weekly informative blog posts keeping you up-to-date and informed on the latest financial planning news, strategies and headlines."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Welcome to Our Blog"
+    },
+    {
+      "level": "H3",
+      "text": "Recent Posts"
+    },
+    {
+      "level": "H3",
+      "text": "More Posts"
+    },
+    {
+      "level": "H3",
+      "text": "We’ve Got You Covered"
+    },
+    {
+      "level": "H3",
+      "text": "Find What You Are Looking For"
+    },
+    {
+      "level": "H3",
+      "text": "Lunch n’ Learn"
+    },
+    {
+      "level": "H3",
+      "text": "Register for a Class"
+    },
+    {
+      "level": "H2",
+      "text": "Experience the PURE Difference"
+    },
+    {
+      "level": "H3",
+      "text": "Sign Up for Our Newsletter"
+    },
+    {
+      "level": "H3",
+      "text": "Give Us a Call:"
+    },
+    {
+      "level": "H3",
+      "text": "Quick Links:"
+    },
+    {
+      "level": "H3",
+      "text": "Connect with Us:"
+    },
+    {
+      "level": "H2",
+      "text": "Subscribe to YMYW"
+    },
+    {
+      "level": "H3",
+      "text": "Ask Joe & Big Al on Air"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Upgrade to Planner+"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Chili Piper Test"
+    },
+    {
+      "level": "H3",
+      "text": "Congress Approves The SECURE Act"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Free Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Free Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Get Our Insights"
+    },
+    {
+      "level": "H3",
+      "text": "White Papers"
+    },
+    {
+      "level": "H3",
+      "text": "Request ADV"
+    },
+    {
+      "level": "H3",
+      "text": "Secure Client Login"
+    },
+    {
+      "level": "H3",
+      "text": "Talk to an Advisor"
+    },
+    {
+      "level": "H3",
+      "text": "YMYW Newsletter"
+    },
+    {
+      "level": "H3",
+      "text": "Join the YMYW Newsletter!"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Manage options",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-manage-consent-container"
+    },
+    {
+      "text": "Manage services",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-cookies-overview"
+    },
+    {
+      "text": "Manage {vendor_count} vendors",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-tcf-wrapper"
+    },
+    {
+      "text": "Read more about these purposes",
+      "tag": "A",
+      "href": "https://cookiedatabase.org/tcf/purposes/"
+    },
+    {
+      "text": "Accept",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Functional only",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "View preferences",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Save preferences",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "View preferences",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-manage-consent-container"
+    },
+    {
+      "text": "Opt-out preferences",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/"
+    },
+    {
+      "text": "{title}",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "{title}",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "GET STARTED NOW",
+      "tag": "A",
+      "href": "https://purefinancial.com/financialblueprint/?utm_source=purefinancial.com&utm_medium=topbar&utm_campaign=FinancialBlueprint"
+    },
+    {
+      "text": "CALL",
+      "tag": "A",
+      "href": "tel:+18668767873"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://purefinancial.com/why-pure/contact-us/"
+    },
+    {
+      "text": "FORM CRS",
+      "tag": "A",
+      "href": "https://purefinancial.com/wp-content/uploads/2026/02/Form-CRS-2-12-26.pdf"
+    },
+    {
+      "text": "LOCATIONS",
+      "tag": "A",
+      "href": "https://purefinancial.com/why-pure/locations/"
+    },
+    {
+      "text": "LOG IN",
+      "tag": "A",
+      "href": "#modal-login"
+    },
+    {
+      "text": "GET AN ASSESSMENT",
+      "tag": "A",
+      "href": "https://purefinancial.com/lp/free-assessment"
+    },
+    {
+      "text": "Financial Resources",
+      "tag": "A",
+      "href": "https://purefinancial.com/learning-center/"
+    },
+    {
+      "text": "All White Papers",
+      "tag": "A",
+      "href": "https://purefinancial.com/white-papers/"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://purefinancial.com/learning-center/blog/"
+    },
+    {
+      "text": "Educational Events",
+      "tag": "A",
+      "href": "https://purefinancial.com/retirement-classes/"
+    },
+    {
+      "text": "Educational Videos",
+      "tag": "A",
+      "href": "https://purefinancial.com/ask-pure/"
+    },
+    {
+      "text": "Free Assessment",
+      "tag": "A",
+      "href": "https://purefinancial.com/lp/free-assessment/"
+    },
+    {
+      "text": "Retirement Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/retirement-classes/"
+    },
+    {
+      "text": "Chicago Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/chicago-classes/"
+    },
+    {
+      "text": "Denver Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/denver/"
+    },
+    {
+      "text": "Lehi Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/lehi-classes/"
+    },
+    {
+      "text": "Nashville Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/nashville-classes/"
+    }
+  ],
+  "body_text": "Plan your financial future with a quick analysis that will calculate your success. Get your financial blueprint today!\nGET STARTED NOW\nCALL\nCONTACT\nFORM CRS\nLOCATIONS\nLOG IN\nGET AN ASSESSMENT\nFinancial Resources\nRetirement Workshops\nFinancial Planning\nInvestment Planning\nThe Pure Difference\nYour Money, Your Wealth\nWelcome to Our Blog\nStay informed on the latest financial planning news and headlines\nSUBSCRIBE TO OUR NEWSLETTER\nRecent Posts\nRISK MANAGEMENT\nHow to Deal with Economic Uncertainty\nA client recently posed a question to me: “There seems to be an unusual degree of economic uncertainty right now.  Should I sit on the sidelines until things settle?” In crafting my answer, I came across the following chart from Avantis Investors, which highlights the almost staggering ranges we’ve seen in various economic indicators and...\n19\nMAY\n2026\nBRIAN PERRY\nREAD MORE\nINVESTING\nWorried about War\nAs of this writing (4/30/2026), turmoil continues in the Middle East, and while we all hope for a permanent and peaceful solution, the reality is that wars and other geopolitical conflicts have long been a part of the human record. At some point, peace between the United States, Israel, and Iran will resume but it...\n01\nMAY\n2026\nBRIAN PERRY\nREAD MORE\nFINANCIAL PLANNING\nA Market of Stocks\nThe National Debt. Government shutdowns. War in the Middle East (or Ukraine.) The Federal Reserve. Politics in the United States (or abroad.) We get asked about all of these, and many more. Are we concerned? What impact might they have in the short term? In the long term? Is the stock market going to fall?...\n05\nDEC\n2025\nREAD MORE\nMore Posts\nINVESTING\nWhy AI Might Not Be A Bubble\nThree years after ChatGPT’s debut in November of 2022, opinions about the ultimate economic impact of AI are mixed.  The most rapidly adopted technology in history has more than changed how we interact with computers and mobile devices.  It has altered how investors and businesses allocate capital and natural resources.  We’re witnessing a global technology […]\n26\nNOV\n2025\nREAD MORE\nRISK MANAGEMENT\nShould You Own Gold Instead of Stocks?\nWith gold making new highs and up more than 50% in 2025 you might be wondering whether it makes sense to hold gold instead of stocks. It’s a good question, but as you can see from the chart below, over the very long term (since 1915) there is really no comparison. The Dow Jones Industrial […]\n23\nOCT\n2025\nREAD MORE\nFINANCIAL PLANNING\nAlternative Investments Are Coming to Your 401(k) – Here’s What You Need to Know\nAlternative investments are about to become much more accessible to everyday investors. The Department of Labor is currently reviewing rules that would allow 401(k) plans to offer alternative investments (alts) which includes assets like private equity, physical real estate, venture capital, hedge funds and other non-traditional assets. These rule changes are expected to take effect […]\n17\nSEP\n2025\nREAD MORE\nINVESTING\nAre US Stocks Overpriced?\nThe S&P 500 and stock markets in general continue to set record highs, leading many to ask: “Are we in a bubble or are stocks overpriced?” Unfortunately, the answer only becomes clear with hindsight.  Historically, stock market bubbles, characterized by significant overvaluation followed by steep downturns, are only obvious after they’ve burst. A sustained rise […]\n03\nSEP\n2025\nREAD MORE\nINVESTING\nIt’s AI All the Way Down\nDuring a recent client lunch, the conversation turned to AI’s impact on education. The client, an educator, shared that college students are increasingly using AI to write papers. While students cheating on essays isn’t new, what struck me was the professor’s response. Rather than encouraging original work, her former colleagues have turned to AI for […]\n13\nAUG\n2025\nREAD MORE\nINVESTING\nQuestions & Answers in a Time of Transition\nWith the recent political transition, as well as questions around what’s next for the Federal Reserve and the economy, we wanted to take this opportunity to address some of the more common items we are discussing with clients. We also wanted to provide some context for long-term investors and help them keep perspective on current […]\n10\nMAR\n2025\nREAD MORE\nINVESTING\nPrivate Credit: Understanding a Popular New Asset Class\nWhat is Private Credit? Private credit is an asset class comprised of non-bank lending issued outside of public markets. Instead, the lenders are private investors or investment firms, who lend directly to businesses or individuals, bypassing traditional financial institutions such as banks. Borrowers vary, but include companies in need of capital, real estate projects, and […]\n28\nJAN\n2025\nREAD MORE\nINVESTING\nOutlook 2025: FAQs for the Year Ahead\nQ: I’m worried markets will turn more volatile next year. Should I sell? A: It’s important to accept that market selloffs are a regular occurrence. Let’s acknowledge that no one likes seeing markets fall and their portfolio balances decline. But the reality is that market selloffs are a normal part of being an investor. In […]\n31\nDEC\n2024\nREAD MORE\nFINANCIAL PLANNING\nIts Not Too Late! Year End Financial Moves to Make Right Now\nAs we continue marching towards a new year, there are several important things to keep in mind regarding your financial planning. These items may or may not make sense for you, but they are topics you should generally evaluate each year. Maximize Retirement Plan Contributions It is important to remember that while IRA and Roth […]\n15\nNOV\n2024\nREAD MORE\nRISK MANAGEMENT\nUS National Debt and the Impact on Long-Term Investing\nThe U.S. national debt is a hot topic, especially with the U.S. elections this year. Currently, the debt is nearing $35 trillion, which is over 120% of the country’s GDP and continues to rise rapidly. The amount almost sounds comical.  It’s hard to comprehend such a large number in our minds.  The government is spending […]\n07\nNOV\n2024\nREAD MORE\nINVESTING\nThe Outlook for the 2024 Election\nOctober 2024 With an impending election, this is a good time to review how markets have performed during various political cycles, as well as to look at some possible outcomes in 2024. For starters, it’s important to realize that people’s perceptions of the economy can vary drastically depending on whether the party they favor is […]\n10\nOCT\n2024\nREAD MORE\nINVESTING\nFactor Investing: What is It? Should You Be Doing It?\nFactor investing is a strategic approach that involves finding securities based on specific attributes such as value, quality, momentum, size, and minimum volatility.  These factors, which are well-documented by researchers, are essential tools for investors seeking to outperform the market.  Decades of research have revealed the sets of characteristics that explain differences in expected returns.  […]\n13\nAUG\n2024\nREAD MORE\nLOAD MORE\nWe’ve Got You Covered\nWhether you’re nearing retirement, in retirement, had a life-altering event or need investment advice, Pure Financial’s fee-only fiduciary financial advisor team helps craft an investment strategy and retirement plan based on the best interest of your financial goals.\nGET AN ASSESSMENT\nFind What You Are Looking For\nLooking for an article on a specific topic we can help you find it.\nRetirement Planning ()\nInvesting ()\nRoth Conversion ()\nTax Planning ()\nRetirement ()\nOther Topics\nChoose a category\n1099 Consolidated Tax Document ()\n401k ()\nAlternative Investments ()\nAnnuity ()\nArtificial Intelligence ()\nAsset Allocation ()\nAsset Classes ()\nAsset Location ()\nBanking ()\nBear Market ()\nBehavioral Finance ()\nBond Market ()\nBonds ()\nCashflow ()\nCharitable Gifting ()\nCharlie Munger ()\nCollege Savings ()\nConsumer Price Index ()\nCoronavirus ()\nCOVID-19 ()\nCryptocurrency ()\nCurrencies ()\nDebt ()\nDirect Indexing ()\nDiversification ()\nDonald Trump ()\nDown Markets ()\nEconomic Update ()\nEconomy ()\nElection ()\nElection 2020 ()\nElection 2024 ()\nElection Impact ()\nEmployee Benefits ()\nEstate Planning ()\nETFs ()\nExchange Traded Funds ()\nFederal Reserve ()\nFiduciary ()\nFinancial Advisor ()\nFinancial Markets ()\nFinancial Planning ()\nFinancial Tips ()\nGlobal Investing ()\nGold ()\nGross Domestic Product ()\nHedging ()\nHigh Yield Bonds ()\nIncome Alternatives ()\nInflation ()\nInstitutional Investors ()\nInterest Rates ()\nInternational Stocks ()\nInvesting Basics ()\nInvesting Strategy ()\nInvestment Management ()\nInvestment Strategies ()\nIRA ()\nIRS FORM 1099-R ()\nIRS FORM 5498 ()\nJoe Biden ()\nKamala Harris ()\nLoans ()\nLong-term Bonds ()\nLong-Term Care ()\nMagnificent 7 ()\nMarket Review ()\nMarket Timing ()\nMarket Volatility ()\nMarkets ()\nMedicare ()\nMutual Funds ()\nPension ()\nPortfolio Management ()\nPortfolio Rebalancing ()\nPrivate Credit ()\nQuantitative Easing ()\nQuantitative Tightening ()\nQuarterly Market Review ()\nReal Estate ()\nReal Estate In An IRA ()\nReal Estate Investing ()\nReal Estate Investment ()\nRecession ()\nRental Real Estate ()\nRestricted Stock Units ()\nRetirement Income ()\nRisk ()\nRisk Management ()\nRMD ()\nRoth Contributions ()\nRoth IRA ()\nRoth IRAs ()\nSeparately Managed Accounts ()\nShort-term Bonds ()\nSignature Bank ()\nSilicon Valley Bank ()\nSmall Business Owners ()\nSocial Security ()\nS&P 500 ()\nStagflation ()\nStimulus Payments ()\nStock Market ()\nStock Market Indexes ()\nStock Portfolio ()\nStocks ()\nTax Free ()\nTax Management ()\nTax Strategies ()\nTaxes ()\nTechnology ()\nThe Fed ()\nTrading ()\nTrading Process ()\nTrust ()\nUS Dollar ()\nWarren Buffett ()\nWill ()\n×\nChoose a category\nContinue\nLink\nLunch n’ Learn\nJoin us for a one-hour lunch n’ learn as we discuss the current state of the economy, the new tax reform, how to reduce taxes in retirement, and appropriate investment strategies for volatile markets.\nRegister Now\nLink\nRegister for a Class\nDon’t leave Financial circumstances to uncertainty, solidify your financial plans with the help of experts.\nRegister Now\nLink\nExperience the PURE Difference\nGet Your Free Assessment\nSign Up for Our Newsletter\nHow Did You Hear About Us?\nRadio\nTV\nPodcast\nYoutube\nMailer\nWord of Mouth\nSearch Engine\nOther\nBy clicking submit, you are providing Pure Financial express written consent to be contacted by SMS, possibly using automated technology to the number you provided. If at any time you wish to opt-out of communication, please reply \"STOP\" to cancel. Text \"HELP\" for help. Message frequency may vary. Message/data rates may apply. Submission of this form does not authorize the purchase of goods, services, or products. See Pure’s Privacy Policy at the bottom of the webpage.\n Your information is secure.\nGive Us a Call:\n1 (866) 876-7873\nQuick Links:\nLog In\nCareers\nContact Us\nDesignations and Certifications\nFinancial Blueprint\nForm ADV 2A\nPartner with Pure\nPure Financial App\nCookie Policy\nPrivacy Policy\nPrivacy Statement\nConnect with Us:\n Youtube\n Twitter\n LinkedIn\n Facebook\nBack To Top\nRefunds available upon written notice\n© Copyright 2025. Pure Financial Advisors, LLC. All rights reserved."
+}

@@ -1,0 +1,53 @@
+{
+  "competitor": "Stash Wealth",
+  "website": "https://stashwealth.com",
+  "last_updated": "2026-06-17",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "hey@stashwealth.com"
+    ],
+    "footer_phones": [
+      "(212) 913-9904"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "STASH WEALTH, LLC",
+      "crd_number": "167072",
+      "sec_number": "801-129335",
+      "headquarters": "85 BROAD STREET, 17TH FLOOR, NEW YORK, NY, 10004, United States",
+      "branch_count": 2,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "MODERNA CAPITAL",
+        "STASH WEALTH"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/167072/PDF/167072.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/167072"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Stash%20Wealth"
+  }
+}

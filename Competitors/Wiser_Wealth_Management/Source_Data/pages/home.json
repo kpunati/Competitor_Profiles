@@ -1,0 +1,329 @@
+{
+  "kind": "home",
+  "url": "https://wiserinvestor.com/",
+  "title": "Marietta Financial Advisors – Wiser Wealth Management",
+  "meta": {
+    "description": "Wiser Wealth Management in Marietta, Georgia specializes in both investment advisory services and financial consulting with no product sales or commissions.",
+    "og_title": "Wiser Wealth Management - Homepage",
+    "og_description": "Wiser Wealth Management in Marietta, Georgia specializes in both investment advisory services and financial consulting with no product sales or commissions."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Guiding you to financial freedom through life’s pivotal moments."
+    },
+    {
+      "level": "H2",
+      "text": "Do you want to reach your financial goals with confidence?"
+    },
+    {
+      "level": "H2",
+      "text": "Financial advice tailored to your specific needs."
+    },
+    {
+      "level": "H3",
+      "text": "RETIREMENT PLANNING"
+    },
+    {
+      "level": "H3",
+      "text": "BUSINESS OWNERS"
+    },
+    {
+      "level": "H3",
+      "text": "SINGLE AGAIN COMMUNITY"
+    },
+    {
+      "level": "H3",
+      "text": "AIRLINE PILOTS"
+    },
+    {
+      "level": "H3",
+      "text": "LEGACY PLANNING"
+    },
+    {
+      "level": "H3",
+      "text": "INHERITANCE"
+    },
+    {
+      "level": "H2",
+      "text": "All of your financial planning needs in one place. ​\nWe help you determine which path is best for you.​"
+    },
+    {
+      "level": "H2",
+      "text": "Meet the Marietta Financial Advisors who will guide you through every stage of your financial journey."
+    },
+    {
+      "level": "H3",
+      "text": "Casey T. Smith"
+    },
+    {
+      "level": "H3",
+      "text": "Shawna Theriault, CFP®, CPA, CDFA®"
+    },
+    {
+      "level": "H3",
+      "text": "Andrew Pratt, CFA, CBDA"
+    },
+    {
+      "level": "H3",
+      "text": "Michaela Dowdy, CFP®"
+    },
+    {
+      "level": "H3",
+      "text": "William Medcalf, CFP®, CBDA"
+    },
+    {
+      "level": "H3",
+      "text": "3 Steps to Gain Confidence in Your Financial Future​"
+    },
+    {
+      "level": "H2",
+      "text": "1"
+    },
+    {
+      "level": "H2",
+      "text": "Schedule a Consultation with a Financial Advisor"
+    },
+    {
+      "level": "H2",
+      "text": "2"
+    },
+    {
+      "level": "H2",
+      "text": "Design a Custom Financial Plan Together"
+    },
+    {
+      "level": "H2",
+      "text": "3"
+    },
+    {
+      "level": "H2",
+      "text": "Implement the Plan and Monitor​ your Progress"
+    },
+    {
+      "level": "H2",
+      "text": "We help clients write their own stories of success. Yours could be next!​"
+    },
+    {
+      "level": "H2",
+      "text": "What Makes Wiser Wealth Management the Best Choice for You?​"
+    },
+    {
+      "level": "H2",
+      "text": "Fiduciary Advisors"
+    },
+    {
+      "level": "H2",
+      "text": "Portfolio Management"
+    },
+    {
+      "level": "H2",
+      "text": "Financial Planning"
+    },
+    {
+      "level": "H2",
+      "text": "Simple​ & Transparent Fees"
+    },
+    {
+      "level": "H2",
+      "text": "What We Do To Help​"
+    },
+    {
+      "level": "H2",
+      "text": "Modern Technology to Guide You to Financial Success"
+    },
+    {
+      "level": "H3",
+      "text": "Have peace of mind on the go with technology Wiser Wealth has for clients to access anywhere."
+    },
+    {
+      "level": "H2",
+      "text": "Resources"
+    },
+    {
+      "level": "H2",
+      "text": "Wiser Blog"
+    },
+    {
+      "level": "H2",
+      "text": "Rollover or Retain? Making Smart Decisions When Leaving Federal Service"
+    },
+    {
+      "level": "H2",
+      "text": "Educational Videos"
+    },
+    {
+      "level": "H2",
+      "text": "How Does the GI Bill Fit Into College Planning?"
+    },
+    {
+      "level": "H2",
+      "text": "Podcast"
+    },
+    {
+      "level": "H2",
+      "text": "Are You Reacting to the Headlines or Sticking to the Plan?"
+    },
+    {
+      "level": "H2",
+      "text": "Get Wiser, Weekly."
+    },
+    {
+      "level": "H2",
+      "text": ""
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "href": "#content"
+    },
+    {
+      "text": "Toggle Navigation",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "What We Do",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Who We Serve",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "href": "/about-us/"
+    },
+    {
+      "text": "Resources",
+      "tag": "A",
+      "href": "/guides/"
+    },
+    {
+      "text": "Client Access",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Schedule a Meeting",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/schedule/"
+    },
+    {
+      "text": "Casey Smith",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/author/wiserwealth/"
+    },
+    {
+      "text": "Schedule a Meeting",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/schedule/"
+    },
+    {
+      "text": "Call Now: 678-820-5144",
+      "tag": "A",
+      "href": "tel:678-820-5144"
+    },
+    {
+      "text": "Click here",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/disclosures/"
+    },
+    {
+      "text": "Schedule a Meeting",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/schedule/"
+    },
+    {
+      "text": "Wealth Management​",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/asset-management/"
+    },
+    {
+      "text": "Learn More",
+      "tag": "A",
+      "href": "/asset-management/"
+    },
+    {
+      "text": "Financial Planning​​ Only",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/flat-fee-planning/"
+    },
+    {
+      "text": "Learn More",
+      "tag": "A",
+      "href": "/flat-fee-planning/"
+    },
+    {
+      "text": "Casey T. Smith",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/who-we-are/casey-t-smith/"
+    },
+    {
+      "text": "Shawna Theriault, CFP®, CPA, CDFA®",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/who-we-are/shawna-theriault/"
+    },
+    {
+      "text": "Andrew Pratt, CFA, CBDA",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/who-we-are/andrew-pratt/"
+    },
+    {
+      "text": "Michaela Dowdy, CFP®",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/who-we-are/michaela-dowdy/"
+    },
+    {
+      "text": "William Medcalf, CFP®, CBDA",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/who-we-are/william-medcalf/"
+    },
+    {
+      "text": "Schedule a Meeting",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/schedule/"
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "href": "/about-us/"
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "href": "/about-us/"
+    },
+    {
+      "text": "Schedule a Meeting",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/schedule/"
+    },
+    {
+      "text": "Our Process",
+      "tag": "A",
+      "href": "https://wiserinvestor.com/our-process/"
+    },
+    {
+      "text": "Wiser Wealth Management, Inc",
+      "tag": "A",
+      "href": "https://maps.google.com/?cid=6343062569895398511"
+    },
+    {
+      "text": "See all reviews",
+      "tag": "A",
+      "href": "https://search.google.com/local/reviews?placeid=ChIJzTP91CQU9YgRbwyx4swVB1g"
+    },
+    {
+      "text": "review us on",
+      "tag": "A",
+      "href": "https://search.google.com/local/writereview?placeid=ChIJzTP91CQU9YgRbwyx4swVB1g"
+    }
+  ],
+  "body_text": "Skip to content\nWhat We Do\nWho We Serve\nAbout Us\nResources\nClient Access\nSchedule a Meeting\nGuiding you to financial freedom through life’s pivotal moments.\nPortfolio management and financial planning tailored towards your goals.\nSchedule a Meeting\nCall Now: 678-820-5144\nFINANCIAL CLARITY\nFINANCIAL CONFIDENCE\nPEACE OF MIND\nClick here for important disclosure information and to learn more about awards we have received and our firm’s ratings, advisor designations, and associations.\nDo you want to reach your financial goals with confidence?\nWiser Wealth Management in Marietta, Georgia specializes in both Wealth Management and Flat Fee Financial Planning with no product sales or commissions, so you can confidently reach your financial goals.\nSchedule a Meeting\nFinancial advice tailored to your specific needs.\nRETIREMENT PLANNING\nBUSINESS OWNERS\nSINGLE AGAIN COMMUNITY\nAIRLINE PILOTS\nLEGACY PLANNING\nINHERITANCE\nAll of your financial planning needs in one place. ​\nWe help you determine which path is best for you.​\nWealth Management​\nAre you looking for portfolio management with comprehensive financial planning?\nWiser offers a unique and total wealth management experience including portfolio management and comprehensive financial planning that is tailored to your specific needs. We have a team of financial advisors, a network of trusted CPAs, and attorneys to guide you through every aspect of life, so you can achieve financial freedom. With unlimited access to your dedicated financial advisor, you’ll always have guidance when you need it most.\nWe’ll develop a portfolio that is aligned with your financial plan, so you can focus on what matters. With our services, you will be able to relax and enjoy life knowing that your finances are in good hands.\nLearn More\nFinancial Planning​​ Only\nDo you manage your own finances but want professional advice on a specific topic?\nFinancial planning is a necessary and important part of life, but it doesn’t have to be hard. You can get advice from a financial advisor who knows how to guide you toward your goals. We’re here to provide the support you need to stay on the path to achieve financial freedom.\nWorking with a financial advisor can seem like a daunting task, but it doesn’t have to be. We’ll take the time to get to know you and understand your unique needs so that we can provide tailored advice to help you meet your specific goals. With our financial planning, we equip you to make confident decisions about your financial future.\nLearn More\nMeet the Marietta Financial Advisors who will guide you through every stage of your financial journey.\nCasey T. Smith\nPresident, Principal\nShawna Theriault, CFP®, CPA, CDFA®\nSenior Financial Advisor\nAndrew Pratt, CFA, CBDA\nInvestment Manager\nMichaela Dowdy, CFP®\nFinancial Advisor\nWilliam Medcalf, CFP®, CBDA\nFinancial Advisor\nSchedule a Meeting\nAbout Us\n3 Steps to Gain Confidence in Your Financial Future​\n1\nSchedule a Consultation with a Financial Advisor\nWe want to get a sense of who you are and what your goals for the future might be. We will gather detailed information about you.\n2\nDesign a Custom Financial Plan Together\nWe work with you to create a personalized financial plan covering everything from retirement, investments, and more.\n3\nImplement the Plan and Monitor​ your Progress\nOur team is dedicated and available for anything that may arise during your journey with us! You get to focus on what’s important in life.\nSchedule a Meeting\nOur Process\nWe help clients write their own stories of success. Yours could be next!​\nExcellent\nWiser Wealth Management, Inc\n5.0\nBased on 181 reviews\nSee all reviews\nreview us on\nAndrew N.\n15 days ago\nDynasty Wealth has taken my investments to a whole new level. They’ve walked me through their strategy and have delivered with incredible comps. Great team to work with for both experienced and new investors!\nRachel M.\nlast month\nRobin C.\n2 months ago\nWilliam and Grace have been great to work with! Took such a load off our shoulders to work with thorough and honest professionals who provided impartial, solid advice. Thank you, Wiser Wealth!\nCheryl S.\n2 months ago\nWe are so thankful for Casey and his team at Wiser Wealth Management. The team is always available for any questions, their planning process is very detailed, and we trust their advice.\nc M.\n2 months ago\nExcellent, timely, responsive and relevant. This team is awesome. I appreciate their effort putting our plan together. It was easy to understand and they provided referrals for next steps.\nRoger R.\n2 months ago\nMy wife and I recently moved the the area and need to work with a management company in Ga. I was sold on our 1st visit, Very thorough,. They take the time to understand your investment goals and retirement plans.\nChip B.\n2 months ago\nOur experience with Wiser Wealth has been extremely \"comforting\" which says a lot for a firm that is talking with you about your money. From the initial introduction meeting with Casey to our follow-up meetings with William and Grace, they have been professional, personable and efficient in mapping out a pre-retirement plan. No hard sells (as they are strictly a fiduciary) and really focused on what would be best for us as their client. Everything presented to us were recommendations, not scare-tactic directives. From watching their YouTube clips and listening to their podcast, they present themselves as genuine and transparent. We feel better prepared as we approach retirement and hope to continue the relationship under their wealth management product. Highly recommended!\nBea B.\n2 months ago\nI have been widowed for 2 years. My husband always handled finances perfectly. I could never do that so my brother recommended Wiser Wealth. I don’t even have to think or worry about anything. It’s all taken care of and I’ve had a great year.\nGeorge M.\n3 months ago\nWhat a pleasant experience we've had working with Michaela & Carolyn at Wiser. The tools they used have been extremely helpful in showing a projection on where our investments can go. Very comfortable dealing with them\nAlex G.\n3 months ago\nOutstanding services and experience using them for financial planning!\nValerie P.\n3 months ago\nI had a financial emergency something that needed to be handled right away. I left a message and I got a call right back. I would highly Recommend Wiser for any of your financial needs\nSusan D.\n3 months ago\nMichaela and Caroline were great to work with. They provided me with a lot of useful information to help me navigate my retirement when the time comes.\nGerard F.\n3 months ago\nEntire team is exceptional. We’ve been with Casey for several years, only regret is we did not find them sooner. They are very informative, respond quickly and go out of their way to provide excellent service. Highly recommend\nGerard F.\n3 months ago\nEntire team is exceptional. We’ve been with Casey for several years, only regret is we did not find them sooner. They are very informative, respond quickly and go out of their way to provide excellent service. Highly recommend\nCaroline M.\n4 months ago\nThis firm brings positivity, professionalism and true understanding from start to finish of your personal planning process. Michaela and Caroline did a wonderful job of listening, understanding and creating a plan tailored to our future. We felt heard and guided throughout the entire process. Highly recommend!\nImportant Disclosure: The above reviews feed directly in real time and are sorted by newest to oldest. These reviews are from our business page on Google, a third-party review aggregator. We do not control or curate the content, although we do respond to new reviews. All reviews appear to be client testimonials, although reviews could be posted by non-clients who want to endorse our services. We are not able to confirm the identities of reviewers and we do not compensate anyone for their review.\nWhat Makes Wiser Wealth Management the Best Choice for You?​\nFiduciary Advisors\nAt Wiser, being a fiduciary means we are legally responsible to act in your best interest and cannot put our own interest ahead of yours. That’s a responsibility we take very seriously, and it drives everything we do for our clients.\nPortfolio Management\nWe provide comprehensive portfolio management paired with financial planning, which is included in our fee. You can worry less about money and enjoy the peace of mind that comes with investment management.\nFinancial Planning\nA financial plan is the first step to a brighter tomorrow. It gives you a roadmap of where you’re going and how you’ll get there. And our team of financial planners can help make that plan as individualized as you are.\nSimple​ & Transparent Fees\nHaving simple and transparent fees means there’s no need to worry about hidden costs. We have an easy fee structure based on the amount of assets we manage for you or we can use a flat fee. It’s up to you!\nSchedule a Meeting\nWhat We Do To Help​\nAt Wiser Wealth Management, we take a different approach to helping people with their finances. We work hard to provide unbiased advice about the products and services available so that you can make an informed decision about what is right for you.\nWe are committed to you. The advice we provide our clients is the same as what we’d give to a close friend or family member.​\nModern Technology to Guide You to Financial Success\nHave peace of mind on the go with technology Wiser Wealth has for clients to access anywhere.\nLearn More\nResources\n\tWiser Blog\nKeeping you informed on important financial topics related to personal finance, investing, and more!\nRollover or Retain? Making Smart Decisions When Leaving Federal Service\nJune 10, 2026\n\tEducational Videos\nIn these short educational videos, the Wiser team discusses a different financial topic each week.\nHow Does the GI Bill Fit Into College Planning?\nJune 12, 2026\n\tPodcast\nOur podcast covers retirement planning, tax planning, investing, insurance, and estate planning.\nAre You Reacting to the Headlines or Sticking to the Plan?\nJune 14, 2026\nGet Wiser, Weekly.\nSubscribe now for your curated roundup of financial insights delivered straight to your inbox every week.\n125 Church Street NE\nCarmichael Building, Suite 220\nMarietta, Georgia 30060\nCompany\nAbout Us\nCareers\nService Areas\nFAQ\nContact Us\nServices\nWealth Management\nFinancial Planning Only\nClient Access\nWiser Portal\nSchwab\nMoney Guide Pro\nFlightPath\nFirm Information\nDisclosures\nFirm Documents\nForm CRS\nForm ADV Part 2A\nPrivacy Notice\nSchedule a Meeting\n678-820-5144\neducation@wiserinvestor.com\nGo to Top"
+}

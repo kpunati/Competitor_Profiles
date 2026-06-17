@@ -1,0 +1,65 @@
+{
+  "competitor": "Wiser Wealth Management",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://www.wiserinvestor.com",
+  "colors": {
+    "body_background": "rgba(255, 255, 255, 0)",
+    "body_text": "rgb(20, 22, 23)",
+    "html_background": "rgba(255, 255, 255, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 83
+      },
+      {
+        "color": "rgba(255, 255, 255, 0)",
+        "count": 23
+      },
+      {
+        "color": "rgb(2, 69, 124)",
+        "count": 18
+      },
+      {
+        "color": "rgb(245, 245, 245)",
+        "count": 17
+      },
+      {
+        "color": "rgb(248, 248, 249)",
+        "count": 3
+      },
+      {
+        "color": "rgb(0, 29, 46)",
+        "count": 2
+      },
+      {
+        "color": "rgba(19, 21, 22, 0.7)",
+        "count": 2
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 1
+      }
+    ],
+    "primary": "rgba(255, 255, 255, 0)",
+    "accent": "rgb(2, 69, 124)"
+  },
+  "typography": {
+    "heading_family": "\"Source Sans 3\"",
+    "heading_weight": "600",
+    "body_family": "\"Source Sans 3\"",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 24
+  },
+  "primary_button": {
+    "text": "Schedule a Meeting",
+    "background": "rgb(2, 69, 124)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 32,
+    "padding": "17px 40px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

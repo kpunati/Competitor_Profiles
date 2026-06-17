@@ -1,0 +1,65 @@
+{
+  "competitor": "Financial Advisors, Tax and Estate Planning",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://epwealth.com",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(0, 48, 87)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 20
+      },
+      {
+        "color": "rgb(243, 244, 246)",
+        "count": 8
+      },
+      {
+        "color": "rgb(215, 232, 238)",
+        "count": 4
+      },
+      {
+        "color": "rgb(0, 114, 151)",
+        "count": 4
+      },
+      {
+        "color": "rgb(214, 95, 0)",
+        "count": 2
+      },
+      {
+        "color": "rgb(0, 55, 103)",
+        "count": 1
+      },
+      {
+        "color": "rgb(0, 48, 87)",
+        "count": 1
+      },
+      {
+        "color": "rgb(20, 111, 248)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(243, 244, 246)",
+    "accent": "rgb(215, 232, 238)"
+  },
+  "typography": {
+    "heading_family": "museo-sans, serif",
+    "heading_weight": "300",
+    "body_family": "museo-sans, sans-serif",
+    "body_weight": "300",
+    "body_size_px": 22,
+    "paragraph_size_px": 22
+  },
+  "primary_button": {
+    "text": "FIND AN ADVISOR",
+    "background": "rgb(214, 95, 0)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 40,
+    "padding": "12px 25px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

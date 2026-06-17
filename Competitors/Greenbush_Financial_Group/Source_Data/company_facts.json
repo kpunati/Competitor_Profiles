@@ -1,0 +1,48 @@
+{
+  "competitor": "Greenbush Financial Planning",
+  "website": "https://greenbushfinancial.com",
+  "last_updated": "2026-06-17",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [],
+    "footer_phones": [
+      "(518) 477-6686"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "GREENBUSH FINANCIAL GROUP, LLC",
+      "crd_number": "125500",
+      "sec_number": "801-73044",
+      "headquarters": "159 WOLF ROAD, SUITE 101, ALBANY, NY, 12205, United States",
+      "branch_count": 1,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/125500/PDF/125500.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/125500"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Greenbush%20Financial%20Planning"
+  }
+}

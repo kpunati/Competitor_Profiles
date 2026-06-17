@@ -1,0 +1,65 @@
+{
+  "competitor": "Brooklyn Fi",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://brooklynfi.com",
+  "colors": {
+    "body_background": "rgb(11, 18, 25)",
+    "body_text": "rgb(250, 247, 240)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(14, 23, 32)",
+        "count": 17
+      },
+      {
+        "color": "rgb(250, 247, 240)",
+        "count": 8
+      },
+      {
+        "color": "rgb(186, 246, 197)",
+        "count": 8
+      },
+      {
+        "color": "rgb(103, 237, 102)",
+        "count": 7
+      },
+      {
+        "color": "rgb(26, 42, 59)",
+        "count": 6
+      },
+      {
+        "color": "rgb(21, 51, 74)",
+        "count": 5
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 4
+      },
+      {
+        "color": "rgb(0, 125, 88)",
+        "count": 4
+      }
+    ],
+    "primary": "rgb(250, 247, 240)",
+    "accent": "rgb(186, 246, 197)"
+  },
+  "typography": {
+    "heading_family": null,
+    "heading_weight": null,
+    "body_family": "Heebo",
+    "body_weight": "300",
+    "body_size_px": 20,
+    "paragraph_size_px": 28
+  },
+  "primary_button": {
+    "text": "Book A Call",
+    "background": "rgb(103, 237, 102)",
+    "text_color": "rgb(26, 42, 59)",
+    "border_radius_px": 300,
+    "padding": "12px 18px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

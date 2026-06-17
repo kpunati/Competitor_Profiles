@@ -1,0 +1,54 @@
+{
+  "competitor": "Why",
+  "website": "https://www.themathergroup.com",
+  "last_updated": "2026-06-17",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": "https://facebook.com/policy.php/",
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "info@themathergroup.com"
+    ],
+    "footer_phones": [
+      "8885371080",
+      "(888) 537-1080"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "THE MATHER GROUP, LLC",
+      "crd_number": "156005",
+      "sec_number": "801-72156",
+      "headquarters": "353 N. CLARK STREET, SUITE 2775, CHICAGO, IL, 60654, United States",
+      "branch_count": 70,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "LEGACY AT TMG (FAMILY OFFICE)",
+        "THE MATHER GROUP, INC."
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/156005/PDF/156005.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/156005"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Why"
+  }
+}

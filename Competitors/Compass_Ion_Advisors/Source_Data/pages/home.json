@@ -1,0 +1,189 @@
+{
+  "kind": "home",
+  "url": "https://compass-ionadvisors.com/",
+  "title": "Home - Compass Ion Advisors",
+  "meta": {
+    "description": "This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I’m a bike messenger […]",
+    "og_title": "Home - Compass Ion Advisors",
+    "og_description": "This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I’m a bike messenger […]"
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Live freely"
+    },
+    {
+      "level": "H3",
+      "text": "Where should we start?"
+    },
+    {
+      "level": "H3",
+      "text": "Our goal is getting you closer to yours"
+    },
+    {
+      "level": "H3",
+      "text": "A guide for good"
+    },
+    {
+      "level": "H3",
+      "text": "Meet our advisors"
+    },
+    {
+      "level": "H3",
+      "text": "Let us help you find your financial direction."
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Skip to main navigation",
+      "tag": "A",
+      "href": "#primary-menu"
+    },
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "href": "#page-content"
+    },
+    {
+      "text": "Main Navigation",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Mission",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/mission/"
+    },
+    {
+      "text": "People",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/people/"
+    },
+    {
+      "text": "Process",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/process/"
+    },
+    {
+      "text": "Services",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/services/"
+    },
+    {
+      "text": "Guide for Good",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/guide-for-good/"
+    },
+    {
+      "text": "Insights",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/insights/"
+    },
+    {
+      "text": "Talk with an Advisor",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/contact/"
+    },
+    {
+      "text": "877.799.6830",
+      "tag": "A",
+      "href": "tel:8777996830"
+    },
+    {
+      "text": "info@ionadv.com",
+      "tag": "A",
+      "href": "mailto:info@ionadv.com"
+    },
+    {
+      "text": "Client Login",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/client-login/"
+    },
+    {
+      "text": "877.799.6830",
+      "tag": "A",
+      "href": "tel:8777996830"
+    },
+    {
+      "text": "info@ionadv.com",
+      "tag": "A",
+      "href": "mailto:info@ionadv.com"
+    },
+    {
+      "text": "Client Login",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/client-login/"
+    },
+    {
+      "text": "TALK WITH AN ADVISOR",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/contact/"
+    },
+    {
+      "text": "TALK WITH AN ADVISOR",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/contact/"
+    },
+    {
+      "text": "Future proofing",
+      "tag": "A",
+      "href": "#panel-future-proofing"
+    },
+    {
+      "text": "LEARN MORE",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/financial-planning/"
+    },
+    {
+      "text": "Build wealth to reach our goals",
+      "tag": "A",
+      "href": "#panel-build-wealth-to-reach-our-goals"
+    },
+    {
+      "text": "LEARN MORE",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/investment-strategy-and-portfolio-management/"
+    },
+    {
+      "text": "Retirement and beyond",
+      "tag": "A",
+      "href": "#panel-retirement-and-beyond"
+    },
+    {
+      "text": "LEARN MORE",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/legacy-planning/"
+    },
+    {
+      "text": "Entrepreneurial support",
+      "tag": "A",
+      "href": "#panel-entrepreneurial-support"
+    },
+    {
+      "text": "LEARN MORE",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/entrepreneurial-support/"
+    },
+    {
+      "text": "Retirement plan consulting",
+      "tag": "A",
+      "href": "#panel-retirement-plan-consulting"
+    },
+    {
+      "text": "RETIREMENT PLAN CONSULTING",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/retirement-plan-consulting/"
+    },
+    {
+      "text": "LEARN MORE",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/guide-for-good/"
+    },
+    {
+      "text": "MEET OUR ADVISORS",
+      "tag": "A",
+      "href": "https://compass-ionadvisors.com/people/"
+    }
+  ],
+  "body_text": "Skip to main navigation\nSkip to content\nMission\nPeople\nProcess\nServices\nGuide for Good\nInsights\nTalk with an Advisor\n 877.799.6830  info@ionadv.com  Client Login\nLive freely\nNo two destinations for financial freedom are the same, so the path to getting there shouldn’t be. This is why we don’t offer financial plans that are one-size-fits-all but ones that fit our clients’ individual needs. With the right plan, you can feel confident that your investment selections can help you move towards your goals.\nTALK WITH AN ADVISOR\nWhere should we start?\nTALK WITH AN ADVISOR\nFuture proofing\nI’m a lifelong worker who knows that good things take time, but want to ensure my family is set up for success.\nLEARN MORE\nBuild wealth to reach our goals\nI want to make our wealth work as hard for us as we did to earn it.\nLEARN MORE\nRetirement and beyond\nI want to have a retirement plan in place for both me and my business, so when the time comes to exit, I'm prepared.\nLEARN MORE\nEntrepreneurial support\nAs an entrepreneur, I'm taking on many different kinds of risk, including those that are planned and unplanned.\nLEARN MORE\nRetirement plan consulting\nI’m a business owner that wants to find a retirement plan that works best for my startup or company.\nRETIREMENT PLAN CONSULTING\nOur goal is getting you closer to yours\nCompass Ion was founded on the belief that clients’ interest should be first. We remain neutral in finding the right selection of investments for you. Ensuring you are satisfied and served is our primary incentive.\nA guide for good\nSince the beginning, giving back has been at our core. Which is why each year we donate 20% of our net income to those who need it most.\nLEARN MORE\nMeet our advisors\nAs financial advisors, your best interest is our main priority. Through cutting edge technology, we create customized solutions to help fit each and every one of your complex financial needs and help shift your plan as changes in your life arise.\nMEET OUR ADVISORS\nLet us help you find your financial direction.\nTalk with an Advisor\nTalk with an Advisor\n Client Login\n300 Conshohocken State Rd #230,\nConshohocken, PA 19428\n 877.799.6830\n info@ionadv.com\nCareers Privacy Policy Terms & Conditions Disclosures\nCopyright © 2008-2026 Compass Ion Advisors, LLC. All Rights Reserved.\nForm ADV 3, Customer Relationship Summary\nSecurities offered through Keel Point Capital LLC, Member FINRA and SIPC. | finra.org | sipc.org | Important Disclosures\nCertain representatives of Compass Ion Advisors are also Registered Representatives offering securities through Keel Point Capital LLC, Member FINRA/SIPC\nCheck the background of this firm on FINRA’s BrokerCheck"
+}

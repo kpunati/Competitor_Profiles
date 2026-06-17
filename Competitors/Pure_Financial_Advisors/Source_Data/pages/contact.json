@@ -1,0 +1,309 @@
+{
+  "kind": "contact",
+  "url": "https://purefinancial.com/why-pure/contact-us/",
+  "title": "Contact Us - Pure Financial Advisors",
+  "meta": {
+    "description": "Contact Pure Financial Advisors for information on fee-only financial planning or directions to office locations.",
+    "og_title": "Contact Us - Pure Financial Advisors",
+    "og_description": "Contact Pure Financial Advisors for information on fee-only financial planning or directions to office locations."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Contact Us"
+    },
+    {
+      "level": "H2",
+      "text": "Brea"
+    },
+    {
+      "level": "H2",
+      "text": "Chicago – Northbrook"
+    },
+    {
+      "level": "H2",
+      "text": "Chicago – Wheaton"
+    },
+    {
+      "level": "H2",
+      "text": "Denver – Greenwood Village"
+    },
+    {
+      "level": "H2",
+      "text": "Irvine"
+    },
+    {
+      "level": "H2",
+      "text": "Los Angeles – Woodland Hills"
+    },
+    {
+      "level": "H2",
+      "text": "Nashville – Franklin"
+    },
+    {
+      "level": "H2",
+      "text": "Phoenix – Prescott"
+    },
+    {
+      "level": "H2",
+      "text": "Sacramento – Davis"
+    },
+    {
+      "level": "H2",
+      "text": "Salt Lake City – Lehi"
+    },
+    {
+      "level": "H2",
+      "text": "San Diego"
+    },
+    {
+      "level": "H2",
+      "text": "Seattle – Mercer Island"
+    },
+    {
+      "level": "H2",
+      "text": "Seattle – Redmond"
+    },
+    {
+      "level": "H3",
+      "text": "Why PURE"
+    },
+    {
+      "level": "H3",
+      "text": "TV & Podcast"
+    },
+    {
+      "level": "H2",
+      "text": "Experience the PURE Difference Today"
+    },
+    {
+      "level": "H3",
+      "text": "Sign Up for Our Newsletter"
+    },
+    {
+      "level": "H3",
+      "text": "Give Us a Call:"
+    },
+    {
+      "level": "H3",
+      "text": "Quick Links:"
+    },
+    {
+      "level": "H3",
+      "text": "Connect with Us:"
+    },
+    {
+      "level": "H2",
+      "text": "Subscribe to YMYW"
+    },
+    {
+      "level": "H3",
+      "text": "Ask Joe & Big Al on Air"
+    },
+    {
+      "level": "H3",
+      "text": "Financial Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Upgrade to Planner+"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Chili Piper Test"
+    },
+    {
+      "level": "H3",
+      "text": "Congress Approves The SECURE Act"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Free Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Get Your Free Assessment"
+    },
+    {
+      "level": "H3",
+      "text": "Get Our Insights"
+    },
+    {
+      "level": "H3",
+      "text": "White Papers"
+    },
+    {
+      "level": "H3",
+      "text": "Request ADV"
+    },
+    {
+      "level": "H3",
+      "text": "Secure Client Login"
+    },
+    {
+      "level": "H3",
+      "text": "Talk to an Advisor"
+    },
+    {
+      "level": "H3",
+      "text": "YMYW Newsletter"
+    },
+    {
+      "level": "H3",
+      "text": "Join the YMYW Newsletter!"
+    }
+  ],
+  "ctas": [
+    {
+      "text": "Manage options",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-manage-consent-container"
+    },
+    {
+      "text": "Manage services",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-cookies-overview"
+    },
+    {
+      "text": "Manage {vendor_count} vendors",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-tcf-wrapper"
+    },
+    {
+      "text": "Read more about these purposes",
+      "tag": "A",
+      "href": "https://cookiedatabase.org/tcf/purposes/"
+    },
+    {
+      "text": "Accept",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Functional only",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "View preferences",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "Save preferences",
+      "tag": "BUTTON",
+      "href": null
+    },
+    {
+      "text": "View preferences",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/#cmplz-manage-consent-container"
+    },
+    {
+      "text": "Opt-out preferences",
+      "tag": "A",
+      "href": "https://purefinancial.com/opt-out-preferences/"
+    },
+    {
+      "text": "{title}",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "{title}",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "GET STARTED NOW",
+      "tag": "A",
+      "href": "https://purefinancial.com/financialblueprint/?utm_source=purefinancial.com&utm_medium=topbar&utm_campaign=FinancialBlueprint"
+    },
+    {
+      "text": "CALL",
+      "tag": "A",
+      "href": "tel:+18668767873"
+    },
+    {
+      "text": "CONTACT",
+      "tag": "A",
+      "href": "https://purefinancial.com/why-pure/contact-us/"
+    },
+    {
+      "text": "FORM CRS",
+      "tag": "A",
+      "href": "https://purefinancial.com/wp-content/uploads/2026/02/Form-CRS-2-12-26.pdf"
+    },
+    {
+      "text": "LOCATIONS",
+      "tag": "A",
+      "href": "https://purefinancial.com/why-pure/locations/"
+    },
+    {
+      "text": "LOG IN",
+      "tag": "A",
+      "href": "#modal-login"
+    },
+    {
+      "text": "GET AN ASSESSMENT",
+      "tag": "A",
+      "href": "https://purefinancial.com/lp/free-assessment"
+    },
+    {
+      "text": "Financial Resources",
+      "tag": "A",
+      "href": "https://purefinancial.com/learning-center/"
+    },
+    {
+      "text": "All White Papers",
+      "tag": "A",
+      "href": "https://purefinancial.com/white-papers/"
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "href": "https://purefinancial.com/learning-center/blog/"
+    },
+    {
+      "text": "Educational Events",
+      "tag": "A",
+      "href": "https://purefinancial.com/retirement-classes/"
+    },
+    {
+      "text": "Educational Videos",
+      "tag": "A",
+      "href": "https://purefinancial.com/ask-pure/"
+    },
+    {
+      "text": "Free Assessment",
+      "tag": "A",
+      "href": "https://purefinancial.com/lp/free-assessment/"
+    },
+    {
+      "text": "Retirement Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/retirement-classes/"
+    },
+    {
+      "text": "Chicago Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/chicago-classes/"
+    },
+    {
+      "text": "Denver Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/denver/"
+    },
+    {
+      "text": "Lehi Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/lehi-classes/"
+    },
+    {
+      "text": "Nashville Workshops",
+      "tag": "A",
+      "href": "https://purefinancial.com/nashville-classes/"
+    }
+  ],
+  "body_text": "Plan your financial future with a quick analysis that will calculate your success. Get your financial blueprint today!\nGET STARTED NOW\nCALL\nCONTACT\nFORM CRS\nLOCATIONS\nLOG IN\nGET AN ASSESSMENT\nFinancial Resources\nRetirement Workshops\nFinancial Planning\nInvestment Planning\nThe Pure Difference\nYour Money, Your Wealth\nContact Us\nQuestions or comments? Get in touch!\nOffice Hours: Monday - Friday 9 a.m. - 5 p.m.\n(Financial questions may be answered on the Your Money, Your Wealth® podcast)\nDrop us a line. We’d love to hear from you!\nGIVE US A CALL\nInfo: 866.876.PURE (7873)\nSEND US AN EMAIL\ninfo@purefinancial.com\npress@purefinancial.com\n Sign up to receive our weekly email newsletter with market commentary\nBy clicking submit, you are providing Pure Financial express written consent to be contacted by SMS, possibly using automated technology to the number you provided. If at any time you wish to opt-out of communication, please reply \"STOP\" to cancel. Text \"HELP\" for help. Message frequency may vary. Message/data rates may apply. Submission of this form does not authorize the purchase of goods, services, or products. See Pure’s Privacy Policy at the bottom of the webpage.\n Your information is secure.\nOUR OFFICES\nBrea\n3040 Saturn Street, Suite 100, Brea, CA 92821\n (714) 924-7447\nABOUT THIS OFFICE FIND A CLASS\nChicago – Northbrook\n650 Dundee Rd, Suite 350, Northbrook, IL 60062\n (708) 350-7873\nABOUT THIS OFFICE FIND A CLASS\nChicago – Wheaton\n104 E. Roosevelt Road, Suite 100, Wheaton, IL 60187\n (630) 990-9000\nABOUT THIS OFFICE FIND A CLASS\nDenver – Greenwood Village\n7800 E Union Ave, Suite 920, Denver, CO 80237\n (303) 327-7873\nABOUT THIS OFFICE FIND A CLASS\nIrvine\n2020 Main St., Suite 690 Irvine, CA 92614\n (949) 777-4130\nABOUT THIS OFFICE FIND A CLASS\nLos Angeles – Woodland Hills\n6320 Canoga Ave, Suite 920, Woodland Hills, CA 91367\n (818) 805-5500\nABOUT THIS OFFICE FIND A CLASS\nNashville – Franklin\n725 Cool Springs Blvd., Suite 600, Franklin, TN 37067\n (615) 696-7873\nABOUT THIS OFFICE FIND A CLASS\nPhoenix – Prescott\n3623 Crossings Dr., Suite 104, Prescott, AZ 86305\n (928) 465-2711\nABOUT THIS OFFICE FIND A CLASS\nSacramento – Davis\n1784 Picasso Avenue, Suite D, Davis, CA 95618\n (530) 758-2885\nABOUT THIS OFFICE FIND A CLASS\nSalt Lake City – Lehi\n3450 N Triumph Blvd. Suite 102, Lehi, UT 84043\n (385) 508-3105\nABOUT THIS OFFICE FIND A CLASS\nSan Diego\n3131 Camino Del Rio North, Suite 1550 San Diego, CA 92108\n (619) 814-4100\nABOUT THIS OFFICE FIND A CLASS\nSeattle – Mercer Island\n7525 SE 24th Street, Suite 670, Mercer Island, WA 98040\n (206) 710-9309\nABOUT THIS OFFICE FIND A CLASS\nSeattle – Redmond\n22500 NE Marketplace Drive, Suite 203, Redmond, WA 98053\n (425) 883-7990\nABOUT THIS OFFICE FIND A CLASS\nLink\nWhy PURE\nExperience how we redefine financial planning. It starts and ends with you and your financial goals.\nGet to Know Us\nLink\nTV & Podcast\nWatch Joe Anderson and “Big Al” Clopine in action! It’s your money, and it’s your wealth.\nYour Money, Your Wealth\nLink\nExperience the PURE Difference Today\nGet Your Free Assessment\nSign Up for Our Newsletter\nHow Did You Hear About Us?\nRadio\nTV\nPodcast\nYoutube\nMailer\nWord of Mouth\nSearch Engine\nOther\nBy clicking submit, you are providing Pure Financial express written consent to be contacted by SMS, possibly using automated technology to the number you provided. If at any time you wish to opt-out of communication, please reply \"STOP\" to cancel. Text \"HELP\" for help. Message frequency may vary. Message/data rates may apply. Submission of this form does not authorize the purchase of goods, services, or products. See Pure’s Privacy Policy at the bottom of the webpage.\n Your information is secure.\nGive Us a Call:\n1 (866) 876-7873\nQuick Links:\nLog In\nCareers\nContact Us\nDesignations and Certifications\nFinancial Blueprint\nForm ADV 2A\nPartner with Pure\nPure Financial App\nCookie Policy\nPrivacy Policy\nPrivacy Statement\nConnect with Us:\n Youtube\n Twitter\n LinkedIn\n Facebook\nBack To Top\nRefunds available upon written notice\n© Copyright 2025. Pure Financial Advisors, LLC. All rights reserved."
+}

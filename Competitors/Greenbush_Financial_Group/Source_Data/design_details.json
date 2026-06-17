@@ -1,0 +1,65 @@
+{
+  "competitor": "Greenbush Financial Planning",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://greenbushfinancial.com",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(0, 0, 0)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 27
+      },
+      {
+        "color": "rgb(108, 155, 32)",
+        "count": 13
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 7
+      },
+      {
+        "color": "rgb(108, 155, 33)",
+        "count": 5
+      },
+      {
+        "color": "rgb(238, 238, 238)",
+        "count": 2
+      },
+      {
+        "color": "rgb(227, 227, 227)",
+        "count": 2
+      },
+      {
+        "color": "rgb(77, 78, 76)",
+        "count": 2
+      },
+      {
+        "color": "rgb(51, 51, 51)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(108, 155, 32)",
+    "accent": "rgb(0, 0, 0)"
+  },
+  "typography": {
+    "heading_family": "\"Open Sans\", Helvetica, Arial, Lucida, sans-serif",
+    "heading_weight": "500",
+    "body_family": "sans-serif",
+    "body_weight": "400",
+    "body_size_px": 18,
+    "paragraph_size_px": 13.68
+  },
+  "primary_button": {
+    "text": "SKIP TO CONTENT",
+    "background": "rgb(108, 155, 32)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 0,
+    "padding": "10.17px 16.9839px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

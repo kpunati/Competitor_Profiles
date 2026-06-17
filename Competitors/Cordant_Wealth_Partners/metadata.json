@@ -1,0 +1,114 @@
+{
+  "competitor": "Cordant Wealth Partners",
+  "slug": "Cordant_Wealth_Partners",
+  "summary_line": "Portland OR fee-only fiduciary RIA specializing in technology employees at major Pacific Northwest + national tech employers (Intel, Microsoft, Nike, Amazon, Apple). $370.5M AUM, 5 advisors, 8 employees, 0 DRPs. Deep expertise in RSUs, stock options, deferred comp. Three stated principles: fiduciary, fee-only, independent — explicit rejection of Wall Street bank product shelf.",
+  "website": "https://cordantwealth.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": 5,
+  "employee_count": 8,
+  "branch_count": 1,
+  "geographic_scope": "regional",
+  "headquarters_city": "Portland",
+  "headquarters_state": "OR",
+
+  "aum_usd": 370502204,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+
+  "segment_early_adults": "weak",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "152395",
+  "sec_number": "801-71570",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "establishment",
+
+  "positioning_claims": [
+    "fee_only",
+    "fiduciary",
+    "independent",
+    "niche_specialist",
+    "equity_comp_specialist",
+    "anti_wirehouse"
+  ],
+  "vulnerabilities": [
+    "no_fee_transparency",
+    "no_401k_specific_funnel",
+    "no_early_adult_surface",
+    "narrow_niche_dependency",
+    "geographic_concentration"
+  ],
+  "tags": [
+    "founder_led",
+    "multi_advisor",
+    "regional",
+    "consumer_facing",
+    "fee_only",
+    "aum_fee",
+    "content_engine",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Brooklyn_Fi",
+    "Foundry_Financial",
+    "Brindle_And_Bay",
+    "The_Peak_Fp"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      { "as_of": "2026-06-17", "value_usd": 370502204, "source": "ADV" }
+    ],
+    "advisor_count_history": [
+      { "as_of": "2026-06-17", "value": 5, "source": "ADV" }
+    ],
+    "employee_count_history": [
+      { "as_of": "2026-06-17", "value": 8, "source": "ADV" }
+    ],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 152395 — 8 employees, 5 advisors, $370,502,204 regulatory AUM, 0 disciplinary disclosures. SEC file 801-71570. Legal name: 'CORDANT WEALTH PARTNERS.'",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts captured homepage only (sitemap=0, nav=0, known-paths=0); /services WebFetch succeeded but /about and /team returned 404 (URL pattern differs). HQ: 2175 NW Raleigh Street, Suite 110, Portland OR 97210. Homepage H1: 'FINANCIAL ADVICE FOR TECH EMPLOYEES.' Niche: technology employees at Intel, Microsoft, Nike, Amazon, Apple (named on services page). Specialties: RSUs, stock options, deferred comp, employer benefits optimization, tax minimization. Three stated principles: (1) Fiduciary — 'highest legal standard of care, choosing to act as an unwavering fiduciary in the best and exclusive interest of our clients,' (2) Fee-Only — 'do not sell any products, compensated solely for the advice we provide,' (3) Independence — 'free to structure our business in the way that best serves our clients, not constrained by the whims of a Wall Street bank.' Content surface: blog visible, ebook lead magnet ('GRAB OUR LATEST EBOOK'). 'AS SEEN IN' media list referenced. Tagline: 'DISCOVER HOW WE CAN HELP LOWER YOUR TAXES + MAKE WORK OPTIONAL' (the 'work optional' framing echoes Brindle & Bay's 'Amy & Dave — Work Optional' persona).",
+        "source": "tools/extract.ts (homepage only) + WebFetch on /services + /about (404)"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md",
+    "_applicability": "sec_/crd_/aum_/fee_/disciplinary_/advisor_count fields apply to SEC-registered RIAs."
+  }
+}

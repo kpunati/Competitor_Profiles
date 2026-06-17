@@ -1,0 +1,201 @@
+{
+  "kind": "home",
+  "url": "https://truepointwealth.com/",
+  "title": "Wealth Management Cincinnati - Truepoint Wealth Counsel",
+  "meta": {
+    "description": "Fee-only wealth management firm based in Cincinnati, OH. Helping clients achieve financial peace of mind since 1990. Speak with an advisor today.",
+    "og_title": "Home",
+    "og_description": "Fee-only wealth management firm based in Cincinnati, OH. Helping clients achieve financial peace of mind since 1990. Speak with an advisor today."
+  },
+  "headings": [
+    {
+      "level": "H1",
+      "text": "People\nCompassion\nYour Trust\nReturn on Life\n  \nProducts\nCommissions\nOur Bottom Line\nReturn on Investment"
+    },
+    {
+      "level": "H2",
+      "text": "This is Life and Wealth,\nWell Managed."
+    },
+    {
+      "level": "H2",
+      "text": "The Latest"
+    },
+    {
+      "level": "H3",
+      "text": "We’re Hiring"
+    },
+    {
+      "level": "H3",
+      "text": "Experience the Truepoint Difference"
+    },
+    {
+      "level": "H2",
+      "text": "Who We Serve"
+    },
+    {
+      "level": "H2",
+      "text": "A Team Dedicated to Your Financial Life Plan."
+    },
+    {
+      "level": "H2",
+      "text": "Featured News & Insights"
+    },
+    {
+      "level": "H2",
+      "text": "We’d love to get to know more about you."
+    }
+  ],
+  "ctas": [
+    {
+      "text": "New Client Portal",
+      "tag": "A",
+      "href": "https://truepoint.swsapp.com/"
+    },
+    {
+      "text": "Legacy Client Portal",
+      "tag": "A",
+      "href": "https://truepoint.portal.tamaracinc.com/Login.aspx"
+    },
+    {
+      "text": "TaxCaddy Access",
+      "tag": "A",
+      "href": "https://consumer.taxcaddy.com/#/login"
+    },
+    {
+      "text": "Let's Talk",
+      "tag": "A",
+      "href": null
+    },
+    {
+      "text": "Truepoint Way",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Our Process",
+      "tag": "A",
+      "href": "https://truepointwealth.com/our-process/"
+    },
+    {
+      "text": "Our Services",
+      "tag": "A",
+      "href": "https://truepointwealth.com/our-service-offerings/"
+    },
+    {
+      "text": "Our Specialties",
+      "tag": "A",
+      "href": "https://truepointwealth.com/our-specialties/"
+    },
+    {
+      "text": "Our Culture",
+      "tag": "A",
+      "href": "https://truepointwealth.com/our-culture/"
+    },
+    {
+      "text": "Your Needs",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Business Owners",
+      "tag": "A",
+      "href": "https://truepointwealth.com/business-owners/"
+    },
+    {
+      "text": "Family Office",
+      "tag": "A",
+      "href": "https://truepointwealth.com/family-office/"
+    },
+    {
+      "text": "Corporate Executives",
+      "tag": "A",
+      "href": "https://truepointwealth.com/corporate-executives/"
+    },
+    {
+      "text": "Institutional Investing",
+      "tag": "A",
+      "href": "https://truepointwealth.com/institutional-investing/"
+    },
+    {
+      "text": "P&G Employees & Retirees",
+      "tag": "A",
+      "href": "https://truepointwealth.com/pg-employees-retirees/"
+    },
+    {
+      "text": "Women’s Wealth Counsel",
+      "tag": "A",
+      "href": "https://truepointwealth.com/wwc/"
+    },
+    {
+      "text": "Commas",
+      "tag": "A",
+      "href": "https://truepointwealth.com/commas/"
+    },
+    {
+      "text": "News & Insights",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Truepoint Viewpoint",
+      "tag": "A",
+      "href": "https://truepointwealth.com/viewpoint/"
+    },
+    {
+      "text": "In the News",
+      "tag": "A",
+      "href": "https://truepointwealth.com/in-the-news/"
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "href": "#"
+    },
+    {
+      "text": "Our People",
+      "tag": "A",
+      "href": "https://truepointwealth.com/our-people/"
+    },
+    {
+      "text": "Our History",
+      "tag": "A",
+      "href": "https://truepointwealth.com/our-history/"
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "href": "https://truepointwealth.com/careers/"
+    },
+    {
+      "text": "New Client Portal",
+      "tag": "A",
+      "href": "https://truepoint.swsapp.com/"
+    },
+    {
+      "text": "Legacy Client Portal",
+      "tag": "A",
+      "href": "https://truepoint.portal.tamaracinc.com/Login.aspx"
+    },
+    {
+      "text": "TaxCaddy Access",
+      "tag": "A",
+      "href": "https://consumer.taxcaddy.com/#/login"
+    },
+    {
+      "text": "Let's Talk",
+      "tag": "A",
+      "href": null
+    },
+    {
+      "text": "Read More",
+      "tag": "A",
+      "href": "#next"
+    },
+    {
+      "text": "Open Positions",
+      "tag": "A",
+      "href": "https://truepointwealth.com/careers/"
+    }
+  ],
+  "body_text": "Truepoint Way\nOur Process\nOur Services\nOur Specialties\nOur Culture\nYour Needs\nBusiness Owners\nFamily Office\nCorporate Executives\nInstitutional Investing\nP&G Employees & Retirees\nWomen’s Wealth Counsel\nCommas\nNews & Insights\nTruepoint Viewpoint\nIn the News\nAbout\nOur People\nOur History\nCareers\nClient Login\nNew Client Portal\nLegacy Client Portal\nTaxCaddy Access\nLet's Talk\nPeople\nCompassion\nYour Trust\nReturn on Life\nProducts\nCommissions\nOur Bottom Line\nReturn on Investment\nYour money simplified, so you may simply live.\nRead More\nThis is Life and Wealth,\nWell Managed.\nSince our founding in 1990, the focus of Truepoint Wealth Counsel has been creating the best personal financial advisory experience possible. We are fee-only fiduciaries and remain 100% employee-owned. We employ an evidence-based investment strategy. Tax planning and preparation and estate planning strategy are a core element of our client experience and have been for years. And all our guidance is rooted in your personal values and goals. Let us connect all the dots in your financial life to deliver peace of mind and possibility.\nThe Latest\nWe’re Hiring\nJoin our team of relationship-driven financial advisors.\nOpen Positions\nExperience the Truepoint Difference\nLooking for an advisory team that can help you build your future and bring all the pieces together?\nWho We Serve\nDespite how our industry typically operates, there simply is not a one-size-fits-all solution when it comes to personal finance. We focus on your needs first, then craft a values-based life plan to achieve those goals. Explore some of the most common needs we serve daily below.\nBusiness Owners\nSuccessfully managing your business (and financial life) requires organization, coordination, knowledge, and time. As business owners ourselves, we understand that it takes planning and perseverance to succeed.\nLearn more\nLearn more\nFamilies\nWealth management for families is more than managing portfolios. Whether you need specific trust or estate assistance or prefer a full suite of services, we will provide guidance that is rooted in your personal values and goals.\nLearn more\nLearn more\nCorporate Executives\nEverybody has questions about retirement planning – especially those who have built successful careers, either at one company or over the course of many job opportunities. Developing the right plan to meet your ideal vision of retirement is the key.\nLearn more\nLearn more\nInstitutional Investing\nWe are committed to advising smaller and mid-sized institutional investors that traditionally are underserved by other financial firms. These are organizations that can truly benefit from a steady, long-term approach to investing.\nLearn more\nLearn more\nP&G Employees\nFor P&G employees and alumni, choosing a wealth management firm is one of the biggest financial decisions you will make. And likely you want a team who can deliver value by connecting the dots of your financial life, beyond just the PST and SP.\nLearn more\nLearn more\nWomen’s Wealth Counsel\nWe like to think of women as more than just a niche audience. Welcome to our Women’s Wealth Counsel, a community of our female clients, team members and professional partners!\nLearn more\nLearn more\nCommas\nFounded on the same fiduciary principles as Truepoint, our Commas team helps you money confidently at a pace at which you choose with a no account minimum subscription structure.\nLearn more\nLearn more\nWe’d love to chat with you to see if we’re the right fit for you.\nSchedule a Call\nSchedule a Call\nA Team Dedicated to Your Financial Life Plan.\nRyan J. Klekar, CFP®, CTFA\nSr. Wealth Advisor & Shareholder\nRyan J. Klekar\nZach Bauer\nWealth Planning Sr. Associate\nZach Bauer\nJordan Patrick, CFP®\nDirector of Commas & Shareholder\nJordan Patrick\nKathleen J. Schnelle, CPA\nSr. Tax Manager & Shareholder\nKathleen J. Schnelle\nRachel Warden\nTax Administration Sr. Associate\nRachel Warden\nEric Chaimowitz, CPA, CFP®\nSr. Tax Manager & Shareholder\nEric Chaimowitz\nBrendan Keating, CPA, CFP®\nWealth Advisor\nBrendan Keating\nJosh Bentz, CFP®\nSr. Financial Advisor & Shareholder\nJosh Bentz\nChristopher M. Meyer, CFA\nDirector of Institutional Investing & Shareholder\nChristopher M. Meyer\nRona Turnheim\nExecutive Receptionist\nRona Turnheim\nTyler Hezlep, CFP®\nWealth Advisor\nTyler Hezlep\nBen Shetler\nInvestment Associate\nBen Shetler\nGwen Keihl, CFP®\nFinancial Advisor\nGwen Keihl\nMadi Sabol\nMarketing Associate\nMadi Sabol\nGuy M. Clanton, CPA, CFP®, Certified Senior Advisor®\nSr. Financial Planner & Shareholder\nGuy M. Clanton\nSarah Tenhundfeld, CFP®\nSr. Wealth Advisor\nSarah Tenhundfeld\nCrystal Swift\nEvent Planning Sr. Associate\nCrystal Swift\nMichael J. Chasnoff\nFounder & Chairman\nMichael J. Chasnoff\nNate Johnson, CFP®\nCo-Chief Client Officer & Shareholder\nNate Johnson\nWill B. Lundstrom\nDirector of Operations & Shareholder\nWill B. Lundstrom\nRyan Koons\nIT Service Sr. Associate\nRyan Koons\nSydnie Schell, CPA\nTax Manager\nSydnie Schell\nTed Parchman, CFA\nDirector of Investment Management & Shareholder\nTed Parchman\nCollin McCulley\nFamily Office Sr. Associate\nCollin McCulley\nAbby Tuke\nDirector of Growth & Shareholder\nAbby Tuke\nDanni Romine\nFamily Office Specialist\nDanni Romine\nJosh Kommer, CFA, CAIA\nSr. Portfolio Manager & Shareholder\nJosh Kommer\nBen Pantalone, CFA\nPortfolio Manager\nBen Pantalone\nChris Mason\nIT Service Manager\nChris Mason\nNate Eix, CFP®\nFinancial Advisor\nNate Eix\nAlex Thurner, EA\nTax Sr. Associate\nAlex Thurner\nBraden Lieungh, CFP®\nWealth Planning Sr. Associate\nBraden Lieungh\nEmily Vogele, CFP®\nWealth Advisor\nEmily Vogele\nBrett Steier, CPA, CFP®\nTax Sr. Associate\nBrett Steier\nLaura Maxwell\nWealth Advisor Sr. Associate\nLaura Maxwell\nChristine L. Carleton, CFP®\nSr. Wealth Advisor & Shareholder\nChristine L. Carleton\nJohn Wolfenden, JD\nSr. Estate Planner & Shareholder\nJohn Wolfenden\nRachel Williamson\nBusiness Systems Specialist\nRachel Williamson\nKimberly Seuberling\nAccounting Sr. Associate\nKimberly Seuberling\nStephanie A. Johnson\nOperations Manager\nStephanie A. Johnson\nHeather J. Spencer, CPA, CFP®\nSr. Wealth Advisor & Shareholder\nHeather J. Spencer\nJackie Rice\nExecutive Receptionist\nJackie Rice\nHillary Mitchell\nMarketing Manager\nHillary Mitchell\nSteve Condon, CFA\nChief Executive Officer & Shareholder\nSteve Condon\nBradley C. Williams\nWealth Planning Sr. Associate\nBradley C. Williams\nAdam Lipton, CFP®\nDirector of Wealth Advisory Services & Shareholder\nAdam Lipton\nTim Weinkam, CPA\nSr. Controller & Shareholder\nTim Weinkam\nBen Fribourg\nWealth Planning Associate\nBen Fribourg\nJosh Borges, CPA\nSr. Tax Manager & Shareholder\nJosh Borges\nSusie Arling\nClient Service Sr. Associate\nSusie Arling\nAbby Earls\nClient Service Sr. Associate\nAbby Earls\nHaley Lee\nHR & Benefits Manager\nHaley Lee\nAshleigh Daly\nClient Service Associate\nAshleigh Daly\nEric Abner\nIT Service Manager\nEric Abner\nAngela Jiang, CFP®\nWealth Planning Sr. Associate\nAngela Jiang\nJessica Mann\nSr. Talent Manager & Shareholder\nJessica Mann\nBlake Price, CFP®\nSr. Wealth Advisor & Shareholder\nBlake Price\nCassie Whitehouse, M.Ed.,\nHR Operations & Compliance Manager\nCassie Whitehouse\nAndy Arnold, CPA\nTax Manager\nAndy Arnold\nEmily A. Coughlin, CTFA\nSr. Estate Planner & Shareholder\nEmily A. Coughlin\nJP Ittenbach\nInvestment Operations Associate\nJP Ittenbach\nJasmine Kohli\nClient Service Sr. Associate\nJasmine Kohli\nMaria Carman\nEmployee Experience Associate\nMaria Carman\nKatrina Hartsel, PHR®\nChief Operating Officer & Shareholder\nKatrina Hartsel\nCourtney M. Weber, CPA, CFP®, CAP®\nCo-Chief Client Officer & Shareholder\nCourtney M. Weber\nThomas Bentley, CFP®, CTFA\nDirector of Estate Services & Shareholder\nThomas Bentley\nConor Feldmann, CFA\nSr. Portfolio Manager & Shareholder\nConor Feldmann\nNichole Williams, CPA\nSr. Tax Manager & Shareholder\nNichole Williams\nKristine Kolzing\nDirector of Client Growth\nKristine Kolzing\nShelly Bailey, CFP®, CTFA\nEstate Planner\nShelly Bailey\nLauren M. Niestradt, CFA, CFP®\nSr. Portfolio Manager & Shareholder\nLauren M. Niestradt\nMichelle Stevens, CFP®\nDirector of Financial Planning & Shareholder\nMichelle Stevens\nBill Tucker, CPA\nSr. Tax Manager & Shareholder\nBill Tucker\nDeanna V. Sicking, CFP®\nSr. Wealth Advisor & Shareholder\nDeanna V. Sicking\nWayne A. Lippert, Jr., CFP®\nSr. Wealth Advisor & Shareholder\nWayne A. Lippert, Jr.\nMel Young, CFP®\nFinancial Advisor\nMel Young\nAugust Hemmerich, CFP®\nFinancial Planner\nAugust Hemmerich\nBill Felix\nDirector of Innovation & Shareholder\nBill Felix\nScott M. Barbee, CPA, CFP®, CAP®\nSr. Wealth Advisor & Shareholder\nScott M. Barbee\nScott Keller, CFA, CAIA\nChief Information Officer & Shareholder\nScott Keller\nSam Chasnoff, CFP®\nSr. Wealth Advisor\nSam Chasnoff\nNate Maxson, CFP®, CIMA®, CPWA®\nFinancial Planner\nNate Maxson\nDeana Sowders\nMarketing Manager\nDeana Sowders\nShannon Dowling, CFP®\nWealth Planning Sr. Associate\nShannon Dowling\nDevon Herzig, CPA\nTax Manager\nDevon Herzig\nChris Veddern\nTax Sr. Associate\nChris Veddern\nLynda A. Michael\nEmployee Experience & Culture Manager\nLynda A. Michael\nDaniel Haeser\nTax Associate\nDaniel Haeser\nJohn S. Evans, CPA/PFS, CFP®\nSr. Wealth Advisor & Shareholder\nJohn S. Evans\nDan Regan\nOperations Manager\nDan Regan\nBridget Hughes\nDirector of Client Services & Shareholder\nBridget Hughes\nKatie Newman, CPA\nSr. Tax Manager & Shareholder\nKatie Newman\nAlexandra H. Ollinger, CFP®\nFamily Office Sr. Advisor & Shareholder\nAlexandra H. Ollinger\nSteven Milby, CFP®\nClient Service Sr. Associate\nSteven Milby\nKate Brownstein, CFP®\nSr. Financial Planner & Shareholder\nKate Brownstein\nBrian Keating\nWealth Planning Sr. Associate\nBrian Keating\nOmar Fallon\nBusiness Systems Specialist\nOmar Fallon\nGinger S. Ittenbach, CPA\nDirector of Finance and Tax Services & Shareholder\nGinger S. Ittenbach\nDavid J. Bross, JD, CAP®\nSr. Estate Planner & Shareholder\nDavid J. Bross\nMax Rowitz\nBusiness Systems Specialist\nMax Rowitz\nKatelyn Bombardiere, CFP®\nSr. Financial Advisor\nKatelyn Bombardiere\nRyan J. Klekar, CFP®, CTFA\nSr. Wealth Advisor & Shareholder\nRyan J. Klekar\nZach Bauer\nWealth Planning Sr. Associate\nZach Bauer\nJordan Patrick, CFP®\nDirector of Commas & Shareholder\nJordan Patrick\nKathleen J. Schnelle, CPA\nSr. Tax Manager & Shareholder\nKathleen J. Schnelle\nRachel Warden\nTax Administration Sr. Associate\nRachel Warden\nEric Chaimowitz, CPA, CFP®\nSr. Tax Manager & Shareholder\nEric Chaimowitz\nBrendan Keating, CPA, CFP®\nWealth Advisor\nBrendan Keating\nJosh Bentz, CFP®\nSr. Financial Advisor & Shareholder\nJosh Bentz\nChristopher M. Meyer, CFA\nDirector of Institutional Investing & Shareholder\nChristopher M. Meyer\nRona Turnheim\nExecutive Receptionist\nRona Turnheim\nTyler Hezlep, CFP®\nWealth Advisor\nTyler Hezlep\nBen Shetler\nInvestment Associate\nBen Shetler\nGwen Keihl, CFP®\nFinancial Advisor\nGwen Keihl\nMadi Sabol\nMarketing Associate\nMadi Sabol\nGuy M. Clanton, CPA, CFP®, Certified Senior Advisor®\nSr. Financial Planner & Shareholder\nGuy M. Clanton\nSarah Tenhundfeld, CFP®\nSr. Wealth Advisor\nSarah Tenhundfeld\nCrystal Swift\nEvent Planning Sr. Associate\nCrystal Swift\nMichael J. Chasnoff\nFounder & Chairman\nMichael J. Chasnoff\nNate Johnson, CFP®\nCo-Chief Client Officer & Shareholder\nNate Johnson\nWill B. Lundstrom\nDirector of Operations & Shareholder\nWill B. Lundstrom\nRyan Koons\nIT Service Sr. Associate\nRyan Koons\nSydnie Schell, CPA\nTax Manager\nSydnie Schell\nTed Parchman, CFA\nDirector of Investment Management & Shareholder\nTed Parchman\nCollin McCulley\nFamily Office Sr. Associate\nCollin McCulley\nAbby Tuke\nDirector of Growth & Shareholder\nAbby Tuke\nDanni Romine\nFamily Office Specialist\nDanni Romine\nJosh Kommer, CFA, CAIA\nSr. Portfolio Manager & Shareholder\nJosh Kommer\nBen Pantalone, CFA\nPortfolio Manager\nBen Pantalone\nChris Mason\nIT Service Manager\nChris Mason\nNate Eix, CFP®\nFinancial Advisor\nNate Eix\nAlex Thurner, EA\nTax Sr. Associate\nAlex Thurner\nBraden Lieungh, CFP®\nWealth Planning Sr. Associate\nBraden Lieungh\nEmily Vogele, CFP®\nWealth Advisor\nEmily Vogele\nBrett Steier, CPA, CFP®\nTax Sr. Associate\nBrett Steier\nLaura Maxwell\nWealth Advisor Sr. Associate\nLaura Maxwell\nChristine L. Carleton, CFP®\nSr. Wealth Advisor & Shareholder\nChristine L. Carleton\nJohn Wolfenden, JD\nSr. Estate Planner & Shareholder\nJohn Wolfenden\nRachel Williamson\nBusiness Systems Specialist\nRachel Williamson\nKimberly Seuberling\nAccounting Sr. Associate\nKimberly Seuberling\nStephanie A. Johnson\nOperations Manager\nStephanie A. Johnson\nHeather J. Spencer, CPA, CFP®\nSr. Wealth Advisor & Shareholder\nHeather J. Spencer\nJackie Rice\nExecutive Receptionist\nJackie Rice\nHillary Mitchell\nMarketing Manager\nHillary Mitchell\nSteve Condon, CFA\nChief Executive Officer & Shareholder\nSteve Condon\nBradley C. Williams\nWealth Planning Sr. Associate\nBradley C. Williams\nAdam Lipton, CFP®\nDirector of Wealth Advisory Services & Shareholder\nAdam Lipton\nTim Weinkam, CPA\nSr. Controller & Shareholder\nTim Weinkam\nBen Fribourg\nWealth Planning Associate\nBen Fribourg\nJosh Borges, CPA\nSr. Tax Manager & Shareholder\nJosh Borges\nSusie Arling\nClient Service Sr. Associate\nSusie Arling\nAbby Earls\nClient Service Sr. Associate\nAbby Earls\nHaley Lee\nHR & Benefits Manager\nHaley Lee\nAshleigh Daly\nClient Service Associate\nAshleigh Daly\nEric Abner\nIT Service Manager\nEric Abner\nAngela Jiang, CFP®\nWealth Planning Sr. Associate\nAngela Jiang\nJessica Mann\nSr. Talent Manager & Shareholder\nJessica Mann\nBlake Price, CFP®\nSr. Wealth Advisor & Shareholder\nBlake Price\nCassie Whitehouse, M.Ed.,\nHR Operations & Compliance Manager\nCassie Whitehouse\nAndy Arnold, CPA\nTax Manager\nAndy Arnold\nEmily A. Coughlin, CTFA\nSr. Estate Planner & Shareholder\nEmily A. Coughlin\nJP Ittenbach\nInvestment Operations Associate\nJP Ittenbach\nJasmine Kohli\nClient Service Sr. Associate\nJasmine Kohli\nMaria Carman\nEmployee Experience Associate\nMaria Carman\nKatrina Hartsel, PHR®\nChief Operating Officer & Shareholder\nKatrina Hartsel\nCourtney M. Weber, CPA, CFP®, CAP®\nCo-Chief Client Officer & Shareholder\nCourtney M. Weber\nThomas Bentley, CFP®, CTFA\nDirector of Estate Services & Shareholder\nThomas Bentley\nConor Feldmann, CFA\nSr. Portfolio Manager & Shareholder\nConor Feldmann\nNichole Williams, CPA\nSr. Tax Manager & Shareholder\nNichole Williams\nKristine Kolzing\nDirector of Client Growth\nKristine Kolzing\nShelly Bailey, CFP®, CTFA\nEstate Planner\nShelly Bailey\nLauren M. Niestradt, CFA, CFP®\nSr. Portfolio Manager & Shareholder\nLauren M. Niestradt\nMichelle Stevens, CFP®\nDirector of Financial Planning & Shareholder\nMichelle Stevens\nBill Tucker, CPA\nSr. Tax Manager & Shareholder\nBill Tucker\nDeanna V. Sicking, CFP®\nSr. Wealth Advisor & Shareholder\nDeanna V. Sicking\nWayne A. Lippert, Jr., CFP®\nSr. Wealth Advisor & Shareholder\nWayne A. Lippert, Jr.\nMel Young, CFP®\nFinancial Advisor\nMel Young\nAugust Hemmerich, CFP®\nFinancial Planner\nAugust Hemmerich\nBill Felix\nDirector of Innovation & Shareholder\nBill Felix\nScott M. Barbee, CPA, CFP®, CAP®\nSr. Wealth Advisor & Shareholder\nScott M. Barbee\nScott Keller, CFA, CAIA\nChief Information Officer & Shareholder\nScott Keller\nSam Chasnoff, CFP®\nSr. Wealth Advisor\nSam Chasnoff\nNate Maxson, CFP®, CIMA®, CPWA®\nFinancial Planner\nNate Maxson\nDeana Sowders\nMarketing Manager\nDeana Sowders\nShannon Dowling, CFP®\nWealth Planning Sr. Associate\nShannon Dowling\nDevon Herzig, CPA\nTax Manager\nDevon Herzig\nChris Veddern\nTax Sr. Associate\nChris Veddern\nLynda A. Michael\nEmployee Experience & Culture Manager\nLynda A. Michael\nDaniel Haeser\nTax Associate\nDaniel Haeser\nJohn S. Evans, CPA/PFS, CFP®\nSr. Wealth Advisor & Shareholder\nJohn S. Evans\nDan Regan\nOperations Manager\nDan Regan\nBridget Hughes\nDirector of Client Services & Shareholder\nBridget Hughes\nKatie Newman, CPA\nSr. Tax Manager & Shareholder\nKatie Newman\nAlexandra H. Ollinger, CFP®\nFamily Office Sr. Advisor & Shareholder\nAlexandra H. Ollinger\nSteven Milby, CFP®\nClient Service Sr. Associate\nSteven Milby\nKate Brownstein, CFP®\nSr. Financial Planner & Shareholder\nKate Brownstein\nBrian Keating\nWealth Planning Sr. Associate\nBrian Keating\nOmar Fallon\nBusiness Systems Specialist\nOmar Fallon\nGinger S. Ittenbach, CPA\nDirector of Finance and Tax Services & Shareholder\nGinger S. Ittenbach\nDavid J. Bross, JD, CAP®\nSr. Estate Planner & Shareholder\nDavid J. Bross\nMax Rowitz\nBusiness Systems Specialist\nMax Rowitz\nKatelyn Bombardiere, CFP®\nSr. Financial Advisor\nKatelyn Bombardiere\nRyan J. Klekar, CFP®, CTFA\nSr. Wealth Advisor & Shareholder\nRyan J. Klekar\nZach Bauer\nWealth Planning Sr. Associate\nZach Bauer\nJordan Patrick, CFP®\nDirector of Commas & Shareholder\nJordan Patrick\nKathleen J. Schnelle, CPA\nSr. Tax Manager & Shareholder\nKathleen J. Schnelle\nRachel Warden\nTax Administration Sr. Associate\nRachel Warden\nEric Chaimowitz, CPA, CFP®\nSr. Tax Manager & Shareholder\nEric Chaimowitz\nOur People\nFeatured News & Insights\nConor Feldmann   June 16, 2026\nSection 351 Exchanges: The Portfolio Cleanup Tool Hiding in the Tax Code\nRead More\nNichole Williams   June 2, 2026\n3 Tips for Efficient Tax Planning for Business Owners\nRead More\nShannon Dowling and Kate Brownstein   May 21, 2026\nWhat is IRMAA and When Can You Do Something About It?\nRead More\nAll Insights\nWe’d love to get to know more about you.\nSchedule a Meeting\n9999 Carver Road, Suite 200\nCincinnati, OH 45242\n(513) 792-6648\nLet’s Talk\nSEC Documents\nClient Login\nCommas\nPrivacy\nLinkedin Facebook Twitter Instagram YouTube\n©Truepoint Wealth Counsel, LLC 2026"
+}

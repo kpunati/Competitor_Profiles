@@ -1,0 +1,73 @@
+{
+  "competitor": "Wiser Wealth Management",
+  "slug": "Wiser_Wealth_Management",
+  "summary_line": "Marietta GA fee-only fiduciary RIA — $513.6M AUM, 11 employees, 5 advisors, 0 DRPs. Note: brand domain wiserwealth.com timed out on first capture; live site is wiserinvestor.com. Unusually broad niche menu visible on homepage: Retirement · Business Owners · Single Again Community · Airline Pilots · Legacy · Inheritance — including a divorce-recovery sub-segment most peers don't surface. 'No product sales or commissions.'",
+  "website": "https://wiserinvestor.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": 5,
+  "employee_count": 11,
+  "branch_count": null,
+  "geographic_scope": "regional",
+  "headquarters_city": "Marietta",
+  "headquarters_state": "GA",
+
+  "aum_usd": 513631706,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent", "hnw"],
+  "segment_early_adults": "weak",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "Original captured URL wiserwealth.com timed out; firm's live site is at wiserinvestor.com. Both refer to same legal entity (CRD 125282, 'WISER WEALTH MANAGEMENT, INC').",
+  "sec_registered": true,
+  "crd_number": "125282",
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "content_heavy",
+  "design_tone": "establishment",
+  "positioning_claims": ["fee_only", "fiduciary", "multi_niche", "no_product_sales", "segment_specific"],
+  "vulnerabilities": ["no_fee_transparency", "niche_dilution_risk", "small_team_size"],
+  "tags": ["founder_led", "multi_advisor", "regional", "consumer_facing", "cfp_credentialed", "fee_only", "aum_fee", "content_engine", "clean_regulatory_record"],
+  "related_competitors": ["Brindle_And_Bay", "Foundry_Financial", "Greenbush_Financial_Group"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 513631706, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 5, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 11, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 125282 — 11 employees, 5 advisors, $513,631,706 regulatory AUM, 0 DRPs. Legal name: 'WISER WEALTH MANAGEMENT, INC.'",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: homepage only at wiserinvestor.com (the wiserwealth.com domain timed out). Hero H1: 'Guiding you to financial freedom through life's pivotal moments.' Six niche tiles on homepage: RETIREMENT PLANNING · BUSINESS OWNERS · SINGLE AGAIN COMMUNITY · AIRLINE PILOTS · LEGACY PLANNING · INHERITANCE. 'Single Again Community' is a divorce-recovery sub-segment — unusual specificity. Tagline: 'specializes in both investment advisory services and financial consulting with no product sales or commissions.'",
+        "source": "tools/extract.ts (homepage only)"
+      }
+    ]
+  },
+
+  "_schema": {}
+}

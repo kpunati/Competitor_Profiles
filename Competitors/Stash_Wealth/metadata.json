@@ -1,0 +1,117 @@
+{
+  "competitor": "Stash Wealth",
+  "slug": "Stash_Wealth",
+  "summary_line": "NYC virtual fee-only RIA founded by Priya Malani — former Merrill Lynch HNW advisor and former professional ballerina. Targets six-figure-earning 30-somethings (HENRYs). Core product: 'The Stash Plan' = $5,000 flat-fee 4-week deep dive. Edgy tone ('Get Your Financial Sh*t Together'). $51.7M AUM, 2 advisors, 3 employees per ADV, 0 DRPs. Smallest firm in this round.",
+  "website": "https://stashwealth.com",
+  "competitor_type": "wealth_mgmt_solo",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": 2,
+  "employee_count": 3,
+  "branch_count": 1,
+  "geographic_scope": "national",
+  "headquarters_city": "New York",
+  "headquarters_state": "NY",
+
+  "aum_usd": 51715642,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "subscription",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": 5000,
+  "fee_flat_high_usd": 5000,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_affluent"],
+
+  "segment_early_adults": "ok",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "167072",
+  "sec_number": "801-105050",
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "personality_led",
+  "design_tone": "energetic",
+
+  "positioning_claims": [
+    "fee_only",
+    "fiduciary",
+    "niche_specialist",
+    "segment_specific",
+    "personality_led",
+    "flat_fee_transparent",
+    "national_virtual",
+    "founder_origin_story"
+  ],
+  "vulnerabilities": [
+    "no_401k_specific_funnel",
+    "single_founder_key_person_risk",
+    "small_aum_scale",
+    "narrow_niche_dependency"
+  ],
+  "tags": [
+    "founder_led",
+    "solo_advisor",
+    "national",
+    "consumer_facing",
+    "fee_only",
+    "flat_fee",
+    "subscription_fee",
+    "content_engine",
+    "media_personality_led",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Afford_Anything",
+    "Brindle_And_Bay",
+    "Money_Guy",
+    "Roadmap_Money"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      { "as_of": "2026-06-17", "value_usd": 51715642, "source": "ADV" }
+    ],
+    "advisor_count_history": [
+      { "as_of": "2026-06-17", "value": 2, "source": "ADV" }
+    ],
+    "employee_count_history": [
+      { "as_of": "2026-06-17", "value": 3, "source": "ADV" }
+    ],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 167072 — 3 employees, 2 advisors, $51,715,642 regulatory AUM, 0 disciplinary disclosures. SEC file 801-105050. Legal name: 'STASH WEALTH, LLC.'",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts captured homepage only (sitemap=0, nav=0, known-paths=0); followed up via WebFetch on /how-we-work + /about. Brand voice deliberately edgy: H1 = 'Get Your Financial Sh*t Together.' Tagline: 'Home Of The HENRYs.' Sub-tagline: 'In your 30s making six-figures?' / 'Welcome.' Core product: **The Stash Plan** — a $5,000 flat-fee, 4-week deep dive into a client's finances, life, and goals; one-on-one with a dedicated advisor; combines 'cutting-edge financial tools' with 'deeply human insights.' Founder Priya Malani — origin story: started Stash after watching her parents' financial stress despite her father's successful six-figure medical career; previously at Merrill Lynch with HNW clients; former professional ballerina. Phone area code 212 (NYC). Positioning: 'high-achieving 30-somethings' wanting financial clarity; reframes money as 'a source of empowerment and joy' rather than stress. Content presence is personality-led around Priya. /the-stash-plan returned 404 in WebFetch (URL pattern may differ).",
+        "source": "tools/extract.ts (homepage only) + WebFetch on /how-we-work, /about"
+      }
+    ]
+  },
+
+  "_schema": {
+    "competitor_type": "wealth_mgmt_traditional | wealth_mgmt_content_led | wealth_mgmt_solo | wealth_mgmt_tax_specialty | robo_advisor | bank_or_wirehouse | education_platform | b2b_network | finance_coach | tax_or_cpa_firm",
+    "threat_level": "high | medium-high | medium | low — see _context/taxonomy.md",
+    "_applicability": "sec_/crd_/aum_/fee_/disciplinary_/advisor_count fields apply to SEC-registered RIAs. See _context/taxonomy.md."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "competitor": "Truepoint Wealth Counsel",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://www.truepointwealth.com",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(77, 77, 77)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgba(255, 255, 255, 0.15)",
+        "count": 208
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 52
+      },
+      {
+        "color": "rgba(0, 0, 111, 0.15)",
+        "count": 12
+      },
+      {
+        "color": "rgb(0, 0, 111)",
+        "count": 6
+      },
+      {
+        "color": "rgb(57, 0, 239)",
+        "count": 5
+      },
+      {
+        "color": "rgb(255, 44, 0)",
+        "count": 2
+      },
+      {
+        "color": "rgb(251, 250, 249)",
+        "count": 2
+      },
+      {
+        "color": "rgba(0, 0, 0, 0.4)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(255, 255, 255)",
+    "accent": "rgba(0, 0, 111, 0.15)"
+  },
+  "typography": {
+    "heading_family": "GTEestiPro, Helvetica, Arial, sans-serif",
+    "heading_weight": "700",
+    "body_family": "GTEestiPro, Helvetica, Arial, sans-serif",
+    "body_weight": "300",
+    "body_size_px": 12,
+    "paragraph_size_px": 22.5
+  },
+  "primary_button": {
+    "text": "Business Owners",
+    "background": "rgb(255, 255, 255)",
+    "text_color": "rgb(0, 0, 111)",
+    "border_radius_px": 0,
+    "padding": "22.5px 27px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

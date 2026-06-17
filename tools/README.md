@@ -17,6 +17,7 @@ Scripts that produce the research. This folder is for whoever maintains the pipe
 
   Re-run any time after adding a new profile. Overwrites only the three catalog files; hand-written prose in `00_Market_Overview/` is untouched.
 - **`build-page-index.ts`** — walks every `Competitors/*/Source_Data/pages/*.json` and every `Competitors/*/Knowledge_From_Source/_index.json`, then emits `00_Market_Overview/pages_by_kind.json` — the canonical "what kinds of pages exist across the catalog" index. Site pages are classified by `extract.ts`'s existing `kind` field (`home` / `about` / `contact` / `services` / `pricing` / `blog` → `blog_index` / `compliance` / `starthere`); blog posts come from each firm's `_index.json` and are tagged `blog_post`. Output is grouped by kind (`kind.contact`, `kind.services`, …) and by firm (`by_firm.Foundry_Financial.contact = 1`). This index is the input list for the planned semantic embedder and for any "show me every contact page" query — no folder walking needed.
+- **`build-claude-md.ts`** — regenerates the AUTO section of root `CLAUDE.md` from `competitor_catalog.json` + `pages_by_kind.json`. Updates the catalog-state block (firm count, jurisdiction breakdown, list of firms with/without Knowledge_From_Source corpora) so Claude Code sessions always read accurate catalog state on launch. **Wired into `synthesize.ts`** — every `synthesize` run also refreshes CLAUDE.md. Idempotent and safe to re-run standalone (`npx tsx tools/build-claude-md.ts`). Only touches the content between `<!-- AUTO:catalog-stats -->` markers; everything else in CLAUDE.md (brand voice rules, canonical files, known issues, output conventions) is hand-maintained.
 - **`enrich.ts`** — placeholder for additional non-website data (traffic estimates, social follower counts, etc.). Not implemented; for wealth management, the public site + IAPD lookup covers what we need.
 
 ## One-time setup
@@ -37,7 +38,7 @@ npx tsx tools/add.ts --url https://example.com --name "Example Wealth"
 npx tsx tools/add.ts --url https://example.com --skip-analyze
 ```
 
-This creates `Competitors/Example/`, captures the site into `Source_Data/` + `Screenshots/`, runs the IAPD lookup, pulls + parses the Form ADV PDF if matched. Profile markdown is then written interactively in a Claude Code session (using the existing 30 profiles as style references).
+This creates `Competitors/Example/`, captures the site into `Source_Data/` + `Screenshots/`, runs the IAPD lookup, pulls + parses the Form ADV PDF if matched. Profile markdown is then written interactively in a Claude Code session (using the existing 48 profiles as style references).
 
 ## Re-running pieces
 
@@ -96,11 +97,13 @@ CLI flags:
 ## After every new profile
 
 ```bash
-npx tsx tools/synthesize.ts        # refresh catalog.csv + catalog.json + Head_to_Head_Matrix.md
 npx tsx tools/build-page-index.ts  # refresh pages_by_kind.json
+npx tsx tools/synthesize.ts        # refresh catalog.csv + catalog.json + Head_to_Head_Matrix.md AND CLAUDE.md AUTO block
 ```
 
-The CSV is built for direct import into a Notion database — each row is one competitor, multi-select fields use comma-separated values inside quoted cells. The page index drives any cross-cutting "show me every X page" query and feeds the planned semantic embedder.
+Run `build-page-index.ts` first, then `synthesize.ts` — synthesize's final step calls `build-claude-md.ts`, which reads `pages_by_kind.json` to populate the firm-with/without-corpus lists in `CLAUDE.md`. If you only changed a single metadata.json field and don't need to refresh the page index, just `synthesize.ts` is fine.
+
+The CSV is built for direct import into a Notion database — each row is one competitor, multi-select fields use comma-separated values inside quoted cells. The page index drives any cross-cutting "show me every X page" query. The CLAUDE.md refresh ensures every Claude Code session opens with accurate catalog state.
 
 ## How a profile gets written
 
@@ -111,7 +114,7 @@ The CSV is built for direct import into a Notion database — each row is one co
    - Probes design on the homepage: color palette, typography, primary button styling
    - Seeds `company_facts.json` with an SEC ADV search URL
 2. **Enrich** — `enrich-adv.ts` searches IAPD by firm name and writes the matched record into `company_facts.json`. `enrich-adv-pdf.ts` then downloads the Form ADV PDF and parses Part 1A into `metadata.json`.
-3. **Analyze** — Profile markdown (`1_Summary.md` + `2_Full_Profile.md`) is written interactively in a Claude Code session, using the standing context in `_context/` and the existing 30 profiles as the style reference. `analyze.ts` exists as the automated alternative but is not currently the primary flow.
+3. **Analyze** — Profile markdown (`1_Summary.md` + `2_Full_Profile.md`) is written interactively in a Claude Code session, using the standing context in `_context/` and the existing 48 profiles as the style reference. `analyze.ts` exists as the automated alternative but is not currently the primary flow.
 4. **Synthesize** — `synthesize.ts` regenerates the cross-cutting matrix and the Notion-importable catalog.
 5. **(Optional) Scrape knowledge** — `scrape-knowledge.ts` builds the content corpus per firm. Run as a separate step on content-led firms; skip for vendor adjacencies and stale sites.
 

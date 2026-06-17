@@ -1,0 +1,65 @@
+{
+  "competitor": "Pure Financial Advisors",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://purefinancial.com",
+  "colors": {
+    "body_background": "rgb(242, 242, 242)",
+    "body_text": "rgb(33, 37, 41)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 119
+      },
+      {
+        "color": "rgb(1, 86, 151)",
+        "count": 30
+      },
+      {
+        "color": "rgb(239, 239, 239)",
+        "count": 14
+      },
+      {
+        "color": "rgb(242, 242, 242)",
+        "count": 10
+      },
+      {
+        "color": "rgb(37, 143, 224)",
+        "count": 10
+      },
+      {
+        "color": "rgb(204, 204, 204)",
+        "count": 9
+      },
+      {
+        "color": "rgb(241, 241, 241)",
+        "count": 6
+      },
+      {
+        "color": "rgba(239, 239, 239, 0.5)",
+        "count": 4
+      }
+    ],
+    "primary": "rgb(1, 86, 151)",
+    "accent": "rgb(239, 239, 239)"
+  },
+  "typography": {
+    "heading_family": "minion-pro-caption",
+    "heading_weight": "700",
+    "body_family": "minion-pro-caption",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 16
+  },
+  "primary_button": {
+    "text": "GET STARTED NOW",
+    "background": "rgb(13, 56, 101)",
+    "text_color": "rgb(255, 255, 255)",
+    "border_radius_px": 50,
+    "padding": "7.5px 20px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

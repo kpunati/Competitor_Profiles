@@ -1,0 +1,73 @@
+{
+  "competitor": "Plancorp",
+  "slug": "Plancorp",
+  "summary_line": "St. Louis-based fee-only fiduciary RIA — $9.94B AUM, 97 employees, 50 advisors, 0 DRPs. Tagline: 'We specialize in holistic and comprehensive wealth management.' Mid-large national firm targeting HNW. Uses 'holistic' / 'comprehensive' (terms USWM's brand voice explicitly rejects) — useful as the COUNTEREXAMPLE for what USWM is NOT.",
+  "website": "https://plancorp.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "large",
+  "advisor_count": 50,
+  "employee_count": 97,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": "St. Louis",
+  "headquarters_state": "MO",
+
+  "aum_usd": 9942372723,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["hnw", "uhnw"],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "106599",
+  "sec_number": null,
+  "ownership_structure": "founder_led",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "establishment",
+  "positioning_claims": ["fee_only", "fiduciary", "holistic_uses_avoidlist_term", "comprehensive"],
+  "vulnerabilities": ["no_fee_transparency", "generic_positioning", "uses_avoid_list_language"],
+  "tags": ["multi_advisor", "national", "consumer_facing", "cfp_credentialed", "fee_only", "aum_fee", "clean_regulatory_record"],
+  "related_competitors": ["Modera_Wealth_Management", "Truepoint_Wealth_Counsel", "Compass_Ion_Advisors"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 9942372723, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 50, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 97, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 106599 — 97 employees, 50 advisors, $9,942,372,723 regulatory AUM, 0 DRPs. Legal name: 'PLANCORP, LLC.' Mid-1990s CRD vintage.",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: homepage only. Title: 'Top St. Louis Financial Advisors | Plancorp Wealth Management.' Meta description: 'We specialize in holistic and comprehensive wealth management. From retirement planning to strategic investing and everything between, Plancorp helps you make the most of your wealth.' Headings array showed all H3s as empty strings — site is JS-rendered. NOTE: site openly uses both 'holistic' and 'comprehensive' — both on USWM's `_context/brand_what_not_to_make.md` avoid-list, marking Plancorp as the negative-example brand voice for USWM's positioning.",
+        "source": "tools/extract.ts (homepage only)"
+      }
+    ]
+  },
+
+  "_schema": {}
+}

@@ -1,0 +1,73 @@
+{
+  "competitor": "Truepoint Wealth Counsel",
+  "slug": "Truepoint_Wealth_Counsel",
+  "summary_line": "Cincinnati OH fee-only fiduciary RIA founded 1990 — $6.39B AUM, 103 employees, 37 advisors, 0 DRPs. Hero is the catalog's most explicit anti-wirehouse rhetoric: 'People / Compassion / Your Trust / Return on Life — VS — Products / Commissions / Our Bottom Line / Return on Investment.' Direct rejection of product-sales model. Tagline: 'This is Life and Wealth, Well Managed.'",
+  "website": "https://truepointwealth.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "mid",
+  "advisor_count": 37,
+  "employee_count": 103,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": "Cincinnati",
+  "headquarters_state": "OH",
+
+  "aum_usd": 6392730954,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["hnw", "uhnw"],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": null,
+  "sec_registered": true,
+  "crd_number": "105664",
+  "sec_number": null,
+  "ownership_structure": "private_partnership",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "editorial",
+  "positioning_claims": ["fee_only", "fiduciary", "anti_wirehouse_explicit", "long_history", "return_on_life"],
+  "vulnerabilities": ["no_fee_transparency", "broad_target_audience"],
+  "tags": ["multi_advisor", "national", "consumer_facing", "cfp_credentialed", "fee_only", "aum_fee", "content_engine", "clean_regulatory_record"],
+  "related_competitors": ["Modera_Wealth_Management", "Plancorp", "Compass_Ion_Advisors"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 6392730954, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 37, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 103, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 105664 — 103 employees, 37 advisors, $6,392,730,954 regulatory AUM, 0 DRPs.",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: homepage only. Founded 1990 per meta description. Tagline: 'Fee-only wealth management firm based in Cincinnati, OH. Helping clients achieve financial peace of mind since 1990.' Hero H1 is the catalog's most explicit anti-wirehouse positioning: 'People / Compassion / Your Trust / Return on Life — VS — Products / Commissions / Our Bottom Line / Return on Investment.' H2: 'This is Life and Wealth, Well Managed.' Sub-CTAs: 'Experience the Truepoint Difference,' 'We're Hiring.'",
+        "source": "tools/extract.ts (homepage only)"
+      }
+    ]
+  },
+
+  "_schema": {}
+}

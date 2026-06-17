@@ -1,0 +1,109 @@
+{
+  "competitor": "Avise Financial",
+  "slug": "Avise_Financial",
+  "summary_line": "Self-described 'RIA co-op' — a member-owned platform of independent CFP®-led advisor practices. Co-founded by Leighann Miko CFP® and Katrina Soelter CFP®. $169.4M aggregated AUM across 6 member advisors, 7 employees, 0 DRPs. Revenue-share fee model (15% / 10% / 5% banded). Operations + tech + compliance + outsourced support ($45-$70/hr) provided to member advisors; consumer-facing 'Match With An Advisor' directory on the front-end. Closer to XY Planning Network in shape than to a traditional RIA — but as a cooperative with democratic voting and patronage dividends.",
+  "website": "https://avisefinancial.com",
+  "competitor_type": "b2b_network",
+  "threat_level": "low",
+  "confidence": "high",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "small",
+  "advisor_count": 6,
+  "employee_count": 7,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": null,
+  "headquarters_state": null,
+
+  "aum_usd": 169438931,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "subscription",
+  "fee_schedule_published": true,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "fee_flat_low_usd": null,
+  "fee_flat_high_usd": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["mass_market", "mass_affluent"],
+
+  "segment_early_adults": "weak",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "Avise registered as RIA but functions as a B2B platform / network across member advisors. AUM aggregates across member-firm books. Closer in structure to XY Planning Network than to a standalone advisory firm.",
+  "sec_registered": true,
+  "crd_number": "328790",
+  "sec_number": null,
+  "ownership_structure": "network_collective",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": true,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "moderate",
+  "design_tone": "modern",
+
+  "positioning_claims": [
+    "fee_only",
+    "fiduciary",
+    "rejection_of_corporate_advice",
+    "advisor_collective",
+    "consumer_matching_service"
+  ],
+  "vulnerabilities": [
+    "small_aum_scale_per_advisor",
+    "consumer_funnel_competes_with_member_firms",
+    "co_op_governance_complexity"
+  ],
+  "tags": [
+    "founder_led",
+    "network_collective",
+    "b2b_facing",
+    "dual_facing",
+    "national",
+    "cfp_credentialed",
+    "fee_only",
+    "subscription_fee",
+    "clean_regulatory_record"
+  ],
+  "related_competitors": [
+    "Xy_Planning_Network",
+    "Focus_Partners",
+    "Couplr_AI"
+  ],
+
+  "trajectory": {
+    "aum_history": [
+      { "as_of": "2026-06-17", "value_usd": 169438931, "source": "ADV" }
+    ],
+    "advisor_count_history": [
+      { "as_of": "2026-06-17", "value": 6, "source": "ADV" }
+    ],
+    "employee_count_history": [
+      { "as_of": "2026-06-17", "value": 7, "source": "ADV" }
+    ],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 328790 — 7 employees, 6 advisors, $169,438,931 regulatory AUM (aggregated across member-firm books), 0 DRPs. Legal name: 'AVISE FINANCIAL.'",
+        "source": "Form ADV Part 1A (parsed by tools/enrich-adv-pdf.ts)"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts captured homepage only; WebFetch on /team, /for-advisors, /match. Avise positions explicitly as 'an RIA co-op that helps you build your ideal business.' Co-founders: Leighann Miko, CFP® (CSU Northridge → prior independent RIA) and Katrina Soelter, CFP® (UC Berkeley). Two-sided model: (1) advisor-facing — member advisors get compliance + ops + tech suite (AdvicePay, Advyzon, MessageWatcher, Wealthbox) + outsourced financial planning / investment research at $45-$70/hr + democratic voting rights + patronage dividends. Revenue-share tier: 15% of advisor revenue at $0-$500K, 10% at $500K-$1M, 5% at $1M+. (2) consumer-facing — 'Match With An Advisor' questionnaire-to-match flow. Five stated values: Value-Aligned, Independent, Personal, Diverse, Transparent.",
+        "source": "tools/extract.ts (homepage only) + WebFetch on /team + /for-advisors + /match"
+      }
+    ]
+  },
+
+  "_schema": {
+    "_applicability": "Avise is registered with the SEC but functions as a B2B network / co-op. Member firms have their own ADV records; Avise's ADV aggregates."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "competitor": "Avise Financial",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://avisefinancial.com",
+  "colors": {
+    "body_background": "rgb(255, 255, 255)",
+    "body_text": "rgb(63, 72, 38)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(255, 233, 172)",
+        "count": 27
+      },
+      {
+        "color": "rgb(63, 72, 38)",
+        "count": 18
+      },
+      {
+        "color": "rgba(63, 72, 38, 0.5)",
+        "count": 5
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "count": 1
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(63, 72, 38)",
+    "accent": "rgba(63, 72, 38, 0.5)"
+  },
+  "typography": {
+    "heading_family": "SofiaPro-bold",
+    "heading_weight": "500",
+    "body_family": "SofiaPro-semibold",
+    "body_weight": "400",
+    "body_size_px": 18,
+    "paragraph_size_px": 21.456
+  },
+  "primary_button": {
+    "text": "Match With an Advisor",
+    "background": "rgb(63, 72, 38)",
+    "text_color": "rgb(255, 233, 172)",
+    "border_radius_px": 300,
+    "padding": "16.272px 26.0352px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

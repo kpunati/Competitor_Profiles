@@ -1,0 +1,39 @@
+{
+  "query": "Cordant Wealth Partners",
+  "top": {
+    "firm_source_id": "152395",
+    "firm_ia_sec_number": "70937",
+    "firm_ia_full_sec_number": "801-70937",
+    "firm_name": "CORDANT WEALTH PARTNERS",
+    "firm_other_names": [
+      "CORDANT WEALTH PARTNERS",
+      "PRIVATE WEALTH NORTHWEST, LLC",
+      "PRIVATE WEALTH NORTHWEST, INC.",
+      "PRIVATE WEALTH NORTHWEST INC.",
+      "CORDANT, INC."
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 1,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2175 NW RALEIGH ST.\", \"street2\": \"SUITE 110\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"United States\", \"postalCode\": \"97210\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "152395",
+      "firm_ia_sec_number": "70937",
+      "firm_ia_full_sec_number": "801-70937",
+      "firm_name": "CORDANT WEALTH PARTNERS",
+      "firm_other_names": [
+        "CORDANT WEALTH PARTNERS",
+        "PRIVATE WEALTH NORTHWEST, LLC",
+        "PRIVATE WEALTH NORTHWEST, INC.",
+        "PRIVATE WEALTH NORTHWEST INC.",
+        "CORDANT, INC."
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 1,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"2175 NW RALEIGH ST.\", \"street2\": \"SUITE 110\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"United States\", \"postalCode\": \"97210\"}}"
+    }
+  ]
+}

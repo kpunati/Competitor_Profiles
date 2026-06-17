@@ -1,0 +1,64 @@
+{
+  "competitor": "Pure Financial Advisors",
+  "website": "https://purefinancial.com",
+  "last_updated": "2026-06-17",
+  "auto_filled": {
+    "_comment": "Filled by tools/extract.ts (site) and tools/enrich-adv.ts (SEC IAPD). Don't edit by hand.",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "facebook": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "footer_emails": [
+      "info@purefinancial.com",
+      "press@purefinancial.com"
+    ],
+    "footer_phones": [
+      "+18668767873",
+      "1 (866) 876-7873",
+      "(714) 924-7447",
+      "(708) 350-7873",
+      "(630) 990-9000",
+      "(303) 327-7873",
+      "(949) 777-4130",
+      "(818) 805-5500",
+      "(615) 696-7873",
+      "(928) 465-2711"
+    ],
+    "sec_iapd": {
+      "matched": true,
+      "legal_name": "PURE FINANCIAL ADVISORS, LLC",
+      "crd_number": "144316",
+      "sec_number": "801-70137",
+      "headquarters": "3131 CAMINO DEL RIO N, SUITE 1550, SAN DIEGO, CA, 92108, United States",
+      "branch_count": 54,
+      "disciplinary_disclosures": false,
+      "registration_status": "ACTIVE",
+      "dbas_and_affiliates": [
+        "FAIRHAVEN WEALTH MANAGEMENT",
+        "PURE FINANCIAL ADVISORS, INC.",
+        "PURE ADVISORY GROUP"
+      ],
+      "adv_pdf_url": "https://reports.adviserinfo.sec.gov/reports/ADV/144316/PDF/144316.pdf",
+      "iapd_profile_url": "https://adviserinfo.sec.gov/firm/summary/144316"
+    }
+  },
+  "manual": {
+    "_comment": "Needs Form ADV Part 1A (deeper fields) or Part 2A (brochure). Pull from the adv_pdf_url above or from the IAPD profile page.",
+    "founded": null,
+    "aum_usd": null,
+    "aum_as_of": null,
+    "employee_count": null,
+    "advisor_count": null,
+    "client_account_count": null,
+    "account_minimum_usd": null,
+    "ownership_summary": null,
+    "leadership": [],
+    "fee_structure_summary": null,
+    "fee_schedule_published": null,
+    "notes": null,
+    "adv_search_url": "https://adviserinfo.sec.gov/firm/search?query=Pure%20Financial%20Advisors"
+  }
+}

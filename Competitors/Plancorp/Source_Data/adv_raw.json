@@ -1,0 +1,41 @@
+{
+  "query": "Plancorp",
+  "top": {
+    "firm_source_id": "106599",
+    "firm_ia_sec_number": "20398",
+    "firm_ia_full_sec_number": "801-20398",
+    "firm_name": "PLANCORP, LLC",
+    "firm_other_names": [
+      "PLANCORP HOLDINGS, INC.",
+      "PLANCORP®, INC.",
+      "PLANCORP, LLC",
+      "PLANCORP, INC.",
+      "PLANCORP WEALTH MANAGEMENT",
+      "PLANCORP INC"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 22,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"540 MARYVILLE CENTRE DRIVE\", \"street2\": \"SUITE 105\", \"city\": \"SAINT LOUIS\", \"state\": \"MO\", \"country\": \"United States\", \"postalCode\": \"63141-5829\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "106599",
+      "firm_ia_sec_number": "20398",
+      "firm_ia_full_sec_number": "801-20398",
+      "firm_name": "PLANCORP, LLC",
+      "firm_other_names": [
+        "PLANCORP HOLDINGS, INC.",
+        "PLANCORP®, INC.",
+        "PLANCORP, LLC",
+        "PLANCORP, INC.",
+        "PLANCORP WEALTH MANAGEMENT",
+        "PLANCORP INC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 22,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"540 MARYVILLE CENTRE DRIVE\", \"street2\": \"SUITE 105\", \"city\": \"SAINT LOUIS\", \"state\": \"MO\", \"country\": \"United States\", \"postalCode\": \"63141-5829\"}}"
+    }
+  ]
+}

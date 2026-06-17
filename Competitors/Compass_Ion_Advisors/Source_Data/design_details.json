@@ -1,0 +1,49 @@
+{
+  "competitor": "Compass Ion Advisors",
+  "extracted_at": "2026-06-17",
+  "source_url": "https://compass-ionadvisors.com",
+  "colors": {
+    "body_background": "rgb(238, 244, 238)",
+    "body_text": "rgb(0, 16, 66)",
+    "html_background": "rgba(0, 0, 0, 0)",
+    "palette_raw": [
+      {
+        "color": "rgb(170, 218, 227)",
+        "count": 5
+      },
+      {
+        "color": "rgb(35, 68, 210)",
+        "count": 5
+      },
+      {
+        "color": "rgb(0, 16, 66)",
+        "count": 3
+      },
+      {
+        "color": "rgb(238, 244, 238)",
+        "count": 1
+      }
+    ],
+    "primary": "rgb(35, 68, 210)",
+    "accent": "rgb(0, 16, 66)"
+  },
+  "typography": {
+    "heading_family": "Grifo, Georgia, \"Times New Roman\", serif",
+    "heading_weight": "300",
+    "body_family": "Montserrat, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "body_weight": "400",
+    "body_size_px": 16,
+    "paragraph_size_px": 16
+  },
+  "primary_button": {
+    "text": "Client Login",
+    "background": "rgb(170, 218, 227)",
+    "text_color": "rgb(0, 16, 66)",
+    "border_radius_px": 0,
+    "padding": "16px 24px"
+  },
+  "layout": {
+    "document_width_px": 1440,
+    "viewport_width_px": 1440
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "competitor": "Carson Group",
+  "slug": "Carson_Group",
+  "summary_line": "Omaha-based personality-led national wealth management firm — $50.6B AUM, 1,416 employees, 472 advisors, 0 DRPs. Founded and led by Ron Carson (industry personality + author). Second-largest firm in the catalog by AUM (after Mercer at $84.4B). Site capture returned 403 Forbidden (bot-blocked); analysis relies on IAPD + public knowledge. Known for major content brand and active acquisition pipeline.",
+  "website": "https://carsongroup.com",
+  "competitor_type": "wealth_mgmt_traditional",
+  "threat_level": "low",
+  "confidence": "medium",
+  "last_updated": "2026-06-17",
+  "next_review_by": "2026-12-14",
+  "review_cadence_days": 180,
+
+  "team_size": "large",
+  "advisor_count": 472,
+  "employee_count": 1416,
+  "branch_count": null,
+  "geographic_scope": "national",
+  "headquarters_city": "Omaha",
+  "headquarters_state": "NE",
+
+  "aum_usd": 50579657663,
+  "aum_as_of": "2026-06-17",
+
+  "pricing_model": "aum_only_disclosed",
+  "fee_schedule_published": false,
+  "fee_aum_pct_low": null,
+  "fee_aum_pct_high": null,
+  "min_account_usd": null,
+
+  "wealth_tiers_served": ["hnw", "uhnw"],
+  "segment_early_adults": "not_aimed",
+  "segment_mid_career_401k": "weak",
+
+  "regulatory_jurisdiction": "US",
+  "regulator": "SEC",
+  "regulatory_note": "Site returned 403 Forbidden to extract.ts (bot-protected). Profile relies on IAPD + public knowledge.",
+  "sec_registered": true,
+  "crd_number": "155344",
+  "sec_number": null,
+  "ownership_structure": "pe_backed",
+  "fiduciary_stated_explicitly": true,
+  "fee_only_stated_explicitly": false,
+  "disciplinary_disclosures": false,
+  "disciplinary_disclosure_count": 0,
+
+  "media_presence": "personality_led",
+  "design_tone": "modern",
+  "positioning_claims": ["personality_led", "national_scale", "active_acquirer", "content_heavy"],
+  "vulnerabilities": ["key_person_concentration", "pe_growth_pressure", "bot_blocked_site", "no_fee_transparency"],
+  "tags": ["pe_backed", "roll_up", "national", "consumer_facing", "media_personality_led", "aum_fee", "content_engine", "clean_regulatory_record"],
+  "related_competitors": ["Mercer_Advisors", "The_Mather_Group", "Ep_Wealth_Advisors", "Focus_Partners"],
+
+  "trajectory": {
+    "aum_history": [{ "as_of": "2026-06-17", "value_usd": 50579657663, "source": "ADV" }],
+    "advisor_count_history": [{ "as_of": "2026-06-17", "value": 472, "source": "ADV" }],
+    "employee_count_history": [{ "as_of": "2026-06-17", "value": 1416, "source": "ADV" }],
+    "branch_count_history": [],
+    "notable_events": [
+      {
+        "date": "2026-06-17",
+        "event": "ADV snapshot via IAPD CRD 155344 — 1,416 employees, 472 advisors, $50,579,657,663 regulatory AUM, 0 DRPs.",
+        "source": "Form ADV Part 1A"
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Site capture: extract.ts returned 403 Forbidden / nginx. No content captured. Carson Group is publicly known as a personality-led national wealth platform founded by Ron Carson (industry-known author/speaker). Like Mercer + Mather + EP Wealth, runs an active RIA acquisition pipeline. PE-backed structure. Major content brand (Carson Group has been one of the most prolific producers of advisor-facing content for years).",
+        "source": "tools/extract.ts (failed: 403 Forbidden)"
+      }
+    ]
+  },
+
+  "_schema": { "_applicability": "Site data limited due to bot-block; profile content based on IAPD + public knowledge of Carson Group." }
+}

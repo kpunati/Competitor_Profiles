@@ -1,0 +1,126 @@
+{
+  "query": "Pure Financial Advisors",
+  "top": {
+    "firm_source_id": "144316",
+    "firm_ia_sec_number": "70137",
+    "firm_ia_full_sec_number": "801-70137",
+    "firm_name": "PURE FINANCIAL ADVISORS, LLC",
+    "firm_other_names": [
+      "FAIRHAVEN WEALTH MANAGEMENT",
+      "PURE FINANCIAL ADVISORS, LLC",
+      "PURE FINANCIAL ADVISORS, INC.",
+      "PURE ADVISORY GROUP"
+    ],
+    "firm_ia_scope": "ACTIVE",
+    "firm_ia_disclosure_fl": "N",
+    "firm_branches_count": 54,
+    "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"3131 CAMINO DEL RIO N\", \"street2\": \"SUITE 1550\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"92108\"}}"
+  },
+  "all": [
+    {
+      "firm_source_id": "137403",
+      "firm_name": "PURERETIRE LLC",
+      "firm_other_names": [
+        "MAIN STREET FINANCIAL ADVISORS, LLC",
+        "WEALTHSTRATEGIES FINANCIAL ADVISORS, LLC",
+        "PURERETIRE LLC"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 1,
+      "firm_ia_address_details": "{\"officeAddress\": {\"city\": \"NORTHVILLE\", \"state\": \"MI\", \"country\": \"United States\"}}"
+    },
+    {
+      "firm_source_id": "144316",
+      "firm_ia_sec_number": "70137",
+      "firm_ia_full_sec_number": "801-70137",
+      "firm_name": "PURE FINANCIAL ADVISORS, LLC",
+      "firm_other_names": [
+        "FAIRHAVEN WEALTH MANAGEMENT",
+        "PURE FINANCIAL ADVISORS, LLC",
+        "PURE FINANCIAL ADVISORS, INC.",
+        "PURE ADVISORY GROUP"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 54,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"3131 CAMINO DEL RIO N\", \"street2\": \"SUITE 1550\", \"city\": \"SAN DIEGO\", \"state\": \"CA\", \"country\": \"United States\", \"postalCode\": \"92108\"}}"
+    },
+    {
+      "firm_source_id": "284549",
+      "firm_ia_sec_number": "108265",
+      "firm_ia_full_sec_number": "801-108265",
+      "firm_name": "ONEASCENT FINANCIAL SERVICES LLC",
+      "firm_other_names": [
+        "2:24 WEALTH GROUP",
+        "ZAHORANSKI WEALTH MANAGEMENT",
+        "WEALTH STEWARDS",
+        "THE CORNERSTONE FINANCIAL GROUP",
+        "TEVEBAUGH & ASSOCIATES",
+        "TATE FINANCIAL PARTNERS",
+        "STRATEGENCE CAPITAL",
+        "STONEBRIDGE WEALTH MANAGEMENT",
+        "SOVEREIGN PRIVATE WEALTH",
+        "SOVEREIGN FAMILY OFFICE",
+        "SOLOMON PRIVATE WEALTH",
+        "RIVER OAK FINANCIAL",
+        "RESOLUTE CAPITAL GROUP",
+        "PWJOHNSON WEALTH MANAGEMENT",
+        "PURE CAPITAL SPORTS",
+        "PURE CAPITAL ADVISORS",
+        "PROVIDENT OAK FINANCIAL",
+        "PROVIDENCE FINANCIAL ADVISORS",
+        "PEARSON & ASSOCIATES",
+        "ONEASCENT FINANCIAL SERVICES LLC",
+        "LONE OAK FINANCIAL SERVICES",
+        "LIFE&WEALTH ADVISORS",
+        "LEGATUM GROUP",
+        "JB STARK FINANCIAL LLC",
+        "HARDT FINANCIAL GROUP",
+        "HAMPTON SQUARE WEALTH MANAGEMENT",
+        "FRANKLIN WEALTH MANAGEMENT",
+        "FLIGHT FINANCIAL ADVISORS",
+        "FINANCIAL STRATEGIES GROUP",
+        "ENOUGH WEALTH",
+        "ASCENSION WEALTH MANAGEMENT",
+        "ANTHEM ADVISORS",
+        "AFFILIATED FINANCIAL PLANNERS",
+        "ADVENTURE FINANCIAL"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 78,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"23 INVERNESS PARKWAY\", \"city\": \"BIRMINGHAM\", \"state\": \"AL\", \"country\": \"United States\", \"postalCode\": \"35242\"}}"
+    },
+    {
+      "firm_source_id": "168256",
+      "firm_ia_sec_number": "78748",
+      "firm_ia_full_sec_number": "801-78748",
+      "firm_name": "TRU INDEPENDENCE ASSET MANAGEMENT, LLC",
+      "firm_other_names": [
+        "ALLIUM FINANCIAL ADVISORS",
+        "YUVA WEALTH PLANNING",
+        "YELLOWWOOD WEALTH SOLUTIONS, LLC",
+        "WASHINGTON PARK ADVISORS",
+        "VALDA",
+        "TRU INDEPENDENCE, LLC",
+        "TRU INDEPENDENCE ASSET MANAGEMENT, LLC",
+        "TACTICAL ADVISOR 13, LLC",
+        "SAMARA CAPITAL",
+        "PURE PORTFOLIOS",
+        "PACES FERRY WEALTH ADVISORS",
+        "MOTIVE WEALTH ADVISORS",
+        "MARTINWRIGHT ADVISORY, LLC",
+        "JUPITER WEALTH MANAGEMENT",
+        "JEPPSON WEALTH MANAGEMENT",
+        "JADWIN ASSET MANAGEMENT",
+        "HABER INVESTMENT COUNSEL",
+        "CHIRON CAPITAL MANAGEMENT"
+      ],
+      "firm_ia_scope": "ACTIVE",
+      "firm_ia_disclosure_fl": "N",
+      "firm_branches_count": 8,
+      "firm_ia_address_details": "{\"officeAddress\": {\"street1\": \"15350 SW SEQUOIA PARKWAY\", \"street2\": \"SUITE 250\", \"city\": \"PORTLAND\", \"state\": \"OR\", \"country\": \"United States\", \"postalCode\": \"97224\"}}"
+    }
+  ]
+}
