@@ -28,10 +28,9 @@ import {
 } from '../lib/kbConfig';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const WEB_ROOT = path.resolve(__dirname, '..');
-const REPO_ROOT = path.resolve(WEB_ROOT, '..');
-const PUBLIC = path.join(WEB_ROOT, 'public');
-const GENERATED = path.join(WEB_ROOT, 'generated');
+const REPO_ROOT = path.resolve(__dirname, '..');
+const PUBLIC = path.join(REPO_ROOT, 'public');
+const GENERATED = path.join(REPO_ROOT, 'generated');
 
 const COMPETITORS = path.join(REPO_ROOT, 'Competitors');
 const MARKET = path.join(REPO_ROOT, '00_Market_Overview');

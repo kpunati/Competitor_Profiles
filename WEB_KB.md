@@ -7,7 +7,7 @@ fewest possible tokens**, without cloning the repo.
 
 It is **read-only** over the catalog: the build script only *reads*
 `Competitors/`, `00_Market_Overview/`, and `_context/`, and writes everything
-under `web/public/` + `web/generated/` (both gitignored, rebuilt on every deploy).
+under `public/` + `generated/` (both gitignored, rebuilt on every deploy).
 Nothing in the source catalog or the `tools/` pipeline changes.
 
 ## How an agent uses it (token-efficient flow)
@@ -48,19 +48,18 @@ contract without re-architecting.
 ## Local build
 
 ```bash
-cd web
 npm install
 npm run build          # runs scripts/build-kb.ts → public/ + generated/
 ```
 
 ## Deploy to Vercel (one-time)
 
-You do this part — the build can't create the Vercel project for you:
+The app lives at the **repo root** — there is no subdirectory to select.
 
 1. Vercel → **Add New Project** → import this repo.
-2. **Root Directory** = `web`.
+2. Leave **Root Directory** as the default (`./`).
 3. Framework preset = **Other**. Build command, output dir, and function
-   `includeFiles` are already set in `web/vercel.json` — leave them.
+   `includeFiles` are already set in `vercel.json` — leave them.
 4. No environment variables required.
 5. Deploy. Pick an unlisted project name (e.g. `uswmcomp`) → URL like
    `uswmcomp.vercel.app`. `robots.txt` + `X-Robots-Tag: noindex` keep it

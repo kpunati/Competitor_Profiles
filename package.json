@@ -9,7 +9,8 @@
     "extract": "tsx tools/extract.ts",
     "analyze": "tsx tools/analyze.ts",
     "synthesize": "tsx tools/synthesize.ts",
-    "setup": "playwright install chromium"
+    "setup": "playwright install chromium",
+    "build": "tsx scripts/build-kb.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.40.0",
@@ -17,13 +18,16 @@
     "@types/jsdom": "^28.0.3",
     "@types/pdf-parse": "^1.1.5",
     "@types/turndown": "^5.0.6",
+    "gray-matter": "^4.0.3",
     "jsdom": "^29.1.1",
+    "minisearch": "^7.1.0",
     "pdf-parse": "^2.4.5",
     "playwright": "^1.49.0",
     "turndown": "^7.2.4"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",
+    "@vercel/node": "^5.0.0",
     "tsx": "^4.19.0",
     "typescript": "^5.7.0"
   }

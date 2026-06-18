@@ -1,6 +1,0 @@
-# Generated at build time (Vercel rebuilds on every push) — never commit.
-node_modules/
-public/
-generated/
-.vercel/
-*.tsbuildinfo
