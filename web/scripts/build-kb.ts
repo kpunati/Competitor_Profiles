@@ -362,6 +362,7 @@ async function main() {
   await writeFile(path.join(GENERATED, 'search-index.json'), JSON.stringify(mini));
   await writeFile(path.join(PUBLIC, 'robots.txt'), 'User-agent: *\nDisallow: /\n');
   await writeFile(path.join(PUBLIC, 'llms.txt'), buildLlmsTxt(digest, allSections.length));
+  await writeFile(path.join(PUBLIC, 'index.html'), buildIndexHtml(digest, allSections.length));
 
   console.log(
     `KB built: ${digest.length} firms · ${allSections.length} sections · ` +
@@ -406,6 +407,118 @@ sections · ${firmsWithCorpus} firms with a blog/article corpus.
   voice, thesis, taxonomy — read before drafting USWM-voiced content).
 - 'caveat' on a row/hit flags a known data-quality issue for that firm — heed it.
 - Numbers (AUM etc.) come from the catalog; do not invent values not present here.
+`;
+}
+
+function esc(s: string): string {
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// Root landing page. The thing a person pastes into Claude. It is BOTH the
+// human view and the agent entry point: the full digest is inlined so a single
+// fetch answers "what's in here?", and the query flow + drill-in URLs are
+// documented with relative links Claude can follow.
+function buildIndexHtml(digest: DigestRow[], sectionCount: number): string {
+  const threatRank: Record<string, number> = {
+    high: 0,
+    'medium-high': 1,
+    medium: 2,
+    'medium-low': 3,
+    low: 4,
+  };
+  const rows = [...digest].sort(
+    (a, b) =>
+      (threatRank[a.threat ?? ''] ?? 9) - (threatRank[b.threat ?? ''] ?? 9) ||
+      a.name.localeCompare(b.name)
+  );
+  const firmsWithCorpus = digest.filter((d) => d.hasCorpus).length;
+  const fmtAum = (n: number | null) =>
+    n == null ? '—' : '$' + (n / 1e9).toFixed(2) + 'B';
+
+  const cards = rows
+    .map((d) => {
+      const tags = [d.type, d.jurisdiction, d.hasCorpus ? `${d.postCount} posts` : null]
+        .filter(Boolean)
+        .map((t) => `<span class="tag">${esc(String(t))}</span>`)
+        .join('');
+      const caveat = d.caveat
+        ? `<p class="caveat">⚠ ${esc(d.caveat)}</p>`
+        : '';
+      const corpus = d.hasCorpus
+        ? ` · <a href="raw/Competitors/${d.slug}/Knowledge_From_Source/_index.json">blog corpus</a>`
+        : '';
+      return `<article id="${d.slug}">
+  <h3>${esc(d.name)} <span class="threat t-${esc((d.threat ?? '').replace(/[^a-z-]/g, ''))}">${esc(d.threat ?? '?')}</span></h3>
+  <div class="tags">${tags}<span class="tag aum">${fmtAum(d.aum)} AUM</span></div>
+  <p>${esc(d.summary_line)}</p>
+  ${caveat}
+  <p class="links"><a href="raw/Competitors/${d.slug}/1_Summary.md">summary.md</a> ·
+     <a href="raw/Competitors/${d.slug}/2_Full_Profile.md">full profile.md</a> ·
+     <a href="raw/Competitors/${d.slug}/metadata.json">metadata.json</a>${corpus}</p>
+</article>`;
+    })
+    .join('\n');
+
+  return `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>USWM Competitor Knowledge Base</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font: 16px/1.55 -apple-system, system-ui, sans-serif; max-width: 860px; margin: 0 auto; padding: 1.5rem; }
+  h1 { margin-bottom: .2rem; }
+  .sub { color: #888; margin-top: 0; }
+  .note { background: #f4f4f6; border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.1rem; }
+  @media (prefers-color-scheme: dark) { .note { background: #1a1a1d; border-color: #333; } }
+  code { background: rgba(127,127,127,.18); padding: .1rem .35rem; border-radius: 4px; }
+  article { border-top: 1px solid #ddd; padding: .9rem 0; }
+  @media (prefers-color-scheme: dark) { article { border-color: #333; } }
+  article h3 { margin: 0 0 .35rem; font-size: 1.05rem; }
+  .tags { margin-bottom: .4rem; }
+  .tag { font-size: .72rem; background: rgba(127,127,127,.15); border-radius: 20px; padding: .12rem .55rem; margin-right: .3rem; }
+  .tag.aum { font-variant-numeric: tabular-nums; }
+  .threat { font-size: .68rem; font-weight: 600; padding: .1rem .45rem; border-radius: 4px; vertical-align: middle; }
+  .t-high { background: #fde2e1; color: #b42318; } .t-mediumhigh { background: #fdecd2; color: #b54708; }
+  .t-medium { background: #fef7c3; color: #854a0e; } .t-low, .t-mediumlow { background: #dcfae6; color: #067647; }
+  .links a, article p a { font-size: .85rem; }
+  .caveat { font-size: .85rem; color: #b54708; }
+  .links { color: #888; }
+</style>
+</head>
+<body>
+<h1>USWM Competitor Knowledge Base</h1>
+<p class="sub">${digest.length} firms · ${sectionCount} addressable sections · ${firmsWithCorpus} with a blog corpus</p>
+
+<div class="note">
+<strong>If you're an AI assistant reading this page:</strong> this is competitor
+research for United Success Wealth Management (USWM). The full firm list with
+one-line summaries is below — enough to answer "what's here" directly. To go
+deeper, fetch (relative to this URL):
+<ul>
+  <li><code>digest.json</code> — machine-readable version of the list below.</li>
+  <li><code>api/search?q=&lt;terms&gt;&amp;k=5</code> — keyword search; returns ranked
+      sections with a snippet and a <code>sectionPath</code> to fetch.</li>
+  <li>a hit's <code>sectionPath</code> (e.g. <code>sections/&lt;firm&gt;/&lt;doc&gt;/&lt;anchor&gt;.md</code>)
+      — the single relevant section, the smallest useful fetch.</li>
+  <li><code>raw/Competitors/&lt;Firm&gt;/2_Full_Profile.md</code> — a full source file.</li>
+  <li><code>api/firms?threat=high&amp;jurisdiction=US&amp;has_corpus=true</code> — filtered list.</li>
+  <li><code>llms.txt</code> — the full machine manifest.</li>
+</ul>
+Heed any <code>caveat</code> field — it flags a known data-quality issue. Do not
+invent figures (AUM, headcounts) not present here.
+</div>
+
+<h2>Firms</h2>
+${cards}
+</body>
+</html>
 `;
 }
 
