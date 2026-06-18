@@ -9,6 +9,7 @@
     "extract": "tsx tools/extract.ts",
     "analyze": "tsx tools/analyze.ts",
     "synthesize": "tsx tools/synthesize.ts",
+    "build:web": "tsx tools/build-web.ts",
     "setup": "playwright install chromium"
   },
   "dependencies": {

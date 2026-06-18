@@ -7,6 +7,10 @@ dist/
 .cache/
 *.tsbuildinfo
 
+# Generated static site (built by tools/build-web.ts; Vercel rebuilds on deploy)
+web/
+.vercel/
+
 # Environment
 .env
 .env.local
