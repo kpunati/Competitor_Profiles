@@ -1,0 +1,28 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "tsx scripts/build-kb.ts",
+  "outputDirectory": "public",
+  "functions": {
+    "api/*.ts": {
+      "includeFiles": "generated/**"
+    }
+  },
+  "headers": [
+    {
+      "source": "/(digest|index).json",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=300, s-maxage=86400, stale-while-revalidate=604800" }]
+    },
+    {
+      "source": "/sections/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400, s-maxage=604800, immutable" }]
+    },
+    {
+      "source": "/raw/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400, s-maxage=604800" }]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }]
+    }
+  ]
+}
