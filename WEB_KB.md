@@ -10,25 +10,25 @@ It is **read-only** over the catalog: the build script only *reads*
 under `public/` + `generated/` (both gitignored, rebuilt on every deploy).
 Nothing in the source catalog or the `tools/` pipeline changes.
 
-## How an agent uses it (token-efficient flow)
+## How an agent uses it (token-efficient flow) — fully static, no API
 
 1. `GET /digest.json` — read **once**: a slim row per firm (slug, summary_line,
    type, threat, aum, jurisdiction, hasCorpus, postCount, sections, caveat).
-   Many questions resolve here with zero search.
-2. `GET /api/search?q=<terms>&k=5` — **locate**: ranked section hits with a
-   snippet + anchor + `sectionPath`. Read snippets, pick one.
-3. `GET <sectionPath>` — **fetch** only that section's markdown (smallest unit).
+   Many questions resolve here directly.
+2. `GET /index.json` — **locate**: the full section map
+   (`{firm,doc,heading,anchor,path,words,caveat}`). Filter it locally by firm,
+   doc, or heading to find the one section you need.
+3. `GET <path>` — **fetch** only that section's markdown (smallest unit).
 
-≈ under ~1K tokens per question vs. thousands to read whole files.
+≈ under ~1K tokens per question vs. thousands to read whole files. No search
+service to call — locating is a local filter over `/index.json`.
 
 ## Endpoints
 
 | Endpoint | Kind | Purpose |
 |---|---|---|
 | `/digest.json` | static | slim catalog, one-read overview |
-| `/index.json` | static | full section map `{firm,doc,heading,anchor,path,words,caveat}` |
-| `/api/search?q=&k=` | function | BM25 keyword search over sections → ranked hits |
-| `/api/firms?type=&threat=&jurisdiction=&has_corpus=&q=` | function | structured catalog filter |
+| `/index.json` | static | full section map `{firm,doc,heading,anchor,path,words,caveat}` — filter locally to locate a section |
 | `/sections/<firm>/<doc>/<anchor>.md` | static | one self-contained section |
 | `/raw/<repo-path>` | static | verbatim source files |
 | `/llms.txt` | static | agent onboarding manifest |
@@ -37,13 +37,15 @@ Nothing in the source catalog or the `tools/` pipeline changes.
 market-overview / `_context` doc name. Firms `_market_overview` and `_context`
 hold the cross-cutting and USWM-brand docs.
 
-## Search
+## Locating content (no search service)
 
-BM25 (MiniSearch) over **sections** (not whole files), field-boosted
-firmName > heading > tags > body. Zero infra, no API key, no per-query cost;
-ample headroom at 48 → 100+ firms. The build emits clean per-section text, so a
-semantic/hybrid re-rank can be added later behind the same `/api/search`
-contract without re-architecting.
+There is no search API — locating is a **local filter over `/index.json`**, which
+lists every section with its `firm`, `doc`, `heading`, `anchor`, and `path`. An
+agent reads `/index.json` once and filters in-context by firm, document, or
+heading to pick the section(s) to fetch. This keeps the whole KB static (no
+functions, no cold starts, no per-query cost) and scales fine from 48 to 100+
+firms. If keyword ranking is ever wanted later, it can be added without changing
+the static contract.
 
 ## Local build
 

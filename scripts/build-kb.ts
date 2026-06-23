@@ -377,25 +377,21 @@ This site serves competitor research for United Success Wealth Management (USWM)
 in a token-efficient, agent-first shape. ${digest.length} firms · ${sectionCount} addressable
 sections · ${firmsWithCorpus} firms with a blog/article corpus.
 
-## Recommended query flow (minimize tokens)
+## Recommended query flow (minimize tokens) — fully static, no API needed
 1. GET /digest.json ............ read ONCE: slim row per firm (slug, summary_line,
    type, threat, aum, jurisdiction, hasCorpus, postCount, sections, caveat).
-   Many questions resolve from this alone — no search needed.
-2. GET /api/search?q=<terms>&k=5 .. locate: ranked section hits with snippet +
-   anchor + sectionPath. Read snippets, pick the one section you need.
-3. GET <sectionPath> .......... fetch ONLY that section's markdown (smallest unit).
+   Many questions resolve from this alone.
+2. GET /index.json ............. locate: full section map
+   ({firm,doc,heading,anchor,path,words,caveat}). Filter it locally by firm, doc,
+   or heading to find the one section you need — no search service required.
+3. GET <path> ................. fetch ONLY that section's markdown (smallest unit).
 
-## Endpoints
-- /digest.json        (static) slim catalog, ~one read covers "what exists".
-- /index.json         (static) full section map: {firm,doc,heading,anchor,path,words,caveat}.
-- /api/search?q=&k=   (dynamic) keyword (BM25) search over sections. Returns
-                      {query,count,hits:[{score,firm,firmName,doc,heading,anchor,
-                      sectionPath,rawPath,snippet,caveat,words}]}. k defaults to 8.
-- /api/firms?type=&threat=&jurisdiction=&has_corpus=&q=  (dynamic) structured
-                      filter over the catalog; returns slim rows. Cheaper than
-                      reading /digest.json when you only need a slice.
-- /sections/<firm>/<doc>/<anchor>.md   (static) one section, self-contained.
-- /raw/<repo-path>    (static) verbatim source files (e.g.
+## Endpoints (all static files)
+- /digest.json        slim catalog, ~one read covers "what exists".
+- /index.json         full section map: {firm,doc,heading,anchor,path,words,caveat}.
+                      Filter locally to locate a section, then fetch its path.
+- /sections/<firm>/<doc>/<anchor>.md   one section, self-contained.
+- /raw/<repo-path>    verbatim source files (e.g.
                       /raw/Competitors/<Firm>/2_Full_Profile.md). Relative links
                       inside raw files map onto /raw/Competitors/<Firm>/<file>.
 
@@ -474,6 +470,14 @@ function buildIndexHtml(digest: DigestRow[], sectionCount: number): string {
   body { font: 16px/1.55 -apple-system, system-ui, sans-serif; max-width: 860px; margin: 0 auto; padding: 1.5rem; }
   h1 { margin-bottom: .2rem; }
   .sub { color: #888; margin-top: 0; }
+  .agent-banner { background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(99, 102, 241, 0.1)); border: 2px solid #3b82f6; border-radius: 8px; padding: 1.2rem 1.3rem; margin-bottom: 1.5rem; }
+  @media (prefers-color-scheme: dark) { .agent-banner { background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(99, 102, 241, 0.15)); border-color: #6366f1; } }
+  .agent-banner strong { color: #3b82f6; }
+  @media (prefers-color-scheme: dark) { .agent-banner strong { color: #a5b4fc; } }
+  .agent-banner code { background: rgba(59, 130, 246, 0.2); }
+  @media (prefers-color-scheme: dark) { .agent-banner code { background: rgba(99, 102, 241, 0.3); } }
+  .agent-banner a { color: #3b82f6; font-weight: 600; text-decoration: none; }
+  @media (prefers-color-scheme: dark) { .agent-banner a { color: #a5b4fc; } }
   .note { background: #f4f4f6; border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.1rem; }
   @media (prefers-color-scheme: dark) { .note { background: #1a1a1d; border-color: #333; } }
   code { background: rgba(127,127,127,.18); padding: .1rem .35rem; border-radius: 4px; }
@@ -495,20 +499,23 @@ function buildIndexHtml(digest: DigestRow[], sectionCount: number): string {
 <h1>USWM Competitor Knowledge Base</h1>
 <p class="sub">${digest.length} firms · ${sectionCount} addressable sections · ${firmsWithCorpus} with a blog corpus</p>
 
+<div class="agent-banner">
+<strong>🤖 AI agents:</strong> start by reading <a href="llms.txt"><code>llms.txt</code></a> (this page's machine manifest — static file map + conventions). Then fetch <code>digest.json</code> to see what's here.
+</div>
+
 <div class="note">
 <strong>If you're an AI assistant reading this page:</strong> this is competitor
 research for United Success Wealth Management (USWM). The full firm list with
 one-line summaries is below — enough to answer "what's here" directly. To go
 deeper, fetch (relative to this URL):
 <ul>
+  <li><code>llms.txt</code> — the full machine manifest (static file map + conventions).</li>
   <li><code>digest.json</code> — machine-readable version of the list below.</li>
-  <li><code>api/search?q=&lt;terms&gt;&amp;k=5</code> — keyword search; returns ranked
-      sections with a snippet and a <code>sectionPath</code> to fetch.</li>
-  <li>a hit's <code>sectionPath</code> (e.g. <code>sections/&lt;firm&gt;/&lt;doc&gt;/&lt;anchor&gt;.md</code>)
+  <li><code>index.json</code> — full section map; filter it locally to locate the
+      one section you need, then fetch its <code>path</code>.</li>
+  <li>a section's <code>path</code> (e.g. <code>sections/&lt;firm&gt;/&lt;doc&gt;/&lt;anchor&gt;.md</code>)
       — the single relevant section, the smallest useful fetch.</li>
   <li><code>raw/Competitors/&lt;Firm&gt;/2_Full_Profile.md</code> — a full source file.</li>
-  <li><code>api/firms?threat=high&amp;jurisdiction=US&amp;has_corpus=true</code> — filtered list.</li>
-  <li><code>llms.txt</code> — the full machine manifest.</li>
 </ul>
 Heed any <code>caveat</code> field — it flags a known data-quality issue. Do not
 invent figures (AUM, headcounts) not present here.
