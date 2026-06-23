@@ -30,6 +30,10 @@ export ANTHROPIC_API_KEY=sk-ant-...   # only needed for analyze.ts
 
 ## Adding a competitor
 
+**Fastest path**: in Claude Code, use the `/add-competitor` slash command (defined in `.claude/commands/add-competitor.md`). It runs the full pipeline below, drafts the profile, mirrors the summary, and runs synthesize — all in one operation. The slash command is the canonical interface for catalog growth.
+
+**Manual pipeline** (for partial steps, debugging, or when not in Claude Code):
+
 ```bash
 npx tsx tools/add.ts --url https://example.com
 # or with explicit name (better for firms where domain ≠ brand name):
@@ -38,7 +42,7 @@ npx tsx tools/add.ts --url https://example.com --name "Example Wealth"
 npx tsx tools/add.ts --url https://example.com --skip-analyze
 ```
 
-This creates `Competitors/Example/`, captures the site into `Source_Data/` + `Screenshots/`, runs the IAPD lookup, pulls + parses the Form ADV PDF if matched. Profile markdown is then written interactively in a Claude Code session (using the existing 48 profiles as style references).
+This creates `Competitors/Example/`, captures the site into `Source_Data/` + `Screenshots/`, runs the IAPD lookup, pulls + parses the Form ADV PDF if matched. Profile markdown is then written interactively in a Claude Code session (using the existing 48 profiles as style references). The step-by-step write workflow is documented in `CLAUDE.md`'s "Adding a competitor recipe" section.
 
 ## Re-running pieces
 

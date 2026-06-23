@@ -40,6 +40,18 @@ Claude writes a draft. Read it, edit it, copy it into wherever you need it (emai
 
 **Want more prompts and a deeper walkthrough?** Open [`ONBOARDING.md`](ONBOARDING.md) — same flow, more examples, troubleshooting tips.
 
+### Slash commands (for repeat workflows)
+
+Once Claude Code is launched in this folder, five slash commands are available — see `.claude/commands/`:
+
+- `/draft-section <kind>` — drafts a USWM section (contact, services, about, pricing, FAQ, blog) using brand voice + retrieved catalog examples
+- `/find-similar <criteria>` — surfaces the catalog firms most similar to a given description or to USWM
+- `/borrow-pattern <theme>` — finds the strongest catalog example of a positioning, copy, or structural pattern
+- `/brand-review <draft>` — reviews a draft against the brand voice files, flagging avoid-list words and missing convictions
+- `/add-competitor <url>` — runs the full add-a-firm pipeline (extract → enrich → write profile → mirror → synthesize)
+
+Type `/` in Claude Code to see them in the menu.
+
 ---
 
 **Already comfortable with the catalog?** Jump straight to **`00_Market_Overview/Executive_Briefing.md`** for the headline findings, or **`00_Market_Overview/competitor_catalog.csv`** (Notion-importable) for structured metadata across all 48 firms.

@@ -10,10 +10,45 @@ Competitor research catalog for **United Success Wealth Management (USWM)** — 
 
 Used to (a) understand the competitive landscape and (b) draft USWM-facing material — contact pages, services copy, blog posts, FAQs — grounded in what works in the catalog and voiced as USWM.
 
+## Modes of use
+
+This repo supports two ongoing workflows. Both are first-class — neither is subordinated to the other.
+
+### A. Querying + drafting (the daily mode)
+
+Use when the user wants to ask the catalog questions or produce USWM-facing material (contact pages, services copy, blog posts, FAQs, brand-voiced rewrites, competitive intel).
+
+Available slash commands:
+
+- `/draft-section <kind>` — drafts a USWM section (contact, services, about, pricing, FAQ, blog) using brand voice + retrieved catalog examples
+- `/find-similar <criteria>` — surfaces catalog firms most similar to a given description or to USWM itself
+- `/borrow-pattern <theme>` — finds the strongest catalog example of a positioning / copy / structural pattern
+- `/brand-review <draft>` — reviews a draft against `brand_voice.md` + `brand_what_not_to_make.md`, flagging avoid-list words + missing convictions + missing credentials
+
+### B. Catalog growth + maintenance (the scaling mode)
+
+Use when the user wants to add a new competitor, refresh a stale profile, or regenerate auto-outputs after data changes. **This mode is fully preserved alongside the drafting mode** — the catalog is expected to keep growing as new candidates surface.
+
+Available slash command:
+
+- `/add-competitor <url> [--name "Firm Name"]` — runs the full pipeline (`tools/add.ts` → IAPD enrich → ADV-PDF parse → drafts metadata + summary + profile stub → mirrors to `Summaries/` → runs `tools/synthesize.ts`)
+
+Manual pipeline (when running partial steps, debugging, or for the canonical reference) is in `tools/README.md`. Standard sequence:
+
+1. `npx tsx tools/add.ts --url <url> --name "<name>" --skip-analyze`
+2. Verify IAPD match (retry with the legal entity name if no hits — common mismatches: Money Guy → "Abound Wealth Management"; Burney → "Burney Company"; Stash Wealth → matches as expected)
+3. Write `Competitors/<Slug>/metadata.json` using the tag vocabulary in `_context/taxonomy.md`
+4. Write `1_Summary.md` matching existing profile structure (`Competitors/Brindle_And_Bay/1_Summary.md` is a good reference)
+5. Write `2_Full_Profile.md` (stub if not expanding)
+6. `cp Competitors/<Slug>/1_Summary.md Summaries/summary_<Slug>/1_Summary.md`
+7. `npx tsx tools/synthesize.ts` — auto-refreshes the AUTO block in this CLAUDE.md, `competitor_catalog.{csv,json}`, `Head_to_Head_Matrix.md`, and the page index
+
+The catalog-growth guardrails are documented in "What NOT to do" below — they apply in both modes.
+
 ## Catalog state
 
 <!-- AUTO:catalog-stats -->
-*As of 2026-06-17* — 48 competitors profiled · 18 firms with `Knowledge_From_Source/` corpora (~297 blog posts captured) · 155 site pages indexed in `00_Market_Overview/pages_by_kind.json`.
+*As of 2026-06-23* — 48 competitors profiled · 18 firms with `Knowledge_From_Source/` corpora (~297 blog posts captured) · 155 site pages indexed in `00_Market_Overview/pages_by_kind.json`.
 
 **Jurisdictions:** US:42 · none:3 · UK:1 · CA:1 · EU:1
 
@@ -106,9 +141,14 @@ Skip the brand files and outputs sound like every other RIA.
 | A competitor's captured site pages | `Competitors/<Firm>/Source_Data/pages/*.json` (home, about, contact, services, pricing, blog index) |
 | All captured pages by kind across the catalog | `00_Market_Overview/pages_by_kind.json` (e.g., every contact page, every services page) |
 | Cross-cutting matrix | `00_Market_Overview/Head_to_Head_Matrix.md` |
+| Strategic synthesis — where USWM should play | `00_Market_Overview/Where_We_Should_Play.md` |
+| Competitive landscape — cluster map of the 48 firms | `00_Market_Overview/Competitive_Landscape.md` |
+| Market patterns — table stakes, differentiators, whitespace | `00_Market_Overview/What_The_Market_Looks_Like.md` |
+| Two-page exec summary for busy readers | `00_Market_Overview/Executive_Briefing.md` |
 | Our positioning context | `_context/our_thesis.md` |
 | Wealth-management category background | `_context/industry_frame.md` |
 | Controlled vocabulary (valid tag values, threat-level rubric, jurisdiction conventions) | `_context/taxonomy.md` |
+| Borrowable tactical patterns (curated extract for drafting) | `_context/patterns_to_borrow.md` |
 
 ## How to answer common question patterns
 
@@ -117,6 +157,70 @@ Skip the brand files and outputs sound like every other RIA.
 - **"How do firms handle <page kind>?"** → read `00_Market_Overview/pages_by_kind.json` to enumerate; then read individual page JSON files.
 - **"Who's most similar to USWM?"** → walk `Summaries/summary_*/1_Summary.md` (fastest mirror), filter against USWM's **durable identity** (offerings + voice + spec — see `_context/brand_voice.md` and `_context/our_thesis.md`): fee-only fiduciary · active investment management (trend-following + options overlay + rules-based + risk-first) · tax-integrated (EA + NATP credentials, real tax work) · three convictions as operating philosophy · NJ-anchored. Size, headcount, AUM are current state but not the filter — USWM is growth-ambitious, so the right comparison is **methodology and voice**, not team size.
 - **Drafting in USWM voice** → start by reading `_context/brand_voice.md` + `_context/brand_what_not_to_make.md`. Then read 3-5 relevant competitor pages. Then write. Cite which competitor pages you drew from at the end.
+
+## Drafting recipes
+
+The most common drafting tasks have explicit step-sequences. Each prefers the slash command but works manually.
+
+### Draft a USWM section (contact / services / about / pricing / FAQ)
+
+Prefer `/draft-section <kind>`. Manual flow:
+
+1. Read `_context/brand_voice.md` + `_context/brand_what_not_to_make.md` (mandatory — every draft starts here)
+2. Find 3-5 examples of the requested page kind in `00_Market_Overview/pages_by_kind.json`
+3. Read each example's captured page JSON at `Competitors/<Firm>/Source_Data/pages/<kind>.json`
+4. Read `00_Market_Overview/Where_We_Should_Play.md` for USWM's positioning relevant to that section
+5. Draft in USWM voice: credentials when naming the team (Kean MS Finance CFA / Beata EA NATP), Chatham NJ where location-relevance helps, gold-italic emphasis on standout phrases, explicit citation of competitor patterns at the end
+
+### Draft a USWM blog post
+
+Prefer `/draft-section blog --topic "<topic>"`. Manual flow:
+
+1. Read both brand voice files
+2. Find 2-3 thematically relevant posts across `Competitors/*/Knowledge_From_Source/` corpora — use `00_Market_Overview/pages_by_kind.json` → `blog_post` to enumerate
+3. Identify USWM's angle of difference vs. the example posts
+4. Draft ~600-900 words. End with a CTA that varies from the standard "Schedule a Consultation" wording (per `_context/brand_voice.md` content rules)
+5. Cite which posts informed the angle
+
+### Find catalog firms similar to a description
+
+Prefer `/find-similar <criteria>`. Manual flow:
+
+1. Read `_context/our_thesis.md` if matching against USWM, otherwise use the user's criteria
+2. Read `00_Market_Overview/competitor_catalog.json` for structured fields (tags, size, segment, jurisdiction)
+3. Walk `Summaries/summary_*/1_Summary.md` (fastest mirror) for narrative match
+4. Rank by overlap on size + segment + jurisdiction + tags
+5. Return a table: firm · AUM · primary positioning · why-similar
+
+### Review a draft against the brand voice
+
+Prefer `/brand-review <draft>`. Manual flow:
+
+1. Read `_context/brand_voice.md` + `_context/brand_what_not_to_make.md`
+2. Scan the draft for avoid-list words ("comprehensive", "holistic", "your trusted partner", "world-class", "leverage" as verb, etc.)
+3. Check that the three convictions appear where relevant ("trend is your friend" / "risk first, returns second" / "we'll tell you if not a fit")
+4. Verify credentials are accurate (MS Finance, CFA / EA, NATP)
+5. Propose inline rewrites with the brand-rule citation for each flag
+
+### Pull a competitor quote on a topic
+
+1. If the firm has a Knowledge_From_Source corpus (see the AUTO block above for which firms), read its `_index.json` first to find topical matches
+2. Read the matching `.md` files
+3. Quote verbatim with attribution to the file path
+4. If no corpus exists, fall back to that firm's `2_Full_Profile.md` or `1_Summary.md`
+
+## Adding a competitor recipe
+
+For catalog growth, follow the 7-step manual sequence in "Modes of use → B" above, or use `/add-competitor <url>`. Discipline points:
+
+- **Use the tag vocabulary in `_context/taxonomy.md`** — don't invent ad-hoc tags. The controlled vocabulary is what makes cross-cutting queries work.
+- **If IAPD returns no hits, retry with the legal entity name** (not the brand name). Common mismatches: Money Guy → "Abound Wealth Management"; The Peak FP → "Peak Financial Planning"; Burney → "Burney Company"; Brindle & Bay → "Brindle & Bay Financial Advisors LLC".
+- **Threat-level scoring** uses the four-axis rubric in `_context/taxonomy.md`: Reach × Segment overlap × Momentum × Capital backing, summed and banded.
+- **Mirror `1_Summary.md` to `Summaries/`** — `tools/synthesize.ts` does NOT do this; the mirror is referenced by the "Who's most similar to USWM" pattern.
+- **Always end with `npx tsx tools/synthesize.ts`** — refreshes the AUTO block in this file, `competitor_catalog.{csv,json}`, `Head_to_Head_Matrix.md`, and `pages_by_kind.json`.
+- **For content-led firms**, optionally run `npx tsx tools/scrape-knowledge.ts --slug <Slug> --limit 30` after the profile is written. Known limitation: SPA-rendered blog indexes return 0 posts; non-SPA sites (like Abundo Wealth) work.
+
+`tools/README.md` has the deeper pipeline reference — per-script flags, known issues (e.g., the `pickBestMatch` IAPD false-positive cases), and the refresh cadence convention.
 
 ## Output conventions
 
