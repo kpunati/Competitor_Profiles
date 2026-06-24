@@ -8,6 +8,7 @@
  *   public/digest.json      slim one-row-per-firm catalog (read once, route from it)
  *   public/index.json       section map: every addressable section across the KB
  *   public/llms.txt         agent onboarding manifest (base URL, query patterns, schemas)
+ *   public/brief.md         strategy synthesis + thesis, inlined for link-averse fetchers
  *   public/robots.txt       noindex (public-but-unlisted posture)
  *   public/sections/...     one markdown file per section (smallest fetch unit)
  *   public/raw/...          verbatim source files at stable URLs
@@ -35,6 +36,24 @@ const GENERATED = path.join(REPO_ROOT, 'generated');
 const COMPETITORS = path.join(REPO_ROOT, 'Competitors');
 const MARKET = path.join(REPO_ROOT, '00_Market_Overview');
 const CONTEXT = path.join(REPO_ROOT, '_context');
+
+// Canonical base URL for the agent-facing manifests. Agent fetchers frequently
+// won't resolve or follow relative links discovered in page content, so every
+// URL we emit in llms.txt / index.json / index.html must be ABSOLUTE.
+// Priority: explicit KB_BASE_URL > Vercel production domain > '' (relative fallback).
+const BASE_URL = (
+  process.env.KB_BASE_URL ||
+  (process.env.VERCEL_PROJECT_PRODUCTION_URL
+    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+    : '')
+).replace(/\/+$/, '');
+
+// Turn a root-relative path ("/sections/...") into an absolute URL when a base
+// URL is configured; otherwise leave it relative (local dev / unconfigured build).
+function abs(p: string): string {
+  if (!BASE_URL) return p;
+  return p.startsWith('/') ? `${BASE_URL}${p}` : `${BASE_URL}/${p}`;
+}
 
 // ---------- helpers ----------
 
@@ -353,7 +372,14 @@ async function main() {
   );
 
   // ----- write artifacts -----
-  const sectionMap: SectionMeta[] = allSections.map((s) => s.meta);
+  // index.json carries ABSOLUTE section/raw URLs so an agent can fetch a located
+  // section directly. The on-disk section files were already written from the
+  // relative meta.path above; only the emitted manifest is rewritten to absolute.
+  const sectionMap: SectionMeta[] = allSections.map((s) => ({
+    ...s.meta,
+    path: abs(s.meta.path),
+    rawPath: abs(s.meta.rawPath),
+  }));
 
   await writeFile(path.join(PUBLIC, 'digest.json'), JSON.stringify(digest));
   await writeFile(path.join(PUBLIC, 'index.json'), JSON.stringify(sectionMap));
@@ -361,6 +387,7 @@ async function main() {
   await writeFile(path.join(GENERATED, 'search-index.json'), JSON.stringify(mini));
   await writeFile(path.join(PUBLIC, 'robots.txt'), 'User-agent: *\nDisallow: /\n');
   await writeFile(path.join(PUBLIC, 'llms.txt'), buildLlmsTxt(digest, allSections.length));
+  await writeFile(path.join(PUBLIC, 'brief.md'), await buildBrief());
   await writeFile(path.join(PUBLIC, 'index.html'), buildIndexHtml(digest, allSections.length));
 
   console.log(
@@ -371,29 +398,48 @@ async function main() {
 
 function buildLlmsTxt(digest: DigestRow[], sectionCount: number): string {
   const firmsWithCorpus = digest.filter((d) => d.hasCorpus).length;
+  const baseNote = BASE_URL
+    ? BASE_URL
+    : '(relative paths — set KB_BASE_URL or deploy on Vercel to emit absolute URLs)';
   return `# USWM Competitor Knowledge Base — agent manifest
 
 This site serves competitor research for United Success Wealth Management (USWM)
 in a token-efficient, agent-first shape. ${digest.length} firms · ${sectionCount} addressable
 sections · ${firmsWithCorpus} firms with a blog/article corpus.
 
-## Recommended query flow (minimize tokens) — fully static, no API needed
-1. GET /digest.json ............ read ONCE: slim row per firm (slug, summary_line,
-   type, threat, aum, jurisdiction, hasCorpus, postCount, sections, caveat).
-   Many questions resolve from this alone.
-2. GET /index.json ............. locate: full section map
-   ({firm,doc,heading,anchor,path,words,caveat}). Filter it locally by firm, doc,
-   or heading to find the one section you need — no search service required.
-3. GET <path> ................. fetch ONLY that section's markdown (smallest unit).
+Base URL: ${baseNote}
+Every path below is an absolute URL so it can be fetched directly. Agent fetchers
+often refuse to resolve or follow relative links found inside page content.
 
-## Endpoints (all static files)
-- /digest.json        slim catalog, ~one read covers "what exists".
-- /index.json         full section map: {firm,doc,heading,anchor,path,words,caveat}.
-                      Filter locally to locate a section, then fetch its path.
-- /sections/<firm>/<doc>/<anchor>.md   one section, self-contained.
-- /raw/<repo-path>    verbatim source files (e.g.
-                      /raw/Competitors/<Firm>/2_Full_Profile.md). Relative links
-                      inside raw files map onto /raw/Competitors/<Firm>/<file>.
+## Can't follow links? Read ONE file.
+If your tools only fetch URLs handed to you directly (not links discovered inside
+a page), fetch this single inlined file — it contains the strategy synthesis and
+USWM positioning thesis, enough to answer gaps / openings / positioning questions:
+  ${abs('/brief.md')}
+
+## Recommended query flow (minimize tokens) — fully static, no API needed
+1. GET ${abs('/digest.json')}
+   read ONCE: slim row per firm (slug, summary_line, type, threat, aum,
+   jurisdiction, hasCorpus, postCount, sections, caveat). Many questions
+   resolve from this alone.
+2. GET ${abs('/index.json')}
+   locate: full section map ({firm,doc,heading,anchor,path,words,caveat}). Each
+   row's path and rawPath are absolute URLs. Filter locally by firm, doc, or
+   heading to find the one section you need — no search service required.
+3. GET <the path from step 2>
+   fetch ONLY that section's markdown (smallest unit).
+
+## Endpoints (all static files, absolute URLs)
+- ${abs('/digest.json')}
+    slim catalog, ~one read covers "what exists".
+- ${abs('/index.json')}
+    full section map; each row's path and rawPath are absolute.
+- ${abs('/brief.md')}
+    strategy synthesis + positioning thesis, inlined in one file.
+- ${abs('/sections/<firm>/<doc>/<anchor>.md')}
+    one section, self-contained.
+- ${abs('/raw/<repo-path>')}
+    verbatim source files (e.g. ${abs('/raw/Competitors/<Firm>/2_Full_Profile.md')}).
 
 ## Conventions
 - doc values: "1_Summary", "2_Full_Profile", "knowledge/<basename>" (blog posts),
@@ -403,6 +449,40 @@ sections · ${firmsWithCorpus} firms with a blog/article corpus.
 - 'caveat' on a row/hit flags a known data-quality issue for that firm — heed it.
 - Numbers (AUM etc.) come from the catalog; do not invent values not present here.
 `;
+}
+
+// A single inlined bundle of the strategy synthesis + positioning thesis. An
+// agent whose fetcher won't follow in-page links can read this ONE file and
+// still answer gaps / openings / positioning questions. Scoped to the synthesis
+// layer on purpose — inlining all 48 profiles would be megabytes.
+async function buildBrief(): Promise<string> {
+  const docs = [
+    { title: 'Executive Briefing', dir: MARKET, file: 'Executive_Briefing.md', rel: '00_Market_Overview/Executive_Briefing.md' },
+    { title: 'Where We Should Play', dir: MARKET, file: 'Where_We_Should_Play.md', rel: '00_Market_Overview/Where_We_Should_Play.md' },
+    { title: 'What The Market Looks Like', dir: MARKET, file: 'What_The_Market_Looks_Like.md', rel: '00_Market_Overview/What_The_Market_Looks_Like.md' },
+    { title: 'Competitive Landscape', dir: MARKET, file: 'Competitive_Landscape.md', rel: '00_Market_Overview/Competitive_Landscape.md' },
+    { title: 'Our Thesis', dir: CONTEXT, file: 'our_thesis.md', rel: '_context/our_thesis.md' },
+  ];
+  const present: typeof docs = [];
+  for (const d of docs) if (await exists(path.join(d.dir, d.file))) present.push(d);
+
+  const out: string[] = [
+    '# USWM Strategy Brief — inlined bundle',
+    '',
+    "This file inlines the catalog's strategy synthesis and USWM positioning thesis " +
+      'so an agent that cannot follow in-page links can read everything in one fetch. ' +
+      'Each section notes its verbatim source file.',
+    '',
+    '## Contents',
+    present.map((d) => `- ${d.title}`).join('\n'),
+    '',
+  ];
+  for (const d of present) {
+    const raw = await fs.readFile(path.join(d.dir, d.file), 'utf8');
+    const { content } = matter(raw);
+    out.push('---', '', `> Source: ${abs('/raw/' + d.rel)}`, '', content.trim(), '');
+  }
+  return out.join('\n') + '\n';
 }
 
 function esc(s: string): string {
@@ -444,16 +524,16 @@ function buildIndexHtml(digest: DigestRow[], sectionCount: number): string {
         ? `<p class="caveat">⚠ ${esc(d.caveat)}</p>`
         : '';
       const corpus = d.hasCorpus
-        ? ` · <a href="raw/Competitors/${d.slug}/Knowledge_From_Source/_index.json">blog corpus</a>`
+        ? ` · <a href="${abs(`/raw/Competitors/${d.slug}/Knowledge_From_Source/_index.json`)}">blog corpus</a>`
         : '';
       return `<article id="${d.slug}">
   <h3>${esc(d.name)} <span class="threat t-${esc((d.threat ?? '').replace(/[^a-z-]/g, ''))}">${esc(d.threat ?? '?')}</span></h3>
   <div class="tags">${tags}<span class="tag aum">${fmtAum(d.aum)} AUM</span></div>
   <p>${esc(d.summary_line)}</p>
   ${caveat}
-  <p class="links"><a href="raw/Competitors/${d.slug}/1_Summary.md">summary.md</a> ·
-     <a href="raw/Competitors/${d.slug}/2_Full_Profile.md">full profile.md</a> ·
-     <a href="raw/Competitors/${d.slug}/metadata.json">metadata.json</a>${corpus}</p>
+  <p class="links"><a href="${abs(`/raw/Competitors/${d.slug}/1_Summary.md`)}">summary.md</a> ·
+     <a href="${abs(`/raw/Competitors/${d.slug}/2_Full_Profile.md`)}">full profile.md</a> ·
+     <a href="${abs(`/raw/Competitors/${d.slug}/metadata.json`)}">metadata.json</a>${corpus}</p>
 </article>`;
     })
     .join('\n');
@@ -500,7 +580,7 @@ function buildIndexHtml(digest: DigestRow[], sectionCount: number): string {
 <p class="sub">${digest.length} firms · ${sectionCount} addressable sections · ${firmsWithCorpus} with a blog corpus</p>
 
 <div class="agent-banner">
-<strong>🤖 AI agents:</strong> start by reading <a href="llms.txt"><code>llms.txt</code></a> (this page's machine manifest — static file map + conventions). Then fetch <code>digest.json</code> to see what's here.
+<strong>🤖 AI agents:</strong> start with <a href="${abs('/llms.txt')}"><code>${abs('/llms.txt')}</code></a> (machine manifest — static file map + conventions), then <code>${abs('/digest.json')}</code> to see what's here. Can't follow links? Fetch <a href="${abs('/brief.md')}"><code>${abs('/brief.md')}</code></a> — the strategy brief inlined in one file.
 </div>
 
 <div class="note">
@@ -509,13 +589,13 @@ research for United Success Wealth Management (USWM). The full firm list with
 one-line summaries is below — enough to answer "what's here" directly. To go
 deeper, fetch (relative to this URL):
 <ul>
-  <li><code>llms.txt</code> — the full machine manifest (static file map + conventions).</li>
-  <li><code>digest.json</code> — machine-readable version of the list below.</li>
-  <li><code>index.json</code> — full section map; filter it locally to locate the
-      one section you need, then fetch its <code>path</code>.</li>
-  <li>a section's <code>path</code> (e.g. <code>sections/&lt;firm&gt;/&lt;doc&gt;/&lt;anchor&gt;.md</code>)
-      — the single relevant section, the smallest useful fetch.</li>
-  <li><code>raw/Competitors/&lt;Firm&gt;/2_Full_Profile.md</code> — a full source file.</li>
+  <li><code>${abs('/llms.txt')}</code> — the full machine manifest (static file map + conventions).</li>
+  <li><code>${abs('/digest.json')}</code> — machine-readable version of the list below.</li>
+  <li><code>${abs('/index.json')}</code> — full section map; filter locally to locate the
+      one section you need, then fetch its absolute <code>path</code>.</li>
+  <li><code>${abs('/brief.md')}</code> — strategy synthesis + thesis inlined in one file
+      (use this if your fetcher won't follow links).</li>
+  <li><code>${abs('/raw/Competitors/')}&lt;Firm&gt;/2_Full_Profile.md</code> — a full source file.</li>
 </ul>
 Heed any <code>caveat</code> field — it flags a known data-quality issue. Do not
 invent figures (AUM, headcounts) not present here.
