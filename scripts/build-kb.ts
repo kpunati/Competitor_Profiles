@@ -9,6 +9,7 @@
  *   public/index.json       section map: every addressable section across the KB
  *   public/llms.txt         agent onboarding manifest (base URL, query patterns, schemas)
  *   public/brief.md         strategy synthesis + thesis, inlined for link-averse fetchers
+ *   public/firms/<slug>.md  one page per firm: its docs + blog posts as listed links
  *   public/robots.txt       noindex (public-but-unlisted posture)
  *   public/sections/...     one markdown file per section (smallest fetch unit)
  *   public/raw/...          verbatim source files at stable URLs
@@ -246,6 +247,11 @@ async function main() {
 
   const allSections: Section[] = [];
   const digest: DigestRow[] = [];
+  // per-firm blog-post links (for the firm pages) + the doc lists enumerated in
+  // llms.txt and the landing page, so the entry points list real links to follow.
+  const firmPosts = new Map<string, { title: string; date: string | null; rawPath: string }[]>();
+  const marketDocs: string[] = [];
+  const contextDocs: string[] = [];
 
   // ----- competitor firms -----
   for (const entry of catalog) {
@@ -281,13 +287,21 @@ async function main() {
     if (await exists(kIndexPath)) {
       hasCorpus = true;
       await copyRaw(kIndexPath, `Competitors/${firm}/Knowledge_From_Source/_index.json`);
-      const idx = await readJson<{ posts?: { file: string }[] }>(kIndexPath);
+      const idx = await readJson<{
+        posts?: { file: string; title?: string; date?: string }[];
+      }>(kIndexPath);
       const posts = idx?.posts ?? [];
       postCount = posts.length;
+      const postLinks: { title: string; date: string | null; rawPath: string }[] = [];
       for (const post of posts) {
         const abs = path.join(firmDir, 'Knowledge_From_Source', post.file);
         if (!(await exists(abs))) continue;
         const base = post.file.replace(/\.md$/, '');
+        postLinks.push({
+          title: post.title || base,
+          date: post.date ?? null,
+          rawPath: `/raw/Competitors/${firm}/Knowledge_From_Source/${post.file}`,
+        });
         const secs = await processMarkdownFile({
           absPath: abs,
           repoRelPath: `Competitors/${firm}/Knowledge_From_Source/${post.file}`,
@@ -299,6 +313,7 @@ async function main() {
         allSections.push(...secs);
         firmSections += secs.length;
       }
+      firmPosts.set(firm, postLinks);
     }
 
     digest.push({
@@ -321,6 +336,7 @@ async function main() {
   if (await exists(MARKET)) {
     for (const file of await fs.readdir(MARKET)) {
       if (!file.endsWith('.md')) continue;
+      marketDocs.push(file);
       const doc = file.replace(/\.md$/, '');
       const secs = await processMarkdownFile({
         absPath: path.join(MARKET, file),
@@ -338,6 +354,7 @@ async function main() {
   if (await exists(CONTEXT)) {
     for (const file of await fs.readdir(CONTEXT)) {
       if (!file.endsWith('.md')) continue;
+      contextDocs.push(file);
       const doc = file.replace(/\.md$/, '');
       const secs = await processMarkdownFile({
         absPath: path.join(CONTEXT, file),
@@ -386,9 +403,25 @@ async function main() {
   await writeFile(path.join(GENERATED, 'digest.json'), JSON.stringify(digest));
   await writeFile(path.join(GENERATED, 'search-index.json'), JSON.stringify(mini));
   await writeFile(path.join(PUBLIC, 'robots.txt'), 'User-agent: *\nDisallow: /\n');
-  await writeFile(path.join(PUBLIC, 'llms.txt'), buildLlmsTxt(digest, allSections.length));
+  // one page per firm: lists that firm's docs + blog posts as absolute links,
+  // so an agent drills down by following listed links (mirrors the topic pages
+  // in the YouTube KB) rather than fetching and filtering index.json.
+  for (const row of digest) {
+    await writeFile(
+      path.join(PUBLIC, 'firms', `${row.slug}.md`),
+      buildFirmPage(row, firmPosts.get(row.slug) ?? [])
+    );
+  }
+
+  await writeFile(
+    path.join(PUBLIC, 'llms.txt'),
+    buildLlmsTxt(digest, allSections.length, marketDocs, contextDocs)
+  );
   await writeFile(path.join(PUBLIC, 'brief.md'), await buildBrief());
-  await writeFile(path.join(PUBLIC, 'index.html'), buildIndexHtml(digest, allSections.length));
+  await writeFile(
+    path.join(PUBLIC, 'index.html'),
+    buildIndexHtml(digest, allSections.length, marketDocs, contextDocs)
+  );
 
   console.log(
     `KB built: ${digest.length} firms · ${allSections.length} sections · ` +
@@ -396,11 +429,30 @@ async function main() {
   );
 }
 
-function buildLlmsTxt(digest: DigestRow[], sectionCount: number): string {
+function buildLlmsTxt(
+  digest: DigestRow[],
+  sectionCount: number,
+  marketDocs: string[],
+  contextDocs: string[]
+): string {
   const firmsWithCorpus = digest.filter((d) => d.hasCorpus).length;
   const baseNote = BASE_URL
     ? BASE_URL
     : '(relative paths — set KB_BASE_URL or deploy on Vercel to emit absolute URLs)';
+  const pretty = (f: string) => f.replace(/\.md$/, '').replace(/_/g, ' ');
+  const strategyList = marketDocs
+    .map((f) => `- ${pretty(f)} — ${abs('/raw/00_Market_Overview/' + f)}`)
+    .join('\n');
+  const contextList = contextDocs
+    .map((f) => `- ${pretty(f)} — ${abs('/raw/_context/' + f)}`)
+    .join('\n');
+  const firmList = [...digest]
+    .sort((a, b) => a.name.localeCompare(b.name))
+    .map(
+      (d) =>
+        `- ${d.name}${d.threat ? ` [${d.threat}]` : ''}${d.hasCorpus ? ` · ${d.postCount} post${d.postCount === 1 ? '' : 's'}` : ''} — ${abs('/firms/' + d.slug + '.md')}`
+    )
+    .join('\n');
   return `# USWM Competitor Knowledge Base — agent manifest
 
 This site serves competitor research for United Success Wealth Management (USWM)
@@ -440,6 +492,15 @@ USWM positioning thesis, enough to answer gaps / openings / positioning question
     one section, self-contained.
 - ${abs('/raw/<repo-path>')}
     verbatim source files (e.g. ${abs('/raw/Competitors/<Firm>/2_Full_Profile.md')}).
+
+## Strategy & market overview (gaps / openings / positioning)
+${strategyList}
+
+## USWM brand & context (read before drafting USWM-voiced content)
+${contextList}
+
+## Firms (${digest.length}) — each page lists that firm's docs + blog posts
+${firmList}
 
 ## Conventions
 - doc values: "1_Summary", "2_Full_Profile", "knowledge/<basename>" (blog posts),
@@ -485,6 +546,42 @@ async function buildBrief(): Promise<string> {
   return out.join('\n') + '\n';
 }
 
+// One page per firm: header facts + absolute links to its docs and every blog
+// post, so an agent drills down by following listed links (the analog of the
+// YouTube KB's topic/channel pages) instead of filtering index.json.
+function buildFirmPage(
+  row: DigestRow,
+  posts: { title: string; date: string | null; rawPath: string }[]
+): string {
+  const facts = [
+    row.type ? `Type: ${row.type}` : null,
+    row.threat ? `Threat: ${row.threat}` : null,
+    row.aum != null ? `AUM: $${(row.aum / 1e9).toFixed(2)}B` : null,
+    row.jurisdiction ? `Jurisdiction: ${row.jurisdiction}` : null,
+  ]
+    .filter(Boolean)
+    .join(' · ');
+  const out: string[] = [`# ${row.name}`];
+  if (facts) out.push('', facts);
+  if (row.summary_line) out.push('', row.summary_line);
+  if (row.caveat) out.push('', `> ⚠ ${row.caveat}`);
+  out.push(
+    '',
+    '## Documents',
+    `- Summary — ${abs(`/raw/Competitors/${row.slug}/1_Summary.md`)}`,
+    `- Full profile — ${abs(`/raw/Competitors/${row.slug}/2_Full_Profile.md`)}`,
+    `- Metadata (JSON) — ${abs(`/raw/Competitors/${row.slug}/metadata.json`)}`
+  );
+  if (posts.length) {
+    out.push('', `## Blog corpus (${posts.length} post${posts.length === 1 ? '' : 's'})`);
+    for (const p of posts) {
+      out.push(`- ${p.title}${p.date ? ` (${p.date})` : ''} — ${abs(p.rawPath)}`);
+    }
+  }
+  out.push('');
+  return out.join('\n');
+}
+
 function esc(s: string): string {
   return s
     .replace(/&/g, '&amp;')
@@ -497,7 +594,21 @@ function esc(s: string): string {
 // human view and the agent entry point: the full digest is inlined so a single
 // fetch answers "what's in here?", and the query flow + drill-in URLs are
 // documented with relative links Claude can follow.
-function buildIndexHtml(digest: DigestRow[], sectionCount: number): string {
+function buildIndexHtml(
+  digest: DigestRow[],
+  sectionCount: number,
+  marketDocs: string[],
+  contextDocs: string[]
+): string {
+  const prettyDoc = (f: string) => f.replace(/\.md$/, '').replace(/_/g, ' ');
+  const docLinks = (label: string, dir: string, files: string[]) =>
+    files.length
+      ? `<p class="links"><strong>${label}:</strong> ` +
+        files
+          .map((f) => `<a href="${abs(`/raw/${dir}/${f}`)}">${esc(prettyDoc(f))}</a>`)
+          .join(' · ') +
+        '</p>'
+      : '';
   const threatRank: Record<string, number> = {
     high: 0,
     'medium-high': 1,
@@ -516,7 +627,7 @@ function buildIndexHtml(digest: DigestRow[], sectionCount: number): string {
 
   const cards = rows
     .map((d) => {
-      const tags = [d.type, d.jurisdiction, d.hasCorpus ? `${d.postCount} posts` : null]
+      const tags = [d.type, d.jurisdiction, d.hasCorpus ? `${d.postCount} post${d.postCount === 1 ? '' : 's'}` : null]
         .filter(Boolean)
         .map((t) => `<span class="tag">${esc(String(t))}</span>`)
         .join('');
@@ -531,7 +642,8 @@ function buildIndexHtml(digest: DigestRow[], sectionCount: number): string {
   <div class="tags">${tags}<span class="tag aum">${fmtAum(d.aum)} AUM</span></div>
   <p>${esc(d.summary_line)}</p>
   ${caveat}
-  <p class="links"><a href="${abs(`/raw/Competitors/${d.slug}/1_Summary.md`)}">summary.md</a> ·
+  <p class="links"><a href="${abs(`/firms/${d.slug}.md`)}">firm page</a> ·
+     <a href="${abs(`/raw/Competitors/${d.slug}/1_Summary.md`)}">summary.md</a> ·
      <a href="${abs(`/raw/Competitors/${d.slug}/2_Full_Profile.md`)}">full profile.md</a> ·
      <a href="${abs(`/raw/Competitors/${d.slug}/metadata.json`)}">metadata.json</a>${corpus}</p>
 </article>`;
@@ -600,6 +712,10 @@ deeper, fetch (relative to this URL):
 Heed any <code>caveat</code> field — it flags a known data-quality issue. Do not
 invent figures (AUM, headcounts) not present here.
 </div>
+
+<h2>Strategy &amp; USWM context</h2>
+${docLinks('Strategy &amp; market overview', '00_Market_Overview', marketDocs)}
+${docLinks('USWM brand &amp; context', '_context', contextDocs)}
 
 <h2>Firms</h2>
 ${cards}
